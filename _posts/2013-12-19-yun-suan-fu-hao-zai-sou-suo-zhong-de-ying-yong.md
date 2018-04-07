@@ -1,8 +1,13 @@
 ---
+ID: 9
 post_title: 加减乘除，搜索引擎大用处
-post_name: yun-suan-fu-hao-zai-sou-suo-zhong-de-ying-yong
+post_name: >
+  yun-suan-fu-hao-zai-sou-suo-zhong-de-ying-yong
+author: banpie
 post_date: 2013-12-19 00:21:14
 layout: post
+link: >
+  https://www.banpie.info/2013/12/19/yun-suan-fu-hao-zai-sou-suo-zhong-de-ying-yong/
 published: true
 tags: [ ]
 categories:
