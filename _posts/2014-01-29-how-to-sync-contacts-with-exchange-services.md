@@ -1,10 +1,14 @@
 ---
-
-post_title: 如何用Exchange同步电脑和手机的联系人
-post_name: how-to-sync-contacts-with-exchange-services
+ID: 41
+post_title: >
+  如何用Exchange同步电脑和手机的联系人
+post_name: >
+  how-to-sync-contacts-with-exchange-services
+author: banpie
 post_date: 2014-01-29 21:35:38
 layout: post
-
+link: >
+  https://www.banpie.info/2014/01/29/how-to-sync-contacts-with-exchange-services/
 published: true
 tags: [ ]
 categories:
