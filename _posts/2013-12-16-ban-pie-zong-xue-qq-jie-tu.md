@@ -1,8 +1,12 @@
 ---
+ID: 4
 post_title: 如何利用QQ截图进行远程协作
 post_name: ban-pie-zong-xue-qq-jie-tu
+author: banpie
 post_date: 2013-12-16 09:15:43
 layout: post
+link: >
+  https://www.banpie.info/2013/12/16/ban-pie-zong-xue-qq-jie-tu/
 published: true
 tags: [ ]
 categories:
