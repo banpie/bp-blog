@@ -1,8 +1,12 @@
 ---
+ID: 17
 post_title: 如何在浏览器内搜索最省时
 post_name: time-saving-chrome-search-tricks
+author: banpie
 post_date: 2014-01-06 22:10:35
 layout: post
+link: >
+  https://www.banpie.info/2014/01/06/time-saving-chrome-search-tricks/
 published: true
 tags: [ ]
 categories:
