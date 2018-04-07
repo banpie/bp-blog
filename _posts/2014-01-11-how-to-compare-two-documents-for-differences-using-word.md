@@ -1,9 +1,13 @@
 ---
-
+ID: 24
 post_title: 如何用Word进行文档内容比较
-post_name: how-to-compare-two-documents-for-differences-using-word
+post_name: >
+  how-to-compare-two-documents-for-differences-using-word
+author: banpie
 post_date: 2014-01-11 00:40:35
 layout: post
+link: >
+  https://www.banpie.info/2014/01/11/how-to-compare-two-documents-for-differences-using-word/
 published: true
 tags: [ ]
 categories:
