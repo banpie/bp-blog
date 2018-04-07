@@ -1,8 +1,12 @@
 ---
+ID: 25
 post_title: 如何不倒腾就能加密各种文件
 post_name: the-most-efficient-way-to-encrypt-files
+author: banpie
 post_date: 2014-01-13 15:07:02
 layout: post
+link: >
+  https://www.banpie.info/2014/01/13/the-most-efficient-way-to-encrypt-files/
 published: true
 tags: [ ]
 categories:
