@@ -1,8 +1,12 @@
 ---
+ID: 14
 post_title: 网页图片不能保存怎么办？
 post_name: how-to-save-pics-from-webpage
+author: banpie
 post_date: 2014-01-01 10:10:38
 layout: post
+link: >
+  https://www.banpie.info/2014/01/01/how-to-save-pics-from-webpage/
 published: true
 tags:
   - Chrome
