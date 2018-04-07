@@ -1,11 +1,13 @@
 ---
-
-post_title: 如何利用修改Hosts文件高速使用Google服务
+ID: 6
+post_title: >
+  如何利用修改Hosts文件高速使用Google服务
 post_name: shou-ba-shou-jiao-ni-gao-su-shang-google
-
+author: banpie
 post_date: 2013-12-17 22:27:16
 layout: post
-
+link: >
+  https://www.banpie.info/2013/12/17/shou-ba-shou-jiao-ni-gao-su-shang-google/
 published: true
 tags: [ ]
 categories:
