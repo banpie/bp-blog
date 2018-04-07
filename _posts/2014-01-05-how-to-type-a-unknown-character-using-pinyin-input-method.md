@@ -1,9 +1,14 @@
 ---
-
-post_title: 如何用拼音输入法打出你不认识的字
-post_name: how-to-type-a-unknown-character-using-pinyin-input-method
+ID: 16
+post_title: >
+  如何用拼音输入法打出你不认识的字
+post_name: >
+  how-to-type-a-unknown-character-using-pinyin-input-method
+author: banpie
 post_date: 2014-01-05 23:09:31
 layout: post
+link: >
+  https://www.banpie.info/2014/01/05/how-to-type-a-unknown-character-using-pinyin-input-method/
 published: true
 tags: [ ]
 categories:
