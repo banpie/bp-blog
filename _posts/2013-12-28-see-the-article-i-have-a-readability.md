@@ -1,8 +1,13 @@
 ---
-post_title: Readability：快速优化网页阅读体验
+ID: 13
+post_title: >
+  Readability：快速优化网页阅读体验
 post_name: see-the-article-i-have-a-readability
+author: banpie
 post_date: 2013-12-28 12:52:38
 layout: post
+link: >
+  https://www.banpie.info/2013/12/28/see-the-article-i-have-a-readability/
 published: true
 tags:
   - Chrome
