@@ -1,8 +1,13 @@
 ---
-post_title: 如何用微信快速备份还原通讯录
+ID: 15
+post_title: >
+  如何用微信快速备份还原通讯录
 post_name: how-to-backup-contacts-via-wechat-2
+author: banpie
 post_date: 2014-01-03 23:57:52
 layout: post
+link: >
+  https://www.banpie.info/2014/01/03/how-to-backup-contacts-via-wechat-2/
 published: true
 tags:
   - 微信
