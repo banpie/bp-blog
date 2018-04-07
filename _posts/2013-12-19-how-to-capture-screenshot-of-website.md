@@ -1,9 +1,13 @@
 ---
-post_title: 如何利用AwesomeScreenshot进行全屏截图
+ID: 8
+post_title: >
+  如何利用AwesomeScreenshot进行全屏截图
 post_name: how-to-capture-screenshot-of-website
+author: banpie
 post_date: 2013-12-19 21:44:38
 layout: post
-
+link: >
+  https://www.banpie.info/2013/12/19/how-to-capture-screenshot-of-website/
 published: true
 tags:
   - Chrome
