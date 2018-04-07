@@ -1,8 +1,13 @@
 ---
+ID: 23
 post_title: 如何利用HelloSign实现电子签名
-post_name: how-to-hellosign-to-implement-electronic-signatures
+post_name: >
+  how-to-hellosign-to-implement-electronic-signatures
+author: banpie
 post_date: 2014-01-08 18:21:37
 layout: post
+link: >
+  https://www.banpie.info/2014/01/08/how-to-hellosign-to-implement-electronic-signatures/
 published: true
 tags: [ ]
 categories:
