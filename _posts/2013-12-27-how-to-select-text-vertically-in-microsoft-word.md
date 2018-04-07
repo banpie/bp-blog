@@ -1,8 +1,14 @@
 ---
-post_title: 如何在Word中“竖着”选中文本？
-post_name: how-to-select-text-vertically-in-microsoft-word
+ID: 12
+post_title: >
+  如何在Word中“竖着”选中文本？
+post_name: >
+  how-to-select-text-vertically-in-microsoft-word
+author: banpie
 post_date: 2013-12-27 23:21:48
 layout: post
+link: >
+  https://www.banpie.info/2013/12/27/how-to-select-text-vertically-in-microsoft-word/
 published: true
 tags: [ ]
 categories:
