@@ -1,11 +1,14 @@
 ---
-
-post_title: 阅后即焚：“一次性”的电子邮箱
-post_name: yue-hou-ji-fen-yi-ci-xing-de-dian-zi-you-xiang
-
+ID: 7
+post_title: >
+  阅后即焚：“一次性”的电子邮箱
+post_name: >
+  yue-hou-ji-fen-yi-ci-xing-de-dian-zi-you-xiang
+author: banpie
 post_date: 2013-12-18 22:23:10
 layout: post
-
+link: >
+  https://www.banpie.info/2013/12/18/yue-hou-ji-fen-yi-ci-xing-de-dian-zi-you-xiang/
 published: true
 tags: [ ]
 categories:
