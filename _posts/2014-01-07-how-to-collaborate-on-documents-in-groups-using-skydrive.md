@@ -1,8 +1,14 @@
 ---
-post_title: 如何用Skydrive进行多人协同文档编辑
-post_name: how-to-collaborate-on-documents-in-groups-using-skydrive
+ID: 18
+post_title: >
+  如何用Skydrive进行多人协同文档编辑
+post_name: >
+  how-to-collaborate-on-documents-in-groups-using-skydrive
+author: banpie
 post_date: 2014-01-07 22:06:48
 layout: post
+link: >
+  https://www.banpie.info/2014/01/07/how-to-collaborate-on-documents-in-groups-using-skydrive/
 published: true
 tags: [ ]
 categories:
