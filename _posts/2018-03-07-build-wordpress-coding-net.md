@@ -1,6 +1,6 @@
 ---
-title: 纯技术小白如何利用Coding Pages搭建免费WordPress站点
-date: 2018-03-07
+post_title: 纯技术小白如何利用Coding Pages搭建免费WordPress站点
+post_date: 2018-03-07
 permalink: build-wordpress-coding-net
 categories: 职场
 published: true
