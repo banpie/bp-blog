@@ -1,12 +1,12 @@
 ---
 ID: 214
 post_title: TED 学霸指南
-post_name: learning-everything-online-2
+post_name: learning-everything-online
 author: banpie
 post_date: 2016-06-10 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/learning-everything-online-2/
+  http://www.xgclass.cn/learning-everything-online/
 published: true
 tags:
   - 教育
