@@ -6,7 +6,7 @@ author: banpie
 post_date: 2016-03-01 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/what-is-design-thinking-2/
+  http://www.xgclass.cn/what-is-design-thinking/
 published: true
 tags: [ ]
 categories:
