@@ -1,16 +1,9 @@
 ---
-ID: 5
-post_title: "如何翻墙：使用Shadowsocks搭建一条自由的梯"
-post_name: "shadowsocks-pac-gfw"
-author: banpie
-post_date: 2018-11-17 21:39:27
-layout: post
-link: http://www.xgmba.com/shadowsocks-pac-gfw
-published: true
-tags: [VPN]
-categories:
-  - 工具
+post_title: 如何翻墙：使用Shadowsock搭建一条自由的梯子
+post_date: 2017-03-20
+post_name: shadowsocks-pac-gfw
 ---
+
 在国内使用Google 并不是一件非常容易的事情，虽然说目前还有部分的VPN，比如蓝灯，我们可以比较顺利地进行科学上网，打开新世界的大门，但是商用的VPN总会出现各种问题。
 
 1. **速度慢**：大部分提供VPN服务的公司通常是买了很多台国外的服务器，然后让几个用户一起共享其中的某一台服务器。
