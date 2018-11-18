@@ -5,7 +5,7 @@ post_title: >
   创业营销微课堂：如何构建品牌识别
 post_name: create-brand-identity
 author: banpie
-post_date: 2018-11-18 23:03:24
+post_date: 2016-05-25 23:03:24
 layout: post
 link: >
   http://www.xgclass.cn/create-brand-identity/
