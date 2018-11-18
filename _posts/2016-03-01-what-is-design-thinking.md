@@ -1,7 +1,7 @@
 ---
 ID: 199
 post_title: 设计思维是什么
-post_name: what-is-design-thinking-2
+post_name: what-is-design-thinking
 author: banpie
 post_date: 2016-03-01 00:00:00
 layout: post
