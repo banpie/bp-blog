@@ -2,12 +2,12 @@
 ID: 476
 post_title: >
   如何快速提升封面图片的设计感
-post_name: wechat-cover-design-3
+post_name: wechat-cover-design
 author: banpie
 post_date: 2016-12-29 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/wechat-cover-design-3/
+  http://www.xgclass.cn/wechat-cover-design/
 published: true
 tags:
   - 封面设计
