@@ -33,7 +33,7 @@ categories:
 
 此类工具统称「对话生成器」，搜索出来的工具很多，但是免费的目前推荐`http://we.wwei.cn/`，进入网站后，点击`微信对话生成器`即可。
 
-![img][1]
+<img class="alignnone size-full wp-image-553" src="http://www.xgclass.cn/wp-content/uploads/2018/11/4ffce04d92a4d6cb21c1494cdfcd6dc1.jpg" width="1080" height="583" alt="img" />
 
 ## 2\. 修改群外观
 
@@ -43,17 +43,17 @@ categories:
 *   **群聊模式**：如果需要「被众人顶礼膜拜」，勾选`群聊`模式，如果塑造「知心动人」的形象，勾选`私聊`模式。
 *   **电量百分比**：50%也太巧了吧？改71%。（做贼心虚都这样）
 
-![img][2]
+![img][1]
 
 ## 3\. 填写用户视角的好评文案
 
 在群聊的模式中，既然是很多人给好评，那么当然要增加尽可能多的用户视角的评价。
 
-![img][2]
+![img][1]
 
 对了，不要忘记中间差一条**时间分割线**，目的就是为了刻画出每一天都有人好评的细节。
 
-![img][2]
+![img][1]
 
 ## 4\. 填写主角的友好回复
 
@@ -61,32 +61,30 @@ categories:
 
 > 客气了，对大家有所帮助就好。
 
-![img][2]
+![img][1]
 
 对了，如果是女生老师，不要忘记加上笑脸。
 
 > 客气了，对大家有所帮助就好。😊。
 
-![img][2]
+![img][1]
 
 ## 塑造极致的真实感
 
 似乎到这里就差不多了？其实最重要的绝招还没有到。为了创造出「极致的真实感」和出于对「用户隐私的保护」，有必要调整一下人物的头像。
 
-![img][2]
+![img][1]
 
 更重要的是！**给人物头像上一层马赛克**。
 
-![img][2]
+![img][1]
 
 不对……老师的部分还是保留。就像这样：
 
-![img][3]
+<img class="alignnone size-full wp-image-554" src="http://www.xgclass.cn/wp-content/uploads/2018/11/4ffce04d92a4d6cb21c1494cdfcd6dc1-1.jpg" width="646" height="1134" alt="img" />
 
 哈哈哈，一篇搞笑的工具文，不结尾了。
 
 > 本文只讨论技术实现，禁止进行道德层面的讨论。
 
- [1]: https://mmbiz.qpic.cn/mmbiz_jpg/z3T1vlHdIX8P5B5eCZC2NgVuia1f2qfk2OibF9STJJKQe7sY94iblPYkYTSia9hLPhLkX2vic1YAPENENS97TcwrE5g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1
- [2]: image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==
- [3]: https://mmbiz.qpic.cn/mmbiz_jpg/z3T1vlHdIX8P5B5eCZC2NgVuia1f2qfk2Z8sm2UdHibic7e9snpemorU3gQN13abNpId4AunyTKmPIXn5vdeg2QaQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1
+ [1]: image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==
