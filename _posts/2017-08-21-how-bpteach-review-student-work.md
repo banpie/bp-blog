@@ -68,7 +68,7 @@ Open BPteach 计划在未来逐步公开以下内容：
 
 比如，学员在故事结构的课程中关于「Ask」理解错误，我们的审阅内容如下：
 
-![][4]
+<img class="alignnone size-full wp-image-593" src="http://www.xgclass.cn/wp-content/uploads/2018/11/28142543.jpg" width="1280" height="204" alt="" />
 
 > Required。Ask 可以理解为“挑战来临的经典事件”，是 To do or not to do 的关键决定时刻：接受还是不接受？做还是不做呢？如果是爱情故事，是男女主相遇（要不要追呢？）；如果是警匪片，警察接受到总局的卧底命令（接不接受这个任务呢？）；如果是战争片，基地突然被袭（该不该反击呢？）。你在这里放置的「超过1200万个微信号中，我是否能够成为受到关注的那一个？」属于「Hook」悬念而非「Ask」挑战。你需要回顾课时12的视频内容、重新完成测试2的题目，然后再重新提交一次审阅。
 
@@ -78,7 +78,7 @@ Open BPteach 计划在未来逐步公开以下内容：
 
 比如还是以故事结构「Ask」的知识点为例子，针对`Awesome`的项目问题类型，除了对应的审阅内容以外，我们提供具体的行动指南如下：
 
-![][5]
+<img class="alignnone size-full wp-image-594" src="http://www.xgclass.cn/wp-content/uploads/2018/11/73232360.jpg" width="1280" height="193" alt="" />
 
 > Awesome！Ask 可以理解为“挑战来临的经典事件”，是 To do or not to do 的关键决定时刻：接受还是不接受？做还是不做呢？对于你来说，你的「产后抑郁」正是这样一个「十字路口」的情节点。你对于 Ask 的理解已经非常好了，并且情节和情节后扣题都能够用许多细节来支持， 另外，奇葩大会蔡聪的《盲人不是只能按摩和算命》也是一个非常完美的故事结构，你可以在通过故事中的「Ask」体会那种左右不定，又不得不前进的情绪。
 
@@ -97,11 +97,9 @@ Open BPteach 计划在未来逐步公开以下内容：
 
 当然，关于在线教育如何提高教学效果还是一个漫长的过程，我们的项目审阅工作流也仅仅是半撇私塾自己的探索，其中还有非常多优化的地方，如果你也有好的建议和经验，欢迎通过留言或者评论和我们分享！
 
-> 最后，如果你认可我们的工作方式，也刚好是即将毕业的大学生，你可以免费申请加入我们的「[全栈教育挑战生计划][6]」。
+> 最后，如果你认可我们的工作方式，也刚好是即将毕业的大学生，你可以免费申请加入我们的「[全栈教育挑战生计划][4]」。
 
  [1]: http://www.bpteach.com/blog/new-media-content-production-workflow
  [2]: https://trello.com/b/Cadm1bLB
  [3]: http://www.bpteach.com/blog/tools-we-use-at-bpteach
- [4]: http://cdn.bpteach.com/17-8-21/28142543.jpg
- [5]: http://cdn.bpteach.com/17-8-21/73232360.jpg
- [6]: http://www.bpteach.com/join-us
+ [4]: http://www.bpteach.com/join-us
