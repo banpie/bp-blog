@@ -16,36 +16,30 @@ categories:
 
 温馨提示：如果你想在 PowerPoint 中运用这种效果，可以在 Word 中编辑好复制后，以图片的形式黏贴到幻灯片文稿中；或者，直接手动输入拼音，再手动加上四个声调对应的线条就行。
 
-![][1]
+<img class="alignnone size-full wp-image-671" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-2.png" width="620" height="348" alt="" />
 
 ## 1、准备汉字
 
 在你需要编辑的 Word 文档里先打好要加拼音的文字，如：半撇有道儿。
 
-![][2]
+<img class="alignnone size-full wp-image-672" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-3.jpg" width="720" height="427" alt="" />
 
 ## 2、开始编辑
 
 选中汉字 -> 点击“开始”选项卡 -> 点击“文”字样的按钮（Word 2007 以下的朋友请点击“格式”-> “中文版式”-> “拼音指南”）。
 
-![][3]
+<img class="alignnone size-full wp-image-673" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-4.jpg" width="720" height="503" alt="" />
 
 ## 3、编辑拼音
 
 在弹出的窗口中就会看到默认拼音了，可以编辑拼音，还可以选单字和组合，以及拼音的大小等，设置好后点击“确定”就可以了。
 
-![][4]
+<img class="alignnone size-full wp-image-674" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-5.jpg" width="568" height="409" alt="" />
 
 ## 4、大功告成
 
 确定后就变成下面的样子。如果在整篇文章里，是不是略叼呢？！领导都夸你善解人意，是个不折不扣的文化人噢！
 
-![][5]
+<img class="alignnone size-full wp-image-675" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-6.jpg" width="900" height="500" alt="" />
 
 如果你的软件无法自动识别拼音的音节，很可能是你没有安装微软的拼音输入法（默认都是有的），装一个就ok了。
-
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicCzQoPzJ4KdWqY4Ih3VhI5XSGLaQpHwYqMMXzTQkLWkib4vUibeMjUY9LXlzgkNiciaPEgD1cJ0RWTbg/0
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicCzQoPzJ4KdWqY4Ih3VhI5jj1NfctZp9BKGSjdU8wdRqHgQrhZrqYCq4eZr8KUap9iakvnPQasP8g/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicCzQoPzJ4KdWqY4Ih3VhI5hsW8bkd2Du6MZgMklFjPmib2GEFUL3V7LpHCJJCoFM8lsFCUWhCq7gw/0
- [4]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicCzQoPzJ4KdWqY4Ih3VhI5vF3K7lY9LbegibRYM9gmD4l5ic2B5BuxSVzv2OsgFKgtDk5JMtdLbXaQ/0
- [5]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicCzQoPzJ4KdWqY4Ih3VhI5MsYCTgicPOF588eyUW5FiceFpHCovmZzUSFF1nlL6PXZc7k5iacKr6ibKQ/0
