@@ -3,7 +3,7 @@ ID: 320
 post_title: '如何利用Zapier自动化你90%的重复性工作'
 post_name: how-to-use-zapier-to-aumomate-your-work
 author: banpie
-post_date: 2018-11-18 23:30:37
+post_date: 2018-03-09 23:30:37
 layout: post
 link: >
   http://www.xgclass.cn/how-to-use-zapier-to-aumomate-your-work/
@@ -52,4 +52,4 @@ Zapier 还有非常多你意想不到的用处，光是在线教育的场景可�
 
 这样的营销流程在国内的工具中几乎是无法实现的，但是如果使用Zapier，事情就会变得简单许多。
 
- [1]: http://7xij6f.com1.z0.glb.clouddn.com/IMG_0379.JPG?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1
+[1]: http://7xij6f.com1.z0.glb.clouddn.com/IMG_0379.JPG?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1

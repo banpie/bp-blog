@@ -4,7 +4,7 @@ post_title: >
   如何在8分钟绘制出有质感的原型图
 post_name: prototype
 author: banpie
-post_date: 2018-11-19 11:11:25
+post_date: 2018-09-03 11:11:25
 layout: post
 link: http://www.xgclass.cn/prototype/
 published: true
@@ -28,4 +28,4 @@ categories:
 
 > 注：`Balsamiq`有网页版和客户端版本，客户端可以免费使用1个月，网页版没有限制。​
 
- [1]: http://i4.piimg.com/567571/d988cddca6e41410.png
+[1]: http://i4.piimg.com/567571/d988cddca6e41410.png

@@ -5,7 +5,7 @@ post_title: >
   新媒体骇客训练营」第三期招生启动
 post_name: bpteach-zs
 author: banpie
-post_date: 2018-11-19 09:40:40
+post_date: 2016-12-03 09:40:40
 layout: post
 link: http://www.xgclass.cn/bpteach-zs/
 published: true
@@ -60,6 +60,6 @@ categories:
 
 > 近期筹建半撇私塾私享群，不定期讲师／嘉宾分享、求职资讯共享等，感兴趣的小伙伴可直接扫码入群。 ![][3]
 
- [1]: https://v.qq.com/x/page/x0351hru5gc.html
- [2]: http://learn.bpteach.com/course/17?previewAs=guest
- [3]: http://obfe8r4sl.bkt.clouddn.com/WechatIMG12.jpeg
+[1]: https://v.qq.com/x/page/x0351hru5gc.html
+[2]: http://learn.bpteach.com/course/17?previewAs=guest
+[3]: http://obfe8r4sl.bkt.clouddn.com/WechatIMG12.jpeg
