@@ -18,29 +18,24 @@ categories:
 
 在地址栏中输入「patterncooler.com」进入网站。
 
-![][1]
+<img class="alignnone size-full wp-image-752" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-52.jpg" width="620" height="325" alt="" />
 
 ## **2、选择背景样式**
 
 向下拖动界面，选择喜欢的背景样式。
 
-![][2]
+<img class="alignnone size-full wp-image-753" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-53.jpg" width="620" height="320" alt="" />
 
 ## **3、编辑颜色**
 
 跳转到样式编辑界面，在这里你可以调整背景样式的颜色 -> 调整好之后点击「download」就可以下载背景图片了。
 
-![][3]
+<img class="alignnone size-full wp-image-754" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-54.jpg" width="620" height="328" alt="" />
 
 ## **4、下载**
 
 下载前可以选择背景图片的材质 -> 然后再选择图片的格式 -> 下载图片。
 
-![][4]
+<img class="alignnone size-full wp-image-755" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-55.jpg" width="620" height="651" alt="" />
 
 Ps：自用的，请在版权声明一下图片出处，商用的，请与网站联系。
-
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX8sic0HVlNUSBZSyXic3AusiaRup4wNUCqHxMPr0iblC6bOFn6q97vgX1jBjj79JEKsibjmHC8tLrjbGRg/0
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX8sic0HVlNUSBZSyXic3AusiaRbzt2DgozFHKETSkbTQUcsFBjFXcJbiaR8fEtKMd72CpmTeA3GZz2fDg/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX8sic0HVlNUSBZSyXic3AusiaRKW4upMlot3z2GSDdySghOfPyLr50o7FD9WlzYmZ924wYPlhlUFShcw/0
- [4]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX8sic0HVlNUSBZSyXic3AusiaRXEmkZicosBnDvKtYSYx6b4MUtyZdLowRFRTNBbcOj4sbkuIbnicWUJ0g/0
