@@ -2,7 +2,7 @@
 layout: post
 post_title: 故事结构入门课程上线
 post_date: 2017-2-8
-post_name: story-live
+post_name: storytelling-course-go-live
 published: true
 ---
 > 5年前，我坐在北大的教室蹭课，电影赏析的老师用铅笔特别在黑板上写了：**讲故事将会你们未来最重要的一项能力**。虽然蹭了一个学期，但是对于那个连文章都写不顺的我来说，讲故事一直都是一种“只可意会不可言传”的技艺。
