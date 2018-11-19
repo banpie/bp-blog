@@ -83,7 +83,7 @@ Open BPteach 计划在未来逐步公开以下内容：
 
 另外，我们将所有的课程评价结果都进行了公开，你可以直接点击查看实时更新的「[半撇私塾课程满意度评价数据表][6]」。
 
-![][7]
+<img class="alignnone size-full wp-image-588" src="http://www.xgclass.cn/wp-content/uploads/2018/11/13371171.jpg" width="1280" height="504" alt="" />
 
 这个评价表本身的维度会随着实际的教学情况作调整，就像以前相亲的时候觉得「户口」很重要，但是可能未来这个维度会被慢慢地忽略，所以整个评价表是相对流动的。
 
@@ -98,7 +98,7 @@ Open BPteach 计划在未来逐步公开以下内容：
 
 这样一来，当参与的学员多了以后，针对「满意度」的每一个「小指标」我们就有了非常多的初始值，一旦我们发现哪个指标比较低，我们就需要通过方法来提高这个指标的表现：比如在半撇私塾的课程评价表中，「速度：教师讲解的速度适中，不会太快也不会太慢？」中「不同意」的值是5.2%，这个比其他的指标高出5倍之多，所以就是我们需要着重改善的地方。
 
-![][8]
+<img class="alignnone size-full wp-image-589" src="http://www.xgclass.cn/wp-content/uploads/2018/11/32422061.jpg" width="1280" height="411" alt="" />
 
 ## 3\. 方法实验：按需求程度进行分级处理
 
@@ -116,17 +116,17 @@ Open BPteach 计划在未来逐步公开以下内容：
 
 这个时候直接让这个学员来重新体验修改完的课程就是一个最简单明了的方法！
 
-所以我们采用的方法是：在「[半撇私塾课程迭代中心][9]」中为所有「不可以迅速解决的问题」创建 1 张公开的任务卡片，然后通过邮件的形式将卡片链接发送给学员，只要学员订阅了该卡片，便可以及时收到和这个卡片相关的信息。
+所以我们采用的方法是：在「[半撇私塾课程迭代中心][7]」中为所有「不可以迅速解决的问题」创建 1 张公开的任务卡片，然后通过邮件的形式将卡片链接发送给学员，只要学员订阅了该卡片，便可以及时收到和这个卡片相关的信息。
 
-![][10]
+<img class="alignnone size-full wp-image-590" src="http://www.xgclass.cn/wp-content/uploads/2018/11/31742835.jpg" width="1000" height="403" alt="" />
 
 比如在学员反馈了「故事目的中的母亲案例需要更深入一些，英文的单词需要增加对应的提词」，只要学员订阅了该卡片，他都能收到接下来任何的跟进情况，这样以来，即便毕业后学员重新体验新课时，他也很清楚所有的问题背景，这样就更好的评估我们给出的新课时内容。
 
-![][11]
+<img class="alignnone size-full wp-image-591" src="http://www.xgclass.cn/wp-content/uploads/2018/11/87121847.jpg" width="1280" height="1023" alt="" />
 
 当然，「提高课程满意度」对于任何的在线教育企业来说，都是一个漫长和曲折的过程。这些经验也仅仅只是我们自己在教学过程中总结出来的一些心得，如果你还有其他失败的或者成功的经验，都欢迎你在评论区中告诉我！
 
-> 最后，如果你热爱在线教育，对新媒体营销感兴趣，也刚好是即将毕业的大学生，或者你就是喜欢我们一起工作，欢迎加入半撇私塾的「[全栈教育挑战生计划][12]」！
+> 最后，如果你热爱在线教育，对新媒体营销感兴趣，也刚好是即将毕业的大学生，或者你就是喜欢我们一起工作，欢迎加入半撇私塾的「[全栈教育挑战生计划][8]」！
 
  [1]: http://www.bpteach.com/blog/new-media-content-production-workflow
  [2]: https://trello.com/b/Cadm1bLB
@@ -134,9 +134,5 @@ Open BPteach 计划在未来逐步公开以下内容：
  [4]: http://www.bpteach.com/blog/how-bpteach-review-student-work
  [5]: https://pdfs.semanticscholar.org/05ee/d2e0f30973f98d2bb689ddb66f48ed489dc9.pdf
  [6]: https://jinshuju.net/f/aafg8c/results
- [7]: http://cdn.bpteach.com/17-8-29/13371171.jpg
- [8]: http://cdn.bpteach.com/17-8-29/32422061.jpg
- [9]: https://trello.com/b/hHmyZ3Hf
- [10]: http://cdn.bpteach.com/17-8-29/31742835.jpg
- [11]: http://cdn.bpteach.com/17-8-29/87121847.jpg
- [12]: http://www.bpteach.com/join-us?utm_source=zhihu.comutm_medium=referralutm_campaign=fsec-bp&utm_term=course-review&utm_content=textlink
+ [7]: https://trello.com/b/hHmyZ3Hf
+ [8]: http://www.bpteach.com/join-us?utm_source=zhihu.comutm_medium=referralutm_campaign=fsec-bp&utm_term=course-review&utm_content=textlink
