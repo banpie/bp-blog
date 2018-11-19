@@ -2,12 +2,12 @@
 ID: 470
 post_title: >
   如何通过搜索引擎找到海量的免费商用图片
-post_name: royalty-free-image-4
+post_name: royalty-free-image
 author: banpie
 post_date: 2017-03-24 00:00:00
 layout: single
 link: >
-  http://www.xgclass.cn/royalty-free-image-4/
+  http://www.xgclass.cn/royalty-free-image/
 published: true
 tags: [ ]
 categories: [ ]
