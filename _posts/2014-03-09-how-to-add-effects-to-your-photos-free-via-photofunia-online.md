@@ -22,25 +22,25 @@ PS零基础？没关系，小白也能瞬间合成出N多张恶搞照片。
 
 在浏览器地址栏输入「Photofunia.com」，进入网站后，可以在左侧的菜单栏中，有各种各样的主题场景模板可供选择，什么杂志、电视、庆典、书籍等等，无需注册便可免费使用。
 
-![][1]
+<img class="alignnone size-full wp-image-781" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-66.jpg" width="620" height="311" alt="" />
 
 ## **2、选择恶搞模板**
 
 选择一个喜欢的模板。小玲在「Faces」分类中选了一个僵尸的模板。
 
-![][2]
+<img class="alignnone size-full wp-image-782" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-67.jpg" width="620" height="311" alt="" />
 
 ## **3、合成图片**** **
 
 下面以把「长腿欧巴」变为吸血鬼为例：选择「Choose photo」->点击「Browse」上传照片 ->点击「Go」就可以直接合成图片了。
 
-![][3]
+<img class="alignnone size-full wp-image-783" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-68.jpg" width="620" height="631" alt="" />
 
 ## **4、保存/分享图片**
 
 照片合成成功后，点击「Save」/「Share」/「Send as a postcard」就可以将这张图片保存或分享给你的朋友。
 
-![][4]
+<img class="alignnone size-full wp-image-784" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-69.jpg" width="620" height="311" alt="" />
 
 哈哈，可爱的「长腿欧巴」现在变成恐怖的吸血鬼了，3.8妇女节要到了，据说他可能会出现在北京，上海，广州等城市，各位美眉要注意闪躲，小心被他咬到。
 
@@ -52,21 +52,14 @@ PS零基础？没关系，小白也能瞬间合成出N多张恶搞照片。
 
 **半总**：因为「半撇有道儿」网站和微信做的异常火爆，奥巴马都知道了，正在向美国人民介绍半总呢。
 
-![][5]
+<img class="alignnone size-full wp-image-785" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-70.jpg" width="620" height="436" alt="" />
 
-**刘工![][6]和伟仔**：寂寞难耐，俗话说“不在寂寞中变坏，就在寂寞中变态”，他俩擦出火花，刘工去东南亚某国进行了一番大手术之后，两人终喜结连理了，步入婚姻的殿堂。
+**刘工![][1]和伟仔**：寂寞难耐，俗话说“不在寂寞中变坏，就在寂寞中变态”，他俩擦出火花，刘工去东南亚某国进行了一番大手术之后，两人终喜结连理了，步入婚姻的殿堂。
 
-![][7]
+<img class="alignnone size-full wp-image-786" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-71.jpg" width="620" height="755" alt="" />
 
 **小玲**：因为最近干了太多坏事，被刘工和伟仔抓取批斗，还强迫她举个牌子认错。
 
-![][8]
+<img class="alignnone size-full wp-image-787" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-72.jpg" width="620" height="712" alt="" />
 
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicWpnflxvSiavTN7tTcmGHwJMLyKpLU1ywW6O4CBAWNszsppa2FfwPTicK59AsIU90u5wvjvUIaUOlw/0
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicWpnflxvSiavTN7tTcmGHwJ1lOE8J4ETEGfrcJLJwKcehLWicLs1Ef9t4ulkXFNy2QaXCAQlwy7jzQ/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicWpnflxvSiavTN7tTcmGHwJqdmBsyRiceqX84RUhEa1Ge8gxITYb3ReUzZsCueTY209iaO1R0f5ia7Kw/0
- [4]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicWpnflxvSiavTN7tTcmGHwJ0V9wOm8dTpDZ1oibcZ4ZbAdpT5fN3ckib3J8Gh9LSm73XhsNibC9UWq2g/0
- [5]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicWpnflxvSiavTN7tTcmGHwJAibOUKZdrwjOvSdFbazD3FuAzku92FkcPHQnic9XrOBzYGfmticNzZH5g/0
- [6]: https://mp.weixin.qq.com/mpres/htmledition/ueditor/themes/default/images/spacer.gif
- [7]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9hhSRPzxK1YQyTjJibL1Z2SnzpBSc2yib2C3YldxFkVRCHt8hKtsr8diajHO34g1wbN8otjciaNHGViag/0
- [8]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicWpnflxvSiavTN7tTcmGHwJL6ZmV6Fdg1V6qctPicXaRQAFWRBpWXcCr2Mwt3MAaibPtpKW6gicI0GHw/0
+ [1]: https://mp.weixin.qq.com/mpres/htmledition/ueditor/themes/default/images/spacer.gif
