@@ -2,12 +2,12 @@
 ID: 461
 post_title: >
   你不知道的最佳新媒体写作工作流
-post_name: new-media-content-production-workflow-3
+post_name: new-media-content-production-workflow
 author: banpie
 post_date: 2017-01-06 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/new-media-content-production-workflow-3/
+  http://www.xgclass.cn/new-media-content-production-workflow/
 published: true
 tags:
   - 写作
