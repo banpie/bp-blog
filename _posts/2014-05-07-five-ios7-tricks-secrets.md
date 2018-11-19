@@ -24,25 +24,25 @@ categories:
 
 在打开飞行模式后，iPhone 的充电速度会比平时更快。在最新的 iOS7 操作系统中，手指从屏幕下方向上滑动即可打开控制中心，然后点击飞行模式的图标即可。
 
-![][1]
+<img class="alignnone size-full wp-image-709" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-28.jpg" width="620" height="826" alt="" />
 
 ## 2、瞬间撤销文字的键入
 
 在撰写邮件或者短信的时候，有时候输入太多太长，懒得动手在删除了。你可以通过快速摇晃设备，就可以直接取消前面所撰写的内容。
 
-**![][2]**
+**<img class="alignnone size-full wp-image-710" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-9.png" width="620" height="826" alt="" />**
 
 ## 3、查看短信收发时间
 
 在短信界面中，手指向左滑动便可以查看每条短信的发送、接收时间。
 
-![][3]
+<img class="alignnone size-full wp-image-711" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-10.png" width="620" height="826" alt="" />
 
 ## 4、同时关闭多个应用
 
 你可能知道双击设备的Home键可以查看最近的应用使用记录，手指向上滑动就可以关闭对应的APP，但是你可能不知道用2个手指向上滑动，就可以关闭多个APP这个技巧吧？
 
-![][4]
+<img class="alignnone size-full wp-image-712" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-29.jpg" width="620" height="826" alt="" />
 
 # #
 
@@ -50,10 +50,4 @@ categories:
 
 IOS7 更新了系统的拍照应用，打开照相功能的时候，按住音量键上即可拍照，长按可进行连拍。（千万把持住，不要按太久）
 
-![][5]
-
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9xbdmGAAaLsaOWUbw4xPu6lPO4CdB6icqpHDqMEWqrJx67g7kcNxPicxGrmZvrrwR5xoH9v6zMB8ow/0
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9xbdmGAAaLsaOWUbw4xPu6vOrVukSyk4SvJAw8gxWgOricgyhZQy3deZhXaJk80rI52ibHZJd9KqxA/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9xbdmGAAaLsaOWUbw4xPu6Q1CiblibFkQK0NaAxjbYkRvj7wVz7B3ajjv85fzuZWFroOic2tXY92a3g/0
- [4]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9xbdmGAAaLsaOWUbw4xPu6Y7YRC7I7B7qWc6XibkpTOmmsA0lgdf764rdS7HiaHloXB1eATxOoeMrA/0
- [5]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9xbdmGAAaLsaOWUbw4xPu6ibMLiaMibzneGdQwHNcYpxNAMBHytnPCrRvSNWlic689YddkRMoZexh9BA/0
+<img class="alignnone size-full wp-image-713" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-11.png" width="620" height="335" alt="" />
