@@ -24,20 +24,16 @@ categories:
 
 长按微信的聊天消息 -> 选择「更多」-> 勾选所要导出/保存的消息，点击中间的「邮件」图标的按钮 -> 选择「发送邮件」到你的Email邮箱或者云端硬盘。
 
-![][1]
+<img class="alignnone size-full wp-image-769" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-58.jpg" width="620" height="453" alt="" />
 
 ## **2、在微信分享微云/百度云文件**
 
 点击微信对话框的圆形「+」号按钮，在弹出的菜单中再点击圆角矩形「+」号按钮，选择添加微云/百度云后，即可直接在微信分享微云、百度云的文件。
 
-![][2]
+<img class="alignnone size-full wp-image-770" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-59.jpg" width="620" height="454" alt="" />
 
 ## **3、在不同的设备同步微信聊天记录**
 
 点击微信右上角的「…」号按钮，进入「设置」页面 -> 点击「通用」 -> 点击「聊天记录迁移」，选择「上传」聊天记录，勾选完毕并上传成功后，在其他的设备登陆微信后，「下载」聊天记录后既可以同步微信聊天记录。
 
-![][3]
-
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9hhSRPzxK1YQyTjJibL1Z2SSCgfFap0dLHty9GzFg5icoC5m4SaAPzRkZNrD40WZhdYdj7LjwAeBZQ/0
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9hhSRPzxK1YQyTjJibL1Z2SCQXiaicVvSkeOGG3kt8BQWQQjQeMcSyBvB2pL6nHHyAuK3RANnZw1AkA/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9hhSRPzxK1YQyTjJibL1Z2SU7K5Gw0VCJaVM0FczSIU5pyf2arlrp1vCydZAMjnx4lyhSeagotC5g/0
+<img class="alignnone size-full wp-image-771" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-25.png" width="620" height="457" alt="" />
