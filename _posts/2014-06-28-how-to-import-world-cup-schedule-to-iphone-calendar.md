@@ -32,11 +32,8 @@ categories:
 
 6.  大功告成，关闭 Safar
 
-![][1]
+<img class="alignnone size-full wp-image-677" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-7.jpg" width="430" height="375" alt="" />
 
-![][2]
+<img class="alignnone size-full wp-image-678" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-8.jpg" width="430" height="375" alt="" />
 
 因为懒得再删除日历了，所以截图说明是盗用手机中国的，你看还是高清有码的。
-
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicDSVdfKVb8Syx4MmoVjfabBkdLIAHqlpOb2WZukGRE7u6Wmguj83LLVqV2CcG2WXS9TwgeeHjI9A/0
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicDSVdfKVb8Syx4MmoVjfabz5K2318ALC4NGTtPVHMNHkccSy0H5eRPBrIn7gZzk41IwVV9V2jaOQ/0
