@@ -3,12 +3,12 @@ ID: 139
 post_title: >
   如何关闭iPhone上烦人的动画效果
 post_name: >
-  how-to-disable-the-animation-and-parallax-effects-in-ios-7
+  how-to-disable-the-animation-and-parallax-effects-in-ios
 author: banpie
 post_date: 2014-03-23 22:21:03
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-disable-the-animation-and-parallax-effects-in-ios-7/
+  http://www.xgclass.cn/how-to-disable-the-animation-and-parallax-effects-in-ios/
 published: true
 tags: [ ]
 categories:
