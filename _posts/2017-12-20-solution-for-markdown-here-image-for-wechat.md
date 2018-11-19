@@ -4,12 +4,12 @@ post_title: >
   微信公众号 Markdown Here
   渲染图片无法保存的解决办法
 post_name: >
-  solution-for-markdown-here-image-for-wechat-2
+  solution-for-markdown-here-image-for-wechat
 author: banpie
 post_date: 2017-12-20 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/solution-for-markdown-here-image-for-wechat-2/
+  http://www.xgclass.cn/solution-for-markdown-here-image-for-wechat/
 published: true
 tags:
   - markdown
