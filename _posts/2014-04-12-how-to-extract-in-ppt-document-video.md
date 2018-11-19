@@ -21,22 +21,18 @@ categories:
 
 打开好压软件后，点击顶部菜单栏的『文件』按钮 -> 选择『打开压缩文件』命令。
 
-![][1]
+<img class="alignnone size-full wp-image-722" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-13.png" width="620" height="456" alt="" />
 
 ## **2、用解压软件打开PPT文档**
 
 进入『选择要打开的压缩文件』-> 在『文件名』旁的『文件类型选择栏』中，选择『所有文件』-> 打开PPT所在的文件目录，打开后点击『解压』，将该PPT文档解压到电脑即可。
 
-![][2]
+<img class="alignnone size-full wp-image-723" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-34.jpg" width="620" height="436" alt="" />
 
 ## **3、打开解压后的文件夹**
 
 PPT文档被解压后，会自动在电脑生成一个同名的文件夹，PPT里头的视频就存在于该文件夹的『ppt』->『media』目录里头。
 
-![][3]
+<img class="alignnone size-full wp-image-724" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-35.jpg" width="620" height="530" alt="" />
 
 最后，直接将『media』文件夹里头的视频文件拖动到你的存储目的地就大功告成啦！
-
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX8LIAHk1bAUFUZuo57ibRWmLBQicOJAaQUCXBiaI7JRZFLIRg0nVD3peibjH6lgBeS8H0ZHTYo8TIM1Fg/0
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX8LIAHk1bAUFUZuo57ibRWmLs5v80y0dW9vow2Qhw1K2GQ23yKbe3xJpcEVuia1VDicPwzIjO4xPzWlw/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX8LIAHk1bAUFUZuo57ibRWmLibklM5am1FrLpblX2UpPuSIlkbbQeqY9j5dqicrlcgiaByiczU237oAmCA/0
