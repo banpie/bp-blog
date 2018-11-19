@@ -29,7 +29,7 @@ Open BPteach 计划在未来逐步公开以下内容：
 
 半撇私塾一开始的时候，除了我和野子以外，团队的大部分成员都是通过远程进行协同工作的，所以在这个过程中工具就显得尤为重要。下面这张图是团队成员中远程工作（Remote）和本地工作（In-House）的比例。
 
-![半撇私塾团队构成][3]
+<img class="alignnone size-full wp-image-596" src="http://www.xgclass.cn/wp-content/uploads/2018/11/73626784.jpg" width="900" height="517" alt="半撇私塾团队构成" />
 
 所以在今天的文章中，我将和你分享我们团队工作过程中 3 个非常重要的工具：Trello + Github + Bearychat。
 
@@ -43,7 +43,7 @@ Open BPteach 计划在未来逐步公开以下内容：
 
 如果你做过的内容管理，你应该知道保持团队内每一个人按时、按质、按量地输出文章，并不是一件容易的事情，但是 Trello 很好地把问题解决了。Trello 是我们所有工作的核心区域，每个任务都可以设置具体的负责人、截止日期、需要产出的事项等等，所以我们可以非常直观地看到 1 个任务从开始到结束整个流程的所有细节。
 
-![img][4]
+<img class="alignnone size-full wp-image-597" src="http://www.xgclass.cn/wp-content/uploads/2018/11/4068500.jpg" width="1280" height="689" alt="img" />
 
 在这个创作中心的 [面板][2] 中，从左到右的列表分别是：
 
@@ -58,11 +58,11 @@ Open BPteach 计划在未来逐步公开以下内容：
 
 在我们使用 Trello 来管理写作任务的过程中，每一篇文章就是一个任务卡片，在这个任务卡片中，我可以跟踪到文章的灵感来源、初稿、终稿、各版本的反馈意见和发布渠道等等的细节。
 
-![img][5]
+<img class="alignnone size-full wp-image-598" src="http://www.xgclass.cn/wp-content/uploads/2018/11/47023344.jpg" width="1000" height="563" alt="img" />
 
 并且在每一个卡片任务中，我们都列出了完成这个任务所需要的各项「 Checklist」，比如撰写初稿、制作分辨图片等等，每完成一项就打上勾，然后拖动来下一个工作流列表即可。
 
-![img][6]
+<img class="alignnone size-full wp-image-599" src="http://www.xgclass.cn/wp-content/uploads/2018/11/20629753.jpg" width="1200" height="750" alt="img" />
 
 这样一来通过 Trello，新的成员可以清楚的知道完成一个写作任务需要经历哪些步骤，应该如何完成，编辑也可以快速的跟踪到每一个任务具体进展到什么程度。
 
@@ -74,11 +74,11 @@ Open BPteach 计划在未来逐步公开以下内容：
 
 *   **细致的版本跟踪**：每一次创作者提交的修改，我们都可以知道它改了哪些地方，而且可以通过 Git 快速的回退到历史某一个版本，这些都是传统的文档工具无法比拟的。
 
-![img][7]
+<img class="alignnone size-full wp-image-600" src="http://www.xgclass.cn/wp-content/uploads/2018/11/15540296.jpg" width="1200" height="750" alt="img" />
 
 *   **逐句的同行审阅**：当我们收到同事要审阅邀请时，我们可以直接在提交的页面上，对某个句子提交反馈，比如错别字或者内容结构，而且可以@相关人进行必要的辅助。
 
-![img][8]
+<img class="alignnone size-full wp-image-601" src="http://www.xgclass.cn/wp-content/uploads/2018/11/10063411.jpg" width="1200" height="750" alt="img" />
 
 虽然 Github 的学习成本相对比 Onedrive、Google Docs 等文档协同工具要高一些，但是一旦习惯了这个工作流，所节省的时间成本是非常惊人的。
 
@@ -90,11 +90,11 @@ Open BPteach 计划在未来逐步公开以下内容：
 
 *   **聚合所有信息**：Bearychat 有一个非常杀手级的功能就是聚合通知，比如微博有人关注了、Trello 有人评论了任务、Github 有人信提交了一个文档版本，这些信息都可以通过 Bearychat 的机器人直接在聊天组中进行通知，这样一来我们可以更集中的进行任务处理，这个是微信等其他IM工具无法实现的。
 
-![img][9]
+<img class="alignnone size-full wp-image-602" src="http://www.xgclass.cn/wp-content/uploads/2018/11/93700957.jpg" width="1280" height="386" alt="img" />
 
 *   **保存与检索**：相对比微信，Bearychat 可以把所有的的信息保存起来，并且可以方便的在各个平台进行搜索，包括桌面客户端、移动客户端和网页端，这样即便卸载了软件，所有的记录还会被保存下来。
 
-![img][10]
+<img class="alignnone size-full wp-image-603" src="http://www.xgclass.cn/wp-content/uploads/2018/11/67640908.jpg" width="1280" height="599" alt="img" />
 
 ## 下一步：未来计划的尝试
 
@@ -106,16 +106,8 @@ Open BPteach 的许多灵感也来源于 Buffer 在企业透明度上都有许�
 
 最后用一句话来概括我自己工作的心得：做任何 1 件事情，应该要想着「如果我需要同时做好 100 件这样的事，我该怎么做？」
 
-> 如果你认可我们的工作方式，也刚好是即将毕业的大学生，你可以申请成为我们的「[教育挑战生][11]」。
+> 如果你认可我们的工作方式，也刚好是即将毕业的大学生，你可以申请成为我们的「[教育挑战生][3]」。
 
  [1]: http://www.bpteach.com/blog/new-media-content-production-workflow
  [2]: https://trello.com/b/Cadm1bLB
- [3]: http://cdn.bpteach.com/17-7-29/73626784.jpg
- [4]: http://cdn.bpteach.com/17-7-31/4068500.jpg
- [5]: http://cdn.bpteach.com/17-7-31/47023344.jpg
- [6]: http://cdn.bpteach.com/17-7-31/20629753.jpg
- [7]: http://cdn.bpteach.com/17-7-31/15540296.jpg
- [8]: http://cdn.bpteach.com/17-7-31/10063411.jpg
- [9]: http://cdn.bpteach.com/17-7-31/93700957.jpg
- [10]: http://cdn.bpteach.com/17-7-31/67640908.jpg
- [11]: http://www.bpteach.com/join-us?utm_source=banpie.info&utm_medium=referral&utm_campaign=fsec-bp&utm_term=tool-we-use&utm_content=textlink
+ [3]: http://www.bpteach.com/join-us?utm_source=banpie.info&utm_medium=referral&utm_campaign=fsec-bp&utm_term=tool-we-use&utm_content=textlink
