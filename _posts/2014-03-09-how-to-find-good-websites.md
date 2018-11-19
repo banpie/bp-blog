@@ -35,26 +35,22 @@ categories:
 
 *   随时随地Stumble一下，无论你在刷微博还是人人
 
-![][1]
+<img class="alignnone size-full wp-image-777" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-63.jpg" width="620" height="481" alt="" />
 
 ## 2、设置你感兴趣的领域
 
 勾选你感兴趣的领域，Stumble就会据此为你推荐网站、文章、图片、以及视频。（我自己是选了Internet、Technology、Design等，推荐的站点都非常靠谱）
 
-![][2]
+<img class="alignnone size-full wp-image-778" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-64.jpg" width="620" height="400" alt="" />
 
 ## 3、Stumble一下
 
 点击页面上面的「stumble」按钮，StumbleUpon引擎将给你推荐一个你可能感兴趣的网站，如果你不喜欢，继续「stumble」（咦，怎么跑出个农村报的？此处为软广……）
 
-![][3]
+<img class="alignnone size-full wp-image-779" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-65.jpg" width="620" height="295" alt="" />
 
 ## 4、更多推荐
 
 Stumble推荐的结果大多的英文的，但因使用人数多、算法优秀，推荐的结果的质量都是异常的高。
 
 如果你对基于”大数据“的内容推荐工具感兴趣，你还可以尝试无觅网、趣摘网、或者国外的Digg。（对于用了”大数据“这个被无数人滥用的词儿，我表示很歹势……）
-
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicQcdwWYa2oJNbfuzMgqTl029QE0ibz296s7GfcVhWyxmzLd2ArQrMVE0vMxfaiaZtY4AAZt02cYzJw/0
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicQcdwWYa2oJNbfuzMgqTl0ZONt0Ihtjtlxvx4bnGPhicrTcJFHLJFOGXVGuoG4fofOA4feDu6JpDw/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicQcdwWYa2oJNbfuzMgqTl0gvgsYASjjOSmwoicRS6eHwGZcpicWfvHh9632LJNMBm9jwhIH5J4qejQ/0
