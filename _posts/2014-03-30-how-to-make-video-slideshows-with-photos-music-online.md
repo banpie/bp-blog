@@ -20,34 +20,28 @@ categories:
 
 在地址栏中输入「www.magisto.com」进入网站，点击「Create Movie」按钮开始制作短片。
 
-![][1]
+<img class="alignnone size-full wp-image-738" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-44.jpg" width="620" height="312" alt="" />
 
 ## 2、上传素材（视频/图片）
 
 点击「Select Film」上传照片/视频等素材。
 
-![][2]
+<img class="alignnone size-full wp-image-739" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-45.jpg" width="620" height="324" alt="" />
 
 ## 3、选择剪辑风格
 
 向下拖动界面，点击「Choose Editing Style」选择短片剪辑风格。选择之前可以点击播放预览一下剪辑效果。
 
-![][3]
+<img class="alignnone size-full wp-image-740" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-46.jpg" width="620" height="318" alt="" />
 
 ## 4、选择背景音乐
 
 在这里你可以选择喜欢的背景音乐，也可以上传为视频做配乐。
 
-## ![][4] 5、生成视频
+## <img class="alignnone size-full wp-image-741" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-47.jpg" width="620" height="325" alt="" /> 5、生成视频
 
 点击「Make My Moive」生成视频短片。
 
-![][5]
+<img class="alignnone size-full wp-image-742" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-48.jpg" width="620" height="327" alt="" />
 
 网站有付费部分和免费部分，所拥有的权限也不一样，制作好的影片在「My Movie」中可以找到，可以发送给朋友或者下载视频。
-
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXib7v9TBgjykGlkicVdf7Fx6kmrrmjseqtTspyfJrTNich1AsdEy3XeTr7KicmiaGVEvibfcEXicVMJlwunw/0
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXib7v9TBgjykGlkicVdf7Fx6kFJ6xp1ubecUQoGHMMXhO1vkwK7xFOOcPLpRLKibEduIBgibYaicAddTeQ/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXib7v9TBgjykGlkicVdf7Fx6kTT7D58UsBzY0TPzpsticT7nticYf4t65FuuS2B1cUSoialib7XbAr2GCag/0
- [4]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXib7v9TBgjykGlkicVdf7Fx6kUUo6dtDyejJYh0PqHEW4JDCVlIFKsMticesuZDqjg3SJdI2o8b8Oo7A/0
- [5]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXib7v9TBgjykGlkicVdf7Fx6kicXBhyBydnqEvadRO673cR9UB6oSVPibE6caDJFZZmpHgw7QtwRaT16w/0
