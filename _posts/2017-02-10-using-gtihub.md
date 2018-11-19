@@ -1,11 +1,11 @@
 ---
 ID: 464
 post_title: 给新媒体人的Github入坑指南
-post_name: using-gtihub-3
+post_name: using-gtihub
 author: banpie
 post_date: 2017-02-10 00:00:00
 layout: post
-link: http://www.xgclass.cn/using-gtihub-3/
+link: http://www.xgclass.cn/using-gtihub/
 published: true
 tags:
   - Github
