@@ -31,7 +31,7 @@ categories:
 
 在学习 PowerPoint 2013 幻灯片处理技巧之前，我将介绍该软件的界面分区：**快速访问工具栏**（Quick Access Toolbar）、**功能区**（The Ribbon）、**任务窗格**（Task Pin）、**状态栏**（Status Bar）、**幻灯片窗格**（Slides Tab）、**幻灯片处理**区（Current Slide）。
 
-![][2]
+<img class="alignnone size-full wp-image-715" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-30.jpg" width="900" height="484" alt="" />
 
 **快速访问工具栏**：在这里可以快速访问频繁使用的功能命令：当你发现一个常用的命令时，使用右键单击它，然后单击“**添加到快速访问工具栏**”，这个命令就会固定在这个位置，之后需要该命令时，点击就行了。
 
@@ -48,4 +48,3 @@ categories:
 下节课，我们将开始具体的介绍 PowerPoint 2013 最核心的几个功能分区。
 
  [1]: http://v.qq.com/page/i/q/5/i0127bhfuq5.html?start=15
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX8MklvTiccKvxndiaMUuibkMf7xJ60m7nmlzm2Pk0SkIJMr4icJS7JQq0U6VT2ZA2RmNwJ8Rcp1u7EicwQ/0
