@@ -36,7 +36,7 @@ categories:
 
 访问AlloyTimer网站（短链接：http://t.cn/zTImrLG）-> 输入一个任务，将番茄时间设为25分钟 -> 点击「开始工作」。（点击文末阅读原文直接跳转，或者使用手机内置计时器也可）
 
-![][1]
+<img class="alignnone size-full wp-image-729" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-14.png" width="620" height="463" alt="" />
 
 ## 2、专注做一件事情
 
@@ -47,5 +47,3 @@ categories:
 25分钟倒计时结束，无论是否完成任务，立即停下来，休息5分钟后，再继续下一个番茄时间。
 
 经过小范围测试以及自己的亲身体验，这个方法真的超超超级赞！各位如果有时间可以反馈使用心得。
-
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicyym0o9FV96icfdhoKDdD93CZkNfXFGqhVLlCAnW0EZibr1lxiaseo0QjGl8w3CPICgRwYpprcFndSQ/0
