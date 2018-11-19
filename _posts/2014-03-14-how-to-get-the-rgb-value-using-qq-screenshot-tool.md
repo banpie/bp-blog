@@ -32,7 +32,6 @@ categories:
 
 开启QQ截图功能后，屏幕会变黑，鼠标会从白色变为彩色，鼠标对准的地方，QQ截图工具会自动读出色彩的RGB值，下图中记下这3位数的值即是对应像素的RGB值，如：（254，190，93）。
 
-![][2]
+<img class="alignnone size-full wp-image-762" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-57.jpg" width="635" height="371" alt="" />
 
  [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/03/how-to-get-the-rgb-value-using-qq-screenshot-tool-01.jpg
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9PfCTicvaBXNg3gShKrw1qtfYocgVO4IKCeR68u13RyIDnqt6HbFQxgLrDjgkCzUTK2pYgHNLnpXA/0
