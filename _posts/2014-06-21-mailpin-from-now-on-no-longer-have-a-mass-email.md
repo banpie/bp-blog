@@ -21,24 +21,21 @@ categories:
 
 比如，阿半打算给幕天讲堂的志愿者们写了一份培训相关的邮件。在“正文框”中写完内容，上传完“附件”后，在“收件人”处填入p@mailp.in这个收件地址。
 
-![将群发的邮件发送给Mailpin][2]
+<img class="alignnone size-full wp-image-705" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-6.png" width="620" height="372" alt="将群发的邮件发送给Mailpin" />
 
 ## 2、收取返回邮件
 
 等待数秒后，你的邮箱就会收到来自Mailpin的邮件。邮件里头的URL就是这份邮件生成的网页。
 
-![获取Mailpin的邮件网页链接][3]
+<img class="alignnone size-full wp-image-706" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-7.png" width="620" height="214" alt="获取Mailpin的邮件网页链接" />
 
 ## 3、向团队群发邮件的链接
 
 将生成的网页URL复制到社交网络/微信群，你就有权限控制谁能看到这个网页，获得到该网址的人点开就可查看内容了。如果你后悔了的话，也可以直接在邮件里点击“Delete”删除这个网页。
 
-![群发邮件的网页实例][4]
+<img class="alignnone size-full wp-image-707" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-8.png" width="620" height="224" alt="群发邮件的网页实例" />
 
-关于群发的技巧，半撇还有一篇如何用[微信给好友群发新年祝福][5]的课程，又需要可以查阅了解。
+关于群发的技巧，半撇还有一篇如何用[微信给好友群发新年祝福][2]的课程，又需要可以查阅了解。
 
  [1]: http://mailp.in/
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9103ia7Yu5JaCrVUQLVteNauN393QibVCh0kC1G1hZkyWD41IqF3BSB6hWibQTGHL6liacsCNmkuKgyg/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9103ia7Yu5JaCrVUQLVteNaHlBwtH333GClp8WeuHmOnWVhFBcB110NMynEVAxTQ6wnPr95QH1Njw/0
- [4]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9103ia7Yu5JaCrVUQLVteNawcHEh21icfibdadZDDibjZP8HcLdNYTXwhVtDwU4vK9ZfBJI8x0XtwqLQ/0
- [5]: http://www.banpie.info/how-to-send-group-texts-via-wechat/
+ [2]: http://www.banpie.info/how-to-send-group-texts-via-wechat/
