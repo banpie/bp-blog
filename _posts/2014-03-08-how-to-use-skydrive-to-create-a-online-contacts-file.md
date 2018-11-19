@@ -2,12 +2,12 @@
 ID: 128
 post_title: 如何高效的制作一份通讯录
 post_name: >
-  how-to-use-skydrive-to-create-a-online-contacts-file-2
+  how-to-use-skydrive-to-create-a-online-contacts-file
 author: banpie
 post_date: 2014-03-08 17:05:13
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-use-skydrive-to-create-a-online-contacts-file-2/
+  http://www.xgclass.cn/how-to-use-skydrive-to-create-a-online-contacts-file/
 published: true
 tags: [ ]
 categories:
