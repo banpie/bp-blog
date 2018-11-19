@@ -2,11 +2,11 @@
 ID: 520
 post_title: >
   如何在8分钟绘制出有质感的原型图
-post_name: prototype-2
+post_name: prototype
 author: banpie
 post_date: 2018-11-19 11:11:25
 layout: post
-link: http://www.xgclass.cn/prototype-2/
+link: http://www.xgclass.cn/prototype/
 published: true
 tags: [ ]
 categories:
