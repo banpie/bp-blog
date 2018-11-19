@@ -18,13 +18,13 @@ categories:
 
 首先，在需要隐藏的文件或者文件夹上右击鼠标，选择『属性』，然后勾选『隐藏』。如下图：
 
-![][1]
+<img class="alignnone size-full wp-image-726" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-36.jpg" width="620" height="348" alt="" />
 
 ## **2、调节文件夹选项的属性**
 
 其次，在当前文件夹窗口中选择『工具』→『文件夹选项』→弹出的对话框中选中『查看』栏→下滑鼠标选中『不显示隐藏的文件』→点击『确定』。
 
-![][2]![][3]
+![][1]<img class="alignnone size-full wp-image-727" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-37.jpg" width="620" height="348" alt="" />
 
 ## **3、更多：小技巧**
 
@@ -36,6 +36,4 @@ Windows 7/8 操作系统下，如果文件夹窗口中没有“工具”栏，�
 
 2.  再调整该文件的属性：将所勾选的“隐藏”选项去掉，确定就行了！
 
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXiczYawic2PFW2JcPuQ2ia6B8JhELsVKy8w8ZS5sjpwuaicrAQKHUylibCU6gZBLnBOprUHA7DSeojobcw/0
- [2]: http://mp.weixin.qq.com/mpres/htmledition/ueditor/themes/default/images/spacer.gif
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXiczYawic2PFW2JcPuQ2ia6B8J3wozv8MfLiaiae1s7H3d2vUPqOBSUvelU5C4lvrBuiaYGRqPSjKjdvyBQ/0
+ [1]: http://mp.weixin.qq.com/mpres/htmledition/ueditor/themes/default/images/spacer.gif
