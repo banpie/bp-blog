@@ -5,7 +5,7 @@ post_name: user-research
 author: banpie
 post_date: 2016-06-30 00:00:00
 layout: post
-link: http://www.xgclass.cn/user-research-2/
+link: http://www.xgclass.cn/user-research/
 published: true
 tags:
   - 创业
