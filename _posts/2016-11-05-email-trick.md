@@ -49,7 +49,7 @@ categories:
 
 **HTML版本**
 
-    <a href=" mailto:banpie@bpteach.com?subject=有个关于xx的问题想问你&body=我的目标: %0d%0a我的问题: %0d%0a已经使用的方法：%0d%0a其他辅助信息：">给我发邮件</a>
+    <a href="%20mailto:banpie@bpteach.com?subject=有个关于xx的问题想问你&body=我的目标:%20%0d%0a我的问题:%20%0d%0a已经使用的方法：%0d%0a其他辅助信息：">给我发邮件</a>
     
 
 上面代码中，`mailto`后面的邮箱可以替换为你自己的邮箱地址，`?subject`是自定义的邮件标题，`&body`是自定义的邮件正文，`%0d%0a`这串字符是用换行；
