@@ -1,7 +1,7 @@
 ---
 ID: 322
 post_title: 创业早期如何做用户调研？
-post_name: user-research-2
+post_name: user-research
 author: banpie
 post_date: 2016-06-30 00:00:00
 layout: post
