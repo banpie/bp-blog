@@ -1,16 +1,14 @@
 ---
-layout: single
+ID: 467
 post_title: 你不知道的搜索引擎选题法
-post_date: 2017-03-03
-post_name: autocomplete
-categories: 新媒体自习室
-tags: 
- - 搜索引擎
- - 内容营销
- - 选题
- - 新媒体自习室
-comments: true
+post_name: autocomplete-3
+author: banpie
+post_date: 2017-03-03 00:00:00
+layout: single
+link: http://www.xgclass.cn/autocomplete-3/
 published: true
+tags: [ ]
+categories: [ ]
 ---
 > 内容营销强调说：“生产对目标用户有价值的内容”。但是内容生产的很多时候又是一个“相对直觉”的过程，所以“有价值”这一件事情应该如何判断比较好呢？。
 
@@ -22,21 +20,21 @@ published: true
 
 你当然可以利用百度指数等数据产品，但是很多都是需要付费的，所以我们可以免费利用百度搜索下面`autocomplet`自动完成的功能来利用这个庞大的“内容数据库”。
 
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=m0380vaahlc&tiny=0&auto=0" allowfullscreen></iframe>
-
 比如：当我们在搜索新媒体的时候，我就已经可以获得很多的相关关键词了：
 
-- “新媒体运营职责”
-- “新媒体排版”
-- “新媒体写作”
+*   “新媒体运营职责”
+*   “新媒体排版”
+*   “新媒体写作”
 
 你当然还可以继续扩展关键字， 但是到这一个步骤，我们可以针对性这些提供的关键字来生产非常多的文章了，比如：
 
-- “新媒体运营职责全解析”
-- “新媒体运营的核心5大职责”
-- “新媒体排版5个步骤”
-- “新媒体排版入门指南”
+*   “新媒体运营职责全解析”
+*   “新媒体运营的核心5大职责”
+*   “新媒体排版5个步骤”
+*   “新媒体排版入门指南”
 
 而所有这些文章的选题都是基于搜索引擎提供的精准数据参考，这是为我们确保我们的生产的内容是用户所关心的。
 
-另外，Google同样也是具有这样的功能，只是因为中文搜索的市场占有率较小，所以数据的参考性可能不是准确，但是Google却有一个更为强大的配合工具：[http://keywordtool.io ](http://keywordtool.io/search/google/us/zh-cn/%25e6%2596%25b0%25e5%25aa%2592%25e4%25bd%2593/x6gWtaUmAQ5hn4W%252Bfff4D1A8tgUKCy6eBigZpA8Mt1vpZ1XndjdgtDDHHJq2C4D2pH5iIrRNNXrqPMkvOn3ivEa12SJoJscKir2lSvTZBhPF%252FoFGjWREDgBBVzO%252BZFm0G6uk3Tpy47aqSVLaYuh08gQ7ktw2JBitIxdpRdXg23uFY0wHnVD3D0zc7qVHS69ZywTHS02%252FIEvkDqIBxEc7Fg%253D%253D)，通过这个工具我们还直接直接对应的某个搜索关键字下不同长尾关键字的排名情况。
+另外，Google同样也是具有这样的功能，只是因为中文搜索的市场占有率较小，所以数据的参考性可能不是准确，但是Google却有一个更为强大的配合工具：[http://keywordtool.io ][1]，通过这个工具我们还直接直接对应的某个搜索关键字下不同长尾关键字的排名情况。
+
+ [1]: http://keywordtool.io/search/google/us/zh-cn/%25e6%2596%25b0%25e5%25aa%2592%25e4%25bd%2593/x6gWtaUmAQ5hn4W%252Bfff4D1A8tgUKCy6eBigZpA8Mt1vpZ1XndjdgtDDHHJq2C4D2pH5iIrRNNXrqPMkvOn3ivEa12SJoJscKir2lSvTZBhPF%252FoFGjWREDgBBVzO%252BZFm0G6uk3Tpy47aqSVLaYuh08gQ7ktw2JBitIxdpRdXg23uFY0wHnVD3D0zc7qVHS69ZywTHS02%252FIEvkDqIBxEc7Fg%253D%253D
