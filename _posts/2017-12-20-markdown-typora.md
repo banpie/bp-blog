@@ -3,13 +3,11 @@ ID: 410
 post_title: >
   比 Markdown Here
   更惊人的微信公众号发布指南出炉
-post_name: >
- markdown-typora
+post_name: markdown-typora
 author: banpie
 post_date: 2017-12-20 00:00:00
 layout: post
-link: >
-  http://www.xgclass.cn/solution-for-markdown-here-image-for-wechat-2/
+link: http://www.xgclass.cn/markdown-typora/
 published: true
 tags: [ ]
 categories:
@@ -70,13 +68,13 @@ categories:
 
 > 如果你想要自定义标题，正文、强调文本等等样式，你可以阅读原文查看《\[微信公众号终极排版指南\](https://learn.bpteach.com/course/24?utm_source= wechat.qq.com&utm_medium=referral&utm_campaign=cm310-bp&utm_term=typora-css&utm_content=textlink)》。
 
-[1]: https://ws3.sinaimg.cn/large/006tNc79gy1fp2286qanag30p00fn79j.gif
-[2]: https://ws3.sinaimg.cn/large/006tNc79gy1fp228pco70g30p00fnn68.gif
-[3]: https://ws4.sinaimg.cn/large/006tNc79gy1fp228r4vs7g30p00fnq8u.gif
-[4]: https://ws3.sinaimg.cn/large/006tNc79gy1fp229ecpahg30p00fn45h.gif
-[5]: https://ws1.sinaimg.cn/large/006tNc79gy1fp226awedaj31kw18rk5r.jpg
-[6]: https://ws2.sinaimg.cn/large/006tNc79gy1fp2268tazwj31kw1bnk0f.jpg
-[7]: https://github.com/BPteach/CM310-Exercise-Files/blob/master/%E7%AC%AC5%E7%AB%A0/TyporaWechat.css
-[8]: https://ws3.sinaimg.cn/large/006tNc79gy1fp23ihzcrhj31kw17z7sx.jpg
-[9]: https://ws3.sinaimg.cn/large/006tNc79gy1fp23jdj1mej31kw14rdlk.jpg
-[10]: https://ws3.sinaimg.cn/large/006tNc79gy1fp23xv8twrj31kw10t79p.jpg
+ [1]: https://ws3.sinaimg.cn/large/006tNc79gy1fp2286qanag30p00fn79j.gif
+ [2]: https://ws3.sinaimg.cn/large/006tNc79gy1fp228pco70g30p00fnn68.gif
+ [3]: https://ws4.sinaimg.cn/large/006tNc79gy1fp228r4vs7g30p00fnq8u.gif
+ [4]: https://ws3.sinaimg.cn/large/006tNc79gy1fp229ecpahg30p00fn45h.gif
+ [5]: https://ws1.sinaimg.cn/large/006tNc79gy1fp226awedaj31kw18rk5r.jpg
+ [6]: https://ws2.sinaimg.cn/large/006tNc79gy1fp2268tazwj31kw1bnk0f.jpg
+ [7]: https://github.com/BPteach/CM310-Exercise-Files/blob/master/%E7%AC%AC5%E7%AB%A0/TyporaWechat.css
+ [8]: https://ws3.sinaimg.cn/large/006tNc79gy1fp23ihzcrhj31kw17z7sx.jpg
+ [9]: https://ws3.sinaimg.cn/large/006tNc79gy1fp23jdj1mej31kw14rdlk.jpg
+ [10]: https://ws3.sinaimg.cn/large/006tNc79gy1fp23xv8twrj31kw10t79p.jpg
