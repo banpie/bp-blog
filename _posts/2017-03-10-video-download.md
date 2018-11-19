@@ -2,11 +2,11 @@
 ID: 468
 post_title: >
   如何下载微信公众号文章内的视频
-post_name: video-download-4
+post_name: video-download
 author: banpie
 post_date: 2017-03-10 00:00:00
 layout: post
-link: http://www.xgclass.cn/video-download-4/
+link: http://www.xgclass.cn/video-download/
 published: true
 tags:
   - 微信公众号
