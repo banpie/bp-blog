@@ -22,21 +22,16 @@ categories:
 
 ## 1、打开“设置”，然后点选“通用”菜单
 
-![][1]
+<img class="alignnone size-full wp-image-757" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-18.png" width="480" height="720" alt="" />
 
 ## 2、在“通用”菜单下，点击“辅助功能”
 
-![][2]
+<img class="alignnone size-full wp-image-758" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-19.png" width="500" height="750" alt="" />
 
 ## 3、在“辅助功能”菜单下，点选“减少动态效果 ”
 
-![][3]
+<img class="alignnone size-full wp-image-759" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-20.png" width="480" height="720" alt="" />
 
 ## 4、再一次点选“减少动态效果”，使开关变为绿色，完事儿！
 
-![][4]
-
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9PPiaNgiakoVR5R2LhFVxMDjS6QyXZuEPtUkrF67XTUW7uLGFmxFaB4ZL1K8ooa3ND6xgMry70qEpg/0
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9PPiaNgiakoVR5R2LhFVxMDjic2AL26fbaIA6htYox3sBPFiaiar04RTgN0MlclmcneibiamYibhGFghbbkw/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9PPiaNgiakoVR5R2LhFVxMDjxNg01neOvhvzib96iafdJ8q8vNExibeg6qs1b7o6QIweKq96shER3GDMw/0
- [4]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX9PPiaNgiakoVR5R2LhFVxMDjud2toCcmBo38eCYu2G7G89jic5rTWwv3jC7hxp7YYMl6qZFWXcVNRmw/0
+<img class="alignnone size-full wp-image-760" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-56.jpg" width="640" height="960" alt="" />
