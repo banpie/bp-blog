@@ -31,40 +31,34 @@ categories:
 
 首先访问新榜编辑器网站，注册账号后填写对应信息登陆。
 
-![][2]
+<img class="alignnone size-full wp-image-572" src="http://www.xgclass.cn/wp-content/uploads/2018/11/33872591.jpg" width="1280" height="662" alt="" />
 
 ### 2\. 绑定微信公众号
 
 点击右上角的`授权管理`，绑定公众号。
 
-![][3]
+<img class="alignnone size-full wp-image-573" src="http://www.xgclass.cn/wp-content/uploads/2018/11/9415306.jpg" width="1280" height="673" alt="" />
 
 ### 3\. 在新榜编辑器创建并渲染文章
 
 使用 Markdown 语言撰写文章，并配合Markdown Here 渲染，填写对应的作者、标题、图片后，点击`保存文章`。
 
-![][4]
+<img class="alignnone size-full wp-image-574" src="http://www.xgclass.cn/wp-content/uploads/2018/11/76517349.jpg" width="1280" height="659" alt="" />
 
 ### 4\. 同步文章
 
 文章保存后，会出现在新榜编辑器的`我的内容`选项中，进入该选项卡后，点击文章下面的`一键同步到平台`，然后选择选择对应的平台同步即可。
 
-![][5]
+<img class="alignnone size-full wp-image-575" src="http://www.xgclass.cn/wp-content/uploads/2018/11/85653617.jpg" width="1280" height="322" alt="" />
 
-![][6]
+<img class="alignnone size-full wp-image-576" src="http://www.xgclass.cn/wp-content/uploads/2018/11/55662905.jpg" width="1280" height="607" alt="" />
 
 ### 5\. 发布微信公众号文章
 
 同步后，文章就会出现在微信公众号后台的素材库中，你可以根据自己的需要进行群发。
 
-![][7]
+<img class="alignnone size-full wp-image-577" src="http://www.xgclass.cn/wp-content/uploads/2018/11/19207262.jpg" width="1280" height="621" alt="" />
 
 #
 
  [1]: https://edit.newrank.cn/
- [2]: http://cdn.bpteach.com/17-12-20/33872591.jpg
- [3]: http://cdn.bpteach.com/17-12-20/9415306.jpg
- [4]: http://cdn.bpteach.com/17-12-20/76517349.jpg
- [5]: http://cdn.bpteach.com/17-12-20/85653617.jpg
- [6]: http://cdn.bpteach.com/17-12-20/55662905.jpg
- [7]: http://cdn.bpteach.com/17-12-20/19207262.jpg
