@@ -37,7 +37,7 @@ categories:
 
 WordPress 是什么呢？**简单的来说，它就是一个程序**。好像我们电脑上安装QQ程序来聊天，安装 Typora 程序来写作，而我们安装 WordPress 来管理内容。只是不太一样的是，WordPress 程序不是安装在普通的个人电脑上，而是需要安装在服务器电脑上才能运行。
 
-![ACDB39A5-14B9-4BEC-9DC4-C2538CAE6ECE][1]
+<img class="alignnone size-full wp-image-557" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79ly1fp4g1371m0j31kw0xzqcl.jpg" width="1280" height="764" alt="ACDB39A5-14B9-4BEC-9DC4-C2538CAE6ECE" />
 
 当然 WordPress 到今天其实已经不仅仅是用于做内容管理了，你还可以拿它来开网店、做论坛、做问答社区、搭建企业站点等等（半撇私塾的站点也是使用WordPress 搭建的）。
 
@@ -55,11 +55,11 @@ Coding Pages！所以本文分享的就是利用 Coding Pages 实现 WordPress �
 
 1.  注册 Coding.net 的账号；
 
-![8BE22921-AC31-4D05-AE27-DC8102A97708][2]
+<img class="alignnone size-full wp-image-558" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp4g3vjd75j31kw0vlafm.jpg" width="1280" height="710" alt="8BE22921-AC31-4D05-AE27-DC8102A97708" />
 
 1.  完善你的个人信息，将账号免费升级至「银牌会员」。
 
-![8DC3F525-C838-40C0-AE70-168B97A0C586][3]
+<img class="alignnone size-full wp-image-559" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79ly1fp4g37mbb5j31i60swtfh.jpg" width="1280" height="682" alt="8DC3F525-C838-40C0-AE70-168B97A0C586" />
 
 ## WordPress 搭建操作过程
 
@@ -67,31 +67,31 @@ Coding Pages！所以本文分享的就是利用 Coding Pages 实现 WordPress �
 
 1.  在 https://bpteach.cn/2D4Brtn 页面右上角点击「Fork」将该项目复制到你自己的仓库。
 
-![172FE42B-244C-47E4-820B-1369B694A1CF][4]
+<img class="alignnone size-full wp-image-560" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp4g999p75j31kw0y949y.jpg" width="1280" height="770" alt="172FE42B-244C-47E4-820B-1369B694A1CF" />
 
 1.  「Fork」完毕后，你自己的仓库就会出现名为「dpages-WordPress-Demo」的项目了。你需要在这个项目里点击「代码 -> Pages 服务」，选择「动态 Pages」 选项卡，点击「开启」，选择部署来源，点击「保存」。稍等片刻即可完成部署并通过 `xx.coding.io` 访问你的网站。
 
-[![图片][5]][5] [![图片][6]][6]
+<img class="alignnone size-full wp-image-561" src="http://www.xgclass.cn/wp-content/uploads/2018/11/b4685f14-9ebb-4ed6-a1cc-0458e31fc7c6.png" width="1080" height="745" alt="图片" /> <img class="alignnone size-full wp-image-562" src="http://www.xgclass.cn/wp-content/uploads/2018/11/d6b0f693-e612-491e-889e-89ac5dd0d081.png" width="604" height="110" alt="图片" />
 
 1.  同时，你需要在这个页面中点击存储空间栏中的「连接信息」获取数据库连接信息。
 
-[![图片][7]][7]
+<img class="alignnone size-full wp-image-563" src="http://www.xgclass.cn/wp-content/uploads/2018/11/2e76fde7-f5ae-478f-944f-721072e0cc54.png" width="1063" height="505" alt="图片" />
 
 1.  打开部署的网站，填入第 3 步中获取的信息。
 
-[![图片][8]][8]
+<img class="alignnone size-full wp-image-564" src="http://www.xgclass.cn/wp-content/uploads/2018/11/6aa000f3-e64b-4166-8348-309e9f098ae5.png" width="731" height="380" alt="图片" />
 
 5、填写基本信息，安装 WordPress。
 
-[![图片][9]][9]
+<img class="alignnone size-full wp-image-565" src="http://www.xgclass.cn/wp-content/uploads/2018/11/04df3395-1129-4369-8ab2-4b62f19c1939.png" width="742" height="693" alt="图片" />
 
 6、安装完成后，你的网站就搭建成功了！（示例网站地址: ：https://bpteach.cn/2G3Zlbi）
 
-![00CAF769-E2B7-4D9C-833F-983D440833A5][10]
+<img class="alignnone size-full wp-image-566" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp4gscoh06j31kw0uf4aw.jpg" width="1280" height="684" alt="00CAF769-E2B7-4D9C-833F-983D440833A5" />
 
 1.  使用第 5 步中的信息登录 WordPress 后即可进入管理后台。
 
-[![图片][11]][11]
+<img class="alignnone size-full wp-image-567" src="http://www.xgclass.cn/wp-content/uploads/2018/11/310a7de6-d9e7-4c36-84cd-6c500f10bd2d.png" width="1280" height="677" alt="图片" />
 
 当然，接下来你还可以做很多事情，比如：
 
@@ -103,15 +103,3 @@ Coding Pages！所以本文分享的就是利用 Coding Pages 实现 WordPress �
 总之，WordPress 的折腾空间是无限之大的。后台插件的丰富、社区支持的完善，可以说到现在，几乎可以实现我平常工作中 95% 以上的内容管理需求。
 
 WordPress 的开始，也是折腾的开始，祝你愉快。
-
- [1]: https://ws3.sinaimg.cn/large/006tNc79ly1fp4g1371m0j31kw0xzqcl.jpg
- [2]: https://ws4.sinaimg.cn/large/006tNc79gy1fp4g3vjd75j31kw0vlafm.jpg
- [3]: https://ws3.sinaimg.cn/large/006tNc79ly1fp4g37mbb5j31i60swtfh.jpg
- [4]: https://ws2.sinaimg.cn/large/006tNc79gy1fp4g999p75j31kw0y949y.jpg
- [5]: https://dn-coding-net-production-pp.qbox.me/b4685f14-9ebb-4ed6-a1cc-0458e31fc7c6.png
- [6]: https://dn-coding-net-production-pp.qbox.me/d6b0f693-e612-491e-889e-89ac5dd0d081.png
- [7]: https://dn-coding-net-production-pp.qbox.me/2e76fde7-f5ae-478f-944f-721072e0cc54.png
- [8]: https://dn-coding-net-production-pp.qbox.me/6aa000f3-e64b-4166-8348-309e9f098ae5.png
- [9]: https://dn-coding-net-production-pp.qbox.me/04df3395-1129-4369-8ab2-4b62f19c1939.png
- [10]: https://ws2.sinaimg.cn/large/006tNc79gy1fp4gscoh06j31kw0uf4aw.jpg
- [11]: https://dn-coding-net-production-pp.qbox.me/310a7de6-d9e7-4c36-84cd-6c500f10bd2d.png
