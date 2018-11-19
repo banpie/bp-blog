@@ -1,7 +1,7 @@
 ---
 ID: 221
 post_title: 学校是如何扼杀创造力
-post_name: creativity-2
+post_name: creativity
 author: banpie
 post_date: 2016-06-12 00:00:00
 layout: post
