@@ -2,12 +2,12 @@
 ID: 474
 post_title: >
   如何利用PPT制作公众号动态头图
-post_name: ppt-for-wechat-gif-4
+post_name: ppt-for-wechat-gif
 author: banpie
 post_date: 2016-12-15 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/ppt-for-wechat-gif-4/
+  http://www.xgclass.cn/ppt-for-wechat-gif/
 published: true
 tags:
   - PPT
