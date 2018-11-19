@@ -2,12 +2,12 @@
 ID: 463
 post_title: >
   如何利用iPhone制作电影预告片级的短视频
-post_name: imovie-trailer-tutorial-3
+post_name: imovie-trailer-tutorial
 author: banpie
 post_date: 2017-01-20 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/imovie-trailer-tutorial-3/
+  http://www.xgclass.cn/imovie-trailer-tutorial/
 published: true
 tags:
   - iMovie
