@@ -24,8 +24,6 @@ categories:
 
 以下是用Balsamiq产出的原型图：
 
-![][1]
+<img class="alignnone size-full wp-image-633" src="http://www.xgclass.cn/wp-content/uploads/2018/11/d988cddca6e41410.png" width="200" height="200" alt="" />
 
 > 注：`Balsamiq`有网页版和客户端版本，客户端可以免费使用1个月，网页版没有限制。​
-
-[1]: http://i4.piimg.com/567571/d988cddca6e41410.png
