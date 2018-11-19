@@ -60,7 +60,9 @@ categories:
 最后，半撇的观点是：**有一个自己的网站，然后把网站和公众号的内容打通**。这是最省心的办法，因为你可以掌握所有的渠道信息，就不会被微信这个圈子限制住了。而且，**建站远远没有你想象的那么困难**。
 
 <div id="id_video_container_14651978969371824467" style="width:100%;height:360px">
-</div> (function(){ var option ={"auto_play":"0","file_id":"14651978969371824467","app_id":"1252799986","width":640,"height":360,"https":1}; /\*调用播放器进行播放\*/ new qcVideo.Player( /\*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换\*/ "id_video_container_14651978969371824467", option ); })() 
+</div>
+
+(function(){ var option ={"auto_play":"0","file_id":"14651978969371824467","app_id":"1252799986","width":640,"height":360,"https":1}; /*调用播放器进行播放*/ new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ "id_video_container_14651978969371824467", option ); })()
 
 广告时间：第三期「新媒体骇客训练营」即将开班，点击[预约占座][2]。
 
