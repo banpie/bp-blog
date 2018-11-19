@@ -2,12 +2,12 @@
 ID: 475
 post_title: >
   如何快速实现公众号文章弹幕效果
-post_name: wechat-bullet-screen-4
+post_name: wechat-bullet-screen
 author: banpie
 post_date: 2016-12-24 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/wechat-bullet-screen-4/
+  http://www.xgclass.cn/wechat-bullet-screen/
 published: true
 tags:
   - 弹幕
