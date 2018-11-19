@@ -1,6 +1,6 @@
 ---
 layout: post
-post_title: "故事结构入门课程上线"
+post_title: 故事结构入门课程上线
 post_date: 2017-2-8
 post_name: story-live
 published: true
