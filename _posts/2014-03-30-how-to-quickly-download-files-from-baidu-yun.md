@@ -20,11 +20,11 @@ categories:
 
 ## 1、输入“关键字”+“site:pan.baidu.com”
 
-在百度搜索中键入资源关键字，然后加上site:pan.baidu.com，比如：Powerpoint视频 site:pan.baidu.com 。![][1]
+在百度搜索中键入资源关键字，然后加上site:pan.baidu.com，比如：Powerpoint视频 site:pan.baidu.com 。<img class="alignnone size-full wp-image-744" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-15.png" width="620" height="259" alt="" />
 
 ## 2、查看资源搜索结果
 
-![][2]
+<img class="alignnone size-full wp-image-745" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-16.png" width="620" height="460" alt="" />
 
 ## 3、下载资源：
 
@@ -34,7 +34,7 @@ categories:
 
 *   点击「下载」-> 「普通下载」，直接将资源下载保存至硬盘
 
-![][3]
+<img class="alignnone size-full wp-image-746" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-17.png" width="620" height="345" alt="" />
 
 ## 4、网盘资源搜索工具
 
@@ -45,7 +45,3 @@ categories:
 *   网盘屋：www.wangpanwu.co
 
 *   盘易搜：www.panyisou.com
-
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicIrh4KuuBTSrUNjn7kbBTU4jXiak4YHhprQmNFjouH1YRptWibehysnZE9ibC6Wy0MwhYDN6rom5lLg/0
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicIrh4KuuBTSrUNjn7kbBTUYmeVbw9dz8g8pDNDT4iaLVCuRp8O8rh6CrvKia3ibLIxrnDkBbSlJbfzw/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicIrh4KuuBTSrUNjn7kbBTU801ficBbI2IISpDBBIhyJtlrvNCUWSqEqXhzt6r46JK1SRIsKt9Jnhg/0
