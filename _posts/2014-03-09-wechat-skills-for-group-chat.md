@@ -22,7 +22,7 @@ categories:
 
 只要长按TA的头像，微信对话框就会自动出现TA的名字了，输入你想对TA说的话之后，TA的微信就会弹出提示。
 
-![][1]
+<img class="alignnone size-full wp-image-773" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-60.jpg" width="620" height="472" alt="" />
 
 ## **2、微信群不见了，找的回来吗？**
 
@@ -30,14 +30,10 @@ categories:
 
 *   保存到通讯录：该微信群添加到通讯录里，彻底解决该现象的发生。
 
-![][2]
+<img class="alignnone size-full wp-image-774" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-61.jpg" width="620" height="455" alt="" />
 
 ## **3、说错话了，怎么办？**
 
 当你按住了微信的语音键录音后，但又不想发布的时候，按住录音的手指不要放开，向上滑动即可取消发送。
 
-![][3]
-
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXibOeW8bBicfcl43SQj7UMO1JwJ73VLGuzpzO4n7R3ibFjJopEdhkdv0oO3Z9FDTxGGvG03t8l0JpkoA/0
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXibOeW8bBicfcl43SQj7UMO1JuTjNiaOe2vticJtYRTZNSUYBkXNAicaiapxtf2zTaeEB8vx3GJcwj24hiag/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXibOeW8bBicfcl43SQj7UMO1JBPrQibOTdNlojMjiagAm2MdEZKqtXo6RNr7VtKAG3pRgCPcQsxNrjuWw/0
+<img class="alignnone size-full wp-image-775" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-62.jpg" width="620" height="454" alt="" />
