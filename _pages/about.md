@@ -37,6 +37,6 @@ categories: [ ]
 
 > *   <a href="http://www.zhihu.com/people/halfpie" target="_blank" rel="noopener">知乎</a>
 > *   <a href="https://github.com/devmidai" target="_blank" rel="noopener">Github</a>
-> *   \[邮箱\](<a class="url" href="mailto:mailto:banpie@bpteach.com" target="_blank" rel="noopener">mailto:banpie@bpteach.com</a>?subject=有个关于xx的问题想问你&body=我的目标: %0d%0a我的问题: %0d%0a已经使用的方法：%0d%0a其他辅助信息：)
+> *   [邮箱](banpie@bpteach.com)
+> *   [公众号](https://qr.api.cli.im/qr?data=http%253A%252F%252Fweixin.qq.com%252Fr%252FOUOmvnDEwy28rTTd9xYr&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=260&kid=cliim&key=66b32de956a67c918891a3832e92521e)
 
-## 公众号 半撇有道儿(banpie)  
