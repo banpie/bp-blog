@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 营销
 ---
 前几天看到一个朋友说：做生意这几年，回头才发现，BD、招聘、投资，其实做的都是营销的活。
 
