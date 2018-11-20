@@ -10,7 +10,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 工具
+  - 学习
 ---
 > Good Artists Copy, Great Artists Steal.
 
