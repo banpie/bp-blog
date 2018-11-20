@@ -9,9 +9,11 @@ layout: post
 link: >
   http://www.xgclass.cn/how-to-do-crm-in-any-platform/
 published: true
-tags: [ ]
+tags:
+  - CRM
 categories:
-  - 未分类
+  - 工具
+  - 营销
 ---
 营销是浪里淘沙，每一个营销手段的推进都为了想要离用户更近一点点。
 
