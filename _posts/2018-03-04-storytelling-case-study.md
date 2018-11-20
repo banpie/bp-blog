@@ -11,7 +11,7 @@ published: true
 tags:
   - 传播
 categories:
-  - 未分类
+  - 写作
 ---
 > 这是一篇拉片笔记，使用`HAAHAJ模型`对TED的视频进行故事结构的拆解。
 
