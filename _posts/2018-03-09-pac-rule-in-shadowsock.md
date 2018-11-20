@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 效率
 ---
 随着政府对于VPN的管控，「翻墙」似乎已经互联网人必须要具备的基础技能了。
 
