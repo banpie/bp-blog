@@ -12,6 +12,7 @@ published: true
 tags: [ ]
 categories:
   - 工具
+  - 工具
 ---
 > 本文适用任何水平、在任何平台写作的新媒体人，并且将比 Markdown Here 的公众号排版工作流节省2倍以上的，所以……放心上手。
 
