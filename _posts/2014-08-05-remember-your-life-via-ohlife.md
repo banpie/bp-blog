@@ -10,7 +10,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 > 导读：[OhLife][1] 是一个在线日记网站，它会根据你的设置，在固定时间给你发邮件给你，回复邮件就是写日记。[OhLife][1]用最简单的方式帮你记录你的人生。
 
@@ -75,7 +75,7 @@ categories:
  [1]: http://www.ohlife.com
  [2]: https://thelittlememory.com/
  [3]: http://www.banpie.info/how-to-sync-contacts-with-exchange-services/ "如何用Exchange同步电脑和手机的联系人"
- [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/1.insert-your-email-to-ohlife-from-banpie.info_-600x278.jpg
+ [4]: http://www.xgclass.cn/wp-content/uploads/2018/11/1.insert-your-email-to-ohlife-from-banpie.info_-600x278.jpg
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/2.-put-in-your-password-in-OhLife-from-banpie.info_.jpg
  [6]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/3.-change-email-setting-and-email-frequency-in-ohlife-from-banpie.info_.jpg
  [7]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/4.reply-to-ohlife-from-banpie.info_.jpg
