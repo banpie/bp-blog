@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 春节时一友人提“我电脑下载了10G的mp3，中毒后全丢了，歌名都不记得，可惜啊！”相信很多朋友会遇到这个问题，自己的音乐收藏文件夹收藏了几百首歌曲，想备份每一首歌曲的名字，方便丢失后重新下载，一首一首去手打文件名，明显不现实，要是能整理出歌名清单，备份下来那以后就不怕啦！今天伟仔就来教你如何把文件夹内歌名批量导出到txt生成清单。
 
@@ -47,7 +47,7 @@ categories:
 
 [![How-to-generate-a-list-of-your-favorite-mp3-05][5]][5]
 
- [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/1.jpg
+ [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/1.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/2.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/3.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/4.jpg
