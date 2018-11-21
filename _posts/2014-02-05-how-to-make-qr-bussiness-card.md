@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-02-05 17:12:48
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-make-qr-bussiness-card/
+  http://www.banpie.info/how-to-make-qr-bussiness-card/
 published: true
 tags: [ ]
 categories:
@@ -86,7 +86,7 @@ categories:
 
 ![][5]
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/qr-code-1.jpeg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/qr-code-1.jpeg
  [2]: _image/qr-code-2.jpeg
  [3]: _image/qr-code-3.jpeg
  [4]: _image/qr-code-4.jpeg
