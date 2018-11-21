@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 用手机看东西非常方便，但写东西就是件麻烦事。在许多时候，用一台带键盘鼠标的电脑处理事情要快速、高效许多。本期的AirDroid就是用来解决电脑和手机之间的“桥接”难题的。
 
@@ -66,7 +66,7 @@ categories:
  [3]: http://www.banpie.info/tag/wifi
  [4]: https://play.google.com/store/apps/details?id=com.sand.airdroid&referrer=utm_source%3Dairdroid%26utm_medium%3Dhomepage
  [5]: http://a.myapp.com/h/single.jsp?appid=86641&g_f=990939
- [6]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/afterinstallationofairdriod__thumb.jpg "after installation of airdriod_"
+ [6]: http://www.xgclass.cn/wp-content/uploads/2018/11/afterinstallationofairdriod__thumb.jpg "after installation of airdriod_"
  [7]: http://web.airdroid.com/ "http://web.airdroid.com/"
  [8]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/loginintoairdroid_thumb.jpg "login in to airdroid"
  [9]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/loginintoairdroid.jpg
