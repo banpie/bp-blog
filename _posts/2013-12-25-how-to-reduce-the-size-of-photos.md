@@ -6,7 +6,7 @@ author: banpie
 post_date: 2013-12-25 22:04:27
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-reduce-the-size-of-photos/
+  http://www.banpie.info/how-to-reduce-the-size-of-photos/
 published: true
 tags: [ ]
 categories:
@@ -32,6 +32,6 @@ categories:
 
 [![adjust pic size][3]][3]
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/right-click-picture.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/right-click-picture.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/readjust.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/adjust-pic-size.jpg
