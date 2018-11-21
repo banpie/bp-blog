@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-08-17 17:43:20
 layout: post
 link: >
-  http://www.xgclass.cn/airdroid-remote-control/
+  http://www.banpie.info/airdroid-remote-control/
 published: true
 tags: [ ]
 categories:
@@ -66,7 +66,7 @@ categories:
  [3]: http://www.banpie.info/tag/wifi
  [4]: https://play.google.com/store/apps/details?id=com.sand.airdroid&referrer=utm_source%3Dairdroid%26utm_medium%3Dhomepage
  [5]: http://a.myapp.com/h/single.jsp?appid=86641&g_f=990939
- [6]: http://www.xgclass.cn/wp-content/uploads/2018/11/afterinstallationofairdriod__thumb.jpg "after installation of airdriod_"
+ [6]: http://www.banpie.info/wp-content/uploads/2018/11/afterinstallationofairdriod__thumb.jpg "after installation of airdriod_"
  [7]: http://web.airdroid.com/ "http://web.airdroid.com/"
  [8]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/loginintoairdroid_thumb.jpg "login in to airdroid"
  [9]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/loginintoairdroid.jpg
