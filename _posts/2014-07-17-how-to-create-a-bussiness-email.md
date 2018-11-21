@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-07-17 14:52:38
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-create-a-bussiness-email/
+  http://www.banpie.info/how-to-create-a-bussiness-email/
 published: true
 tags: [ ]
 categories:
@@ -72,7 +72,7 @@ categories:
 
 *   如果你或者你想通过QQ面板的邮件按钮直接登陆企业邮箱，登陆企业邮箱后，点击“设置” ->“提醒服务”选项卡进行QQ号的绑定。
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/banpie-email-signature.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/banpie-email-signature.jpg
  [2]: http://exmail.qq.com/
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/apply-for-qq-Enterprise-mailbox.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/register-qq-Enterprise-mailbox.jpg
