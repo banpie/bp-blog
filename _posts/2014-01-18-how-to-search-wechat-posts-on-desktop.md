@@ -7,11 +7,11 @@ author: banpie
 post_date: 2014-01-18 17:21:52
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-search-wechat-posts-on-desktop/
+  http://www.banpie.info/how-to-search-wechat-posts-on-desktop/
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 最近阿呆问我：微信上有好多好文章，有没有什么方法能够通过关键词检索到呢？
 
@@ -44,7 +44,7 @@ categories:
 最后，祝大家周末吃喝痛快！
 
  [1]: http://www.banpie.info/2013/12/advanced-search-tips/
- [2]: _image/wechat-search-1.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/wechat-search-1.jpg
  [3]: _image/wechat-search-2.jpg
  [4]: _image/wechat-search-3.jpg
  [5]: _image/wechat-search-4.jpg
