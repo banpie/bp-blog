@@ -12,7 +12,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 过去在写网志的时候，为了激起点写作的情绪，会放一些略微“带回忆”的歌。但是，自从习惯了[ohlife][1]之后就很少写了，反倒博客成为了我最钟意的表达和学习的方式。博客虽然相对古老，但是区别于微博和社会化媒体的表达，它可以强迫你思考、不断地去学习新的知识，然后分享。
 
@@ -41,7 +41,7 @@ categories:
  [1]: http://www.banpie.info/remember-your-life-via-ohlife/
  [2]: http://www.rainymood.com/
  [3]: http://birdsong.fm/
- [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/RainyMood__thumb.jpg "Rainy Mood_"
+ [4]: http://www.xgclass.cn/wp-content/uploads/2018/11/RainyMood__thumb.jpg "Rainy Mood_"
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/RainyMood_.jpg
  [6]: http://jazzandrain.com/basic.html
  [7]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Birdsong.fm_thumb.jpg "Birdsong.fm"
