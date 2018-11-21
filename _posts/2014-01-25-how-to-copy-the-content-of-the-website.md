@@ -11,7 +11,7 @@ published: true
 tags:
   - Chrome
 categories:
-  - 未分类
+  - 工具
 ---
 小受哥最近在写一篇大稿子，需要在网上收集一些资料。每当他找到有用的素材时，直接选取网页中的内容复制。但是并不是所有的网站都那么友好，比如360图书馆，它的内容基本都是抓取别人的，却不给人复制，要先注册。对于这种死贱死贱的网站，不用点死贱死贱的办法，能行吗。
 
@@ -37,6 +37,6 @@ categories:
 
 需要注意的是，复制完需要的内容之后，最好把刚才的项去掉，不然浏览其它网站的时候，很多效果都会不用欣赏到了。
 
- [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-copy-the-content-of-the-website-01.jpg
+ [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/how-to-copy-the-content-of-the-website-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/ru_he_tu_po_bu_neng_fu_zhi_wang_zhan_nei_rong_02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/ru_he_tu_po_bu_neng_fu_zhi_wang_zhan_nei_rong_03.jpg
