@@ -11,7 +11,7 @@ link: http://www.xgclass.cn/markdown-typora/
 published: true
 tags: [ ]
 categories:
-  - 工具1
+  - 工具
 ---
 > 本文适用任何水平、在任何平台写作的新媒体人，并且将比 Markdown Here 的公众号排版工作流节省2倍以上的，所以……放心上手。
 
@@ -19,19 +19,19 @@ categories:
 
 1.  在任意支持 Markdown 语法的工具上写好文章，比如简书、Typora等编辑器；
 
-![][1]
+<img class="alignnone size-full wp-image-849" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp2286qanag30p00fn79j-2.gif" width="900" height="563" alt="" />
 
 1.  然后将 Markdown 格式的文章内容复制出来；
 
-![][2]
+<img class="alignnone size-full wp-image-850" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp228pco70g30p00fnn68-2.gif" width="900" height="563" alt="" />
 
 1.  将复制的内容黏贴到微信公众号后台；
 
-![][3]
+<img class="alignnone size-full wp-image-851" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp228r4vs7g30p00fnq8u-2.gif" width="900" height="563" alt="" />
 
 1.  点击浏览器中的 Markdown Here 插件，渲染文章为自定义的格式；
 
-![][4]
+<img class="alignnone size-full wp-image-852" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp229ecpahg30p00fn45h-2.gif" width="900" height="563" alt="" />
 
 但是这个过程有2个重要的问题：
 
@@ -42,39 +42,30 @@ categories:
 
 因此解决这个问题最重要的就是「**如何在 Typora 中自定义 Markdown 的渲染样式**」。很幸运的时候，Google 关键词一搜索，就找到了非常完成的官方文档。
 
-![typora-custom-css][5]
+<img class="alignnone size-full wp-image-853" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp226awedaj31kw18rk5r-2.jpg" width="1280" height="1006" alt="typora-custom-css" />
 
 来来回回调试了近2个小时，终于产出了这一套用于微信公众号的文章渲染规范。
 
-![wechatcss][6]
+<img class="alignnone size-full wp-image-854" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp2268tazwj31kw1bnk0f-2.jpg" width="1280" height="1071" alt="wechatcss" />
 
-> 本文也是用这一套样式渲染出来的，回复「**[Typora CSS][7]**」获取开源CSS代码。
+> 本文也是用这一套样式渲染出来的，回复「**[Typora CSS][1]**」获取开源CSS代码。
 
 好了，现在让我们来看一下整个强悍的写作和发布流程吧！
 
 1.  切换至使用 Typora 自定义样式，开始使用 Markdown 进行写作；
 
-![06982ED6-B4C1-49B1-BA33-ADD096433C78][8]
+<img class="alignnone size-full wp-image-855" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp23ihzcrhj31kw17z7sx-1.jpg" width="1280" height="989" alt="06982ED6-B4C1-49B1-BA33-ADD096433C78" />
 
 1.  写完以后，全选复制所有文章内容；
 
-![][9]
+<img class="alignnone size-full wp-image-856" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp23jdj1mej31kw14rdlk-1.jpg" width="1280" height="916" alt="" />
 
 1.  全选复制文章到微信公众号后台，保存发布！
 
-![][10]
+<img class="alignnone size-full wp-image-857" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp23xv8twrj31kw10t79p-1.jpg" width="1280" height="828" alt="" />
 
 排版的过程全程只需不到0.1秒的时间，投入2个小时做这件事情的性价比，嗯，我个人觉得还算满意。
 
 > 如果你想要自定义标题，正文、强调文本等等样式，你可以阅读原文查看《\[微信公众号终极排版指南\](https://learn.bpteach.com/course/24?utm_source= wechat.qq.com&utm_medium=referral&utm_campaign=cm310-bp&utm_term=typora-css&utm_content=textlink)》。
 
- [1]: https://ws3.sinaimg.cn/large/006tNc79gy1fp2286qanag30p00fn79j.gif
- [2]: https://ws3.sinaimg.cn/large/006tNc79gy1fp228pco70g30p00fnn68.gif
- [3]: https://ws4.sinaimg.cn/large/006tNc79gy1fp228r4vs7g30p00fnq8u.gif
- [4]: https://ws3.sinaimg.cn/large/006tNc79gy1fp229ecpahg30p00fn45h.gif
- [5]: https://ws1.sinaimg.cn/large/006tNc79gy1fp226awedaj31kw18rk5r.jpg
- [6]: https://ws2.sinaimg.cn/large/006tNc79gy1fp2268tazwj31kw1bnk0f.jpg
- [7]: https://github.com/BPteach/CM310-Exercise-Files/blob/master/%E7%AC%AC5%E7%AB%A0/TyporaWechat.css
- [8]: https://ws3.sinaimg.cn/large/006tNc79gy1fp23ihzcrhj31kw17z7sx.jpg
- [9]: https://ws3.sinaimg.cn/large/006tNc79gy1fp23jdj1mej31kw14rdlk.jpg
- [10]: https://ws3.sinaimg.cn/large/006tNc79gy1fp23xv8twrj31kw10t79p.jpg
+ [1]: https://github.com/BPteach/CM310-Exercise-Files/blob/master/%E7%AC%AC5%E7%AB%A0/TyporaWechat.css
