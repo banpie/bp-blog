@@ -12,7 +12,7 @@ published: true
 tags:
   - 微信
 categories:
-  - 未分类
+  - 工具
 ---
 在[如何在微信平台上优雅的写作][1]的教程中，半撇分享了如何利用**Markdown语言**和**渲染插件**进行快速的微信排版，但是渲染的格式毕竟有限，也容易和别人“撞脸”。本期半撇分享进阶版微信排版的方法：**Chrome**+**内嵌CSS**。（许多人说图片才是微信排版的最自由方式，但是它也降低了文章的打开速度，况且微信也只支持不超过300k的图片）
 
@@ -50,7 +50,7 @@ categories:
 
  [1]: http://www.banpie.info/how-to-write-beautifully-on-wechat-platform/ "如何在微信公众平台上优雅的写作"
  [2]: http://mp.weixin.qq.com/s?__biz=MzA5ODE4MDMzNQ==&mid=201185845&idx=1&sn=ce0983ecaa74e10a85cc8ec7c3c34980#rd
- [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/previewthepage_thumb.png "preview the page"
+ [3]: http://www.xgclass.cn/wp-content/uploads/2018/11/previewthepage_thumb.png "preview the page"
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/previewthepage.png
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/viewthesourcecode_thumb.png "view the source code"
  [6]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/viewthesourcecode.png
