@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 小玲的朋友小月月是一个用户研究员，小月月经常要去国外的用研网站查看最新资讯给自己充电，她非常想多知道一些这样的网站。小玲向她介绍SimilarSiteSearch，SimilarSiteSearch是一个专门寻找相似网站的搜索引擎，如果你经常需要搜索一些类型相同的站点，你也可以试试这个服务，下面我们看看怎么操作吧。
 
@@ -35,6 +35,6 @@ categories:
 
 [ ][2]
 
- [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-find-similar-sites-01.jpg
+ [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/how-to-find-similar-sites-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-find-similar-sites-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-find-similar-sites-03.jpg
