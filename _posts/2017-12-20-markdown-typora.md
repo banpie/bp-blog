@@ -21,15 +21,15 @@ categories:
 
 <img class="alignnone size-full wp-image-849" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp2286qanag30p00fn79j-2.gif" width="900" height="563" alt="" />
 
-1.  然后将 Markdown 格式的文章内容复制出来；
+2.  然后将 Markdown 格式的文章内容复制出来；
 
 <img class="alignnone size-full wp-image-850" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp228pco70g30p00fnn68-2.gif" width="900" height="563" alt="" />
 
-1.  将复制的内容黏贴到微信公众号后台；
+3.  将复制的内容黏贴到微信公众号后台；
 
 <img class="alignnone size-full wp-image-851" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp228r4vs7g30p00fnq8u-2.gif" width="900" height="563" alt="" />
 
-1.  点击浏览器中的 Markdown Here 插件，渲染文章为自定义的格式；
+4.  点击浏览器中的 Markdown Here 插件，渲染文章为自定义的格式；
 
 <img class="alignnone size-full wp-image-852" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp229ecpahg30p00fn45h-2.gif" width="900" height="563" alt="" />
 
@@ -56,16 +56,16 @@ categories:
 
 <img class="alignnone size-full wp-image-855" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp23ihzcrhj31kw17z7sx-1.jpg" width="1280" height="989" alt="06982ED6-B4C1-49B1-BA33-ADD096433C78" />
 
-1.  写完以后，全选复制所有文章内容；
+2.  写完以后，全选复制所有文章内容；
 
 <img class="alignnone size-full wp-image-856" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp23jdj1mej31kw14rdlk-1.jpg" width="1280" height="916" alt="" />
 
-1.  全选复制文章到微信公众号后台，保存发布！
+3.  全选复制文章到微信公众号后台，保存发布！
 
 <img class="alignnone size-full wp-image-857" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fp23xv8twrj31kw10t79p-1.jpg" width="1280" height="828" alt="" />
 
 排版的过程全程只需不到0.1秒的时间，投入2个小时做这件事情的性价比，嗯，我个人觉得还算满意。
 
-> 如果你想要自定义标题，正文、强调文本等等样式，你可以阅读原文查看《\[微信公众号终极排版指南\](https://learn.bpteach.com/course/24?utm_source= wechat.qq.com&utm_medium=referral&utm_campaign=cm310-bp&utm_term=typora-css&utm_content=textlink)》。
+> 如果你想要自定义标题，正文、强调文本等等样式，你可以阅读原文查看《[微信公众号终极排版指南\](https://learn.bpteach.com/course/24?utm_source= wechat.qq.com&utm_medium=referral&utm_campaign=cm310-bp&utm_term=typora-css&utm_content=textlink)》。
 
  [1]: https://github.com/BPteach/CM310-Exercise-Files/blob/master/%E7%AC%AC5%E7%AB%A0/TyporaWechat.css
