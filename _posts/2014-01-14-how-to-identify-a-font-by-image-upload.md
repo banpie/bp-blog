@@ -10,7 +10,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 阿半办公室的设计师阿方最近问了个问题：在网上看到一些中文字体，觉得特别的不错，有什么方法可以直接拿来用，或者找到对应的字体文件吗？
 
@@ -42,7 +42,7 @@ categories:
 
 [![How to identify a font  by image upload-03][5]][5]
 
- [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/How-to-identify-a-font-by-image-upload-01.jpg
+ [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/How-to-identify-a-font-by-image-upload-01.jpg
  [2]: www.qiuziti.com
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/How-to-identify-a-font-by-image-upload-02.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/How-to-identify-a-font-by-image-upload-04.png
