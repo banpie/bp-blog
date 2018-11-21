@@ -13,7 +13,7 @@ published: true
 tags:
   - 微信
 categories:
-  - 未分类
+  - 工具
 ---
 在第21期中，我介绍过《[如何在电脑上搜索微信公众平台文章][1]》（回复21查看）。最近，搜狗联合微信直接开放公众平台文章搜索渠道，百万级的优秀内容资源不再封闭在一个小小的圈子内。
 
@@ -35,5 +35,5 @@ categories:
 
  [1]: http://www.banpie.info/how-to-search-wechat-posts-on-desktop "如何在电脑上搜索微信公众平台文章"
  [2]: http://www.sogou.com
- [3]: _image/sougou-search-1.jpg
+ [3]: http://www.xgclass.cn/wp-content/uploads/2018/11/sougou-search-1.jpg
  [4]: _image/sougou-search-2.jpg
