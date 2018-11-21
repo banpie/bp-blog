@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 本期是小白抠图法的最后一期了，回复**54**和**57**期查看Clipping Magic前2期基础抠图教程。 在抠图中有一个最让人头疼的问题：抠毛发，本期将介绍如何利用Clipping Magic把毛发从图片中抠出来。（适用于对于那些对比明显，背景色单一的图片，背景复杂的图片请选择「Photoshop」）
 
@@ -39,7 +39,7 @@ categories:
 
 附上一张实例，大家可以去网上找这张图片练习一下，可以参考实例中的笔刷用法和前景色、背景色的选择，赶快去试试吧。 [![How-to-clip-photos-(3)-06][6]][6]
 
- [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/03/How-to-clip-photos-3-01.jpg
+ [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/How-to-clip-photos-3-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/03/How-to-clip-photos-3-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/03/How-to-clip-photos-3-03.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/03/How-to-clip-photos-3-04.jpg
