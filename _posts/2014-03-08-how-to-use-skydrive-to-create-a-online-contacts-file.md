@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 > @山中小石头：老板安排我做一个公司通讯录，包括邮箱、姓名、地址、电话、岗位、部门等信息，以前都是用qq群发，然后一个个收集信息，再黏贴到Excel表格里头，有什么更好的方法吗？
 
@@ -21,19 +21,19 @@ categories:
 
 在浏览器输入[www.skydrive.com][1]，登陆账户后，点击左上角的「创建」按钮，选择创建一个「Excel」文档。
 
-![][2]
+<img class="alignnone size-full wp-image-935" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-73.jpg" width="900" height="997" alt="" />
 
 ## 2、创建共享链接
 
 点击页面右上角的「共享」按钮，进入链接共享设置页面 -> 选择左边菜单栏的「获取链接」，勾选默认的「编辑」选项，并点击「创建链接」蓝色按钮，这样任何知道此链接的用户都在线编辑这个Excel文档。
 
-![][3]
+<img class="alignnone size-full wp-image-936" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-26.png" width="620" height="623" alt="" />
 
 ## 3、分享共享链接
 
 将创建的文档共享链接通过QQ、邮件、或者微信等方式发送给其他人，这样,他们只要访问这个网址，就可以直接在线填写了，你也就省去了一个一个复制黏贴的痛苦。
 
-![][4]
+<img class="alignnone size-full wp-image-940" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-28.png" width="620" height="348" alt="" />
 
 如果你想一个填写通知，阿半这里有现成的文字模板，对应的换上你自己的**Skydrive**短链接就行了（阅读原文有通讯录Excel模板）：
 
@@ -52,6 +52,3 @@ categories:
 最后，山中小石头是半撇有道儿的忠实选题提供者，阿半很是感谢。
 
  [1]: http://www.skydrive.com
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicEHyEZDn9az89GibKrQiclQlZFU7z5YzK7xg0Sicq2yiaOOQ8GXnnGE5Cm1WCnicd47kic58EwCLpYSWbQ/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicEHyEZDn9az89GibKrQiclQlWKD6dSH7RDicgll67W9YU50f4NYyTEBDlTzWYBERpDtNaJWjnbSuM8A/0
- [4]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicEHyEZDn9az89GibKrQiclQlibpls6nch7ibQcFlAIbPC3TJkUicwSqkMibdBDbwcey5fTMd3P2uoDrvpw/0
