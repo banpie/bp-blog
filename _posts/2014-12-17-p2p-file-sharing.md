@@ -10,7 +10,7 @@ link: http://www.xgclass.cn/p2p-file-sharing/
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 以前给别人传文件通常会用QQ，不过打开软件再从通讯列表中找到那个人确实也是一个颇为繁琐的过程，如果中间断线了，还得重新在上传一次。
 
@@ -46,7 +46,7 @@ categories:
 
 ![download][4]
 
- [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/reep.io-peer-to-peer-filesharing-made-easy-600x350.png
+ [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/reep.io-peer-to-peer-filesharing-made-easy-600x350.png
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/password-600x259.png
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/password.png
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/download-600x286.png
