@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 *   如果太阳下山，就打开我家的电灯
 
@@ -43,7 +43,7 @@ IFTTT（if this then that）服务主要由四个关键词组成：**Task、Trig
 
 在浏览器地址栏输入www.ifttt.com，访问ITFFF网站，点击左上角的「Create」按钮创建一个Task命令。
 
-![][1]
+<img class="alignnone size-full wp-image-947" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-80.jpg" width="620" height="296" alt="" />
 
 ## 2、设置this程序条件
 
@@ -51,7 +51,7 @@ IFTTT（if this then that）服务主要由四个关键词组成：**Task、Trig
 
 菜单中，选择「Pocket」这个应用Channel-> 进入「Choose a Trigger」条件选择框，选择「New favorite item」条件，点击「Create Trigger」即可成功创建程序条件。
 
-![][2]
+<img class="alignnone size-full wp-image-951" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-83.jpg" width="620" height="738" alt="" />
 
 ## 3、设置that程序命令
 
@@ -61,7 +61,7 @@ IFTTT（if this then that）服务主要由四个关键词组成：**Task、Trig
 
 Ps:为知笔记的账号附带一个后缀为@wiz.cn的邮箱，只要往这个为知邮箱发邮件，为知会自动将邮件转存到你的笔记中，你可在为知笔记客户端的账号信息查看该邮箱名称）
 
-![][3]
+<img class="alignnone size-full wp-image-952" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-84.jpg" width="620" height="652" alt="" />
 
 ## 4、更多
 
@@ -71,9 +71,4 @@ Ps:为知笔记的账号附带一个后缀为@wiz.cn的邮箱，只要往这个�
 
 如果你的手机系统是IOS，也可以搜索IFTTT下载APP应用。（靠！为什么支持安卓……）
 
-![][4]
-
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX8Iqbrq9FmyUhC5P66xlIH2Ystgd0DDEoXOIdmvgWUAo8hdUpCAlhH8NvIPvvWRUvxcS27GDsqP4Q/0
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX8Iqbrq9FmyUhC5P66xlIH2BNJaiaalrDhg1ZGA5lxY2e6I3gDJ2c2lJ7kOCDgNG6a0BPWC98Wf53w/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX8Iqbrq9FmyUhC5P66xlIH280Wnl6UPz83gXvawtghnX9iaOHWVWEbtA7g2huNfRDQjj3XutlErLMw/0
- [4]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicQcdwWYa2oJNbfuzMgqTl0SAGlojA56xNLteeW5VO6vENFq6YVGfibtGhKH33GhkllaSQRibhvRKtw/0
+<img class="alignnone size-full wp-image-953" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-85.jpg" width="620" height="228" alt="" />
