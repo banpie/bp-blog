@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 看一些视频教程的时候，经常看到类似 goo.gl/QjLEws 的短链接，于是就被这种极简、优美、Geek感十足的短链所深深吸引住了。
 
@@ -50,7 +50,7 @@ categories:
 如果你想要查看一些短链接的原始地址，又不想直接打开它，你可以尝试一下longurl这个复原工具，点击[链接][6]跳转。
 
  [1]: http://goo.gl/
- [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/goo.gl-Google-Search.png
+ [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/goo.gl-Google-Search.png
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/Google-URL-Shortener.png
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/Google-URL-Shortener1.png
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/Google-URL-Shortener-track.png
