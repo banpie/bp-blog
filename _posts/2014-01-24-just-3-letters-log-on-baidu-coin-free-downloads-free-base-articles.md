@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-01-24 21:45:59
 layout: post
 link: >
-  http://www.xgclass.cn/just-3-letters-log-on-baidu-coin-free-downloads-free-base-articles/
+  http://www.banpie.info/just-3-letters-log-on-baidu-coin-free-downloads-free-base-articles/
 published: true
 tags: [ ]
 categories:
@@ -39,6 +39,6 @@ categories:
 [![how-to-download-baidu-wenku-articles-03][4]][4]
 
  [1]: http://www.banpie.info/how-to-copy-the-content-of-the-website/
- [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/how-to-download-baidu-wenku-articles-01.png
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/how-to-download-baidu-wenku-articles-01.png
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-download-baidu-wenku-articles-02.png
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-download-baidu-wenku-articles-03.png
