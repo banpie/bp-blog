@@ -38,7 +38,7 @@ categories:
 
 在很久很久以前，我们访问各种网站都是简单而直接的，用户的请求通过互联网发送到服务提供方，服务提供方直接将信息反馈给用户。
 
-![ss-01](http://upload-images.jianshu.io/upload_images/1668324-686b630266d7979e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 然后有一天，[GFW](http://zh.wikipedia.org/wiki/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B) 就出现了，他像一个收过路费的强盗一样夹在了在用户和服务之间，每当用户需要获取信息，都经过了 GFW，GFW将它不喜欢的内容统统过滤掉，于是客户当触发 GFW 的过滤规则的时候，就会收到`Connection Reset`这样的响应内容，而无法接收到正常的内容。
 
