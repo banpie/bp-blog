@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 又到每个月最痛苦的交月度报告的时候了，月度报告必须要本人签名才有效，可是小玲正好又不在公司，报告上的“本人签名”要怎么弄呢？小玲想到了**HelloSign**网站正好可以解决小玲的问题。
 
@@ -50,7 +50,7 @@ categories:
 [![6][7]][7]
 
  [1]: https://www.hellosign.com/
- [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/1.jpg
+ [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/1-1.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/2.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/3.jpg
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/4.jpg
