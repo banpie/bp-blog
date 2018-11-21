@@ -10,7 +10,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 本次课程分享如何利用“**酷划锁屏**”APP赚小钱的方法，注册填写邀请码**8113599**8即可获2元奖励，点击[链接][1]立即开始锁屏赚小钱。
 
@@ -45,5 +45,5 @@ categories:
  [27]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/How-to-make-money-without-any-investment-via-kuhua-app-13.jpg
  [28]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/How-to-make-money-without-any-investment-via-kuhua-app-14-600x337.jpg
  [29]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/How-to-make-money-without-any-investment-via-kuhua-app-14.jpg
- [30]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/How-to-make-money-without-any-investment-via-kuhua-app-15-600x337.jpg
+ [30]: http://www.xgclass.cn/wp-content/uploads/2018/11/How-to-make-money-without-any-investment-via-kuhua-app-15-600x337.jpg
  [31]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/How-to-make-money-without-any-investment-via-kuhua-app-15.jpg
