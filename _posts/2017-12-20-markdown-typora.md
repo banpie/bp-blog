@@ -59,6 +59,7 @@ categories:
 
 排版的过程全程只需不到0.1秒的时间，投入2个小时做这件事情的性价比，嗯，我个人觉得还算满意。
 
+如果你想要自定义标题，正文、强调文本等等样式，你可以阅读原文查看 [微信公众号终极排版指南](https://learn.bpteach.com/course/24?utm_source= wechat.qq.com&utm_medium=referral&utm_campaign=cm310-bp&utm_term=typora-css&utm_content=textlink)。
 
 
 [1]: https://github.com/BPteach/CM310-Exercise-Files/blob/master/%E7%AC%AC5%E7%AB%A0/TyporaWechat.css
