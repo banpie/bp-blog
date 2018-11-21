@@ -10,7 +10,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 前几日市场部晓玲，在优酷网看了个企业宣传片特喜欢，想下载到电脑，发现得安装优酷专门的下载器，她问我“好麻烦，有木有可以直接下载的途径呢？”我大腿一拍，以前用过一神器啊——硕鼠！
 
@@ -40,7 +40,7 @@ categories:
 
 [![20140116-How-to-quickly-and-easily-download-videos-mainstream-sites-05][5]][5]
 
- [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/11.jpg
+ [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/11.jpg
  [2]: http://www.flvcd.com/
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/21.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/41.jpg
