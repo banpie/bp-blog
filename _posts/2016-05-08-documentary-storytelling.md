@@ -196,7 +196,7 @@ Levine正在为因事故失去双臂去争取赔偿的当事人辩护，他的�
 *   郑丽贞, 《卡桑，一个杂货商女儿的真情回顾》
 *   吴念真, 《这些人，那些事》
 
- [1]: _image/人人都是纪录片导演.032.jpeg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/人人都是纪录片导演.032.jpeg
  [2]: https://www.amazon.cn/%E6%95%85%E4%BA%8B-%E6%9D%90%E8%B4%A8-%E7%BB%93%E6%9E%84-%E9%A3%8E%E6%A0%BC%E5%92%8C%E9%93%B6%E5%B9%95%E5%89%A7%E4%BD%9C%E7%9A%84%E5%8E%9F%E7%90%86-%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E9%BA%A6%E5%9F%BA/dp/B00NBT68SA/ref=sr_1_1?ie=UTF8&qid=1462438641&sr=8-1&keywords=%E6%95%85%E4%BA%8B
  [3]: https://www.amazon.cn/%E5%8D%83%E9%9D%A2%E8%8B%B1%E9%9B%84-%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94/dp/B01AN8SAY6/ref=sr_1_1?ie=UTF8&qid=1462438675&sr=8-1&keywords=%E5%8D%83%E9%9D%A2%E8%8B%B1%E9%9B%84
  [4]: https://www.amazon.cn/%E5%BD%B1%E5%93%8D%E5%8A%9B-%E7%BD%97%E4%BC%AF%E7%89%B9%E2%80%A2%E8%A5%BF%E5%A5%A5%E8%BF%AA%E5%B0%BC/dp/B005G20NEU/ref=sr_1_2?ie=UTF8&qid=1462438757&sr=8-2&keywords=%E5%BD%B1%E5%93%8D%E5%8A%9B

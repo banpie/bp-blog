@@ -58,11 +58,11 @@ categories:
 ![][8] ![][9]
 
  [1]: http://www.banpie.info/2014/02/how-to-make-tag-cloud-via-wordle/
- [2]: _image/word-cloud-1.jpeg
- [3]: _image/word-cloud-2.jpeg
- [4]: _image/word-cloud-3.jpeg
- [5]: _image/word-cloud-4.jpeg
- [6]: _image/word-cloud-5.jpeg
- [7]: _image/word-cloud-6.jpeg
- [8]: _image/word-cloud-7.jpeg
- [9]: _image/word-cloud-8.jpeg
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/word-cloud-1.jpeg
+ [3]: http://www.banpie.info/wp-content/uploads/2018/11/word-cloud-2.jpeg
+ [4]: http://www.banpie.info/wp-content/uploads/2018/11/word-cloud-3.jpeg
+ [5]: http://www.banpie.info/wp-content/uploads/2018/11/word-cloud-4.jpeg
+ [6]: http://www.banpie.info/wp-content/uploads/2018/11/word-cloud-5.jpeg
+ [7]: http://www.banpie.info/wp-content/uploads/2018/11/word-cloud-6.jpeg
+ [8]: http://www.banpie.info/wp-content/uploads/2018/11/word-cloud-7.jpeg
+ [9]: http://www.banpie.info/wp-content/uploads/2018/11/word-cloud-8.jpeg

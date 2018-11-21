@@ -34,4 +34,4 @@ categories:
 > 如果遇到无法下载Youtube视频的情况，请直接上`Clipconverter`黏贴Yotube视频链接即可下载。
 
  [1]: http://www.banpie.info/wp-content/uploads/2018/11/chrome-store.jpeg
- [2]: _image/download-video-from-any-websites/video-downloader.jpeg
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/download-video-from-any-websites/video-downloader.jpeg

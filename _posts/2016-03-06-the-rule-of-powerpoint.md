@@ -96,8 +96,8 @@ Ps.：如下的创客贴演示文件用15分钟构思完成，使用的Keynote�
 [^4]:    
     [The Infographic of 10 Slides Structure][6] <a href="4" rev="footnote">↩</a>
 
- [1]: _image/the-rule-of-powerpoint/part1.gif
- [2]: _image/the-rule-of-powerpoint/part2.gif
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/the-rule-of-powerpoint/part1.gif
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/the-rule-of-powerpoint/part2.gif
  [3]: https://book.douban.com/subject/3251585/
  [4]: https://book.douban.com/subject/5288156/
  [5]: http://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/

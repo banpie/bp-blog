@@ -60,6 +60,6 @@ categories:
 
 所以我说的当然也可能是错的。
 
- [1]: _image/故事结构_1114.016.png
- [2]: _image/故事结构_1114.017.png
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/故事结构_1114.016.png
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/故事结构_1114.017.png
  [3]: http://www.banpie.info/wp-content/uploads/2018/11/半撇订阅号封面.002.png

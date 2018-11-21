@@ -45,6 +45,6 @@ categories:
 
  [1]: http://www.banpie.info/2013/12/advanced-search-tips/
  [2]: http://www.banpie.info/wp-content/uploads/2018/11/wechat-search-1.jpg
- [3]: _image/wechat-search-2.jpg
- [4]: _image/wechat-search-3.jpg
- [5]: _image/wechat-search-4.jpg
+ [3]: http://www.banpie.info/wp-content/uploads/2018/11/wechat-search-2.jpg
+ [4]: http://www.banpie.info/wp-content/uploads/2018/11/wechat-search-3.jpg
+ [5]: http://www.banpie.info/wp-content/uploads/2018/11/wechat-search-4.jpg

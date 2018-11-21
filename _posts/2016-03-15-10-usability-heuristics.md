@@ -108,12 +108,12 @@ categories:
 > 扩展阅读：[10-Usability-Heuristics for User Interface Design][10]
 
  [1]: http://www.banpie.info/wp-content/uploads/2018/11/1_visibility.jpg
- [2]: /_image/in-post/10-Usability-Heuristics/2_real-world.jpg
- [3]: /_image/in-post/10-Usability-Heuristics/3_freedom.jpg
- [4]: /_image/in-post/10-Usability-Heuristics/4_standards.jpg
- [5]: /_image/in-post/10-Usability-Heuristics/5_error.jpg
- [6]: /_image/in-post/10-Usability-Heuristics/6_recognition.jpg
- [7]: /_image/in-post/10-Usability-Heuristics/7_flexibility.jpg
- [8]: /_image/in-post/10-Usability-Heuristics/8_minimalist.jpg
- [9]: /_image/in-post/10-Usability-Heuristics/9_404.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/2_real-world.jpg
+ [3]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/3_freedom.jpg
+ [4]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/4_standards.jpg
+ [5]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/5_error.jpg
+ [6]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/6_recognition.jpg
+ [7]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/7_flexibility.jpg
+ [8]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/8_minimalist.jpg
+ [9]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/9_404.jpg
  [10]: https://www.nngroup.com/articles/ten-usability-heuristics/

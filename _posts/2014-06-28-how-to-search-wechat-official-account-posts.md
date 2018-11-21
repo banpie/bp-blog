@@ -36,4 +36,4 @@ categories:
  [1]: http://www.banpie.info/how-to-search-wechat-posts-on-desktop "如何在电脑上搜索微信公众平台文章"
  [2]: http://www.sogou.com
  [3]: http://www.banpie.info/wp-content/uploads/2018/11/sougou-search-1.jpg
- [4]: _image/sougou-search-2.jpg
+ [4]: http://www.banpie.info/wp-content/uploads/2018/11/sougou-search-2.jpg

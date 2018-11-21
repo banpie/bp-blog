@@ -87,7 +87,7 @@ categories:
 ![][5]
 
  [1]: http://www.banpie.info/wp-content/uploads/2018/11/qr-code-1.jpeg
- [2]: _image/qr-code-2.jpeg
- [3]: _image/qr-code-3.jpeg
- [4]: _image/qr-code-4.jpeg
- [5]: _image/qr-code-5.jpeg
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/qr-code-2.jpeg
+ [3]: http://www.banpie.info/wp-content/uploads/2018/11/qr-code-3.jpeg
+ [4]: http://www.banpie.info/wp-content/uploads/2018/11/qr-code-4.jpeg
+ [5]: http://www.banpie.info/wp-content/uploads/2018/11/qr-code-5.jpeg

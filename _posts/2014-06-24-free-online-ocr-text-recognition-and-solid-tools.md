@@ -56,5 +56,5 @@ PS：这项在线服务虽然免费，但是，ABBYY FineReader Online 的服务
 
  [1]: http://www.banpie.info/how-to-convert-the-picture-into-word/
  [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/ocr-1.jpg
- [3]: _image/ocr-2.jpg
- [4]: _image/ocr-3.jpg
+ [3]: http://www.banpie.info/wp-content/uploads/2018/11/ocr-2.jpg
+ [4]: http://www.banpie.info/wp-content/uploads/2018/11/ocr-3.jpg

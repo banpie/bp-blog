@@ -83,9 +83,9 @@ Stanford D.School 所倡导设计思维的原则加入了视觉化思考和社�
 *   [Venture Lab: Design Thinking Action Lab][5]
 *   [Book: Designing for Growth Tool Kit][6]
 
- [1]: _image/design-thinking/1.png
- [2]: _image/design-thinking/2.png
- [3]: _image/design-thinking/3.jpg
- [4]: _image/design-thinking/4.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/design-thinking/1.png
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/design-thinking/2.png
+ [3]: http://www.banpie.info/wp-content/uploads/2018/11/design-thinking/3.jpg
+ [4]: http://www.banpie.info/wp-content/uploads/2018/11/design-thinking/4.jpg
  [5]: https://novoed.com/designthinking
  [6]: http://www.amazon.com/Designing-Growth-Thinking-Managers-Publishing/dp/0231158386
