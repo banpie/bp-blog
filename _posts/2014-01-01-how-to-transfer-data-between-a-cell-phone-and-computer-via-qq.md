@@ -12,7 +12,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 阿半办公室有位江湖人称“卉姐”的编辑，今天“卉姐”问了阿半一个问题：怎么用把微信公众号的文章抠出来，然后传到电脑再次编辑呢？
 
@@ -44,6 +44,6 @@ PC段QQ收到这个链接之后，复制、粘贴到浏览器地址栏，你就�
 
 最后，阿半祝各位读者，2014年新年快乐！
 
- [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/copy-url-from-wechat.png
+ [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/copy-url-from-wechat.png
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/open-filesharing-windows.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/send-file-through-mobile-qq.png
