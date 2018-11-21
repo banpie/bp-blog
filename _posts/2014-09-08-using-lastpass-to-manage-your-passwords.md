@@ -7,11 +7,11 @@ author: banpie
 post_date: 2014-09-08 10:23:30
 layout: post
 link: >
-  http://www.xgclass.cn/using-lastpass-to-manage-your-passwords/
+  http://www.banpie.info/using-lastpass-to-manage-your-passwords/
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 iCloud的照片泄露多多少少给我们的账户安全提了个小醒，现在有越来越多的人开始为不同的网站设置不同的密码，但是这样一来，也给自己的记忆造成了许多负担。本期半撇推荐LastPass进行帐号密码的一站式管理：帮助你管理你的你所有的密码，这样你就能把心思放在更重要的事情上。
 
@@ -54,7 +54,7 @@ Android手机点击此[链接][8]下载LastPass应用，访问IOS手机点击此
 但是，半撇也是只建议保存一般性的网站，对于网银和一些金融账号，还是通过你的大脑记忆是最安全的。
 
  [1]: https://lastpass.com/
- [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/the-screenshot-of-the-lastpass-website-600x304.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/the-screenshot-of-the-lastpass-website-600x304.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/the-screenshot-of-the-lastpass-website.jpg
  [4]: https://lastpass.com/create_account.php?fromloginpage=1
  [5]: https://lastpass.com/promo.php?n=AppSumo&h=5395864c42a0ae0fe571f914852e9dd2bc5b5b218e9d15bee277029d8d0a81c5
