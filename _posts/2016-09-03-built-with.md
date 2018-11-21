@@ -35,23 +35,23 @@ categories:
 
 在浏览器中输入<www.builtwith.com>访问这个技术勘探神器
 
-![](./_image/屏幕快照 2016-09-03 下午8.45.32.png)
+![](http://www.banpie.info/wp-content/uploads/2018/11/屏幕快照 2016-09-03 下午8.45.32.png)
 
 ## 2\. 输入目标域名
 
-在官网页面的地址栏中输入你想查询的产品的网页地址，比如: <blog.whatyouneed.cc> ![](./_image/屏幕快照 2016-09-03 下午8.53.57.png)
+在官网页面的地址栏中输入你想查询的产品的网页地址，比如: <blog.whatyouneed.cc> ![](http://www.banpie.info/wp-content/uploads/2018/11/屏幕快照 2016-09-03 下午8.53.57.png)
 
 ## 3\. 查看技术详情
 
-在`Content Management System` 模块，你就可以看见**Ghost**这个东西了，所以果然用的CMS系统，除此之外，你还可以查看他们的服务器配置，网站数据分析工具，DNS，CDN等等技术架构。 ![](./_image/屏幕快照 2016-09-03 下午8.45.47.png)
+在`Content Management System` 模块，你就可以看见**Ghost**这个东西了，所以果然用的CMS系统，除此之外，你还可以查看他们的服务器配置，网站数据分析工具，DNS，CDN等等技术架构。 ![](http://www.banpie.info/wp-content/uploads/2018/11/屏幕快照 2016-09-03 下午8.45.47.png)
 
 顺藤摸瓜，再看看Ghost CMS系统开发者的介绍，居然还是开源的。
 
-![](./_image/屏幕快照 2016-09-03 下午8.46.30.png)
+![](http://www.banpie.info/wp-content/uploads/2018/11/屏幕快照 2016-09-03 下午8.46.30.png)
 
 再去首页一看，还有成熟的托管方案，所以其实一个月19刀给他们，就基本什么都不用管了。
 
-![](./_image/屏幕快照 2016-09-03 下午8.46.44.png)
+![](http://www.banpie.info/wp-content/uploads/2018/11/屏幕快照 2016-09-03 下午8.46.44.png)
 
 看到这种集成托管与开源自主开发的CMS解决方案，开发者都是非常开心的，因为这靠着开源工具吸引人气，靠着Saas做收费服务的产品一定差不到哪里去，而且基本部署也是非常的便捷。
 
@@ -59,4 +59,4 @@ categories:
 
 相信我，这种方式靠谱而且便宜的多。
 
- [1]: ./_image/WechatIMG13.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/WechatIMG13.jpg

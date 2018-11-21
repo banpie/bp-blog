@@ -200,11 +200,11 @@ X 可以有多种形式，你工作的地点，你的政治倾向，你归属的
 *   第二种方法视传播过程为一个信息交换的过程，更关注于用符号学去诠释，认为不同的环境会对同一个信息有不同的理解，虽然理解不同，但是最后也是产生有效的结果。
 *   第三种方法关注我们如何利用传播来理解这个世界，它强调我们在与周围交流的过程，也在构建、强化了我们的身份认同。
 
- [1]: ./_image/Pyramid.jpg
- [2]: ./_image/model.jpg
- [3]: ./_image/basic.jpg
- [4]: ./_image/lasswell.jpg
- [5]: ./_image/shannon.jpg
- [6]: ./_image/jacobson.jpg
- [7]: ./_image/function.jpg
- [8]: ./_image/culture.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/Pyramid.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/model.jpg
+ [3]: http://www.banpie.info/wp-content/uploads/2018/11/basic.jpg
+ [4]: http://www.banpie.info/wp-content/uploads/2018/11/lasswell.jpg
+ [5]: http://www.banpie.info/wp-content/uploads/2018/11/shannon.jpg
+ [6]: http://www.banpie.info/wp-content/uploads/2018/11/jacobson.jpg
+ [7]: http://www.banpie.info/wp-content/uploads/2018/11/function.jpg
+ [8]: http://www.banpie.info/wp-content/uploads/2018/11/culture.jpg

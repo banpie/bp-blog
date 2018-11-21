@@ -74,7 +74,7 @@ categories:
 > *   这个问题，可以参见我们的[如何利用Goagent进行科学上网][5]的教程链接。
 
  [1]: https://drive.google.com/
- [2]: ./_image/ceate-google-docs.png
- [3]: ./_image/share-google-docs1.png
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/ceate-google-docs.png
+ [3]: http://www.banpie.info/wp-content/uploads/2018/11/share-google-docs1.png
  [4]: ~/qq-snapchat.png
  [5]: http://www.banpie.info/how-to-use-goagent-to-science-online/

@@ -58,10 +58,10 @@ categories:
 
 学习是一个反复的过程。如果有一段时间我又没有使用GH4，一些类似的问题可能又会重复地出现，这时候只需通过Trello的全局搜索功能，我就能很快的定位到这个问题的`Card`，通过这个详细的问题跟踪记录，我不仅不需要再做重复的搜索工作，而且也可以从笔记中获取对应的知识。
 
-![](./_image/trello search.png) **随着你解决的问题越来越多，学习的课程越来越多，你就会形成在这个细分领域的独有的知识体系**，到时候你就可以用上另外一个学习方法，叫做“教是做好的学”。
+![](http://www.banpie.info/wp-content/uploads/2018/11/trello search.png) **随着你解决的问题越来越多，学习的课程越来越多，你就会形成在这个细分领域的独有的知识体系**，到时候你就可以用上另外一个学习方法，叫做“教是做好的学”。
 
 ![][3]
 
- [1]: ./_image/trello.png
- [2]: ./_image/card.jpg
- [3]: ./_image/cnm.png
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/trello.png
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/card.jpg
+ [3]: http://www.banpie.info/wp-content/uploads/2018/11/cnm.png

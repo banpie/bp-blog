@@ -50,4 +50,4 @@ Ken Robinson 当然同意犯错并不等于创新，但是**如果永不犯错�
 
 这是一个教育家最后的话，我也以我在知乎看过的刘二所说过一句话做结尾：**但凡是用心的学生，但凡是热爱教育事业的老师，都会捕捉住一点一滴的新奇**。
 
- [1]: ./_image/C102_Markdown练习源文件配图.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/C102_Markdown练习源文件配图.jpg

@@ -57,5 +57,5 @@ categories:
 http://v.qq.com/boke/page/m/z/1/m012682e9z1.html
 
  [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX91x4u99JDqQuLicSjurUJRM6uDMTWIow0b9d6rRdibVTDHg05T0oRRCFiaMom90UTrgpF9yn7TZNDQA/0
- [2]: ./_image/pocket-1.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/pocket-1.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/why-are-we-using-read-it-later-03.jpg

@@ -52,7 +52,7 @@ categories:
 *   免费配色：<https://color.adobe.com/create/color-wheel/>
 *   免费字体：<http://www.makefont.com/>
 
- [1]: ./_image/color/color.001.jpeg
- [2]: ./_image/color/color.002.jpeg
- [3]: ./_image/color/color.003.jpeg
- [4]: ./_image/color/color.004.jpeg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/color/color.001.jpeg
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/color/color.002.jpeg
+ [3]: http://www.banpie.info/wp-content/uploads/2018/11/color/color.003.jpeg
+ [4]: http://www.banpie.info/wp-content/uploads/2018/11/color/color.004.jpeg

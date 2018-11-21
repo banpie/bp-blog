@@ -66,5 +66,5 @@ categories:
 
 广告时间：第三期「新媒体骇客训练营」即将开班，点击[预约占座][2]。
 
- [1]: ./_image/wechat-utm-qrcode.png
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/wechat-utm-qrcode.png
  [2]: http://www.bpteach.com

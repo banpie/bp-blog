@@ -72,7 +72,7 @@ categories:
         </div>
 
  [1]: http://codepen.io/devmidai/full/EypjxW/
- [2]: ./_image/videobg.gif
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/videobg.gif
  [3]: https://s0.wordpress.com/mshots/v1/coverr.co?w=400&h=300
  [4]: https://www.layerthemes.com/wp-content/uploads/2015/09/Videvo.jpg
  [5]: https://s0.wordpress.com/mshots/v1/wedistill.io?w=400&h=300

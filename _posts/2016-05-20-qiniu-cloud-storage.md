@@ -50,9 +50,9 @@ categories:
 ![][7]
 
  [1]: https://portal.qiniu.com/signup?code=3lk7jzvknk5zm
- [2]: ./_image/qiniu-1.png
- [3]: ./_image/qiniu-2.png
- [4]: ./_image/qiniu-3.png
- [5]: ./_image/qiniu-4.png
- [6]: ./_image/qiniu-5.png
- [7]: ./_image/qiniu-6.png
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/qiniu-1.png
+ [3]: http://www.banpie.info/wp-content/uploads/2018/11/qiniu-2.png
+ [4]: http://www.banpie.info/wp-content/uploads/2018/11/qiniu-3.png
+ [5]: http://www.banpie.info/wp-content/uploads/2018/11/qiniu-4.png
+ [6]: http://www.banpie.info/wp-content/uploads/2018/11/qiniu-5.png
+ [7]: http://www.banpie.info/wp-content/uploads/2018/11/qiniu-6.png

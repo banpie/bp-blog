@@ -35,5 +35,5 @@ categories:
 
  [1]: http://www.banpie.info/tag/screenshot/
  [2]: http://www.banpie.info/tag/qq/
- [3]: ./_image/using-qq-screenshot.jpg
- [4]: ./_image/the-toolbar-of-qq-screenshot.jpg
+ [3]: http://www.banpie.info/wp-content/uploads/2018/11/using-qq-screenshot.jpg
+ [4]: http://www.banpie.info/wp-content/uploads/2018/11/the-toolbar-of-qq-screenshot.jpg

@@ -40,6 +40,6 @@ categories:
 
 你还可以通过更改扩展程序设置，这样只要你把鼠标悬停在图片上时，相机的图标就会显示，这是，你只需点击相机图标，即可按图搜索。
 
- [1]: ./_image/1.jpg
- [2]: ./_image/2.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/1.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/2.jpg
  [3]: http://www.banpie.info/tag/chrome/
