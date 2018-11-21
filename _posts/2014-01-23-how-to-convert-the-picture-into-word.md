@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 最近几天N多同事陆续来问，怎么把图片转换成文字（Word格式），于是就有了这篇教程。今天教你如何利用Zamza，简单几步就能轻松实现文件格式转换，又不用下载那些捆绑各种病毒的转换器。
 
@@ -44,7 +44,7 @@ categories:
 ![How-to-convert-the-picture-into-word-03][6]
 
  [1]: http://www.Zamzar.com
- [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-convert-the-picture-into-word-01.png
+ [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/how-to-convert-the-picture-into-word-01.png
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-convert-the-picture-into-word-02.png
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-convert-the-picture-into-word-03.png
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-convert-the-picture-into-word-04.png
