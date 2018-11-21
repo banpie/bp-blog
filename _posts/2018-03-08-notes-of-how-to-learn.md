@@ -6,10 +6,11 @@ author: banpie
 post_date: 2018-03-08 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/notes-of-how-to-learn/
+  http://www.banpie.info/notes-of-how-to-learn/
 published: true
 tags: [ ]
 categories:
+  - 学习
   - 教育
 ---
 研究生的阶段，曾经闭关近3个月学习MIT的计算机课程，当时为了提高学习效率阅读了许多「如何学习」的内容。近几个月因准备《如何自学任何学科》的课程，又学习近5倍的图书，当然许多书中涉及的学习技术多是老生常谈，比如：利用图像联想来记忆、睡眠的重要性、番茄工作法、利用思维导图来构建知识结构等等。
