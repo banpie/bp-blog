@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 马上就是春节啦！店小月今天问阿半：有没有什么工具能给微信的好友群发消息呢？阿半又和大学舍友“妹子”确认了一下，他是怎么给我发罐头短信的，得到的答案是“一个一个复制”。
 
@@ -45,7 +45,7 @@ categories:
 
 [![how-to-send-group-texts-via-wechat-06][6]][6]
 
- [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-send-group-texts-via-wechat-01.jpg
+ [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/how-to-send-group-texts-via-wechat-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-send-group-texts-via-wechat-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-send-group-texts-via-wechat-03.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-send-group-texts-via-wechat-04.jpg
