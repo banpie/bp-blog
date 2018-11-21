@@ -6,7 +6,7 @@ author: banpie
 post_date: 2017-02-08 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/storytelling-course-go-live/
+  http://www.banpie.info/storytelling-course-go-live/
 published: true
 tags: [ ]
 categories:
@@ -110,7 +110,7 @@ http://v.qq.com/boke/gplay/6fed9c4ccacc8c42f5b4cb69d2266a89_usc000101ca8hek_3_z0
 
 故事就是这样充满了无限的魅力。我毕业于商科专业，不会写作，但是这套故事结构让我学会了讲故事，我可以做到，你们也一定可以。
 
- [1]: ./_image/故事结构.png
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/故事结构.png
  [2]: ./_image/3P.png
  [3]: ./_image/Plot.png
  [4]: ./_image/活动-3.jpg
