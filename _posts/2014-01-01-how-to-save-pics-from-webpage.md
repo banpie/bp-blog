@@ -11,7 +11,7 @@ published: true
 tags:
   - Chrome
 categories:
-  - 未分类
+  - 工具
 ---
 小玲平时做设计的时候经常要去网上找图片，可是有些网站很“抠门”将右键“图片另存为”的功能给屏蔽了，小玲这个捉急呀。最近经高人指点，小玲终于找到了解决这个问题的办法——利用Google Chrome审查元素保存网页图
 
@@ -45,7 +45,7 @@ Ps：只要有审查元素的浏览器都可以使用该方法，不限于Chrome
 
 [![shenchayuansu_4][4]][4]
 
- [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/shenchayuansu_2.jpg
+ [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/shenchayuansu_2.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/shenchayuansu_3.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/shenchayuansu_5.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/shenchayuansu_4.jpg
