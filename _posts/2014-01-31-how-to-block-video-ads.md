@@ -11,7 +11,7 @@ published: true
 tags:
   - Chrome
 categories:
-  - 未分类
+  - 工具
 ---
 过年了没事干就看看什么节目啊，电影啊之类的……不过现在的视频网站越来越出格了，看一个1分钟的视频动不动就是45秒的广告，比起Youtube“可选择性跳过”的广告，格调似乎低了那么一丁点，当然网站的确是需要广告支持的，大家各取所需吧。
 
@@ -36,6 +36,6 @@ categories:
 [![How to block video ads-03][4]][4]
 
  [1]: http://www.banpie.info/2013/12/shou-ba-shou-jiao-ni-gao-su-shang-google/
- [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/How-to-block-video-ads-02.jpg
+ [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/How-to-block-video-ads-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/How-to-block-video-ads-01.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/How-to-block-video-ads-03.jpg
