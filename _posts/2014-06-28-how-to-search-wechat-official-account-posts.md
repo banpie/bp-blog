@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-06-28 17:22:47
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-search-wechat-official-account-posts/
+  http://www.banpie.info/how-to-search-wechat-official-account-posts/
 published: true
 tags:
   - 微信
@@ -35,5 +35,5 @@ categories:
 
  [1]: http://www.banpie.info/how-to-search-wechat-posts-on-desktop "如何在电脑上搜索微信公众平台文章"
  [2]: http://www.sogou.com
- [3]: http://www.xgclass.cn/wp-content/uploads/2018/11/sougou-search-1.jpg
+ [3]: http://www.banpie.info/wp-content/uploads/2018/11/sougou-search-1.jpg
  [4]: _image/sougou-search-2.jpg
