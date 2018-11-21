@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-01-15 22:41:44
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-use-the-internet-archive-to-prove-a-websites-history/
+  http://www.banpie.info/how-to-use-the-internet-archive-to-prove-a-websites-history/
 published: true
 tags: [ ]
 categories:
@@ -40,6 +40,6 @@ categories:
 快要周末了，祝你们有空淘宝愉快！
 
  [1]: http://archive.org/web/
- [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/how-to-use-the-internet-archive-to-prove-a-websites-history-01.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/how-to-use-the-internet-archive-to-prove-a-websites-history-01.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-use-the-internet-archive-to-prove-a-websites-history-02.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-use-the-internet-archive-to-prove-a-websites-history-03.jpg
