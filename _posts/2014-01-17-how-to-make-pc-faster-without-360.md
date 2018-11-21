@@ -10,7 +10,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 半夜睡不着觉，静静关上门写一篇教程吧。
 
@@ -36,6 +36,6 @@ categories:
 
 [![60cbfabe-3161-4865-93ac-447a9c6392aa][3]][3]
 
- [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/20140117005949.jpg
+ [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/20140117005949.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/20140117010209.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/60cbfabe-3161-4865-93ac-447a9c6392aa.jpg
