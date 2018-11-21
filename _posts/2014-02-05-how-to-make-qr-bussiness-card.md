@@ -10,7 +10,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 近年来商家无所不用其极地将二维码营销推到了一定的高度，那么当我们也去触碰这块领域时，怎么做呢？今天伟仔带你飞一会儿！我们来认识强大得丧心病狂的草料二维码！请打开cli.im即草料官网。
 
@@ -86,7 +86,7 @@ categories:
 
 ![][5]
 
- [1]: _image/qr-code-1.jpeg
+ [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/qr-code-1.jpeg
  [2]: _image/qr-code-2.jpeg
  [3]: _image/qr-code-3.jpeg
  [4]: _image/qr-code-4.jpeg
