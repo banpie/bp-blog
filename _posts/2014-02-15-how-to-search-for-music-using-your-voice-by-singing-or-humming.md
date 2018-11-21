@@ -12,7 +12,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 餐厅、商店、路边经常听到一些好听的歌，有歌词还好，可以问问谷歌必应百度搜索，像是某类餐厅，某类服装店，放的都是没有词儿的曲子，有时候想搞下来给视频配点乐什么的，有什么好的办法？（是不是也想到“疯狂猜歌”这个游戏了？）
 
@@ -52,6 +52,6 @@ PS：音乐雷达的中英文歌曲识别能力都还可以，如果是偏门的
 
 最后，送上The Beatles的《Yesterday》，祝你情人节快乐。
 
- [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/Search-for-Music-Using-Your-Voice-by-Singing-or-Humming-01.jpg
+ [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/Search-for-Music-Using-Your-Voice-by-Singing-or-Humming-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/Search-for-Music-Using-Your-Voice-by-Singing-or-Humming-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/Search-for-Music-Using-Your-Voice-by-Singing-or-Humming-03.jpg
