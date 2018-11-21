@@ -12,7 +12,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 伟仔讲过如何利用[ Zamza 这个在线网站实现各个文件格式之间的转换][1]。但是，Zamza 在文字识别的功能上面不算特别太好，所以，今天阿半介绍一下OCR文字识别工具中的战斗机——ABBYY(泰比) FineReader，他的客户端是目前识别率最高的OCR软件。
 
@@ -55,6 +55,6 @@ PS：这项在线服务虽然免费，但是，ABBYY FineReader Online 的服务
 本文部分来源自@小影志，特此鸣谢。
 
  [1]: http://www.banpie.info/how-to-convert-the-picture-into-word/
- [2]: _image/ocr-1.jpg
+ [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/ocr-1.jpg
  [3]: _image/ocr-2.jpg
  [4]: _image/ocr-3.jpg
