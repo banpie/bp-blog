@@ -7,11 +7,11 @@ author: banpie
 post_date: 2014-02-20 11:21:39
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-synchronize-browser-tabs/
+  http://www.banpie.info/how-to-synchronize-browser-tabs/
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 前段时间，我们的一个用户@小思 提出了一个困扰了她很久的问题。由于工作的原因，她经常会工作带回家里。每次上网找资料的时候，都会打开很多的页面，资料没整理完又要回公司。但是她又不想去到公司后重新再找资料，所以每次都把页面的地址复制保存，去到公司再重新打开。
 
@@ -49,7 +49,7 @@ categories:
 
 当同步完成之后，下一刻，无论我们在哪里，都能随时接手上一刻正在进行的工作。
 
- [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/liu_lan_qi_tong_bu_biao_qian_01.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/liu_lan_qi_tong_bu_biao_qian_01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/liu_lan_qi_tong_bu_biao_qian_02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/liu_lan_qi_tong_bu_biao_qian_03.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/liu_lan_qi_tong_bu_biao_qian_04.jpg

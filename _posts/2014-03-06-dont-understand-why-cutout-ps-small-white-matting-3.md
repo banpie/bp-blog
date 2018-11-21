@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-03-06 18:08:11
 layout: post
 link: >
-  http://www.xgclass.cn/dont-understand-why-cutout-ps-small-white-matting-3/
+  http://www.banpie.info/dont-understand-why-cutout-ps-small-white-matting-3/
 published: true
 tags: [ ]
 categories:
@@ -39,7 +39,7 @@ categories:
 
 附上一张实例，大家可以去网上找这张图片练习一下，可以参考实例中的笔刷用法和前景色、背景色的选择，赶快去试试吧。 [![How-to-clip-photos-(3)-06][6]][6]
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/How-to-clip-photos-3-01.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/How-to-clip-photos-3-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/03/How-to-clip-photos-3-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/03/How-to-clip-photos-3-03.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/03/How-to-clip-photos-3-04.jpg

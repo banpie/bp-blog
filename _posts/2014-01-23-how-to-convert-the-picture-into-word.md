@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-01-23 23:24:33
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-convert-the-picture-into-word/
+  http://www.banpie.info/how-to-convert-the-picture-into-word/
 published: true
 tags: [ ]
 categories:
@@ -44,7 +44,7 @@ categories:
 ![How-to-convert-the-picture-into-word-03][6]
 
  [1]: http://www.Zamzar.com
- [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/how-to-convert-the-picture-into-word-01.png
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/how-to-convert-the-picture-into-word-01.png
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-convert-the-picture-into-word-02.png
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-convert-the-picture-into-word-03.png
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-convert-the-picture-into-word-04.png

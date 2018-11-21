@@ -6,11 +6,12 @@ author: banpie
 post_date: 2018-03-06 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/people-that-i-remember/
+  http://www.banpie.info/people-that-i-remember/
 published: true
 tags: [ ]
 categories:
-  - 职场
+  - 创业
+  - 教育
 ---
 刚毕业的时候，我自觉不是一个“好的员工”：凭着自己稍好一些的动手能力，对很多事情都显得有一些傲慢。当然，这一点也是在我毕业后的几年才慢慢知道的。
 

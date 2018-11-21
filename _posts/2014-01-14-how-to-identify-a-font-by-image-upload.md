@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-01-14 21:18:03
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-identify-a-font-by-image-upload/
+  http://www.banpie.info/how-to-identify-a-font-by-image-upload/
 published: true
 tags: [ ]
 categories:
@@ -42,7 +42,7 @@ categories:
 
 [![How to identify a font  by image upload-03][5]][5]
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/How-to-identify-a-font-by-image-upload-01.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/How-to-identify-a-font-by-image-upload-01.jpg
  [2]: www.qiuziti.com
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/How-to-identify-a-font-by-image-upload-02.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/How-to-identify-a-font-by-image-upload-04.png

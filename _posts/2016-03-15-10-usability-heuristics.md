@@ -7,11 +7,11 @@ author: banpie
 post_date: 2016-03-15 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/10-usability-heuristics/
+  http://www.banpie.info/10-usability-heuristics/
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 在过去，我们常常用以下的论调来表达我们对一个好产品的喜爱：
 
@@ -107,7 +107,7 @@ categories:
 
 > 扩展阅读：[10-Usability-Heuristics for User Interface Design][10]
 
- [1]: /_image/in-post/10-Usability-Heuristics/1_visibility.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/1_visibility.jpg
  [2]: /_image/in-post/10-Usability-Heuristics/2_real-world.jpg
  [3]: /_image/in-post/10-Usability-Heuristics/3_freedom.jpg
  [4]: /_image/in-post/10-Usability-Heuristics/4_standards.jpg

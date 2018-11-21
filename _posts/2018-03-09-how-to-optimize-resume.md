@@ -7,9 +7,10 @@ author: banpie
 post_date: 2018-03-09 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-optimize-resume/
+  http://www.banpie.info/how-to-optimize-resume/
 published: true
-tags: [ ]
+tags:
+  - 简历
 categories:
   - 职场
 ---

@@ -8,7 +8,7 @@ author: banpie
 post_date: 2015-02-13 17:34:41
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-apply-hollywood-story-structure-to-mini-documentary/
+  http://www.banpie.info/how-to-apply-hollywood-story-structure-to-mini-documentary/
 published: true
 tags:
   - 影视
@@ -130,5 +130,5 @@ categories:
  [1]: http://v.ifeng.com/documentary/society/201410/03f24ac5-8b94-47c2-9dee-020206c5f5ec.shtml
  [2]: http://book.douban.com/subject/1115748/
  [3]: http://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks
- [4]: http://www.xgclass.cn/wp-content/uploads/2018/11/story_structure-600x307.jpg
+ [4]: http://www.banpie.info/wp-content/uploads/2018/11/story_structure-600x307.jpg
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2015/02/1639902175-600x450.jpg

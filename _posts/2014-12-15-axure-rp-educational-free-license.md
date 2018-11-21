@@ -8,12 +8,12 @@ author: banpie
 post_date: 2014-12-15 23:07:25
 layout: post
 link: >
-  http://www.xgclass.cn/axure-rp-educational-free-license/
+  http://www.banpie.info/axure-rp-educational-free-license/
 published: true
 tags:
   - 工具
 categories:
-  - 未分类
+  - 工具
 ---
 这几年，许多软件都对学生给予了特别的定价优惠，像[Github][1]，[Prezi][2]，[Microsoft][3]等等，Github的[免费学生开发包][4]更是价值不菲。最近老牌的原型制作工具Axure RP对学生和老师提供了免费的正版使用授权，虽然我已经转投Sketch，但是在能拿下正版的情况下，Axure仍然是Web和APP框架制作和交互展示的强大工具，完全够你呈现一个忽悠爆客户的作品。
 
@@ -51,7 +51,7 @@ categories:
  [6]: http://www.axure.com/tutorials
  [7]: http://www.axure.com/learn/core/getting-started
  [8]: http://d3g1p8ush40lh4.cloudfront.net/Tutorials/v7/AxureCoreTraining.pdf
- [9]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/12/Step-by-Step-Tutorials-Axure-Software-600x549.png
+ [9]: http://www.banpie.info/wp-content/uploads/2018/11/Step-by-Step-Tutorials-Axure-Software-600x549.png
  [10]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/12/Step-by-Step-Tutorials-Axure-Software.png
  [11]: http://www.lynda.com/Web-User-Experience-tutorials/UX-Design-Tools-Axure/157028-2.html
  [12]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/12/Watch-the-Online-Video-Course-UX-Design-Tools-Axure-311x600.png

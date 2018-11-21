@@ -6,12 +6,12 @@ author: banpie
 post_date: 2016-02-04 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/download-video-from-any-websites/
+  http://www.banpie.info/download-video-from-any-websites/
 published: true
 tags:
   - Chrome
 categories:
-  - 未分类
+  - 工具
 ---
 最近在跟了两门课程：LearnStory.org的`Storytelling for Documentaries`，还有一个FutureLearn.com的`Explore Filmmaking: from Script to Screen`，外网速度有点慢，所以总想着把视频下载到硬盘总是会方便一些，之前推荐过下载国内主流视频网站的工具，但是外网的视频下载就成了问题，所以这一期就直接上个一劳永逸的方法。
 
@@ -33,5 +33,5 @@ categories:
 
 > 如果遇到无法下载Youtube视频的情况，请直接上`Clipconverter`黏贴Yotube视频链接即可下载。
 
- [1]: _image/download-video-from-any-websites/chrome-store.jpeg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/chrome-store.jpeg
  [2]: _image/download-video-from-any-websites/video-downloader.jpeg

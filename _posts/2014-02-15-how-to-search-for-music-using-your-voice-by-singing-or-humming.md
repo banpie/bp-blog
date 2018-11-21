@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-02-15 14:13:09
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-search-for-music-using-your-voice-by-singing-or-humming/
+  http://www.banpie.info/how-to-search-for-music-using-your-voice-by-singing-or-humming/
 published: true
 tags: [ ]
 categories:
@@ -52,6 +52,6 @@ PS：音乐雷达的中英文歌曲识别能力都还可以，如果是偏门的
 
 最后，送上The Beatles的《Yesterday》，祝你情人节快乐。
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/Search-for-Music-Using-Your-Voice-by-Singing-or-Humming-01.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/Search-for-Music-Using-Your-Voice-by-Singing-or-Humming-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/Search-for-Music-Using-Your-Voice-by-Singing-or-Humming-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/Search-for-Music-Using-Your-Voice-by-Singing-or-Humming-03.jpg
