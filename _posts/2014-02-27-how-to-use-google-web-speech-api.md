@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 @蘑菇：我想要安装用嘴巴念就可以生成文字的软件，这样我写废话文章的时候的时候就不用打字打到手酸…
 
@@ -33,27 +33,22 @@ categories:
 
 用手机Chrome浏览器访问：<http://t.cn/zjgwkHW>。
 
-![][1]
+<img class="alignnone size-full wp-image-958" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-86.jpg" width="620" height="952" alt="" />
 
 ## 2、选择录音语言
 
 点击输入框底部的「语言选择条」，在弹出的菜单中选择你的录音语言。
 
-![][2]
+<img class="alignnone size-full wp-image-959" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-87.jpg" width="620" height="475" alt="" />
 
 ## 3、对着手机麦克风说话
 
 点击输入框右侧的「麦克风」按钮，之后会在底部弹出黄色的「使用麦克风」确认对话框，点击确认后，对着麦克风说话即可。
 
-![][3]
+<img class="alignnone size-full wp-image-960" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-88.jpg" width="576" height="884" alt="" />
 
 ## 4、复制文本或发送邮件
 
 录音完毕后，再次点击输入框右侧的「麦克风」按钮，即可完成语音文本转录。此后，下方会出现两个按钮，点击「Copy and paste」后，在输入框中的文本即可进行复制，点击「Create Email」可直接创建一个带录音文本的邮件。
 
-![][4]
-
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX8v4NK1p6MkKZVOgtQKCgQAfb2HvOKeQNa0xaeElz5zwfoGb5SyXSibMjKmJqJjm9zyE5Cm6A4LNYg/0
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX8v4NK1p6MkKZVOgtQKCgQAQCGnTDrz6eT7nRzWqXofT9iaNSnBISWJR0JD1buAyAzKSmdddG3uj9A/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX8v4NK1p6MkKZVOgtQKCgQAVhSDLSfbryL9kxYFNwp8remclicGricNGnrIgzBpgACgSfngEEY7PmicA/0
- [4]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX8v4NK1p6MkKZVOgtQKCgQAe1mrmCPghAM5WWRP7SCTI6nPqpLCuQY7BJLIY9iaWTrwTVuCuZEuicFg/0
+<img class="alignnone size-full wp-image-961" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-89.jpg" width="620" height="476" alt="" />
