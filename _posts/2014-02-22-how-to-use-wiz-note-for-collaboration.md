@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 说到团队协同，为知笔记是我使用过的，无论是个人还是团队，最好用、最方便的协同笔记软件，没有之一。（如果你仅用于个人笔记收集，可能有道、印象、OneNote也是不错的选择，但如果你有“几个人一起做一件事”的需求，那为知笔记是最佳选择）
 
@@ -21,25 +21,25 @@ categories:
 
 访问为知笔记企业服务网页：<www.wiz.cn/biz.html>，输入注册邮箱后，然后点击右侧「免费使用」按钮，填写表单后，即可开通企业服务。（如果没有为知笔记账号，请使用邀请链接：<http://t.cn/8F8j4mw> 进行注册）
 
-![][1]
+<img class="alignnone size-full wp-image-982" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-96.jpg" width="620" height="348" alt="" />
 
 ## 2、创建群组
 
 开通企业服务后，默认会进入到企业管理后台，点击左侧菜单栏中的「新建群组」创建群组，比如半撇建立了“采集组”“内容组”“运营组”三个群组。
 
-![][2]** **
+<img class="alignnone size-full wp-image-983" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-97.jpg" width="620" height="348" alt="" />** **
 
 ## 3、邀请同事加入
 
 点击顶部菜单栏的「成员管理」->输入所需添加同事的Email地址，点击「确认」添加 ->点击「成员批量分配」将同事分配到相应的群组，并为他们分配不同的权限（管理员、超级成员、编辑、作者、读者）。
 
-![][3]
+<img class="alignnone size-full wp-image-984" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-98.jpg" width="620" height="348" alt="" />
 
 ## 4、资料协同
 
 通过为知的PC端/WEB端/APP/网页剪藏器收集信息，保存到企业群组，组内的同事就都能看见了。比如阿半采集了这篇“献给写作者的Markdown 新手指南”到半撇有道儿的“采集组”，刘工、伟仔、小玲打开为知笔记，就可以看到这篇文章了。
 
-![][4]
+<img class="alignnone size-full wp-image-985" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-99.jpg" width="620" height="348" alt="" />
 
 ## 5、更多：强大的@通知功能
 
@@ -47,10 +47,4 @@ categories:
 
 无论是你是使用客户端还是APP，都可通过「消息中心」随时查看，比如下图就是我@伟仔后，伟仔在手机APP收到的通知。
 
-![][5]
-
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXibepSxR61Wiah98If9uWReQ40ZPVhkcHnLbnAOozMx4FRYotYJicQAlhMkvdzOXExfQYNyaJ5m3icsbA/0
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXibepSxR61Wiah98If9uWReQ42pnEf0ymRccYvF4ua5S9d9rZrdN8BeGMo9T4aFXMVLRPxocibMRD04g/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXibepSxR61Wiah98If9uWReQ4bLeTFCEHhTJXLUyWUqybDdU6FJ2G37iao5uiaKZxwwwVibPnBeJlZy00A/0
- [4]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXibepSxR61Wiah98If9uWReQ4zqicfrgVgmXXzBRssMH9bGicneoBctVLk1DXamt0zG5sFrMEXVy7kVpg/0
- [5]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXibepSxR61Wiah98If9uWReQ4W5kHUgOCfW1axI2Oicgn4x1mcuayGgGzUNDGADSvwjo358icFT0icgLyg/0
+<img class="alignnone size-full wp-image-987" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-30.png" width="620" height="517" alt="" />
