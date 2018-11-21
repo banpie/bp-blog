@@ -22,6 +22,8 @@ categories:
 
 【付费系统排版课】[微信公众号排版高级指南 - 半撇私塾 - 项目制的在线新媒体大学](https://link.zhihu.com/?target=http%3A//learn.bpteach.com/course/24%3Futm_source%3Dzhihu.com%26utm_campaign%3DCM310-bp%26utm_medium%3Dreferral%26utm_term%3Dlayout%26utm_content%3Dwechat-layout-guide)
 
+<iframe src="https://v.qq.com/iframe/player.html?vid=m0331l221om&amp;tiny=0&amp;auto=0" width="640" height="498" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 ## **二、代码版（更粗暴）**
 
 Markdown Here 自定义CSS代码传送门**：**[BPteach/CM310-Wechat-Advance-Layout-Exercise-Files](https://link.zhihu.com/?target=https%3A//github.com/BPteach/CM310-Wechat-Advance-Layout-Exercise-Files)
