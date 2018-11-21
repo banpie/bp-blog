@@ -59,41 +59,38 @@ Markdown简洁的语法代替排版，而不像一般我们用的字处理软件
 
 *   **标题**：对于文章的标题1、标题2，你只需要在文字前面加上对应数量的#号，Markdown会自动渲染出格式。
 
-![][3]
+<img class="alignnone size-full wp-image-919" src="http://www.xgclass.cn/wp-content/uploads/2018/11/6aee7dbbgw1effeaclhiyj20eh09cwez.jpg" width="521" height="336" alt="" />
 
 *   **列表**：在 Markdown 下，列表的显示只需要在文字前加上 `-` 或`*`即可变为无序列表，有序列表则直接在文字前加`1.` `2.` `3.`符号，再在符合和文字之间加上一个字符的空格即可。
 
-![][4]
+<img class="alignnone size-full wp-image-920" src="http://www.xgclass.cn/wp-content/uploads/2018/11/6aee7dbbgw1effew5aftij20d80bz3yw.jpg" width="476" height="431" alt="" />
 
 *   **引用**：如果你需要引用一小段别处的句子，那么就要用引用的格式。你只需要在引用的文本前面加上一个`>`和空格即可，例如：
 
-![][5]
+<img class="alignnone size-full wp-image-921" src="http://www.xgclass.cn/wp-content/uploads/2018/11/6aee7dbbgw1effezhonxlj20e009c3yu.jpg" width="504" height="336" alt="" />
 
-更多Markdown语法，点击查看[Markdown——入门指南][6]。
+更多Markdown语法，点击查看[Markdown——入门指南][3]。
 
 ### 3\.3 Markdown Here 渲染排版
 
-*   在Chrome上安装[markdown here][7]插件
+*   在Chrome上安装[markdown here][4]插件
 
-![][8]
+![][5]
 
 *   在微信公众后台使用Markdown语言写作
 
-![][9]
+![][6]
 
 *   按住快捷键Ctrl+Alt+M，对Markdown文章进行渲染
 
-![][10]
+![][7]
 
 至此，什么引用符号、标题样式、分割符、代码栏等样式就一一具备了。拿去得瑟吧！
 
  [1]: https://github.com/BPteach/Markdown-here-CSS-for-wechat
- [2]: http://www.banpie.info/assets/image/design-guide.png
- [3]: http://ww1.sinaimg.cn/large/6aee7dbbgw1effeaclhiyj20eh09cwez.jpg
- [4]: http://ww4.sinaimg.cn/large/6aee7dbbgw1effew5aftij20d80bz3yw.jpg
- [5]: http://ww3.sinaimg.cn/large/6aee7dbbgw1effezhonxlj20e009c3yu.jpg
- [6]: http://jianshu.io/p/1e402922ee32
- [7]: https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa
- [8]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/google-app-store-markdown-here.png
- [9]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/wechat-markdown-rendering.png
- [10]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/wechat-markdown.png
+ [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/design-guide.png
+ [3]: http://jianshu.io/p/1e402922ee32
+ [4]: https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa
+ [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/google-app-store-markdown-here.png
+ [6]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/wechat-markdown-rendering.png
+ [7]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/wechat-markdown.png
