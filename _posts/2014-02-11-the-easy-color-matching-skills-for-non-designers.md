@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 有时候网上看到一些广告图，颜色特别不错，想拿到PPT做一些配色运用，颜色太多又不知道如何取舍，问题有点大？有时候PPT内容做的已经挺不错的，因为配色的原因，感觉整个PPT的火候还是差那么一点点？
 
@@ -43,7 +43,7 @@ categories:
 
 本教程图片部分截取自@PPTOK,特表鸣谢。
 
- [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/the-easy-color-matching-skills-for-non-designers-01.jpg
+ [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/the-easy-color-matching-skills-for-non-designers-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/the-easy-color-matching-skills-for-non-designers-02.png
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/the-easy-color-matching-skills-for-non-designers-03.png
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/the-easy-color-matching-skills-for-non-designers-04.jpg
