@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 华罗庚先生《统筹管理》中提到：想泡壶茶喝，当时的情况是——开水没有；水壶要洗，茶壶，茶杯要洗；火已生了，茶叶也有了。怎么办？ 
 
@@ -85,7 +85,7 @@ categories:
 
 [![A-decent-list-of-tasks-04][4]][4]
 
- [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/A-decent-list-of-tasks-01.jpg
+ [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/A-decent-list-of-tasks-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/A-decent-list-of-tasks-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/A-decent-list-of-tasks-03.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/A-decent-list-of-tasks-04.jpg
