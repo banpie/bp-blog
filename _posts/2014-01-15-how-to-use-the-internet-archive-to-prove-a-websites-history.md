@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 虽然通过搜索我们总是能找到一些陈旧的资料，但是如果网站不断的更新，有些页面被删除，要怎么样才能看到以前网站的样子呢？比如：有什么渠道可以了解到淘宝刚创立的情况吗？
 
@@ -40,6 +40,6 @@ categories:
 快要周末了，祝你们有空淘宝愉快！
 
  [1]: http://archive.org/web/
- [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-use-the-internet-archive-to-prove-a-websites-history-01.jpg
+ [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/how-to-use-the-internet-archive-to-prove-a-websites-history-01.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-use-the-internet-archive-to-prove-a-websites-history-02.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-use-the-internet-archive-to-prove-a-websites-history-03.jpg
