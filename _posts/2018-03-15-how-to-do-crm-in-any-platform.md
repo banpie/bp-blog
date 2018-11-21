@@ -55,22 +55,18 @@ categories:
 
 而无论是在微信号中：
 
-![][1]
+<img class="alignnone size-full wp-image-1090" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tKfTcgy1fpdut42fn6j30oq17wtaj.jpg" width="721" height="1280" alt="" />
 
 在公众号后台中：
 
-![][2]
+<img class="alignnone size-full wp-image-1091" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tNc79gy1fpdurgstk8j30p20gq74o.jpg" width="902" height="602" alt="" />
 
 或是在CRM的系统：
 
-![][3]
+<img class="alignnone size-full wp-image-1092" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tKfTcgy1fpduw5llkqj31kw0s7wg6.jpg" width="1280" height="634" alt="" />
 
 还是微博系统、邮件系统……你都可以用这个一套「生命周期的标签」来定义你的客户。
 
 只是，当用户进入了生命周期的下一个阶段时候，不要忘记更换上新的标签，因为只有这样，比如当你需要通过朋友圈发送优惠券的时候，你才能确保优惠券只有`具备销售资格的客户`才能看见，毕竟优惠券对于「围观者」大多时候都是一种打扰。
 
 当然，标签只是为了方便区分，你完全可以自己定义，比如`Subscriber`修改为`01-围观`，`Lead`修改为`02-潜客` 等等。
-
- [1]: https://ws1.sinaimg.cn/large/006tKfTcgy1fpdut42fn6j30oq17wtaj.jpg
- [2]: https://ws4.sinaimg.cn/large/006tNc79gy1fpdurgstk8j30p20gq74o.jpg
- [3]: https://ws2.sinaimg.cn/large/006tKfTcgy1fpduw5llkqj31kw0s7wg6.jpg
