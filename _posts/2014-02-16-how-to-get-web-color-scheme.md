@@ -10,7 +10,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 如果你经常需要为企业制作展示型PPT，那么，从该企业的官网获取网页的配色方案，这是一个不错的设计起始点。要获取某个网站的配色方案，不需要你用任何取色工具，你只消目标网址输入到「Web Color Data」的搜索框中，就立即可得到整个网站的配色方案了。
 
@@ -41,7 +41,7 @@ categories:
 [![How-to-get-web-color-scheme-04][5]][5]
 
  [1]: http://www.webcolourdata.com
- [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/How-to-get-web-color-scheme-01.jpg
+ [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/How-to-get-web-color-scheme-01.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/How-to-get-web-color-scheme-02.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/How-to-get-web-color-scheme-03.jpg
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/How-to-get-web-color-scheme-04.jpg
