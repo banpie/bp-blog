@@ -6,7 +6,7 @@ author: banpie
 post_date: 2015-04-29 19:40:32
 layout: post
 link: >
-  http://www.xgclass.cn/my-discovery-of-dataming/
+  http://www.banpie.info/my-discovery-of-dataming/
 published: true
 tags:
   - 学习图谱

@@ -6,7 +6,7 @@ post_name: learning-system
 author: banpie
 post_date: 2016-10-19 00:00:00
 layout: post
-link: http://www.xgclass.cn/learning-system/
+link: http://www.banpie.info/learning-system/
 published: true
 tags: [ ]
 categories:

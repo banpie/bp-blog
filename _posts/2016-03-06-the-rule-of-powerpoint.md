@@ -7,7 +7,7 @@ author: banpie
 post_date: 2016-03-06 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/the-rule-of-powerpoint/
+  http://www.banpie.info/the-rule-of-powerpoint/
 published: true
 tags:
   - 演说

@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-01-31 19:59:40
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-send-group-texts-via-wechat/
+  http://www.banpie.info/how-to-send-group-texts-via-wechat/
 published: true
 tags: [ ]
 categories:
@@ -45,7 +45,7 @@ categories:
 
 [![how-to-send-group-texts-via-wechat-06][6]][6]
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/how-to-send-group-texts-via-wechat-01.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/how-to-send-group-texts-via-wechat-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-send-group-texts-via-wechat-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-send-group-texts-via-wechat-03.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-send-group-texts-via-wechat-04.jpg

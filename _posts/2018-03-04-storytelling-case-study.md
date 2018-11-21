@@ -6,7 +6,7 @@ author: banpie
 post_date: 2018-03-04 18:01:11
 layout: post
 link: >
-  http://www.xgclass.cn/storytelling-case-study/
+  http://www.banpie.info/storytelling-case-study/
 published: true
 tags:
   - 传播
@@ -19,7 +19,7 @@ categories:
 
 来看看再这个短短的6分钟里面，`HAAHAJ`的模型节点是如何分布的：
 
-<img class="alignnone size-full wp-image-570" src="http://www.xgclass.cn/wp-content/uploads/2018/11/c4a934bf2b2d754e.jpg" width="200" height="200" alt="" />
+<img class="alignnone size-full wp-image-570" src="http://www.banpie.info/wp-content/uploads/2018/11/c4a934bf2b2d754e.jpg" width="200" height="200" alt="" />
 
 *   `Hook（悬念）`: 优等生和差等生之间的差别并不在智商，相反，许多优等生的智商还不如差等生高。
 *   `Ask（挑战）`: 没有非常高的智商。我们在工作中／生活中获得成功的因素如果不是依靠我们的学习能力，那么到底是依靠什么？

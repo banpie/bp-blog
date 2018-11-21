@@ -7,7 +7,7 @@ author: banpie
 post_date: 2017-01-10 14:53:19
 layout: post
 link: >
-  http://www.xgclass.cn/communication-theory-for-everyone/
+  http://www.banpie.info/communication-theory-for-everyone/
 published: true
 tags:
   - Mooc

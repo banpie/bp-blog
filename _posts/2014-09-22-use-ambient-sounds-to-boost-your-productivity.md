@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-09-22 11:07:21
 layout: post
 link: >
-  http://www.xgclass.cn/use-ambient-sounds-to-boost-your-productivity/
+  http://www.banpie.info/use-ambient-sounds-to-boost-your-productivity/
 published: true
 tags: [ ]
 categories:
@@ -41,7 +41,7 @@ categories:
  [1]: http://www.banpie.info/remember-your-life-via-ohlife/
  [2]: http://www.rainymood.com/
  [3]: http://birdsong.fm/
- [4]: http://www.xgclass.cn/wp-content/uploads/2018/11/RainyMood__thumb.jpg "Rainy Mood_"
+ [4]: http://www.banpie.info/wp-content/uploads/2018/11/RainyMood__thumb.jpg "Rainy Mood_"
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/RainyMood_.jpg
  [6]: http://jazzandrain.com/basic.html
  [7]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Birdsong.fm_thumb.jpg "Birdsong.fm"

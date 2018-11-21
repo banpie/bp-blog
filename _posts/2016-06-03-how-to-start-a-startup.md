@@ -7,7 +7,7 @@ author: banpie
 post_date: 2016-06-03 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-start-a-startup/
+  http://www.banpie.info/how-to-start-a-startup/
 published: true
 tags: [ ]
 categories:

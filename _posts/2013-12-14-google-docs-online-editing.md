@@ -8,7 +8,7 @@ author: banpie
 post_date: 2013-12-14 22:53:00
 layout: post
 link: >
-  http://www.xgclass.cn/google-docs-online-editing/
+  http://www.banpie.info/google-docs-online-editing/
 published: true
 tags:
   - 工具

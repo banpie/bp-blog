@@ -7,7 +7,7 @@ author: banpie
 post_date: 2015-01-25 17:34:41
 layout: post
 link: >
-  http://www.xgclass.cn/video-storytelling-casestudy/
+  http://www.banpie.info/video-storytelling-casestudy/
 published: true
 tags:
   - 影视

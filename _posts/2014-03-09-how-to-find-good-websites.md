@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-03-09 12:41:07
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-find-good-websites/
+  http://www.banpie.info/how-to-find-good-websites/
 published: true
 tags: [ ]
 categories:
@@ -35,19 +35,19 @@ categories:
 
 *   随时随地Stumble一下，无论你在刷微博还是人人
 
-<img class="alignnone size-full wp-image-777" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-63.jpg" width="620" height="481" alt="" />
+<img class="alignnone size-full wp-image-777" src="http://www.banpie.info/wp-content/uploads/2018/11/0-63.jpg" width="620" height="481" alt="" />
 
 ## 2、设置你感兴趣的领域
 
 勾选你感兴趣的领域，Stumble就会据此为你推荐网站、文章、图片、以及视频。（我自己是选了Internet、Technology、Design等，推荐的站点都非常靠谱）
 
-<img class="alignnone size-full wp-image-778" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-64.jpg" width="620" height="400" alt="" />
+<img class="alignnone size-full wp-image-778" src="http://www.banpie.info/wp-content/uploads/2018/11/0-64.jpg" width="620" height="400" alt="" />
 
 ## 3、Stumble一下
 
 点击页面上面的「stumble」按钮，StumbleUpon引擎将给你推荐一个你可能感兴趣的网站，如果你不喜欢，继续「stumble」（咦，怎么跑出个农村报的？此处为软广……）
 
-<img class="alignnone size-full wp-image-779" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-65.jpg" width="620" height="295" alt="" />
+<img class="alignnone size-full wp-image-779" src="http://www.banpie.info/wp-content/uploads/2018/11/0-65.jpg" width="620" height="295" alt="" />
 
 ## 4、更多推荐
 

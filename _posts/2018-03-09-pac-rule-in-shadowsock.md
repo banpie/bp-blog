@@ -7,7 +7,7 @@ author: banpie
 post_date: 2018-03-09 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/pac-rule-in-shadowsock/
+  http://www.banpie.info/pac-rule-in-shadowsock/
 published: true
 tags: [ ]
 categories:
@@ -39,19 +39,19 @@ categories:
 
 所以问题就落到了「如何添加Pac规则」这个上面了，下面以 Shadowsock 客户端为例子，介绍如何把我常用的网站添加到 Pac 规则中。
 
-1.  打开Shadowsock 客户端，切换到「自动代理模式」，并打开「编辑PAC用户自定义规则」（这个就是代理服务器帮你决定哪些网站走代理，哪些不走代理的「筛子」） <img class="alignnone size-full wp-image-547" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tKfTcgy1fpjlw262lcj30pc0g60tr.jpg" width="912" height="582" alt="" />
-2.  点击后就会出现一个编辑窗口，我们就需要在这里输入规则，比如你希望你访问的Trello.com的时候都走代理，那么就输入「||trello.com^」，如果是Zapier.com，就输入「||zapier.com^」，保存后重启客户端即可。 <img class="alignnone size-full wp-image-548" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tKfTcgy1fpjm2g6fiyj30qm0g4jrh.jpg" width="958" height="580" alt="" />
+1.  打开Shadowsock 客户端，切换到「自动代理模式」，并打开「编辑PAC用户自定义规则」（这个就是代理服务器帮你决定哪些网站走代理，哪些不走代理的「筛子」） <img class="alignnone size-full wp-image-547" src="http://www.banpie.info/wp-content/uploads/2018/11/006tKfTcgy1fpjlw262lcj30pc0g60tr.jpg" width="912" height="582" alt="" />
+2.  点击后就会出现一个编辑窗口，我们就需要在这里输入规则，比如你希望你访问的Trello.com的时候都走代理，那么就输入「||trello.com^」，如果是Zapier.com，就输入「||zapier.com^」，保存后重启客户端即可。 <img class="alignnone size-full wp-image-548" src="http://www.banpie.info/wp-content/uploads/2018/11/006tKfTcgy1fpjm2g6fiyj30qm0g4jrh.jpg" width="958" height="580" alt="" />
 
 另外，这里需要补充一下规则的基本语法，比如在`||trello.com^`中，前面的`||`号就是「域名标示」，它表示如果是`||trello.com`，那么无论是http://tello.com、https://trello.com 还是 ftp://trello.com等前缀的地址均满足条件。而`^`注意则是结尾标示，意思是要么在这个符号的地方结束。
 
-<img class="alignnone size-full wp-image-549" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tKfTcgy1fpjlzqqi6bj319u0iegm8.jpg" width="1280" height="513" alt="" />
+<img class="alignnone size-full wp-image-549" src="http://www.banpie.info/wp-content/uploads/2018/11/006tKfTcgy1fpjlzqqi6bj319u0iegm8.jpg" width="1280" height="513" alt="" />
 
 还有一个比较有意思的是，你会发现有时候我已经明明把Trello放进去了Pac里面，为什么网站打开还是慢了？这就牵涉到“引用资源”的问题了，也就是你打开Trello网站的时候，访问的不仅仅来自`Trello.com`这个域名下的资源，他的图片可能是放在亚马逊服务器上的（AWS），他的JS文件可能是来自Google的……。
 
 因此，我们可以借助Chrome的开发者工具看一下（快捷键`F12`），先切换到「Network」中，看一看在加载这一个网页的时候，哪一些资源访问的速度比较慢？URL的域名是什么？再把域名统统添加到Pac规则中去。
 
-<img class="alignnone size-full wp-image-550" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tKfTcgy1fpjmsst51cj31kw0u70wb.jpg" width="1280" height="679" alt="" />
+<img class="alignnone size-full wp-image-550" src="http://www.banpie.info/wp-content/uploads/2018/11/006tKfTcgy1fpjmsst51cj31kw0u70wb.jpg" width="1280" height="679" alt="" />
 
-<img class="alignnone size-full wp-image-551" src="http://www.xgclass.cn/wp-content/uploads/2018/11/006tKfTcgy1fpjmt6vzrej31kw0hjgo6.jpg" width="1280" height="394" alt="" />
+<img class="alignnone size-full wp-image-551" src="http://www.banpie.info/wp-content/uploads/2018/11/006tKfTcgy1fpjmt6vzrej31kw0hjgo6.jpg" width="1280" height="394" alt="" />
 
 通过上面的案例，我们发现在访问的Trello的网站中，主要的资源不仅有`Trello.com`，例如CSS的文件是来源于`trellocdn.com`这个域名，因此我们在Pac规则中再写一条`||trellocdn.com^`即可。

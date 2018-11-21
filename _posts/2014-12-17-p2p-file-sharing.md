@@ -6,7 +6,7 @@ post_name: p2p-file-sharing
 author: banpie
 post_date: 2014-12-17 13:38:52
 layout: post
-link: http://www.xgclass.cn/p2p-file-sharing/
+link: http://www.banpie.info/p2p-file-sharing/
 published: true
 tags: [ ]
 categories:
@@ -46,7 +46,7 @@ categories:
 
 ![download][4]
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/reep.io-peer-to-peer-filesharing-made-easy-600x350.png
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/reep.io-peer-to-peer-filesharing-made-easy-600x350.png
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/password-600x259.png
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/password.png
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/download-600x286.png

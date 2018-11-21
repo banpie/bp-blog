@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-07-31 23:56:07
 layout: post
 link: >
-  http://www.xgclass.cn/cool-locker-zero-input-how-to-make-money/
+  http://www.banpie.info/cool-locker-zero-input-how-to-make-money/
 published: true
 tags: [ ]
 categories:
@@ -45,5 +45,5 @@ categories:
  [27]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/How-to-make-money-without-any-investment-via-kuhua-app-13.jpg
  [28]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/How-to-make-money-without-any-investment-via-kuhua-app-14-600x337.jpg
  [29]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/How-to-make-money-without-any-investment-via-kuhua-app-14.jpg
- [30]: http://www.xgclass.cn/wp-content/uploads/2018/11/How-to-make-money-without-any-investment-via-kuhua-app-15-600x337.jpg
+ [30]: http://www.banpie.info/wp-content/uploads/2018/11/How-to-make-money-without-any-investment-via-kuhua-app-15-600x337.jpg
  [31]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/How-to-make-money-without-any-investment-via-kuhua-app-15.jpg

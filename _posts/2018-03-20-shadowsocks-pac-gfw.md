@@ -7,7 +7,7 @@ author: banpie
 post_date: 2018-03-20 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/shadowsocks-pac-gfw/
+  http://www.banpie.info/shadowsocks-pac-gfw/
 published: true
 tags: [ ]
 categories:

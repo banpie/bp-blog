@@ -7,7 +7,7 @@ author: banpie
 post_date: 2016-12-15 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/ppt-for-wechat-gif/
+  http://www.banpie.info/ppt-for-wechat-gif/
 published: true
 tags:
   - PPT
@@ -21,11 +21,11 @@ categories:
 
 而动态gif图作为比静态图更为有趣的表达方式，现在微信推送中动图逐渐被普及。更为数据统计，平均每篇文章推送中，每13张图片中，其中就有3张就是gif，特别是在幽默、娱乐类的自媒体账号中，动图运用就更加广泛了。
 
-<img class="alignnone size-full wp-image-618" src="http://www.xgclass.cn/wp-content/uploads/2018/11/114008r2x132fxyym1c33y.gif" width="320" height="200" alt="" />
+<img class="alignnone size-full wp-image-618" src="http://www.banpie.info/wp-content/uploads/2018/11/114008r2x132fxyym1c33y.gif" width="320" height="200" alt="" />
 
 对于内容创作者，如何找动图或许并不是件困难的事情，但是当你想自己创作的时候，有没有什么快捷的办法呢？特别是制作比较优雅的品牌动图？
 
-<img class="alignnone size-full wp-image-619" src="http://www.xgclass.cn/wp-content/uploads/2018/11/wechatgif.gif" width="700" height="193" alt="" />
+<img class="alignnone size-full wp-image-619" src="http://www.banpie.info/wp-content/uploads/2018/11/wechatgif.gif" width="700" height="193" alt="" />
 
 在这篇文章中，我将会分享如何通过简单的PPT工具+截图工具来制作出微信公众号动态头图。
 

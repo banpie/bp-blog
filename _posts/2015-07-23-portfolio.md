@@ -5,7 +5,7 @@ post_name: portfolio
 author: banpie
 post_date: 2015-07-23 11:37:00
 layout: post
-link: http://www.xgclass.cn/portfolio/
+link: http://www.banpie.info/portfolio/
 published: true
 tags: [ ]
 categories:

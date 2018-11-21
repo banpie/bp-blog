@@ -7,7 +7,7 @@ author: banpie
 post_date: 2017-02-17 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/add-fontawesome-in-ppt/
+  http://www.banpie.info/add-fontawesome-in-ppt/
 published: true
 tags:
   - Keynote

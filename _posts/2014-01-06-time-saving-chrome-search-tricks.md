@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-01-06 22:10:35
 layout: post
 link: >
-  http://www.xgclass.cn/time-saving-chrome-search-tricks/
+  http://www.banpie.info/time-saving-chrome-search-tricks/
 published: true
 tags: [ ]
 categories:
@@ -32,5 +32,5 @@ categories:
 
 只须简单两步，但鼠标移动却比把关键词拖到地址栏要少的多，搜索更快了。
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/20140106220642.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/20140106220642.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/20140106220707.jpg

@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-01-28 22:00:27
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-find-similar-sites/
+  http://www.banpie.info/how-to-find-similar-sites/
 published: true
 tags: [ ]
 categories:
@@ -35,6 +35,6 @@ categories:
 
 [ ][2]
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/how-to-find-similar-sites-01.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/how-to-find-similar-sites-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-find-similar-sites-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-find-similar-sites-03.jpg

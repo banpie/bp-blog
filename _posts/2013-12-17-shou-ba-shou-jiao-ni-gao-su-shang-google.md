@@ -7,7 +7,7 @@ author: banpie
 post_date: 2013-12-17 22:27:16
 layout: post
 link: >
-  http://www.xgclass.cn/shou-ba-shou-jiao-ni-gao-su-shang-google/
+  http://www.banpie.info/shou-ba-shou-jiao-ni-gao-su-shang-google/
 published: true
 tags: [ ]
 categories:

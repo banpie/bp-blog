@@ -6,7 +6,7 @@ author: banpie
 post_date: 2015-05-22 18:20:00
 layout: post
 link: >
-  http://www.xgclass.cn/mit-challenge-of-cs-curriculum/
+  http://www.banpie.info/mit-challenge-of-cs-curriculum/
 published: true
 tags:
   - 前端

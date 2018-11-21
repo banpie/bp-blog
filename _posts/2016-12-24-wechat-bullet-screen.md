@@ -7,7 +7,7 @@ author: banpie
 post_date: 2016-12-24 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/wechat-bullet-screen/
+  http://www.banpie.info/wechat-bullet-screen/
 published: true
 tags:
   - 弹幕

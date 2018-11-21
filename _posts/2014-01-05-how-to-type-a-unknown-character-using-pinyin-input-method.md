@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-01-05 23:09:31
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-type-a-unknown-character-using-pinyin-input-method/
+  http://www.banpie.info/how-to-type-a-unknown-character-using-pinyin-input-method/
 published: true
 tags: [ ]
 categories:
@@ -42,6 +42,6 @@ categories:
 
 这是[伟仔][3]第一次露脸，先和各位混个脸熟啦！
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/20140105-how-to-type-a-unknown-character-using-pinyin-input-method-01.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/20140105-how-to-type-a-unknown-character-using-pinyin-input-method-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/20140105-how-to-type-a-unknown-character-using-pinyin-input-method-02.jpg
  [3]: http://www.banpie.info/author/ybw1990/

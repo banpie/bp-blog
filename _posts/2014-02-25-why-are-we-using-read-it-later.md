@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-02-25 20:47:02
 layout: post
 link: >
-  http://www.xgclass.cn/why-are-we-using-read-it-later/
+  http://www.banpie.info/why-are-we-using-read-it-later/
 published: true
 tags: [ ]
 categories:

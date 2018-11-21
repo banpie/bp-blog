@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-01-07 22:06:48
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-collaborate-on-documents-in-groups-using-skydrive/
+  http://www.banpie.info/how-to-collaborate-on-documents-in-groups-using-skydrive/
 published: true
 tags: [ ]
 categories:
@@ -57,6 +57,6 @@ Windows账号是以@outlook.com形式的邮箱地址，如果你还没有，点�
  [1]: http://www.banpie.info/2013/12/throw-microsoft-word-away/
  [2]: http://www.banpie.info/2013/12/shou-ba-shou-jiao-ni-gao-su-shang-google/
  [3]: https://signup.live.com/signup.aspx?wa=wsignin1.0&rpsnv=12&ct=1389099497&rver=6.2.6289.0&wp=MBI_SSL_SHARED&wreply=https%3a%2f%2fskydrive.live.com%2f%3flc%3d2052%26mkt%3dzh-CN&id=250206&cbcxt=sky&cbcxt=sky&bk=1389099497&uiflavor=web&uaid=df2229ddd7a54c67b1686450c2411a4e&mkt=ZH-CN&lc=2052&lic=1
- [4]: http://www.xgclass.cn/wp-content/uploads/2018/11/20140107-how-to-collaborate-on-documents-in-groups-using-01skydrive.png
+ [4]: http://www.banpie.info/wp-content/uploads/2018/11/20140107-how-to-collaborate-on-documents-in-groups-using-01skydrive.png
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/20140107-how-to-collaborate-on-documents-in-groups-using-skydrive-02.png
  [6]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/20140107-how-to-collaborate-on-documents-in-groups-using-skydrive-03.png

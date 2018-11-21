@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-02-18 14:42:38
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-make-online-photo-collage/
+  http://www.banpie.info/how-to-make-online-photo-collage/
 published: true
 tags: [ ]
 categories:

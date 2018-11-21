@@ -8,7 +8,7 @@ author: banpie
 post_date: 2013-12-27 23:21:48
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-select-text-vertically-in-microsoft-word/
+  http://www.banpie.info/how-to-select-text-vertically-in-microsoft-word/
 published: true
 tags: [ ]
 categories:

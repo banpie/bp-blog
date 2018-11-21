@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-03-30 17:57:39
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-quickly-download-files-from-baidu-yun/
+  http://www.banpie.info/how-to-quickly-download-files-from-baidu-yun/
 published: true
 tags: [ ]
 categories:
@@ -20,11 +20,11 @@ categories:
 
 ## 1、输入“关键字”+“site:pan.baidu.com”
 
-在百度搜索中键入资源关键字，然后加上site:pan.baidu.com，比如：Powerpoint视频 site:pan.baidu.com 。<img class="alignnone size-full wp-image-744" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-15.png" width="620" height="259" alt="" />
+在百度搜索中键入资源关键字，然后加上site:pan.baidu.com，比如：Powerpoint视频 site:pan.baidu.com 。<img class="alignnone size-full wp-image-744" src="http://www.banpie.info/wp-content/uploads/2018/11/0-15.png" width="620" height="259" alt="" />
 
 ## 2、查看资源搜索结果
 
-<img class="alignnone size-full wp-image-745" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-16.png" width="620" height="460" alt="" />
+<img class="alignnone size-full wp-image-745" src="http://www.banpie.info/wp-content/uploads/2018/11/0-16.png" width="620" height="460" alt="" />
 
 ## 3、下载资源：
 
@@ -34,7 +34,7 @@ categories:
 
 *   点击「下载」-> 「普通下载」，直接将资源下载保存至硬盘
 
-<img class="alignnone size-full wp-image-746" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-17.png" width="620" height="345" alt="" />
+<img class="alignnone size-full wp-image-746" src="http://www.banpie.info/wp-content/uploads/2018/11/0-17.png" width="620" height="345" alt="" />
 
 ## 4、网盘资源搜索工具
 

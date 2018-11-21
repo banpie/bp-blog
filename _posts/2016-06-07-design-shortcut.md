@@ -5,7 +5,7 @@ post_name: design-shortcut
 author: banpie
 post_date: 2016-06-07 00:00:00
 layout: post
-link: http://www.xgclass.cn/design-shortcut/
+link: http://www.banpie.info/design-shortcut/
 published: true
 tags: [ ]
 categories:

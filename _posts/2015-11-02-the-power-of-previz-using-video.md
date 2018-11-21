@@ -7,7 +7,7 @@ author: banpie
 post_date: 2015-11-02 19:56:28
 layout: post
 link: >
-  http://www.xgclass.cn/the-power-of-previz-using-video/
+  http://www.banpie.info/the-power-of-previz-using-video/
 published: true
 tags:
   - 影视

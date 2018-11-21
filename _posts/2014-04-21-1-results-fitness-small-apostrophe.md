@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-04-21 20:40:45
 layout: post
 link: >
-  http://www.xgclass.cn/1-results-fitness-small-apostrophe/
+  http://www.banpie.info/1-results-fitness-small-apostrophe/
 published: true
 tags: [ ]
 categories:
@@ -20,7 +20,7 @@ categories:
 
 ## 1、八分钟腹肌锻炼（Abs Workout）
 
-<img class="alignnone size-full wp-image-717" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-31.jpg" width="620" height="349" alt="" />
+<img class="alignnone size-full wp-image-717" src="http://www.banpie.info/wp-content/uploads/2018/11/0-31.jpg" width="620" height="349" alt="" />
 
 这套教程分为1-3级，刚开始练习很多人会脖子疼，阿半刚开始尝试这套动作的时候也遇到过这个问题，其实确实是因为腹部力量不够而向其他部位借力导致的。建议刚开始练习的时候，2-3天一次，等肌肉适应了以后，一天一次。
 
@@ -30,7 +30,7 @@ Google Play 或者 Apple Store 搜索“Abs Workout”下载App即可。
 
 ## 2、耐克训练营（Nike Trainning Club）
 
-<img class="alignnone size-full wp-image-718" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-12.png" width="500" height="280" alt="" />
+<img class="alignnone size-full wp-image-718" src="http://www.banpie.info/wp-content/uploads/2018/11/0-12.png" width="500" height="280" alt="" />
 
 Nike官方出品的训练应用，获得苹果官方推荐，拥有超过 85 项量身打造的运动计划，提供Nike专业教练的语音指导和随选指示,让你窈窕、健美又强壮。
 
@@ -40,7 +40,7 @@ Google Play 或者 Apple Store 搜索“Nike Trainning Club”下载App即可。
 
 ## 3、腹肌撕裂者X（Abs Ripper x）
 
-<img class="alignnone size-full wp-image-719" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-32.jpg" width="500" height="281" alt="" />
+<img class="alignnone size-full wp-image-719" src="http://www.banpie.info/wp-content/uploads/2018/11/0-32.jpg" width="500" height="281" alt="" />
 
 阿半做过难度最高的一个，也是网络上反馈效果最好的一个。该视频课程是核心肌肉的训练，而不仅仅是腹肌训练，所以刚开始做的时候，可能大腿感觉非常酸痛，因为大腿肌也是核心肌的一部分，疼就证明训练到了。
 
@@ -48,7 +48,7 @@ Google Play 或者 Apple Store 搜索“Nike Trainning Club”下载App即可。
 
 ## 4、平板支撑（Plank）
 
-<img class="alignnone size-full wp-image-720" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-33.jpg" width="420" height="279" alt="" />
+<img class="alignnone size-full wp-image-720" src="http://www.banpie.info/wp-content/uploads/2018/11/0-33.jpg" width="420" height="279" alt="" />
 
 该动作适合一切训练者，但是它是一个看似很简单，实则很困难的训练动作。（能平板支撑3分钟以上就算厉害啦！）这个动作的作用在于：训练腰部、腹部、臀部的线条，保持身体平衡的能力，让你的背部线条更迷人。它在刺激腹直肌的同时可以刺激到腹横肌。是腹肌训练动作中少有的静力动作训练。
 

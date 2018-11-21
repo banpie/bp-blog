@@ -6,7 +6,7 @@ author: banpie
 post_date: 2017-05-31 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/pre-interview-guide/
+  http://www.banpie.info/pre-interview-guide/
 published: true
 tags:
   - 采访

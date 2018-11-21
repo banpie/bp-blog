@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-02-16 17:26:16
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-use-stills-search-movie-names/
+  http://www.banpie.info/how-to-use-stills-search-movie-names/
 published: true
 tags: [ ]
 categories:

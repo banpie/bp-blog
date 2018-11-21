@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-06-28 17:34:14
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-use-the-timeline-to-quickly-make-your-own-timeline/
+  http://www.banpie.info/how-to-use-the-timeline-to-quickly-make-your-own-timeline/
 published: true
 tags: [ ]
 categories:
@@ -26,30 +26,30 @@ P.S：本工具需要访问  Google Spreadsheet 的服务，点击查看翻墙�
 
 在浏览器中输入<www.timeline.knightlab.com>，跳转至 [Timeline JS][1] 的网站后，点击“Make a timeline now”开始创建时间轴。
 
-<img class="alignnone size-full wp-image-665" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0.jpg" width="900" height="592" alt="" />
+<img class="alignnone size-full wp-image-665" src="http://www.banpie.info/wp-content/uploads/2018/11/0.jpg" width="900" height="592" alt="" />
 
 ## 2、创建你的时间轴表格
 
 点击“Google Spreadsheet Template”，会跳转到谷歌在线表格的页面 -> 点击“使用此模板”按钮，你可以利用这个内置表格模板，通过更改日期、标题、内容等信息开始着手创建。
 
-<img class="alignnone size-full wp-image-666" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0.png" width="1280" height="1217" alt="" />
+<img class="alignnone size-full wp-image-666" src="http://www.banpie.info/wp-content/uploads/2018/11/0.png" width="1280" height="1217" alt="" />
 
 ## 3、发布Google Spreadsheet
 
 进入谷歌在线表格进行相应文字、标题、日期、图片地址等信息的修改，完成后点击左上角的“文件”菜单下的“发布到网络”按钮，在弹出的窗口中，点击“开始发布”，复制下方获得一个URL链接，以供下一步使用。
 
-<img class="alignnone size-full wp-image-667" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-1.jpg" width="900" height="858" alt="" />
+<img class="alignnone size-full wp-image-667" src="http://www.banpie.info/wp-content/uploads/2018/11/0-1.jpg" width="900" height="858" alt="" />
 
 ## 4、黏贴Google Spreadsheet的链接
 
 将在第三步复制的URL链接黏贴到“Google Spreadsheet URL”的输入栏中，然后点击下方的“Preview”即可查看创建的时间轴。
 
-<img class="alignnone size-full wp-image-668" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-1.png" width="1280" height="593" alt="" />
+<img class="alignnone size-full wp-image-668" src="http://www.banpie.info/wp-content/uploads/2018/11/0-1.png" width="1280" height="593" alt="" />
 
 ## 5、分享你的时间轴
 
 点击“Preview”左边的“Link to Preview”按钮，打开网页后，将该链接发送给你的好友/分享到朋友圈，你的朋友就可以查看了。（如果你的稿子被枪毙了，这是一个好方式）
 
-<img class="alignnone size-full wp-image-669" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-2.jpg" width="900" height="887" alt="" />
+<img class="alignnone size-full wp-image-669" src="http://www.banpie.info/wp-content/uploads/2018/11/0-2.jpg" width="900" height="887" alt="" />
 
  [1]: http://timeline.knightlab.com/

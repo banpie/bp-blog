@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-03-14 23:26:52
 layout: post
 link: >
-  http://www.xgclass.cn/baidu-index-how-to-take-advantage-of-free-big-data-tool/
+  http://www.banpie.info/baidu-index-how-to-take-advantage-of-free-big-data-tool/
 published: true
 tags: [ ]
 categories:
@@ -32,7 +32,7 @@ categories:
 
 在浏览器中输入「www.index.baidu.com」-> 在搜索框中输入你想查看的关键字，比如：蓝月亮 ->点击「查看指数」即可。
 
-<img class="alignnone size-full wp-image-764" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-21.png" width="620" height="213" alt="" />
+<img class="alignnone size-full wp-image-764" src="http://www.banpie.info/wp-content/uploads/2018/11/0-21.png" width="620" height="213" alt="" />
 
 ## **2、从需求分布看聚焦点**
 
@@ -40,10 +40,10 @@ categories:
 
 比如，你可以查看到，在2014-03-05至2014-03-11期间，作为最大的聚焦点“管理系统”关注度有所下降，但是第三大聚焦点“校园招聘”关注度正在上升。（如果你想对比一下不同品牌的校园招聘关注度，可以搜索下“校园招聘”的百度指数）
 
-<img class="alignnone size-full wp-image-765" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-22.png" width="620" height="315" alt="" />
+<img class="alignnone size-full wp-image-765" src="http://www.banpie.info/wp-content/uploads/2018/11/0-22.png" width="620" height="315" alt="" />
 
 ## **3、从热门搜索看相关点**
 
-再看到下面的「热门搜索」分布图，你可以在看到第三行看到“威露士”这个品牌，这个就是蓝月亮的同类竞争品。再比如，你想了解一下有没其他像百度指数一样的免费数据挖掘工具，你也会在这里看到“淘宝指数”这个关键词。（之后课程也会讲如何用“淘宝指数”做产业分析）<img class="alignnone size-full wp-image-766" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-23.png" width="620" height="267" alt="" />
+再看到下面的「热门搜索」分布图，你可以在看到第三行看到“威露士”这个品牌，这个就是蓝月亮的同类竞争品。再比如，你想了解一下有没其他像百度指数一样的免费数据挖掘工具，你也会在这里看到“淘宝指数”这个关键词。（之后课程也会讲如何用“淘宝指数”做产业分析）<img class="alignnone size-full wp-image-766" src="http://www.banpie.info/wp-content/uploads/2018/11/0-23.png" width="620" height="267" alt="" />
 
-<img class="alignnone size-full wp-image-766" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-23.png" width="620" height="267" alt="" />
+<img class="alignnone size-full wp-image-766" src="http://www.banpie.info/wp-content/uploads/2018/11/0-23.png" width="620" height="267" alt="" />

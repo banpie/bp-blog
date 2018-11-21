@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-09-01 10:50:26
 layout: post
 link: >
-  http://www.xgclass.cn/advanced-wechat-platform-page-design/
+  http://www.banpie.info/advanced-wechat-platform-page-design/
 published: true
 tags:
   - 微信
@@ -50,7 +50,7 @@ categories:
 
  [1]: http://www.banpie.info/how-to-write-beautifully-on-wechat-platform/ "如何在微信公众平台上优雅的写作"
  [2]: http://mp.weixin.qq.com/s?__biz=MzA5ODE4MDMzNQ==&mid=201185845&idx=1&sn=ce0983ecaa74e10a85cc8ec7c3c34980#rd
- [3]: http://www.xgclass.cn/wp-content/uploads/2018/11/previewthepage_thumb.png "preview the page"
+ [3]: http://www.banpie.info/wp-content/uploads/2018/11/previewthepage_thumb.png "preview the page"
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/previewthepage.png
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/viewthesourcecode_thumb.png "view the source code"
  [6]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/viewthesourcecode.png

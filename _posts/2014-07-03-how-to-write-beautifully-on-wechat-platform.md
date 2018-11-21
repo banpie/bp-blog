@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-07-03 09:36:00
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-write-beautifully-on-wechat-platform/
+  http://www.banpie.info/how-to-write-beautifully-on-wechat-platform/
 published: true
 tags:
   - 微信

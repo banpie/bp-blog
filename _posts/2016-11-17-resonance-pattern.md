@@ -5,7 +5,7 @@ post_name: resonance-pattern
 author: banpie
 post_date: 2016-11-17 00:00:00
 layout: post
-link: http://www.xgclass.cn/resonance-pattern/
+link: http://www.banpie.info/resonance-pattern/
 published: true
 tags:
   - 传播

@@ -7,7 +7,7 @@ author: banpie
 post_date: 2017-05-06 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/creating-multiple-folders-in-terminal/
+  http://www.banpie.info/creating-multiple-folders-in-terminal/
 published: true
 tags:
   - mac

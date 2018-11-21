@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-06-24 15:44:24
 layout: post
 link: >
-  http://www.xgclass.cn/free-online-ocr-text-recognition-and-solid-tools/
+  http://www.banpie.info/free-online-ocr-text-recognition-and-solid-tools/
 published: true
 tags: [ ]
 categories:
@@ -55,6 +55,6 @@ PS：这项在线服务虽然免费，但是，ABBYY FineReader Online 的服务
 本文部分来源自@小影志，特此鸣谢。
 
  [1]: http://www.banpie.info/how-to-convert-the-picture-into-word/
- [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/ocr-1.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/ocr-1.jpg
  [3]: http://www.banpie.info/wp-content/uploads/2018/11/ocr-2.jpg
  [4]: http://www.banpie.info/wp-content/uploads/2018/11/ocr-3.jpg

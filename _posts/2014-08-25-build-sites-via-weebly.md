@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-08-25 00:32:36
 layout: post
 link: >
-  http://www.xgclass.cn/build-sites-via-weebly/
+  http://www.banpie.info/build-sites-via-weebly/
 published: true
 tags: [ ]
 categories:

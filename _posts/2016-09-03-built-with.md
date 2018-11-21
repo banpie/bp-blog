@@ -5,7 +5,7 @@ post_name: built-with
 author: banpie
 post_date: 2016-09-03 00:00:00
 layout: post
-link: http://www.xgclass.cn/built-with/
+link: http://www.banpie.info/built-with/
 published: true
 tags: [ ]
 categories:

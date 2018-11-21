@@ -6,7 +6,7 @@ author: banpie
 post_date: 2017-05-04 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-write-changelog/
+  http://www.banpie.info/how-to-write-changelog/
 published: true
 tags:
   - changelog

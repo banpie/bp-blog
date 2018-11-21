@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-01-16 23:20:04
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-quickly-download-web-video/
+  http://www.banpie.info/how-to-quickly-download-web-video/
 published: true
 tags: [ ]
 categories:
@@ -40,7 +40,7 @@ categories:
 
 [![20140116-How-to-quickly-and-easily-download-videos-mainstream-sites-05][5]][5]
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/11.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/11.jpg
  [2]: http://www.flvcd.com/
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/21.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/41.jpg

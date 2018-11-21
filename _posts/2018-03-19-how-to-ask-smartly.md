@@ -7,7 +7,7 @@ author: banpie
 post_date: 2018-03-19 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-ask-smartly/
+  http://www.banpie.info/how-to-ask-smartly/
 published: true
 tags: [ ]
 categories:

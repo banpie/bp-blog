@@ -5,7 +5,7 @@ post_name: garageband
 author: banpie
 post_date: 2016-11-14 00:00:00
 layout: post
-link: http://www.xgclass.cn/garageband/
+link: http://www.banpie.info/garageband/
 published: true
 tags:
   - 新媒体自习室

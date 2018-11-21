@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-01-25 10:21:57
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-copy-the-content-of-the-website/
+  http://www.banpie.info/how-to-copy-the-content-of-the-website/
 published: true
 tags:
   - Chrome
@@ -37,6 +37,6 @@ categories:
 
 需要注意的是，复制完需要的内容之后，最好把刚才的项去掉，不然浏览其它网站的时候，很多效果都会不用欣赏到了。
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/how-to-copy-the-content-of-the-website-01.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/how-to-copy-the-content-of-the-website-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/ru_he_tu_po_bu_neng_fu_zhi_wang_zhan_nei_rong_02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/ru_he_tu_po_bu_neng_fu_zhi_wang_zhan_nei_rong_03.jpg

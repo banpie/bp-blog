@@ -6,7 +6,7 @@ author: banpie
 post_date: 2016-11-24 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/milestones-4-media/
+  http://www.banpie.info/milestones-4-media/
 published: true
 tags: [ ]
 categories:

@@ -7,7 +7,7 @@ author: banpie
 post_date: 2018-03-14 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/inbound-and-outbound-marketing/
+  http://www.banpie.info/inbound-and-outbound-marketing/
 published: true
 tags: [ ]
 categories:

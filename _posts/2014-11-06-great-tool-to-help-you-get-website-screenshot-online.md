@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-11-06 14:58:44
 layout: post
 link: >
-  http://www.xgclass.cn/great-tool-to-help-you-get-website-screenshot-online/
+  http://www.banpie.info/great-tool-to-help-you-get-website-screenshot-online/
 published: true
 tags:
   - 工具

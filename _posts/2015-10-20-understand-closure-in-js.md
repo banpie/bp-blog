@@ -6,7 +6,7 @@ author: banpie
 post_date: 2015-10-20 14:17:00
 layout: post
 link: >
-  http://www.xgclass.cn/understand-closure-in-js/
+  http://www.banpie.info/understand-closure-in-js/
 published: true
 tags:
   - 前端

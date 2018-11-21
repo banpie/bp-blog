@@ -6,7 +6,7 @@ author: banpie
 post_date: 2015-05-14 09:40:00
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-learn-songwriting-step-by-step/
+  http://www.banpie.info/how-to-learn-songwriting-step-by-step/
 published: true
 tags:
   - 课程图谱，创作

@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-02-11 22:56:32
 layout: post
 link: >
-  http://www.xgclass.cn/the-easy-color-matching-skills-for-non-designers/
+  http://www.banpie.info/the-easy-color-matching-skills-for-non-designers/
 published: true
 tags: [ ]
 categories:
@@ -43,7 +43,7 @@ categories:
 
 本教程图片部分截取自@PPTOK,特表鸣谢。
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/the-easy-color-matching-skills-for-non-designers-01.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/the-easy-color-matching-skills-for-non-designers-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/the-easy-color-matching-skills-for-non-designers-02.png
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/the-easy-color-matching-skills-for-non-designers-03.png
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/the-easy-color-matching-skills-for-non-designers-04.jpg

@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-03-02 20:48:26
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-make-a-wechat-app-with-chrome/
+  http://www.banpie.info/how-to-make-a-wechat-app-with-chrome/
 published: true
 tags:
   - 微信

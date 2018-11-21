@@ -7,7 +7,7 @@ author: banpie
 post_date: 2016-12-29 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/wechat-cover-design/
+  http://www.banpie.info/wechat-cover-design/
 published: true
 tags:
   - 封面设计

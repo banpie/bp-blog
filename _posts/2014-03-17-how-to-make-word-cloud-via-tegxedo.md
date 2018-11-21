@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-03-17 23:08:53
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-make-word-cloud-via-tegxedo/
+  http://www.banpie.info/how-to-make-word-cloud-via-tegxedo/
 published: true
 tags: [ ]
 categories:

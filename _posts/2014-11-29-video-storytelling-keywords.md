@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-11-29 00:10:10
 layout: post
 link: >
-  http://www.xgclass.cn/video-storytelling-keywords/
+  http://www.banpie.info/video-storytelling-keywords/
 published: true
 tags:
   - 影视

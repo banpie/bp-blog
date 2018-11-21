@@ -7,7 +7,7 @@ author: banpie
 post_date: 2016-10-30 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/trello-keyboard-shortcuts/
+  http://www.banpie.info/trello-keyboard-shortcuts/
 published: true
 tags: [ ]
 categories:

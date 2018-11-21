@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-11-15 19:56:28
 layout: post
 link: >
-  http://www.xgclass.cn/video-storytelling-4p/
+  http://www.banpie.info/video-storytelling-4p/
 published: true
 tags:
   - 影视

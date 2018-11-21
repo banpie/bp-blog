@@ -6,7 +6,7 @@ author: banpie
 post_date: 2015-09-29 10:20:36
 layout: post
 link: >
-  http://www.xgclass.cn/gh4-setup-for-filmmaking/
+  http://www.banpie.info/gh4-setup-for-filmmaking/
 published: true
 tags:
   - 影视

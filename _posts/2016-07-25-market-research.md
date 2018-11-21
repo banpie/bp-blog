@@ -5,7 +5,7 @@ post_name: market-research
 author: banpie
 post_date: 2016-07-25 00:00:00
 layout: post
-link: http://www.xgclass.cn/market-research/
+link: http://www.banpie.info/market-research/
 published: true
 tags:
   - 创业

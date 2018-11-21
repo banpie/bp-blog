@@ -7,7 +7,7 @@ author: banpie
 post_date: 2016-05-20 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/qiniu-cloud-storage/
+  http://www.banpie.info/qiniu-cloud-storage/
 published: true
 tags: [ ]
 categories:

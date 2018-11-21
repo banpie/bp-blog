@@ -7,7 +7,7 @@ author: banpie
 post_date: 2018-03-09 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-make-wechat-dialogue-screenshot/
+  http://www.banpie.info/how-to-make-wechat-dialogue-screenshot/
 published: true
 tags: [ ]
 categories:

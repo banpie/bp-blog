@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-01-21 21:58:12
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-make-infographics-using-ppt/
+  http://www.banpie.info/how-to-make-infographics-using-ppt/
 published: true
 tags:
   - 演示

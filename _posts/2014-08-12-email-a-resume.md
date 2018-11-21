@@ -5,7 +5,7 @@ post_name: email-a-resume
 author: banpie
 post_date: 2014-08-12 10:05:38
 layout: post
-link: http://www.xgclass.cn/email-a-resume/
+link: http://www.banpie.info/email-a-resume/
 published: true
 tags: [ ]
 categories:
@@ -73,7 +73,7 @@ categories:
 
 如果你还有其他的简历投递技巧，欢迎在下面评论告诉我。
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/emailaccountname_thumb.jpg "email account name"
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/emailaccountname_thumb.jpg "email account name"
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/emailaccountname.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/emailtitle_thumb.jpg "email title"
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/emailtitle.jpg

@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-06-28 17:27:24
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-import-world-cup-schedule-to-iphone-calendar/
+  http://www.banpie.info/how-to-import-world-cup-schedule-to-iphone-calendar/
 published: true
 tags: [ ]
 categories:
@@ -32,8 +32,8 @@ categories:
 
 6.  大功告成，关闭 Safar
 
-<img class="alignnone size-full wp-image-677" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-7.jpg" width="430" height="375" alt="" />
+<img class="alignnone size-full wp-image-677" src="http://www.banpie.info/wp-content/uploads/2018/11/0-7.jpg" width="430" height="375" alt="" />
 
-<img class="alignnone size-full wp-image-678" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-8.jpg" width="430" height="375" alt="" />
+<img class="alignnone size-full wp-image-678" src="http://www.banpie.info/wp-content/uploads/2018/11/0-8.jpg" width="430" height="375" alt="" />
 
 因为懒得再删除日历了，所以截图说明是盗用手机中国的，你看还是高清有码的。

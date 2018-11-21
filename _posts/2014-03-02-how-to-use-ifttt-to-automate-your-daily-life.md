@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-03-02 20:32:32
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-use-ifttt-to-automate-your-daily-life/
+  http://www.banpie.info/how-to-use-ifttt-to-automate-your-daily-life/
 published: true
 tags: [ ]
 categories:
@@ -43,7 +43,7 @@ IFTTT（if this then that）服务主要由四个关键词组成：**Task、Trig
 
 在浏览器地址栏输入www.ifttt.com，访问ITFFF网站，点击左上角的「Create」按钮创建一个Task命令。
 
-<img class="alignnone size-full wp-image-947" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-80.jpg" width="620" height="296" alt="" />
+<img class="alignnone size-full wp-image-947" src="http://www.banpie.info/wp-content/uploads/2018/11/0-80.jpg" width="620" height="296" alt="" />
 
 ## 2、设置this程序条件
 
@@ -51,7 +51,7 @@ IFTTT（if this then that）服务主要由四个关键词组成：**Task、Trig
 
 菜单中，选择「Pocket」这个应用Channel-> 进入「Choose a Trigger」条件选择框，选择「New favorite item」条件，点击「Create Trigger」即可成功创建程序条件。
 
-<img class="alignnone size-full wp-image-951" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-83.jpg" width="620" height="738" alt="" />
+<img class="alignnone size-full wp-image-951" src="http://www.banpie.info/wp-content/uploads/2018/11/0-83.jpg" width="620" height="738" alt="" />
 
 ## 3、设置that程序命令
 
@@ -61,7 +61,7 @@ IFTTT（if this then that）服务主要由四个关键词组成：**Task、Trig
 
 Ps:为知笔记的账号附带一个后缀为@wiz.cn的邮箱，只要往这个为知邮箱发邮件，为知会自动将邮件转存到你的笔记中，你可在为知笔记客户端的账号信息查看该邮箱名称）
 
-<img class="alignnone size-full wp-image-952" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-84.jpg" width="620" height="652" alt="" />
+<img class="alignnone size-full wp-image-952" src="http://www.banpie.info/wp-content/uploads/2018/11/0-84.jpg" width="620" height="652" alt="" />
 
 ## 4、更多
 
@@ -71,4 +71,4 @@ Ps:为知笔记的账号附带一个后缀为@wiz.cn的邮箱，只要往这个�
 
 如果你的手机系统是IOS，也可以搜索IFTTT下载APP应用。（靠！为什么支持安卓……）
 
-<img class="alignnone size-full wp-image-953" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-85.jpg" width="620" height="228" alt="" />
+<img class="alignnone size-full wp-image-953" src="http://www.banpie.info/wp-content/uploads/2018/11/0-85.jpg" width="620" height="228" alt="" />

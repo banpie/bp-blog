@@ -8,7 +8,7 @@ author: banpie
 post_date: 2013-12-19 21:44:38
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-capture-screenshot-of-website/
+  http://www.banpie.info/how-to-capture-screenshot-of-website/
 published: true
 tags:
   - Chrome

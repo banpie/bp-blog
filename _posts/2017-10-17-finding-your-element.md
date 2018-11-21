@@ -7,7 +7,7 @@ author: banpie
 post_date: 2017-10-17 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/finding-your-element/
+  http://www.banpie.info/finding-your-element/
 published: true
 tags:
   - open bpteach

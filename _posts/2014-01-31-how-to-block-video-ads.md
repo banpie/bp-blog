@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-01-31 20:54:05
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-block-video-ads/
+  http://www.banpie.info/how-to-block-video-ads/
 published: true
 tags:
   - Chrome
@@ -36,6 +36,6 @@ categories:
 [![How to block video ads-03][4]][4]
 
  [1]: http://www.banpie.info/2013/12/shou-ba-shou-jiao-ni-gao-su-shang-google/
- [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/How-to-block-video-ads-02.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/How-to-block-video-ads-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/How-to-block-video-ads-01.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/How-to-block-video-ads-03.jpg

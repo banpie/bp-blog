@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-02-23 11:05:28
 layout: post
 link: >
-  http://www.xgclass.cn/a-decent-list-of-tasks/
+  http://www.banpie.info/a-decent-list-of-tasks/
 published: true
 tags: [ ]
 categories:
@@ -85,7 +85,7 @@ categories:
 
 [![A-decent-list-of-tasks-04][4]][4]
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/A-decent-list-of-tasks-01.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/A-decent-list-of-tasks-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/A-decent-list-of-tasks-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/A-decent-list-of-tasks-03.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/A-decent-list-of-tasks-04.jpg

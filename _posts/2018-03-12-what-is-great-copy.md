@@ -6,7 +6,7 @@ author: banpie
 post_date: 2018-03-12 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/what-is-great-copy/
+  http://www.banpie.info/what-is-great-copy/
 published: true
 tags: [ ]
 categories:

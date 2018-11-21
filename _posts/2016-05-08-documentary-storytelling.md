@@ -6,7 +6,7 @@ author: banpie
 post_date: 2016-05-08 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/documentary-storytelling/
+  http://www.banpie.info/documentary-storytelling/
 published: true
 tags:
   - 影视

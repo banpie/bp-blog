@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-02-16 10:44:27
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-get-web-color-scheme/
+  http://www.banpie.info/how-to-get-web-color-scheme/
 published: true
 tags: [ ]
 categories:
@@ -41,7 +41,7 @@ categories:
 [![How-to-get-web-color-scheme-04][5]][5]
 
  [1]: http://www.webcolourdata.com
- [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/How-to-get-web-color-scheme-01.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/How-to-get-web-color-scheme-01.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/How-to-get-web-color-scheme-02.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/How-to-get-web-color-scheme-03.jpg
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/How-to-get-web-color-scheme-04.jpg

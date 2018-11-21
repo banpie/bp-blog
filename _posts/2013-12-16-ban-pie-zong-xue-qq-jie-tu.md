@@ -6,7 +6,7 @@ author: banpie
 post_date: 2013-12-16 09:15:43
 layout: post
 link: >
-  http://www.xgclass.cn/ban-pie-zong-xue-qq-jie-tu/
+  http://www.banpie.info/ban-pie-zong-xue-qq-jie-tu/
 published: true
 tags: [ ]
 categories:

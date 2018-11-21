@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-01-01 00:19:30
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-transfer-data-between-a-cell-phone-and-computer-via-qq/
+  http://www.banpie.info/how-to-transfer-data-between-a-cell-phone-and-computer-via-qq/
 published: true
 tags: [ ]
 categories:
@@ -44,6 +44,6 @@ PC段QQ收到这个链接之后，复制、粘贴到浏览器地址栏，你就�
 
 最后，阿半祝各位读者，2014年新年快乐！
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/copy-url-from-wechat.png
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/copy-url-from-wechat.png
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/open-filesharing-windows.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/send-file-through-mobile-qq.png

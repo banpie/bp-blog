@@ -6,7 +6,7 @@ author: banpie
 post_date: 2015-04-22 22:54:38
 layout: post
 link: >
-  http://www.xgclass.cn/how-do-i-make-my-first-documentary/
+  http://www.banpie.info/how-do-i-make-my-first-documentary/
 published: true
 tags:
   - 学习图谱

@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-03-02 20:37:38
 layout: post
 link: >
-  http://www.xgclass.cn/dont-understand-why-cutout-ps-small-white-matting-1/
+  http://www.banpie.info/dont-understand-why-cutout-ps-small-white-matting-1/
 published: true
 tags: [ ]
 categories:

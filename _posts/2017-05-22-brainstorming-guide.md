@@ -6,7 +6,7 @@ author: banpie
 post_date: 2017-05-22 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/brainstorming-guide/
+  http://www.banpie.info/brainstorming-guide/
 published: true
 tags:
   - 创新

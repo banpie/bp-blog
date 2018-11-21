@@ -6,7 +6,7 @@ author: banpie
 post_date: 2013-12-16 17:36:22
 layout: post
 link: >
-  http://www.xgclass.cn/google-image-search/
+  http://www.banpie.info/google-image-search/
 published: true
 tags: [ ]
 categories:

@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-03-09 12:48:32
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-find-the-best-introduction-books-via-social-media/
+  http://www.banpie.info/how-to-find-the-best-introduction-books-via-social-media/
 published: true
 tags:
   - 学习图谱

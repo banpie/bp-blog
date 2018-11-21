@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-02-11 17:35:17
 layout: post
 link: >
-  http://www.xgclass.cn/splashtop-remote-control/
+  http://www.banpie.info/splashtop-remote-control/
 published: true
 tags: [ ]
 categories:

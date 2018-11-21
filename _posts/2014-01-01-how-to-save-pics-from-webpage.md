@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-01-01 10:10:38
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-save-pics-from-webpage/
+  http://www.banpie.info/how-to-save-pics-from-webpage/
 published: true
 tags:
   - Chrome
@@ -45,7 +45,7 @@ Ps：只要有审查元素的浏览器都可以使用该方法，不限于Chrome
 
 [![shenchayuansu_4][4]][4]
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/shenchayuansu_2.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/shenchayuansu_2.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/shenchayuansu_3.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/shenchayuansu_5.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/shenchayuansu_4.jpg

@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-01-08 18:21:37
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-hellosign-to-implement-electronic-signatures/
+  http://www.banpie.info/how-to-hellosign-to-implement-electronic-signatures/
 published: true
 tags: [ ]
 categories:
@@ -50,7 +50,7 @@ categories:
 [![6][7]][7]
 
  [1]: https://www.hellosign.com/
- [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/1-1.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/1-1.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/2.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/3.jpg
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/4.jpg

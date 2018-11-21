@@ -6,7 +6,7 @@ author: banpie
 post_date: 2013-12-24 12:22:30
 layout: post
 link: >
-  http://www.xgclass.cn/advanced-search-tips/
+  http://www.banpie.info/advanced-search-tips/
 published: true
 tags: [ ]
 categories:

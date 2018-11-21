@@ -7,7 +7,7 @@ author: banpie
 post_date: 2013-12-21 22:15:11
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-create-a-short-url/
+  http://www.banpie.info/how-to-create-a-short-url/
 published: true
 tags: [ ]
 categories:
@@ -50,7 +50,7 @@ categories:
 如果你想要查看一些短链接的原始地址，又不想直接打开它，你可以尝试一下longurl这个复原工具，点击[链接][6]跳转。
 
  [1]: http://goo.gl/
- [2]: http://www.xgclass.cn/wp-content/uploads/2018/11/goo.gl-Google-Search.png
+ [2]: http://www.banpie.info/wp-content/uploads/2018/11/goo.gl-Google-Search.png
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/Google-URL-Shortener.png
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/Google-URL-Shortener1.png
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/Google-URL-Shortener-track.png

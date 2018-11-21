@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-02-07 23:45:45
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-generate-a-list-of-your-favorite-mp3/
+  http://www.banpie.info/how-to-generate-a-list-of-your-favorite-mp3/
 published: true
 tags: [ ]
 categories:
@@ -47,7 +47,7 @@ categories:
 
 [![How-to-generate-a-list-of-your-favorite-mp3-05][5]][5]
 
- [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/1.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/1.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/2.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/3.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/4.jpg

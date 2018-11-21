@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-01-26 10:54:07
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-make-people-graph-via-ppt/
+  http://www.banpie.info/how-to-make-people-graph-via-ppt/
 published: true
 tags:
   - 演示

@@ -6,7 +6,7 @@ author: banpie
 post_date: 2016-07-29 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/free-video-footage-for-homepage/
+  http://www.banpie.info/free-video-footage-for-homepage/
 published: true
 tags:
   - 影视

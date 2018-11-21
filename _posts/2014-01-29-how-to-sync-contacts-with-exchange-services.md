@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-01-29 21:35:38
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-sync-contacts-with-exchange-services/
+  http://www.banpie.info/how-to-sync-contacts-with-exchange-services/
 published: true
 tags: [ ]
 categories:

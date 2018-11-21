@@ -7,7 +7,7 @@ author: banpie
 post_date: 2017-03-24 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/royalty-free-image/
+  http://www.banpie.info/royalty-free-image/
 published: true
 tags:
   - 新媒体自习室

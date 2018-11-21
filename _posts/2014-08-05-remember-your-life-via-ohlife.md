@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-08-05 14:11:48
 layout: post
 link: >
-  http://www.xgclass.cn/remember-your-life-via-ohlife/
+  http://www.banpie.info/remember-your-life-via-ohlife/
 published: true
 tags: [ ]
 categories:
@@ -75,7 +75,7 @@ categories:
  [1]: http://www.ohlife.com
  [2]: https://thelittlememory.com/
  [3]: http://www.banpie.info/how-to-sync-contacts-with-exchange-services/ "如何用Exchange同步电脑和手机的联系人"
- [4]: http://www.xgclass.cn/wp-content/uploads/2018/11/1.insert-your-email-to-ohlife-from-banpie.info_-600x278.jpg
+ [4]: http://www.banpie.info/wp-content/uploads/2018/11/1.insert-your-email-to-ohlife-from-banpie.info_-600x278.jpg
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/2.-put-in-your-password-in-OhLife-from-banpie.info_.jpg
  [6]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/3.-change-email-setting-and-email-frequency-in-ohlife-from-banpie.info_.jpg
  [7]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/4.reply-to-ohlife-from-banpie.info_.jpg

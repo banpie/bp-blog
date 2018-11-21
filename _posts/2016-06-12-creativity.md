@@ -5,7 +5,7 @@ post_name: creativity
 author: banpie
 post_date: 2016-06-12 00:00:00
 layout: post
-link: http://www.xgclass.cn/creativity/
+link: http://www.banpie.info/creativity/
 published: true
 tags:
   - 教育

@@ -6,7 +6,7 @@ author: banpie
 post_date: 2016-05-05 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/documentary-learning-resource/
+  http://www.banpie.info/documentary-learning-resource/
 published: true
 tags:
   - 影视

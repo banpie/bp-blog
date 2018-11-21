@@ -6,7 +6,7 @@ author: banpie
 post_date: 2016-06-10 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/learning-everything-online/
+  http://www.banpie.info/learning-everything-online/
 published: true
 tags:
   - 教育

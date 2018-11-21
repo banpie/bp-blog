@@ -6,7 +6,7 @@ author: banpie
 post_date: 2016-06-03 23:03:27
 layout: post
 link: >
-  http://www.xgclass.cn/yc-starup-course-references/
+  http://www.banpie.info/yc-starup-course-references/
 published: true
 tags: [ ]
 categories:

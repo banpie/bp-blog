@@ -7,7 +7,7 @@ author: banpie
 post_date: 2016-09-29 00:00:00
 layout: post
 link: >
-  http://www.xgclass.cn/google-url-builder/
+  http://www.banpie.info/google-url-builder/
 published: true
 tags: [ ]
 categories:

@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-03-30 17:54:04
 layout: post
 link: >
-  http://www.xgclass.cn/how-to-compress-the-photo-size-online/
+  http://www.banpie.info/how-to-compress-the-photo-size-online/
 published: true
 tags: [ ]
 categories:
@@ -18,13 +18,13 @@ categories:
 
 在地址栏输入「jpegmini.com」进入网站->点击「Try It Now」跳转到操作界面。
 
-<img class="alignnone size-full wp-image-748" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-49.jpg" width="620" height="326" alt="" />
+<img class="alignnone size-full wp-image-748" src="http://www.banpie.info/wp-content/uploads/2018/11/0-49.jpg" width="620" height="326" alt="" />
 
 ## 2、上传照片
 
 将要压缩的照片拖入虚线框中上传照片。
 
-<img class="alignnone size-full wp-image-749" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-50.jpg" width="620" height="326" alt="" />
+<img class="alignnone size-full wp-image-749" src="http://www.banpie.info/wp-content/uploads/2018/11/0-50.jpg" width="620" height="326" alt="" />
 
 ## 3、下载
 
@@ -32,6 +32,6 @@ categories:
 
 图片下方显示压缩倍数（下图：4.9倍）和压缩前后大小（前：5344 KB  后：1099 KB）-> 在图片上左右移动鼠标可以对比压缩前后画质变化，可以发现画质没有变，很神奇吧。
 
-<img class="alignnone size-full wp-image-750" src="http://www.xgclass.cn/wp-content/uploads/2018/11/0-51.jpg" width="620" height="326" alt="" />
+<img class="alignnone size-full wp-image-750" src="http://www.banpie.info/wp-content/uploads/2018/11/0-51.jpg" width="620" height="326" alt="" />
 
 注意：用JPEGmini在线试用版是免费的，但是一次只能处理一张照片。想要了解更多功能，可以下载JPEGmini，如果下载试用版每天可以处理20张照片，但是完整版是需要付费的。
