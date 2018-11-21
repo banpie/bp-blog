@@ -10,7 +10,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 未分类
+  - 工具
 ---
 阿半在工作中有时候需要认证一些企业微博，有一个东西很难搞定，就是微博会对上传图片的图片限制大小。阿半同事经常遇到这个问题，还大费周章的用PS压缩了图片大小，其实，这个东西用系统内置的工具就能轻松搞定。
 
@@ -32,6 +32,6 @@ categories:
 
 [![adjust pic size][3]][3]
 
- [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/right-click-picture.jpg
+ [1]: http://www.xgclass.cn/wp-content/uploads/2018/11/right-click-picture.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/readjust.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/adjust-pic-size.jpg
