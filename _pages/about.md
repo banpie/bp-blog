@@ -37,6 +37,6 @@ categories: [ ]
 
 > *   <a href="http://www.zhihu.com/people/halfpie" target="_blank" rel="noopener">知乎</a>
 > *   <a href="https://github.com/devmidai" target="_blank" rel="noopener">Github</a>
-> *   [邮箱](banpie@bpteach.com)
+> *   [邮箱](mailto:banpie@bpteach.com)
 > *   [公众号](https://qr.api.cli.im/qr?data=http%253A%252F%252Fweixin.qq.com%252Fr%252FOUOmvnDEwy28rTTd9xYr&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=260&kid=cliim&key=66b32de956a67c918891a3832e92521e)
 
