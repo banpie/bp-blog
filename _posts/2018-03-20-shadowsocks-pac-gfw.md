@@ -14,6 +14,7 @@ categories:
   - 工具
 ---
 
+
 在国内使用 Google 并不是一件非常容易的事情，虽然说目前还有部分的VPN，比如蓝灯，我们可以比较顺利地进行科学上网，打开新世界的大门，但是商用的VPN总会出现各种问题。
 
 1. **速度慢**：大部分提供VPN服务的公司通常是买了很多台国外的服务器，然后让几个用户一起共享其中的某一台服务器。
@@ -73,71 +74,71 @@ categories:
 
 首先我们需要访问 [搬瓦工](https://bandwagonhost.com/aff.php?aff=11742) （如访问缓慢，请使用 *bwh1.net* 访问）购买VPS（如果你无法访问这个网站，有可能是被墙了，所以先使用类似的蓝灯VPN 切换到全局模式下访问后再购买），对于个人使用而言（每个月500G流量），可以选最便宜的每月2.99$，折合人民币也就20块几毛，和市面大部分收费的 VPN 费用差不多。
 
-![image1](https://moshuqi.github.io/images/posts/vpn/1.jpeg)
+![image1](http://upload-images.jianshu.io/upload_images/1668324-b47cff6ae3bd43b5.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 选择KVM， 因为据说KVM是完全虚拟的，可以说是最真实的虚拟机，内存不共享，并且可以做很多事情，比如装docker，但是你选择OVZ 也可以。
 
-![image1](https://moshuqi.github.io/images/posts/vpn/2.jpeg)
+![image](http://upload-images.jianshu.io/upload_images/1668324-3f689e690c58b2fa.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 有按月按季度按年的，先选个按月的，第一次用也不知道稳不稳定。Location是服务器的地址，到时候打开谷歌首页显示的国家会和这个相关。
 
-![image1](https://moshuqi.github.io/images/posts/vpn/3.jpeg)
+![](http://upload-images.jianshu.io/upload_images/1668324-9f5ade6538dc5988.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 确认之后点击点击 **Checkout**
 
-![image1](https://moshuqi.github.io/images/posts/vpn/4.jpeg)
+![image](http://upload-images.jianshu.io/upload_images/1668324-3b275f7d36254bd5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 填写完相关的资料后付款，选择Alipay直接支付宝扫码付款。：）
 
-![image1](https://moshuqi.github.io/images/posts/vpn/5.jpeg)
+![image](http://upload-images.jianshu.io/upload_images/1668324-01ceb215d88d2c78.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### **3.2 安装Shadowsocks服务器**
 
 购买成功后回到首页，先选择右上角的 **Client Area**，然后选择 **My Services**
 
-![image1](https://moshuqi.github.io/images/posts/vpn/6.jpeg)
+![image1](http://upload-images.jianshu.io/upload_images/1668324-81db59779671c8ab.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 点击 **KiwiVM Control Panel** 进入服务器的控制面板
 
-![image1](https://moshuqi.github.io/images/posts/vpn/7.jpeg)
+![image1](http://upload-images.jianshu.io/upload_images/1668324-c2223d65f86b026d.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 侧边栏选择 **Main controls**，可以看到当前服务器的信息，**IP**地址后续需要提供给客户端。操作系统默认安装了 **Centos**，你可以在左边的 **Install new OS** 中选择其他的系统，有**Ubuntu**和**Debian**，只需几分钟便可重装完毕。
 
 不过最好还是使用 **Centos**，因为系统提供一键安装Shadowsocks的脚本只支持 **Centos**，换了其他系统的话脚本安装会失败，除非你会在对应系统上自己手动安装。
 
-![image1](https://moshuqi.github.io/images/posts/vpn/8.jpeg)
+![image1](http://upload-images.jianshu.io/upload_images/1668324-b0a13e614f116f42.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 点击侧边栏最下方的 **Shadowsocks Server** 选项，进入之后直接点击 **Install Shadowsocks Server** 按钮，运行脚本在服务器上安装Shadowsocks，稍等片刻安装完毕。
 
-![image1](https://moshuqi.github.io/images/posts/vpn/19.png)
+![image1](http://upload-images.jianshu.io/upload_images/1668324-e36ee4feddb0f4c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 安装完成后重新点击 **Shadowsocks Server** 选项，进入界面后便可看到 **Shadowsocks server** 的相关信息，主要有**加密方式**，**端口号**，**服务器密码**，后续客户端连接服务器需要用到这些信息。
 
-![image1](https://moshuqi.github.io/images/posts/vpn/9.jpeg)
+![image1](http://upload-images.jianshu.io/upload_images/1668324-4752c12e7734e235.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### **3.3 安装Shadowsocks客户端**
 
 **Shadowsocks**客户端的[下载地址](https://shadowsocks.org/en/download/clients.html)，可以看到有各种客户端的下载。貌似这货也是得翻墙才能访问到。
 
-![image1](https://moshuqi.github.io/images/posts/vpn/10.jpeg)
+![image](http://upload-images.jianshu.io/upload_images/1668324-848193232914a670.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### **3.3.1 Mac配置**
 
 用的是Mac电脑，所以点击相关链接。东西都挂在github上，下载对应的zip文件，下载完成后安装并运行起来。
 
-![image1](https://moshuqi.github.io/images/posts/vpn/11.jpeg)
+![image1](http://upload-images.jianshu.io/upload_images/1668324-ae6bfd3b916ae895.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 点击图标，进入 **服务器设置**
 
-![image1](https://moshuqi.github.io/images/posts/vpn/12.jpeg)
+![image1](http://upload-images.jianshu.io/upload_images/1668324-e227b64dd32177e9.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 主要有四个地方要填，**服务器的地址**，**端口号**，**加密方法**，**密码**。服务器地址即为之前 **Main controls**选项中的IP地址。端口号、加密方法、密码必须与之前 **Shadowsocks Server** 中的信息一一匹配，否则会连接失败。
 
-![image1](https://moshuqi.github.io/images/posts/vpn/13.jpeg)
+![image1](http://upload-images.jianshu.io/upload_images/1668324-8d01bce61269d971.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 设置完成后点击确定，然后服务器选择这个配置，默认选中PAC自动模式，确保Shadowsocks状态为**On**，这时候打开谷歌试试~
 
-![image1](https://moshuqi.github.io/images/posts/vpn/18.jpeg)
+![image1](http://upload-images.jianshu.io/upload_images/1668324-120c4a2c2f6bdf9b.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 Google图标右下角显示的是Canada，因为之前服务器的地址选的是加拿大：）
 
@@ -147,19 +148,19 @@ iOS上用的VPN App 是**Wingy**，可以App Store上直接搜。官方的**Wing
 
 下载完成后运行，点击 **选择线路**
 
-![image1](https://moshuqi.github.io/images/posts/vpn/14.jpeg)
+![image1](http://upload-images.jianshu.io/upload_images/1668324-e3f66bc3709a75bb.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 选择 **新增线路**
 
-![image1](https://moshuqi.github.io/images/posts/vpn/15.jpeg)
+![image1](http://upload-images.jianshu.io/upload_images/1668324-f76e3285466379ac.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 选择 **Shadowsocks(R)**
 
-![image1](https://moshuqi.github.io/images/posts/vpn/16.jpeg)
+![image1](http://upload-images.jianshu.io/upload_images/1668324-615231a2c88f3940.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 在配置界面填写服务器相关的信息，和Mac上的一样，填写完成后保存，然后在首页进行连接。
 
-![image1](https://moshuqi.github.io/images/posts/vpn/17.jpeg)
+![image1](http://upload-images.jianshu.io/upload_images/1668324-2e64fc6fdf4e51c9.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 这样一来手机也能愉快的翻墙了。当然其他端的配置方式也基本一致，可以根据使用的平台下载对应的客户端。下载好的客户端最后自己在别处备份一下，因为官网需要翻墙，以方便后续其他未翻墙的机器下载。
 
