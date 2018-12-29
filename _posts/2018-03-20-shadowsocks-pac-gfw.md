@@ -111,6 +111,8 @@ categories:
 
 <img class="alignnone size-full wp-image-1454" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-e36ee4feddb0f4c3.png" width="1240" height="759" alt="image1" />
 
+注意：如果你没有看到这个选项，可以[点击链接[(https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks)手动进入安装页面。
+
 安装完成后重新点击 **Shadowsocks Server** 选项，进入界面后便可看到 **Shadowsocks server** 的相关信息，主要有**加密方式**，**端口号**，**服务器密码**，后续客户端连接服务器需要用到这些信息。
 
 <img class="alignnone size-full wp-image-1455" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-4752c12e7734e235.jpeg" width="1240" height="668" alt="image1" />
@@ -165,7 +167,7 @@ iOS上用的VPN App 是**Wingy**，可以App Store上直接搜。官方的**Wing
 
 最后，自己搭建的 VPN 好处是可以和别人共享，告诉别人相关的配置信息即可。市面上一些收费的 VPN 还会有限制，比如说不让看 YouTube 有一定流量限制不能分享账号否则封号等。
 
- [1]: http://zh.wikipedia.org/wiki/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
- [2]: https://vc2tea.com/whats-shadowsocks/
- [3]: https://bandwagonhost.com/aff.php?aff=11742
- [4]: https://shadowsocks.org/en/download/clients.html
+[1]: http://zh.wikipedia.org/wiki/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
+[2]: https://vc2tea.com/whats-shadowsocks/
+[3]: https://bandwagonhost.com/aff.php?aff=11742
+[4]: https://shadowsocks.org/en/download/clients.html
