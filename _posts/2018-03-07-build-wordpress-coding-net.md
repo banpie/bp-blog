@@ -38,7 +38,7 @@ categories:
 
 WordPress 是什么呢？**简单的来说，它就是一个程序**。好像我们电脑上安装QQ程序来聊天，安装 Typora 程序来写作，而我们安装 WordPress 来管理内容。只是不太一样的是，WordPress 程序不是安装在普通的个人电脑上，而是需要安装在服务器电脑上才能运行。
 
-<img class="alignnone size-full wp-image-1489" src="http://www.banpie.info/wp-content/uploads/2019/01/006tNc79ly1fp4g1371m0j31kw0xzqcl-1.jpg" width="1280" height="764" alt="ACDB39A5-14B9-4BEC-9DC4-C2538CAE6ECE" />
+<img class="alignnone size-full wp-image-1523" src="http://www.banpie.info/wp-content/uploads/2019/01/006tNc79ly1fp4g1371m0j31kw0xzqcl-2-1.jpg" width="1280" height="764" alt="ACDB39A5-14B9-4BEC-9DC4-C2538CAE6ECE" />
 
 当然 WordPress 到今天其实已经不仅仅是用于做内容管理了，你还可以拿它来开网店、做论坛、做问答社区、搭建企业站点等等（半撇私塾的站点也是使用WordPress 搭建的）。
 
@@ -56,11 +56,11 @@ Coding Pages！所以本文分享的就是利用 Coding Pages 实现 WordPress �
 
 1.  注册 Coding.net 的账号；
 
-<img class="alignnone size-full wp-image-1490" src="http://www.banpie.info/wp-content/uploads/2019/01/006tNc79gy1fp4g3vjd75j31kw0vlafm-1.jpg" width="1280" height="710" alt="8BE22921-AC31-4D05-AE27-DC8102A97708" />
+<img class="alignnone size-full wp-image-1524" src="http://www.banpie.info/wp-content/uploads/2019/01/006tNc79gy1fp4g3vjd75j31kw0vlafm-2-1.jpg" width="1280" height="710" alt="8BE22921-AC31-4D05-AE27-DC8102A97708" />
 
 1.  完善你的个人信息，将账号免费升级至「银牌会员」。
 
-<img class="alignnone size-full wp-image-1491" src="http://www.banpie.info/wp-content/uploads/2019/01/006tNc79ly1fp4g37mbb5j31i60swtfh-1.jpg" width="1280" height="682" alt="8DC3F525-C838-40C0-AE70-168B97A0C586" />
+<img class="alignnone size-full wp-image-1525" src="http://www.banpie.info/wp-content/uploads/2019/01/006tNc79ly1fp4g37mbb5j31i60swtfh-2-1.jpg" width="1280" height="682" alt="8DC3F525-C838-40C0-AE70-168B97A0C586" />
 
 ## WordPress 搭建操作过程
 
@@ -68,31 +68,31 @@ Coding Pages！所以本文分享的就是利用 Coding Pages 实现 WordPress �
 
 1.  在 https://bpteach.cn/2D4Brtn 页面右上角点击「Fork」将该项目复制到你自己的仓库。
 
-<img class="alignnone size-full wp-image-1492" src="http://www.banpie.info/wp-content/uploads/2019/01/006tNc79gy1fp4g999p75j31kw0y949y-1.jpg" width="1280" height="770" alt="172FE42B-244C-47E4-820B-1369B694A1CF" />
+<img class="alignnone size-full wp-image-1526" src="http://www.banpie.info/wp-content/uploads/2019/01/006tNc79gy1fp4g999p75j31kw0y949y-2-1.jpg" width="1280" height="770" alt="172FE42B-244C-47E4-820B-1369B694A1CF" />
 
 1.  「Fork」完毕后，你自己的仓库就会出现名为「dpages-WordPress-Demo」的项目了。你需要在这个项目里点击「代码 -> Pages 服务」，选择「动态 Pages」 选项卡，点击「开启」，选择部署来源，点击「保存」。稍等片刻即可完成部署并通过 `xx.coding.io` 访问你的网站。
 
-<img class="alignnone size-full wp-image-1493" src="http://www.banpie.info/wp-content/uploads/2019/01/b4685f14-9ebb-4ed6-a1cc-0458e31fc7c6-1.png" width="1080" height="745" alt="图片" /> <img class="alignnone size-full wp-image-1494" src="http://www.banpie.info/wp-content/uploads/2019/01/d6b0f693-e612-491e-889e-89ac5dd0d081-1.png" width="604" height="110" alt="图片" />
+<img class="alignnone size-full wp-image-1527" src="http://www.banpie.info/wp-content/uploads/2019/01/b4685f14-9ebb-4ed6-a1cc-0458e31fc7c6-2-1.png" width="1080" height="745" alt="图片" /> <img class="alignnone size-full wp-image-1528" src="http://www.banpie.info/wp-content/uploads/2019/01/d6b0f693-e612-491e-889e-89ac5dd0d081-2-1.png" width="604" height="110" alt="图片" />
 
 1.  同时，你需要在这个页面中点击存储空间栏中的「连接信息」获取数据库连接信息。
 
-<img class="alignnone size-full wp-image-1495" src="http://www.banpie.info/wp-content/uploads/2019/01/2e76fde7-f5ae-478f-944f-721072e0cc54-1.png" width="1063" height="505" alt="图片" />
+<img class="alignnone size-full wp-image-1529" src="http://www.banpie.info/wp-content/uploads/2019/01/2e76fde7-f5ae-478f-944f-721072e0cc54-2-1.png" width="1063" height="505" alt="图片" />
 
 1.  打开部署的网站，填入第 3 步中获取的信息。
 
-<img class="alignnone size-full wp-image-1496" src="http://www.banpie.info/wp-content/uploads/2019/01/6aa000f3-e64b-4166-8348-309e9f098ae5-1.png" width="731" height="380" alt="图片" />
+<img class="alignnone size-full wp-image-1530" src="http://www.banpie.info/wp-content/uploads/2019/01/6aa000f3-e64b-4166-8348-309e9f098ae5-2-1.png" width="731" height="380" alt="图片" />
 
 5、填写基本信息，安装 WordPress。
 
-<img class="alignnone size-full wp-image-1497" src="http://www.banpie.info/wp-content/uploads/2019/01/04df3395-1129-4369-8ab2-4b62f19c1939-1.png" width="742" height="693" alt="图片" />
+<img class="alignnone size-full wp-image-1531" src="http://www.banpie.info/wp-content/uploads/2019/01/04df3395-1129-4369-8ab2-4b62f19c1939-2-1.png" width="742" height="693" alt="图片" />
 
 6、安装完成后，你的网站就搭建成功了！（示例网站地址: ：https://bpteach.cn/2G3Zlbi）
 
-<img class="alignnone size-full wp-image-1498" src="http://www.banpie.info/wp-content/uploads/2019/01/006tNc79gy1fp4gscoh06j31kw0uf4aw-1.jpg" width="1280" height="684" alt="00CAF769-E2B7-4D9C-833F-983D440833A5" />
+<img class="alignnone size-full wp-image-1532" src="http://www.banpie.info/wp-content/uploads/2019/01/006tNc79gy1fp4gscoh06j31kw0uf4aw-2-1.jpg" width="1280" height="684" alt="00CAF769-E2B7-4D9C-833F-983D440833A5" />
 
 1.  使用第 5 步中的信息登录 WordPress 后即可进入管理后台。
 
-<img class="alignnone size-full wp-image-1499" src="http://www.banpie.info/wp-content/uploads/2019/01/310a7de6-d9e7-4c36-84cd-6c500f10bd2d-1.png" width="1280" height="677" alt="图片" />
+<img class="alignnone size-full wp-image-1533" src="http://www.banpie.info/wp-content/uploads/2019/01/310a7de6-d9e7-4c36-84cd-6c500f10bd2d-2-1.png" width="1280" height="677" alt="图片" />
 
 当然，接下来你还可以做很多事情，比如：
 
