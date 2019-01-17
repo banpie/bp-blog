@@ -111,7 +111,7 @@ categories:
 
 <img class="alignnone size-full wp-image-1454" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-e36ee4feddb0f4c3.png" width="1240" height="759" alt="image1" />
 
-注意：如果你没有看到这个选项，可以[点击链接[(https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks)手动进入安装页面。
+注意：如果你没有看到这个选项，可以 [点击链接[(https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks) 手动进入安装页面。
 
 安装完成后重新点击 **Shadowsocks Server** 选项，进入界面后便可看到 **Shadowsocks server** 的相关信息，主要有**加密方式**，**端口号**，**服务器密码**，后续客户端连接服务器需要用到这些信息。
 
