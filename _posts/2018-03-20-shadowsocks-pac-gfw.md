@@ -93,6 +93,14 @@ categories:
 
 ### **3\.2 安装Shadowsocks服务器**
 
+安装Shadowsocks服务器分为3种情况：
+
+- **自带安装法**：老版的服务器通常自带了Shadowsocks入口，你只需要点击一个按钮安装就可以，具体查看下方教程。
+- **隐藏安装法**：部分服务器可以通过特定的URL访问Shadowsocks入口，然后再点击按钮直接安装，具体查看下方教程。
+- **SSH安装法**：上面两个方法都没有的，可以借助快捷脚本安装，具体查看下方教程。
+
+#### 3.2.1 自带安装法
+
 购买成功后回到首页，先选择右上角的 **Client Area**，然后选择 **My Services**
 
 <img class="alignnone size-full wp-image-1451" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-81db59779671c8ab.jpeg" width="1240" height="673" alt="image1" />
@@ -111,15 +119,29 @@ categories:
 
 <img class="alignnone size-full wp-image-1454" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-e36ee4feddb0f4c3.png" width="1240" height="759" alt="image1" />
 
-注意：如果你没有看到这个选项，需要先登陆KIWI的后台（确保是登陆状态），然后修改URL为`https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks`手动进入安装页面。
-
-![](https://cdn.bpteach.com/images/20190211113613.png)
-
 安装完成后重新点击 **Shadowsocks Server** 选项，进入界面后便可看到 **Shadowsocks server** 的相关信息，主要有**加密方式**，**端口号**，**服务器密码**，后续客户端连接服务器需要用到这些信息。
 
 <img class="alignnone size-full wp-image-1455" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-4752c12e7734e235.jpeg" width="1240" height="668" alt="image1" />
 
-### **3\.3 安装Shadowsocks客户端**
+#### 3.2.2 隐藏安装法
+
+由于目前搬瓦工已经隐藏了 Shadowsocks 的安装入口，不过针对部分的服务器，它的这功能没被删除，只是隐藏而已（前提：Shadowsocks 隐藏入口需要系统选择 Centos6 可以选带BBR的）
+
+具体的步骤为：
+
+1. **登陆搬瓦工**：[搬瓦工地址](http://bwh1.net/aff.php?aff=11742)。
+2. **进入KiwiVM 后台**：找到购买的主机，点击“[KiwiVM Control Panel](https://www.wervps.com/goto/nhk3t9g)”。
+3. **安装 Shadowsocks**：访问`https://kiwivm.64clouds.com/preloader.php?load=/main-exec.php?mode=extras_shadowsocks`，然后点击`Install Shadowsocks Server`完成安装。
+   ![](https://cdn.bpteach.com/images/2019-02-14-023714.png)
+4. **查看Shadowsocks信息**：点击`Go back`返回之前的页面(`[https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks`，可以看到相关的账号信息和使用方法。
+   ![img](https://cdn.bpteach.com/images/2019-02-14-023725.png)
+5. 完成！
+
+#### 3.2.3 SSH安装法
+
+具体可参考[一键脚本搭建ss](https://flyzyblog.com/install-ss-ssr-bbr-in-one-command/)。
+
+### 3\.3 安装Shadowsocks客户端
 
 **Shadowsocks**客户端的[下载地址][4]，可以看到有各种客户端的下载。貌似这货也是得翻墙才能访问到。
 
