@@ -5,11 +5,11 @@ post_name: sound-for-video
 author: banpie
 post_date: 2017-01-12 00:00:00
 layout: post
-link: http://www.banpie.info/sound-for-video/
+link: https://www.banpie.info/sound-for-video/
 published: true
 tags:
-  - 新媒体自习室
   - 配乐
+  - 新媒体自习室
 categories:
   - 新媒体自习室
 ---
