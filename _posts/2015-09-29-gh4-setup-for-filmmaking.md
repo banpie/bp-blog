@@ -6,7 +6,7 @@ author: banpie
 post_date: 2015-09-29 10:20:36
 layout: post
 link: >
-  http://www.banpie.info/gh4-setup-for-filmmaking/
+  https://www.banpie.info/gh4-setup-for-filmmaking/
 published: true
 tags:
   - 影视
@@ -50,13 +50,13 @@ GH4 最新的固件2.4中已经加入了Vlog的配置，这一款强大的无反
 
 1.  `Photo Style`: 2.4固件下推荐`V-log`,2.2固件下推荐参见下文的*设置Picture Style*
 
-- `Rec Format`: `MOV` - `Record Quality`: 24帧拍摄推荐`4K/100M/24P`；高帧拍摄推荐`FHD 100M 24P`，该模式下可开启`VFR`可变帧率，最高可设置96帧Slowmotion拍摄 - `Exposure Mode`: `M`（如果拍摄为25P，快门速度不能低于1/25） - `Continuous AF`: `OFF` - `Metering Mode`: `Center Weighted`(选项2) - `Luminance Level`: `0-255` - `Sound Output`: `REC SOUND` - `Mic Level Disp`: `ON`（此后的设置需要关闭`Variable Frame Rate`才可设置） - `Mic Level Adj.`: `-12db` - `Mic Level Limiter`: `OFF` - `Wind Cut`: `OFF`
+*   `Rec Format`: `MOV` - `Record Quality`: 24帧拍摄推荐`4K/100M/24P`；高帧拍摄推荐`FHD 100M 24P`，该模式下可开启`VFR`可变帧率，最高可设置96帧Slowmotion拍摄 - `Exposure Mode`: `M`（如果拍摄为25P，快门速度不能低于1/25） - `Continuous AF`: `OFF` - `Metering Mode`: `Center Weighted`(选项2) - `Luminance Level`: `0-255` - `Sound Output`: `REC SOUND` - `Mic Level Disp`: `ON`（此后的设置需要关闭`Variable Frame Rate`才可设置） - `Mic Level Adj.`: `-12db` - `Mic Level Limiter`: `OFF` - `Wind Cut`: `OFF`
 
 ## 8\. 设置Custom菜单
 
 1.  `Eye Sensor AF`: `OFF`
 
-- `AF Assist Lamp`: `OFF` - `Direct Focus Area`: `ON` - `AF+MF`: `ON`（该设置使得在自动对焦的模式下，半按快门时仍然可以调节手动对焦环进行对焦） - `MF Assist`: `AF Mode Button` (选项3, 直接通过物理Fn按钮放大所选区域) - `Peaking`: `ON` - `Set` - `Detect level`: `Low` - `Display Color`: `Orange` 7. `Histogram`: `ON` 8. `Zebra Pattern`: `ZEBRA2`（超出100%的过曝区域） - `Set` - `Zebra 1`: 70%，适用于让人脸获得正确曝光 - `Zebra 2`: 100%，适于于显示高光过曝的区域 9. `Guide Line`: `九宫格` 10. `Constant Preview`: `ON` 11. `Exposure Meter`: `OFF` 11. `Video-Priority Display`: `ON`（调节拍摄显示的参数为视频模式，比如帧率，码率，bite rate等） 11. `Dial Set` - `Assign Dial`: `SS/F` (用顶部旋钮调节快门速度，用背部旋钮调节光圈大小） - `Exposure Compensation`: `Rear Dial` 11. `Eye Sensor` - `Sensitivity`: `Low` - `LVF/Monitor Switch`: `Mon` 11. `Touch Settings`/`Touch AF`: `OFF` 11. `Shoot W/O Lens`: `ON`
+*   `AF Assist Lamp`: `OFF` - `Direct Focus Area`: `ON` - `AF+MF`: `ON`（该设置使得在自动对焦的模式下，半按快门时仍然可以调节手动对焦环进行对焦） - `MF Assist`: `AF Mode Button` (选项3, 直接通过物理Fn按钮放大所选区域) - `Peaking`: `ON` - `Set` - `Detect level`: `Low` - `Display Color`: `Orange` 7. `Histogram`: `ON` 8. `Zebra Pattern`: `ZEBRA2`（超出100%的过曝区域） - `Set` - `Zebra 1`: 70%，适用于让人脸获得正确曝光 - `Zebra 2`: 100%，适于于显示高光过曝的区域 9. `Guide Line`: `九宫格` 10. `Constant Preview`: `ON` 11. `Exposure Meter`: `OFF` 11. `Video-Priority Display`: `ON`（调节拍摄显示的参数为视频模式，比如帧率，码率，bite rate等） 11. `Dial Set` - `Assign Dial`: `SS/F` (用顶部旋钮调节快门速度，用背部旋钮调节光圈大小） - `Exposure Compensation`: `Rear Dial` 11. `Eye Sensor` - `Sensitivity`: `Low` - `LVF/Monitor Switch`: `Mon` 11. `Touch Settings`/`Touch AF`: `OFF` 11. `Shoot W/O Lens`: `ON`
 
 ## 9\. 设置Picture Style
 
