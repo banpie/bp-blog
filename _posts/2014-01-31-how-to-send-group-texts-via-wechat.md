@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-01-31 19:59:40
 layout: post
 link: >
-  http://www.banpie.info/how-to-send-group-texts-via-wechat/
+  https://www.banpie.info/how-to-send-group-texts-via-wechat/
 published: true
 tags: [ ]
 categories:
