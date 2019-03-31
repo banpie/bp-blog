@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-06-21 18:38:12
 layout: post
 link: >
-  http://www.banpie.info/how-to-use-ppt-clip-video/
+  https://www.banpie.info/how-to-use-ppt-clip-video/
 published: true
 tags: [ ]
 categories:
@@ -20,19 +20,19 @@ categories:
 
 在 PowerPoint 2013 中，单击顶部功能区的「插入」选项卡 → 单击「视频」按钮 → 在弹出的栏中选择「PC上的视频」，选择本地视频打开后，就可以插入本地的视频文件了。（你还可以直接将视频文件拖动到软件里头，快速完成视频的插入）。
 
-<img class="alignnone size-full wp-image-700" src="http://www.banpie.info/wp-content/uploads/2018/11/0-24.jpg" width="720" height="370" alt="" />
+<img class="alignnone size-full wp-image-1876" src="http://www.banpie.info/wp-content/uploads/2019/03/0-24.jpg" width="720" height="370" alt="" />
 
 ## 2、准备剪裁
 
 鼠标左键点击选中视频，这时候顶部的功能区会显示「视频工具」这个选项卡（包括“格式”和“播放”选项卡）→ 单击「播放」选项卡 → 单击「剪裁视频」。
 
-<img class="alignnone size-full wp-image-701" src="http://www.banpie.info/wp-content/uploads/2018/11/0-25.jpg" width="720" height="480" alt="" />
+<img class="alignnone size-full wp-image-1877" src="http://www.banpie.info/wp-content/uploads/2019/03/0-25.jpg" width="720" height="480" alt="" />
 
 ## 3、剪裁视频
 
 打开「剪裁视频」对话框后 → 拖动「开始和结束柄」来控制视频的起始点和终止点 → 单击「确定」即可完成视频的剪裁。
 
-<img class="alignnone size-full wp-image-702" src="http://www.banpie.info/wp-content/uploads/2018/11/0-26.jpg" width="900" height="505" alt="" />
+<img class="alignnone size-full wp-image-1878" src="http://www.banpie.info/wp-content/uploads/2019/03/0-26.jpg" width="900" height="505" alt="" />
 
 ## 4、视频淡化处理：
 
@@ -40,6 +40,6 @@ categories:
 
 如下图，你也可直接输入开始时间和结束时间进行剪裁。
 
-<img class="alignnone size-full wp-image-703" src="http://www.banpie.info/wp-content/uploads/2018/11/0-27.jpg" width="720" height="124" alt="" />
+<img class="alignnone size-full wp-image-1879" src="http://www.banpie.info/wp-content/uploads/2019/03/0-27.jpg" width="720" height="124" alt="" />
 
 最后，剪裁音频的方法/步骤与视频类似。选中音频，这时候功能区就会显示「音频工具」选项卡（包括“格式”和“播放”选项卡），后面依此类推。
