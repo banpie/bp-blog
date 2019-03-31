@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-01-17 01:17:39
 layout: post
 link: >
-  http://www.banpie.info/how-to-make-pc-faster-without-360/
+  https://www.banpie.info/how-to-make-pc-faster-without-360/
 published: true
 tags: [ ]
 categories:
