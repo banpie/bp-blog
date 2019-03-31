@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-02-20 16:51:22
 layout: post
 link: >
-  http://www.banpie.info/file-could-not-be-opened-to-do/
+  https://www.banpie.info/file-could-not-be-opened-to-do/
 published: true
 tags: [ ]
 categories:
