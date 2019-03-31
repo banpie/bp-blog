@@ -6,7 +6,7 @@ post_name: prototype
 author: banpie
 post_date: 2016-09-03 11:11:25
 layout: post
-link: http://www.banpie.info/prototype/
+link: https://www.banpie.info/prototype/
 published: true
 tags: [ ]
 categories:
@@ -24,6 +24,6 @@ categories:
 
 以下是用Balsamiq产出的原型图：
 
-<img class="alignnone size-full wp-image-633" src="http://www.banpie.info/wp-content/uploads/2018/11/d988cddca6e41410.png" width="200" height="200" alt="" />
+<img class="alignnone size-full wp-image-2081" src="http://www.banpie.info/wp-content/uploads/2019/03/d988cddca6e41410.png" width="200" height="200" alt="" />
 
 > 注：`Balsamiq`有网页版和客户端版本，客户端可以免费使用1个月，网页版没有限制。​
