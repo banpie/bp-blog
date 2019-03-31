@@ -6,12 +6,12 @@ author: banpie
 post_date: 2015-05-22 18:20:00
 layout: post
 link: >
-  http://www.banpie.info/mit-challenge-of-cs-curriculum/
+  https://www.banpie.info/mit-challenge-of-cs-curriculum/
 published: true
 tags:
-  - 前端
-  - 学习图谱
   - 笔记
+  - 学习图谱
+  - 前端
 categories:
   - 未分类
 ---
