@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-02-23 11:05:28
 layout: post
 link: >
-  http://www.banpie.info/a-decent-list-of-tasks/
+  https://www.banpie.info/a-decent-list-of-tasks/
 published: true
 tags: [ ]
 categories:
