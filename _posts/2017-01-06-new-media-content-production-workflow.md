@@ -7,7 +7,7 @@ author: banpie
 post_date: 2017-01-06 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/new-media-content-production-workflow/
+  https://www.banpie.info/new-media-content-production-workflow/
 published: true
 tags:
   - 写作
