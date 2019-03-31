@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-09-15 11:54:14
 layout: post
 link: >
-  http://www.banpie.info/using-pocket-to-improve-your-reading-productivity/
+  https://www.banpie.info/using-pocket-to-improve-your-reading-productivity/
 published: true
 tags: [ ]
 categories:
