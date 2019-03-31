@@ -6,7 +6,8 @@ post_name: p2p-file-sharing
 author: banpie
 post_date: 2014-12-17 13:38:52
 layout: post
-link: http://www.banpie.info/p2p-file-sharing/
+link: >
+  https://www.banpie.info/p2p-file-sharing/
 published: true
 tags: [ ]
 categories:
