@@ -7,11 +7,11 @@ author: banpie
 post_date: 2015-11-02 19:56:28
 layout: post
 link: >
-  http://www.banpie.info/the-power-of-previz-using-video/
+  https://www.banpie.info/the-power-of-previz-using-video/
 published: true
 tags:
-  - 影视
   - 笔记
+  - 影视
 categories:
   - 未分类
 ---
