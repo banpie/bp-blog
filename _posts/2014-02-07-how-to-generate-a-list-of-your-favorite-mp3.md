@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-02-07 23:45:45
 layout: post
 link: >
-  http://www.banpie.info/how-to-generate-a-list-of-your-favorite-mp3/
+  https://www.banpie.info/how-to-generate-a-list-of-your-favorite-mp3/
 published: true
 tags: [ ]
 categories:
@@ -19,25 +19,25 @@ categories:
 
 打开目标文件夹->空白处右键选择「新建」->选择「文本文档」->并以英文命名TXT文档。
 
-[![How-to-generate-a-list-of-your-favorite-mp3-01][1]][1]
+<img class="alignnone size-full wp-image-1618" src="http://www.banpie.info/wp-content/uploads/2019/03/1-2.jpg" width="620" height="179" alt="How-to-generate-a-list-of-your-favorite-mp3-01" />
 
 ## 第二步：输入代码
 
 打开txt文档，键入「dir *.mp3>mp3.txt」之后,保存为名为「mp3.txt」的文本文件（音乐用mp3，照片与电影就用相应的格式比如jpg、mov等，有兴趣的可以去尝试并反馈给我）。
 
-[![How-to-generate-a-list-of-your-favorite-mp3-02][2]][2]
+[![How-to-generate-a-list-of-your-favorite-mp3-02][1]][1]
 
 ## 第三步：修改查看设置
 
 文件夹左上方点击「工具」->「文件夹选项」->「查看」->去掉勾选「隐藏已知文件类型的扩展名」->「确定」。
 
-[![How-to-generate-a-list-of-your-favorite-mp3-03][3]][3]
+[![How-to-generate-a-list-of-your-favorite-mp3-03][2]][2]
 
 ## 第四步：改变扩展名
 
 将.txt文档的后缀改为.bat->双击运行bat文件->文件夹内将自动生成一个新的txt文档。
 
-[![How-to-generate-a-list-of-your-favorite-mp3-04][4]][4]
+[![How-to-generate-a-list-of-your-favorite-mp3-04][3]][3]
 
 ## 第五步：清单生成
 
@@ -45,10 +45,9 @@ categories:
 
 双击该txt文档即所创建的文件名列表，将这清单备份到云里，10年后你还可以找到现在听的歌！
 
-[![How-to-generate-a-list-of-your-favorite-mp3-05][5]][5]
+[![How-to-generate-a-list-of-your-favorite-mp3-05][4]][4]
 
- [1]: http://www.banpie.info/wp-content/uploads/2018/11/1.jpg
- [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/2.jpg
- [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/3.jpg
- [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/4.jpg
- [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/5.jpg
+ [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/2.jpg
+ [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/3.jpg
+ [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/4.jpg
+ [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/5.jpg
