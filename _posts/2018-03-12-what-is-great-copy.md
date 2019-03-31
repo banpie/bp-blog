@@ -6,7 +6,7 @@ author: banpie
 post_date: 2018-03-12 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/what-is-great-copy/
+  https://www.banpie.info/what-is-great-copy/
 published: true
 tags: [ ]
 categories:
@@ -39,11 +39,11 @@ categories:
 
 比如，这是半撇私塾花瓣账号的商业案例合集。
 
-![][1]
+<img class="alignnone size-full wp-image-2213" src="http://www.banpie.info/wp-content/uploads/2019/03/006tKfTcgy1fpadys71guj30rs0g7jv1.jpg" width="1000" height="583" alt="" />
 
 而「搜索法」具体又分为两种：「关键词搜索法」和「榜单搜索法」。「关键词搜索法」是大多数人在寻找「设计标的」的常用方法，比如你要做一个运营活动的海报，那你可能会直接在搜索引擎中输入「运营活动海报 案例」这类关键词。但是这种方法的问题在于，如果你是审美还处于比较不好的阶段，很可能找到了一些不好的海报：
 
-![][2]
+<img class="alignnone size-full wp-image-2214" src="http://www.banpie.info/wp-content/uploads/2019/03/006tKfTcgy1fpadfsu2kzj30x40ikacn.jpg" width="1192" height="668" alt="" />
 
 这样一来，而如果一开始找到参照物是不好的，有样学样，自然做出来的东西也不会太好。因此为了避免因为「审美差异」而带来的问题，更好的办法是「榜单搜索法」。
 
@@ -51,7 +51,7 @@ categories:
 
 在这种搜索法中，你可以从粉丝量（粉丝量多，做的东西不会太差）、融资量（拿的钱多，有钱做出好东西）、员工数量（员工多，公司大做的东西也不会太差）等维度去筛选。常用的工具也包括：拉钩、清博指数、IT桔子，36Kr等等。
 
-![][3]
+<img class="alignnone size-full wp-image-2215" src="http://www.banpie.info/wp-content/uploads/2019/03/006tKfTcgy1fpadumxa3uj30x40iqt9n.jpg" width="1192" height="674" alt="" />
 
 ## 2\. 设计解构
 
@@ -59,7 +59,7 @@ categories:
 
 比如：我们现在要做一个「直播课程」的裂变海报，并且通过「积累」法在商业案例中找了「网易开年课程」的裂变海报。以下是解构的过程：
 
-![][4]
+<img class="alignnone size-full wp-image-2216" src="http://www.banpie.info/wp-content/uploads/2019/03/006tKfTcgy1fpae0wekezj316s0o277l.jpg" width="1280" height="719" alt="" />
 
 因为是模仿的过程，只需要对于基础信息和设计元素做一些大概的分析，方便后面「套用」即可。
 
@@ -67,7 +67,7 @@ categories:
 
 「替换套用」则是非常简单粗暴的临摹过程。这里再比如：我们需要为今日头条准备做一门「算法入门课」，那么在模仿练习的过程中，我们只需要把「设计解构」过程中勾划出来的要素替换为对应的信息即可。
 
-![][5]
+<img class="alignnone size-full wp-image-2217" src="http://www.banpie.info/wp-content/uploads/2019/03/006tKfTcgy1fpae3lp7aaj31kw0vt443.jpg" width="1280" height="715" alt="" />
 
 设计的过程我大部分是在 Keynote 或者 PPT 中完成的，这里还要提及非常重要的两个工具：「标尺」和「取色器」，这样能更好确保：
 
@@ -76,7 +76,7 @@ categories:
 
 所以，正常来说，桌面的工作页面是这样的：
 
-![][6]
+<img class="alignnone size-full wp-image-2218" src="http://www.banpie.info/wp-content/uploads/2019/03/006tKfTcgy1fpae5n9wcsj31kw0zyqa5.jpg" width="1280" height="808" alt="" />
 
 ## 4\. 调整优化
 
@@ -84,21 +84,12 @@ categories:
 
 现在假设今日头条的UI色彩是以蓝青为主（为举例方便，实际上头条主色也是红色），所以我们根据整体的配色方案做了如下的调整：
 
-![][7]
+<img class="alignnone size-full wp-image-2219" src="http://www.banpie.info/wp-content/uploads/2019/03/006tKfTcgy1fpae9l3noxj31g20tgdkg.jpg" width="1280" height="724" alt="" />
 
 在这里，你应该观察到了图片中收音机的颜色也做了对应的变化，这里我使用到的工具是阿里「iconfont」，它可以对组合图形自由的变更色彩：
 
-![][8]
+<img class="alignnone size-full wp-image-2220" src="http://www.banpie.info/wp-content/uploads/2019/03/006tKfTcgy1fpaedyv6kyj31g00tcq3m.jpg" width="1280" height="722" alt="" />
 
 你可能会觉得，从以前读书角度来看，这种方法看来似乎是一种「作弊」。但是对于设计练习者，模仿是确是设计的捷径。世界上的大师级人物，无论是唱歌、表演、设计，许多都是从模仿「前辈」开始的。连乔布斯也说了：Good Artists Copy, Great Artists Steal。
 
 找个好图，动动手开始练习吧。
-
- [1]: https://ws2.sinaimg.cn/large/006tKfTcgy1fpadys71guj30rs0g7jv1.jpg
- [2]: https://ws2.sinaimg.cn/large/006tKfTcgy1fpadfsu2kzj30x40ikacn.jpg
- [3]: https://ws4.sinaimg.cn/large/006tKfTcgy1fpadumxa3uj30x40iqt9n.jpg
- [4]: https://ws2.sinaimg.cn/large/006tKfTcgy1fpae0wekezj316s0o277l.jpg
- [5]: https://ws1.sinaimg.cn/large/006tKfTcgy1fpae3lp7aaj31kw0vt443.jpg
- [6]: https://ws2.sinaimg.cn/large/006tKfTcgy1fpae5n9wcsj31kw0zyqa5.jpg
- [7]: https://ws4.sinaimg.cn/large/006tKfTcgy1fpae9l3noxj31g20tgdkg.jpg
- [8]: https://ws2.sinaimg.cn/large/006tKfTcgy1fpaedyv6kyj31g00tcq3m.jpg
