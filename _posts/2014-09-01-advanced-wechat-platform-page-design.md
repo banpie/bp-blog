@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-09-01 10:50:26
 layout: post
 link: >
-  http://www.banpie.info/advanced-wechat-platform-page-design/
+  https://www.banpie.info/advanced-wechat-platform-page-design/
 published: true
 tags:
   - 微信
