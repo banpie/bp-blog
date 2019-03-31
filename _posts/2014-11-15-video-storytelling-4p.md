@@ -7,11 +7,11 @@ author: banpie
 post_date: 2014-11-15 19:56:28
 layout: post
 link: >
-  http://www.banpie.info/video-storytelling-4p/
+  https://www.banpie.info/video-storytelling-4p/
 published: true
 tags:
-  - 影视
   - 故事
+  - 影视
 categories:
   - 未分类
 ---
