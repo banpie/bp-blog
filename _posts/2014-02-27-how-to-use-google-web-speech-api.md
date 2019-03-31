@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-02-27 20:56:24
 layout: post
 link: >
-  http://www.banpie.info/how-to-use-google-web-speech-api/
+  https://www.banpie.info/how-to-use-google-web-speech-api/
 published: true
 tags: [ ]
 categories:
@@ -33,22 +33,22 @@ categories:
 
 用手机Chrome浏览器访问：<http://t.cn/zjgwkHW>。
 
-<img class="alignnone size-full wp-image-958" src="http://www.banpie.info/wp-content/uploads/2018/11/0-86.jpg" width="620" height="952" alt="" />
+<img class="alignnone size-full wp-image-1670" src="http://www.banpie.info/wp-content/uploads/2019/03/0-86.jpg" width="620" height="952" alt="" />
 
 ## 2、选择录音语言
 
 点击输入框底部的「语言选择条」，在弹出的菜单中选择你的录音语言。
 
-<img class="alignnone size-full wp-image-959" src="http://www.banpie.info/wp-content/uploads/2018/11/0-87.jpg" width="620" height="475" alt="" />
+<img class="alignnone size-full wp-image-1671" src="http://www.banpie.info/wp-content/uploads/2019/03/0-87.jpg" width="620" height="475" alt="" />
 
 ## 3、对着手机麦克风说话
 
 点击输入框右侧的「麦克风」按钮，之后会在底部弹出黄色的「使用麦克风」确认对话框，点击确认后，对着麦克风说话即可。
 
-<img class="alignnone size-full wp-image-960" src="http://www.banpie.info/wp-content/uploads/2018/11/0-88.jpg" width="576" height="884" alt="" />
+<img class="alignnone size-full wp-image-1672" src="http://www.banpie.info/wp-content/uploads/2019/03/0-88.jpg" width="576" height="884" alt="" />
 
 ## 4、复制文本或发送邮件
 
 录音完毕后，再次点击输入框右侧的「麦克风」按钮，即可完成语音文本转录。此后，下方会出现两个按钮，点击「Copy and paste」后，在输入框中的文本即可进行复制，点击「Create Email」可直接创建一个带录音文本的邮件。
 
-<img class="alignnone size-full wp-image-961" src="http://www.banpie.info/wp-content/uploads/2018/11/0-89.jpg" width="620" height="476" alt="" />
+<img class="alignnone size-full wp-image-1673" src="http://www.banpie.info/wp-content/uploads/2019/03/0-89.jpg" width="620" height="476" alt="" />
