@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-01-31 20:54:05
 layout: post
 link: >
-  http://www.banpie.info/how-to-block-video-ads/
+  https://www.banpie.info/how-to-block-video-ads/
 published: true
 tags:
   - Chrome
