@@ -5,7 +5,7 @@ post_name: creativity
 author: banpie
 post_date: 2016-06-12 00:00:00
 layout: post
-link: http://www.banpie.info/creativity/
+link: https://www.banpie.info/creativity/
 published: true
 tags:
   - 教育
@@ -16,7 +16,7 @@ categories:
 
 这是TED历史点击量最高的一段视频，在不到20分钟的演讲里，笑声此起彼伏，Ken Robinson 不时的停顿一下，让现场的幽默感发酵片刻，再继续他的故事。
 
-![][1]
+<img class="alignnone size-full wp-image-2060" src="http://www.banpie.info/wp-content/uploads/2019/03/C102_Markdown练习源文件配图.jpg" width="1024" height="512" alt="" />
 
 ## 画上帝的女孩
 
@@ -49,5 +49,3 @@ Ken Robinson 当然同意犯错并不等于创新，但是**如果永不犯错�
 > 我们可能活不到未来的那天，但孩子们会的。所以我们要尽其所能，帮助他们能在未来有所作为。
 
 这是一个教育家最后的话，我也以我在知乎看过的刘二所说过一句话做结尾：**但凡是用心的学生，但凡是热爱教育事业的老师，都会捕捉住一点一滴的新奇**。
-
- [1]: http://www.banpie.info/wp-content/uploads/2018/11/C102_Markdown练习源文件配图.jpg
