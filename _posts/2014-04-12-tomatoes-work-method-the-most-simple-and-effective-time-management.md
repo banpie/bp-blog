@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-04-12 17:36:06
 layout: post
 link: >
-  http://www.banpie.info/tomatoes-work-method-the-most-simple-and-effective-time-management/
+  https://www.banpie.info/tomatoes-work-method-the-most-simple-and-effective-time-management/
 published: true
 tags: [ ]
 categories:
@@ -36,7 +36,7 @@ categories:
 
 访问AlloyTimer网站（短链接：http://t.cn/zTImrLG）-> 输入一个任务，将番茄时间设为25分钟 -> 点击「开始工作」。（点击文末阅读原文直接跳转，或者使用手机内置计时器也可）
 
-<img class="alignnone size-full wp-image-729" src="http://www.banpie.info/wp-content/uploads/2018/11/0-14.png" width="620" height="463" alt="" />
+<img class="alignnone size-full wp-image-1850" src="http://www.banpie.info/wp-content/uploads/2019/03/0-14.png" width="620" height="463" alt="" />
 
 ## 2、专注做一件事情
 
