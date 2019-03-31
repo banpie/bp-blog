@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-01-05 23:09:31
 layout: post
 link: >
-  http://www.banpie.info/how-to-type-a-unknown-character-using-pinyin-input-method/
+  https://www.banpie.info/how-to-type-a-unknown-character-using-pinyin-input-method/
 published: true
 tags: [ ]
 categories:
