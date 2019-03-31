@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-03-08 19:13:30
 layout: post
 link: >
-  http://www.banpie.info/recommended-introductory-books-in-various-disciplines/
+  https://www.banpie.info/recommended-introductory-books-in-various-disciplines/
 published: true
 tags: [ ]
 categories:
