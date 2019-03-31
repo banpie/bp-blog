@@ -5,7 +5,7 @@ post_name: email-a-resume
 author: banpie
 post_date: 2014-08-12 10:05:38
 layout: post
-link: http://www.banpie.info/email-a-resume/
+link: https://www.banpie.info/email-a-resume/
 published: true
 tags: [ ]
 categories:
