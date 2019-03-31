@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-02-13 17:32:42
 layout: post
 link: >
-  http://www.banpie.info/how-to-implement-timed-shutdown/
+  https://www.banpie.info/how-to-implement-timed-shutdown/
 published: true
 tags: [ ]
 categories:
