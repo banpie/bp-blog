@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-01-25 19:42:34
 layout: post
 link: >
-  http://www.banpie.info/how-to-record-narration-for-a-powerpoint-presentation/
+  https://www.banpie.info/how-to-record-narration-for-a-powerpoint-presentation/
 published: true
 tags:
   - 演示
