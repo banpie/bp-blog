@@ -7,7 +7,7 @@ author: banpie
 post_date: 2016-10-30 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/trello-keyboard-shortcuts/
+  https://www.banpie.info/trello-keyboard-shortcuts/
 published: true
 tags: [ ]
 categories:
