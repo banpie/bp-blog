@@ -6,7 +6,7 @@ author: banpie
 post_date: 2016-06-10 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/learning-everything-online/
+  https://www.banpie.info/learning-everything-online/
 published: true
 tags:
   - 教育
@@ -42,11 +42,6 @@ John Green 所讲的核心中，令我影响最深刻的还是关于寻找**学�
 1.  学习社群 
     *   [Reddit's Ask a Historian][5]: 在这个学习社群里面，你可以像历史学家问各种各样的问题，大到“美国奴隶制度被废除的时候到底发生了什么？”，小到“为什么要学习历史？”
     *   [Calculus tag on Tumblr][6]: 在这个轻博客平台，你可以发表一些微积分的题目，分享你的解答方式，以及自己的学习困惑和趣事；
-
-
-
-[^1]:    
-    “横麦氏投影地图”错觉：1569年就诞生的横麦氏投影地图，它是目前最流行的地图类型，Google地图都用它，但它最大的问题就是：高纬度国家的大小严重失真，确切地说是纬度越高，放大得越严重。所以从地图上看格陵兰岛和非洲差不多，但实际上非洲面积是格陵兰的14倍。 <a href="1" rev="footnote">↩</a>
 
  [1]: https://www.ted.com/talks/john_green_the_nerd_s_guide_to_learning_everything_online?language=en
  [2]: https://www.youtube.com/user/minutephysics
