@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-02-11 22:56:32
 layout: post
 link: >
-  http://www.banpie.info/the-easy-color-matching-skills-for-non-designers/
+  https://www.banpie.info/the-easy-color-matching-skills-for-non-designers/
 published: true
 tags: [ ]
 categories:
