@@ -6,7 +6,7 @@ post_name: email-trick
 author: banpie
 post_date: 2016-11-05 00:00:00
 layout: post
-link: http://www.banpie.info/email-trick/
+link: https://www.banpie.info/email-trick/
 published: true
 tags: [ ]
 categories:
