@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-01-06 22:10:35
 layout: post
 link: >
-  http://www.banpie.info/time-saving-chrome-search-tricks/
+  https://www.banpie.info/time-saving-chrome-search-tricks/
 published: true
 tags: [ ]
 categories:
