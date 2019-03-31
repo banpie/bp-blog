@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-03-23 22:21:03
 layout: post
 link: >
-  http://www.banpie.info/how-to-disable-the-animation-and-parallax-effects-in-ios/
+  https://www.banpie.info/how-to-disable-the-animation-and-parallax-effects-in-ios/
 published: true
 tags: [ ]
 categories:
@@ -22,16 +22,16 @@ categories:
 
 ## 1、打开“设置”，然后点选“通用”菜单
 
-<img class="alignnone size-full wp-image-757" src="http://www.banpie.info/wp-content/uploads/2018/11/0-18.png" width="480" height="720" alt="" />
+<img class="alignnone size-full wp-image-1782" src="http://www.banpie.info/wp-content/uploads/2019/03/0-18.png" width="480" height="720" alt="" />
 
 ## 2、在“通用”菜单下，点击“辅助功能”
 
-<img class="alignnone size-full wp-image-758" src="http://www.banpie.info/wp-content/uploads/2018/11/0-19.png" width="500" height="750" alt="" />
+<img class="alignnone size-full wp-image-1783" src="http://www.banpie.info/wp-content/uploads/2019/03/0-19.png" width="500" height="750" alt="" />
 
 ## 3、在“辅助功能”菜单下，点选“减少动态效果 ”
 
-<img class="alignnone size-full wp-image-759" src="http://www.banpie.info/wp-content/uploads/2018/11/0-20.png" width="480" height="720" alt="" />
+<img class="alignnone size-full wp-image-1784" src="http://www.banpie.info/wp-content/uploads/2019/03/0-20.png" width="480" height="720" alt="" />
 
 ## 4、再一次点选“减少动态效果”，使开关变为绿色，完事儿！
 
-<img class="alignnone size-full wp-image-760" src="http://www.banpie.info/wp-content/uploads/2018/11/0-56.jpg" width="640" height="960" alt="" />
+<img class="alignnone size-full wp-image-1785" src="http://www.banpie.info/wp-content/uploads/2019/03/0-56.jpg" width="640" height="960" alt="" />
