@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-02-16 10:44:27
 layout: post
 link: >
-  http://www.banpie.info/how-to-get-web-color-scheme/
+  https://www.banpie.info/how-to-get-web-color-scheme/
 published: true
 tags: [ ]
 categories:
