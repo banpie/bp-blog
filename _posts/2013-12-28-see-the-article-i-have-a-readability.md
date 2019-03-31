@@ -7,7 +7,7 @@ author: banpie
 post_date: 2013-12-28 12:52:38
 layout: post
 link: >
-  http://www.banpie.info/see-the-article-i-have-a-readability/
+  https://www.banpie.info/see-the-article-i-have-a-readability/
 published: true
 tags:
   - Chrome
