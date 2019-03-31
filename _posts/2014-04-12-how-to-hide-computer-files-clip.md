@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-04-12 17:38:50
 layout: post
 link: >
-  http://www.banpie.info/how-to-hide-computer-files-clip/
+  https://www.banpie.info/how-to-hide-computer-files-clip/
 published: true
 tags: [ ]
 categories:
@@ -18,13 +18,13 @@ categories:
 
 首先，在需要隐藏的文件或者文件夹上右击鼠标，选择『属性』，然后勾选『隐藏』。如下图：
 
-<img class="alignnone size-full wp-image-726" src="http://www.banpie.info/wp-content/uploads/2018/11/0-36.jpg" width="620" height="348" alt="" />
+<img class="alignnone size-full wp-image-1845" src="http://www.banpie.info/wp-content/uploads/2019/03/0-36.jpg" width="620" height="348" alt="" />
 
 ## **2、调节文件夹选项的属性**
 
 其次，在当前文件夹窗口中选择『工具』→『文件夹选项』→弹出的对话框中选中『查看』栏→下滑鼠标选中『不显示隐藏的文件』→点击『确定』。
 
-![][1]<img class="alignnone size-full wp-image-727" src="http://www.banpie.info/wp-content/uploads/2018/11/0-37.jpg" width="620" height="348" alt="" />
+![][1]<img class="alignnone size-full wp-image-1846" src="http://www.banpie.info/wp-content/uploads/2019/03/0-37.jpg" width="620" height="348" alt="" />
 
 ## **3、更多：小技巧**
 
