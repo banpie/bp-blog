@@ -6,7 +6,7 @@ author: banpie
 post_date: 2018-03-13 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/how-to-find-top-tool/
+  https://www.banpie.info/how-to-find-top-tool/
 published: true
 tags: [ ]
 categories:
@@ -36,11 +36,11 @@ categories:
 
 通过这种方法，95% 以上的时候，你都能很快地找到非常好的评测资源。并且，因此国外Saas 工具都有免费的试用期，挑选 5 个产品注册试用后，你自己就会对主流的类型工具有非常直观的理解。
 
-<img class="alignnone size-full wp-image-1094" src="http://www.banpie.info/wp-content/uploads/2018/11/006tNc79gy1fpblacvt6nj31kw168jv3.jpg" width="1280" height="950" alt="" />
+<img class="alignnone size-full wp-image-2230" src="http://www.banpie.info/wp-content/uploads/2019/03/006tNc79gy1fpblacvt6nj31kw168jv3.jpg" width="1280" height="950" alt="" />
 
 另外，既然是「Best Tool」，除了搜索以外还可以直接到工具汇集的网站（比如Product Hunt）进行搜索。所以这里的关键字也可以替换为「Product Hunt Email Mareting」，一般来说就会直接跳转到 Product Hunt 的工具排名页。
 
-<img class="alignnone size-full wp-image-1095" src="http://www.banpie.info/wp-content/uploads/2018/11/006tNc79gy1fpbky85dr6j30rs0n8juc.jpg" width="1000" height="836" alt="" /><img class="alignnone size-full wp-image-1096" src="http://www.banpie.info/wp-content/uploads/2018/11/006tNc79gy1fpbkye7qd0j30rs0iwabn.jpg" width="1000" height="680" alt="" />
+<img class="alignnone size-full wp-image-2231" src="http://www.banpie.info/wp-content/uploads/2019/03/006tNc79gy1fpbky85dr6j30rs0n8juc.jpg" width="1000" height="836" alt="" /><img class="alignnone size-full wp-image-2232" src="http://www.banpie.info/wp-content/uploads/2019/03/006tNc79gy1fpbkye7qd0j30rs0iwabn.jpg" width="1000" height="680" alt="" />
 
 ## 「Best Alternative」法
 
@@ -48,10 +48,10 @@ categories:
 
 比如你觉得 Mailchimp 的价格太贵，或者本地化做的不够好，因此你可以输入「Best Mailchinp Alternatives」寻找替代工具，又或者如果你需要免费的，可以使用「Free Alternatives to Mailchimp」，再或者你需要开源、支持本地部署的版本，则可以使用「Open Source Alternatives to Mailchimp」。
 
-<img class="alignnone size-full wp-image-1097" src="http://www.banpie.info/wp-content/uploads/2018/11/006tNc79gy1fpblbc8370j31961880wp.jpg" width="1280" height="1253" alt="" />
+<img class="alignnone size-full wp-image-2233" src="http://www.banpie.info/wp-content/uploads/2019/03/006tNc79gy1fpblbc8370j31961880wp.jpg" width="1280" height="1253" alt="" />
 
 当然，前面说到的 Product Hunt 网站也是寻找替代工具的好方法，另外一个产品则是Alternativeto.net ，这是一个专用用来检索替代工具的网站。
 
-<img class="alignnone size-full wp-image-1098" src="http://www.banpie.info/wp-content/uploads/2018/11/006tNc79gy1fpbl5f2u42j31kw0zj48p.jpg" width="1280" height="799" alt="" />
+<img class="alignnone size-full wp-image-2234" src="http://www.banpie.info/wp-content/uploads/2019/03/006tNc79gy1fpbl5f2u42j31kw0zj48p.jpg" width="1280" height="799" alt="" />
 
 不同的工具适合不同的场景，当然价格也是一个重要的考虑因素，因此在寻找工具的过程最重要的就是注册后，自己尝试整合到公司的业务中去摸索。
