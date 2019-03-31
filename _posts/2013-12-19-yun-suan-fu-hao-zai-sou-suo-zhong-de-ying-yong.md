@@ -7,7 +7,7 @@ author: banpie
 post_date: 2013-12-19 00:21:14
 layout: post
 link: >
-  http://www.banpie.info/yun-suan-fu-hao-zai-sou-suo-zhong-de-ying-yong/
+  https://www.banpie.info/yun-suan-fu-hao-zai-sou-suo-zhong-de-ying-yong/
 published: true
 tags: [ ]
 categories:
