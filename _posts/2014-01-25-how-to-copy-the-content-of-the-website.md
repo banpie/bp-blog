@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-01-25 10:21:57
 layout: post
 link: >
-  http://www.banpie.info/how-to-copy-the-content-of-the-website/
+  https://www.banpie.info/how-to-copy-the-content-of-the-website/
 published: true
 tags:
   - Chrome
