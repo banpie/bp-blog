@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-01-01 00:19:30
 layout: post
 link: >
-  http://www.banpie.info/how-to-transfer-data-between-a-cell-phone-and-computer-via-qq/
+  https://www.banpie.info/how-to-transfer-data-between-a-cell-phone-and-computer-via-qq/
 published: true
 tags: [ ]
 categories:
