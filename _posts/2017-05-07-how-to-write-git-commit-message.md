@@ -6,7 +6,7 @@ author: banpie
 post_date: 2017-05-07 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/how-to-write-git-commit-message/
+  https://www.banpie.info/how-to-write-git-commit-message/
 published: true
 tags:
   - Git
