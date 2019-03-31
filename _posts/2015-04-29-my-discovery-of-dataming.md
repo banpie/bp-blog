@@ -6,12 +6,12 @@ author: banpie
 post_date: 2015-04-29 19:40:32
 layout: post
 link: >
-  http://www.banpie.info/my-discovery-of-dataming/
+  https://www.banpie.info/my-discovery-of-dataming/
 published: true
 tags:
+  - 笔记
   - 学习图谱
   - 数据科学
-  - 笔记
 categories:
   - 未分类
 ---
