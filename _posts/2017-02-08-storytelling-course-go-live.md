@@ -6,7 +6,7 @@ author: banpie
 post_date: 2017-02-08 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/storytelling-course-go-live/
+  https://www.banpie.info/storytelling-course-go-live/
 published: true
 tags: [ ]
 categories:
@@ -32,7 +32,7 @@ categories:
 
 我买下了市场上所有和讲故事有关的经典图书，当我看到了不断地看到“故事是套路”、“完美的故事都存在通用的结构”的论述，就想是看到了救命稻草，我感觉到自己对于讲故事这一项技能的习得，突然一下充满了无数的希望。
 
-![][1]
+<img class="alignnone size-full wp-image-2115" src="http://www.banpie.info/wp-content/uploads/2019/03/故事结构.png" width="1280" height="719" alt="" />
 
 我想如果是套路，那是否可以用科学去证明呢？我又开始去看TED，脑神经科学和心理科学的研究，我找到了Dan Ariely、Pual Zak，我沿着他们的学术研究路径，在探索到更多科学界对通用结构的研究。
 
@@ -44,15 +44,15 @@ categories:
 
 讲故事是最强大的说服工具，故事通过情感的引导，最后再召唤我们的行动。一个优秀的故事，需要从优秀的人物（People）开始，从目的（Purpose）为终点，通过情节（Plot）点来补补推进。优秀的人物要具备三大特征，通过关键字构建故事目的，最后通过**核心冲突**和**6个基本情节点**来构建情节。
 
-![][2]
+<img class="alignnone size-full wp-image-2116" src="http://www.banpie.info/wp-content/uploads/2019/03/3P.png" width="1280" height="718" alt="" />
 
 我们被独特性所吸引，为人物的欲望而爱上主角，因为复杂性被故事，我们通过主角跌宕起伏的“**英雄征途**”，到故事的高潮获得解决，在Jab中，我们传递故事最后的价值，完成整个升华。
 
-![][3]
+<img class="alignnone size-full wp-image-2117" src="http://www.banpie.info/wp-content/uploads/2019/03/Plot.png" width="1280" height="714" alt="" />
 
 到今天，经过3年多的实战经验、无数次的内容修订和课程迭代、每个月的线上线下培训，我们的课程内容已经影响了数十万人，许多像我一样普通人通过故事结构的训练，也产出了他们自己满意的作品。 3P故事工作流适用于非常多的场景，再过去的几年，它不仅帮助我自己做节目、访谈、演讲、课程设计，直到现在的创业。
 
-![][4]
+<img class="alignnone size-full wp-image-2118" src="http://www.banpie.info/wp-content/uploads/2019/03/活动-3.jpg" width="1200" height="869" alt="" />
 
 ## 课程大纲
 
@@ -81,7 +81,7 @@ categories:
 
 > 香港 City U 新媒体硕士毕业，美国「GHU Camp」增长骇客成员，City U 新媒体实战课程的客座讲师，纪录片导演。他曾担任悟空娱乐的策划总监，亿万级短视频节目的操盘手，并先后在南方报业、今日头条、优米网、优酷土豆主导并参与过多项新媒体产品的研发与运营。
 
-![][5]
+<img class="alignnone size-full wp-image-2119" src="http://www.banpie.info/wp-content/uploads/2019/03/故事结构封面.jpg" width="916" height="1280" alt="" />
 
 ## 轻松高效的学习方式
 
@@ -109,9 +109,3 @@ http://v.qq.com/boke/gplay/6fed9c4ccacc8c42f5b4cb69d2266a89_usc000101ca8hek_3_z0
 ### 如果我都可以，我想你们也一定可以。
 
 故事就是这样充满了无限的魅力。我毕业于商科专业，不会写作，但是这套故事结构让我学会了讲故事，我可以做到，你们也一定可以。
-
- [1]: http://www.banpie.info/wp-content/uploads/2018/11/故事结构.png
- [2]: http://www.banpie.info/wp-content/uploads/2018/11/3P.png
- [3]: http://www.banpie.info/wp-content/uploads/2018/11/Plot.png
- [4]: http://www.banpie.info/wp-content/uploads/2018/11/活动-3.jpg
- [5]: http://www.banpie.info/wp-content/uploads/2018/11/故事结构封面.jpg
