@@ -5,7 +5,7 @@ post_name: using-gtihub
 author: banpie
 post_date: 2017-02-10 00:00:00
 layout: post
-link: http://www.banpie.info/using-gtihub/
+link: https://www.banpie.info/using-gtihub/
 published: true
 tags:
   - Github
