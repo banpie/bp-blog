@@ -9,7 +9,7 @@ author: banpie
 post_date: 2014-10-14 11:33:03
 layout: post
 link: >
-  http://www.banpie.info/how-to-incorporate-stylify-me-in-to-your-presentation-design/
+  https://www.banpie.info/how-to-incorporate-stylify-me-in-to-your-presentation-design/
 published: true
 tags: [ ]
 categories:
