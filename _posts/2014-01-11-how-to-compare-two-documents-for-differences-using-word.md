@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-01-11 00:40:35
 layout: post
 link: >
-  http://www.banpie.info/how-to-compare-two-documents-for-differences-using-word/
+  https://www.banpie.info/how-to-compare-two-documents-for-differences-using-word/
 published: true
 tags: [ ]
 categories:
