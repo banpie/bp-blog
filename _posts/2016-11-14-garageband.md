@@ -5,11 +5,11 @@ post_name: garageband
 author: banpie
 post_date: 2016-11-14 00:00:00
 layout: post
-link: http://www.banpie.info/garageband/
+link: https://www.banpie.info/garageband/
 published: true
 tags:
-  - 新媒体自习室
   - 音频
+  - 新媒体自习室
 categories:
   - 新媒体自习室
 ---
