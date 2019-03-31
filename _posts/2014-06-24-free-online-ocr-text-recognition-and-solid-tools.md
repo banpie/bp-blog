@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-06-24 15:44:24
 layout: post
 link: >
-  http://www.banpie.info/free-online-ocr-text-recognition-and-solid-tools/
+  https://www.banpie.info/free-online-ocr-text-recognition-and-solid-tools/
 published: true
 tags: [ ]
 categories:
@@ -36,25 +36,22 @@ categories:
 
 ABBYY FineReader Online 服务只对登录用户开放，所以你需要注册一个账号，注册账号是免费的，你也可以选择使用 Google/Facebook/LiveId 账号登陆。
 
-![][2]
+<img class="alignnone size-full wp-image-1899" src="http://www.banpie.info/wp-content/uploads/2019/03/ocr-1.jpg" width="620" height="265" alt="" />
 
 ## 2、上传待识别文件
 
 ABBYY FineReader Online 界面简洁，使用起来也不费力气。点击「Upload」进行文件上传 - 点击「Select the language of your document」选择待识别文档的语言类别 -> 点击选择「Select output format」确定输出格式，最后点击 「Recognize」开始识别！
 
-![][3]
+<img class="alignnone size-full wp-image-1900" src="http://www.banpie.info/wp-content/uploads/2019/03/ocr-2.jpg" width="660" height="615" alt="" />
 
 ## 3、下载识别成功的文档
 
 等待几十秒就能识别完毕。除了直接下载外，你也可以转存文件到 Google Docs/Evernote/Dropbox 上。
 
-![][4]
+<img class="alignnone size-full wp-image-1901" src="http://www.banpie.info/wp-content/uploads/2019/03/ocr-3.jpg" width="900" height="492" alt="" />
 
 PS：这项在线服务虽然免费，但是，ABBYY FineReader Online 的服务并不是无限使用的。每个账号最初只能识别3个文档。要获得更多的免费配额，你只能通过购买或者邀请好友注册，每成功邀请一名好友注册，你能获得3个识别配额。
 
 本文部分来源自@小影志，特此鸣谢。
 
  [1]: http://www.banpie.info/how-to-convert-the-picture-into-word/
- [2]: http://www.banpie.info/wp-content/uploads/2018/11/ocr-1.jpg
- [3]: http://www.banpie.info/wp-content/uploads/2018/11/ocr-2.jpg
- [4]: http://www.banpie.info/wp-content/uploads/2018/11/ocr-3.jpg
