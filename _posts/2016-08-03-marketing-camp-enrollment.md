@@ -7,7 +7,7 @@ author: banpie
 post_date: 2016-08-03 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/marketing-camp-enrollment/
+  https://www.banpie.info/marketing-camp-enrollment/
 published: true
 tags:
   - 营销
