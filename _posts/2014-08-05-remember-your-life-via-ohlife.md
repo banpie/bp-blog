@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-08-05 14:11:48
 layout: post
 link: >
-  http://www.banpie.info/remember-your-life-via-ohlife/
+  https://www.banpie.info/remember-your-life-via-ohlife/
 published: true
 tags: [ ]
 categories:
