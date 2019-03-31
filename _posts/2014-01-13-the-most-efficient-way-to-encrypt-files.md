@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-01-13 15:07:02
 layout: post
 link: >
-  http://www.banpie.info/the-most-efficient-way-to-encrypt-files/
+  https://www.banpie.info/the-most-efficient-way-to-encrypt-files/
 published: true
 tags: [ ]
 categories:
