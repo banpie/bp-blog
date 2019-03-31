@@ -6,11 +6,11 @@ author: banpie
 post_date: 2017-05-22 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/brainstorming-guide/
+  https://www.banpie.info/brainstorming-guide/
 published: true
 tags:
-  - 创新
   - 设计思维
+  - 创新
 categories:
   - 教育
 ---
