@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-03-02 20:37:38
 layout: post
 link: >
-  http://www.banpie.info/dont-understand-why-cutout-ps-small-white-matting-1/
+  https://www.banpie.info/dont-understand-why-cutout-ps-small-white-matting-1/
 published: true
 tags: [ ]
 categories:
@@ -21,13 +21,13 @@ categories:
 
 在浏览器地址栏输入「clippingmagic.com」，访问Clipping Magic网站 -> 将图片拖入虚线框中（见下图），或者选择「Choose File」上传图片。
 
-![][1]
+<img class="alignnone size-full wp-image-1679" src="http://www.banpie.info/wp-content/uploads/2019/03/0-11.jpg" width="620" height="301" alt="" />
 
 ## 2、标记前景和背景
 
 如下图，页面左边是原图，右面是抠图后的效果。在左上角是工具栏，工具栏上有红色和绿色两个笔刷，分别代表背景和前景的笔刷，绿色画笔涂抹的地方会保留下来，红色画笔涂抹的地方择会被抠掉，涂抹好之后，被删除与保留的边缘之间，会出现黄色的边界线。
 
-![][2]
+<img class="alignnone size-full wp-image-1680" src="http://www.banpie.info/wp-content/uploads/2019/03/0-12.jpg" width="620" height="301" alt="" />
 
 ## 3、调整细节
 
@@ -35,13 +35,13 @@ categories:
 
 在第二步中，问号的部分（前景）抠少了，只要用绿色笔刷多刷一笔就可以保留一个完整的问号，整个黄色边缘线就变得顺滑了许多。
 
-![][3]
+<img class="alignnone size-full wp-image-1681" src="http://www.banpie.info/wp-content/uploads/2019/03/0-13.jpg" width="620" height="301" alt="" />
 
 ## 4、下载
 
 抠好之后点击「Download」就可以一张没有背景的「PNG」图片了。
 
-![][4]
+<img class="alignnone size-full wp-image-1682" src="http://www.banpie.info/wp-content/uploads/2019/03/0-14.jpg" width="620" height="301" alt="" />
 
 ## 5、注意事项
 
@@ -51,12 +51,6 @@ categories:
 
 *   如果颠倒使用规则：绿笔涂抹背景，而用红笔涂到前景会影响最终的效果；
 
-![][5]
+<img class="alignnone size-full wp-image-1683" src="http://www.banpie.info/wp-content/uploads/2019/03/0-15.jpg" width="620" height="301" alt="" />
 
 本期介绍Clipping Magic抠图教程基础篇，之后还会推出抠图系列教程，介绍“复杂背景抠图”、”抠毛发“等更多的抠图方法。
-
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicCyKFf3Zeic2z1HzAU505JYA9lQAYEd0EcLzGH63b2fyDG0lxsVgNpyqZ49Kw53eW0Bk5eI6YLibSA/0
- [2]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicCyKFf3Zeic2z1HzAU505JY8PDRVBjRGibhx6vaLZwZYec3Cnib02TRnBg9fic0EGZNDEhhibGicURiagRA/0
- [3]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicCyKFf3Zeic2z1HzAU505JYibytAg8l6LW6FibGVOGH1BjlWVQ3WZWxEibqL2LnZYRNchKoNPicvjdroA/0
- [4]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicCyKFf3Zeic2z1HzAU505JYm2LK7hqoiaU2HhKicTsofXLuDK9rHNy3UwMsibksDiazLeficxaOmwLa4KA/0
- [5]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIXicCyKFf3Zeic2z1HzAU505JYyrqpGJUmQ8vrFB8O2ahtMAPwa2cEeS7pKicMHJo34sI9tBfy0FwfSKw/0
