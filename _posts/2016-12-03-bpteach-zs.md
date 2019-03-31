@@ -7,7 +7,7 @@ post_name: bpteach-zs
 author: banpie
 post_date: 2016-12-03 09:40:40
 layout: post
-link: http://www.banpie.info/bpteach-zs/
+link: https://www.banpie.info/bpteach-zs/
 published: true
 tags:
   - 教育
