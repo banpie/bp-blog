@@ -5,11 +5,11 @@ post_name: market-research
 author: banpie
 post_date: 2016-07-25 00:00:00
 layout: post
-link: http://www.banpie.info/market-research/
+link: https://www.banpie.info/market-research/
 published: true
 tags:
-  - 创业
   - 市场调研
+  - 创业
 categories:
   - 未分类
 ---
@@ -31,7 +31,7 @@ categories:
 
 接下来你应当利用行业分析报告、市场研究报告、竞争对手新闻稿、大学图书馆以及与投资者和客户的交谈来"判明"产品的市场规模。而这个规模，将决定你的创业想法是否值得付诸实践。
 
-![][2]
+<img class="alignnone size-full wp-image-2063" src="http://www.banpie.info/wp-content/uploads/2019/03/LA8h5HgI2GElxsWC.jpegthumbnail.jpg" width="500" height="375" alt="" />
 
 ## 三、Case Study
 
@@ -44,8 +44,8 @@ categories:
 
 1.  **明确TAM**：目前，新媒体平台如微信、微博的使用者不仅是互联网企业和个人，很多传统行业也会开通自己的新媒体账号，对于“斜杠私塾”这个准新媒体职业在线教育网站来说，TAM划定为**在职人群和在校大学生。**
 2.  **评估TAM**： 
-    *   在职人员：根据[中国国家统计局数据][3]显示，2014年全国就业人员达7.725亿人。
-    *   在校大学生：教育部[《中国高等教育质量报告》][4]2015年中国大学生在校人数达到3700万。 ![中国国家统计局数据就业人口报告][5] ![《中国高等教育质量报告》][6]
+    *   在职人员：根据[中国国家统计局数据][2]显示，2014年全国就业人员达7.725亿人。
+    *   在校大学生：教育部[《中国高等教育质量报告》][3]2015年中国大学生在校人数达到3700万。 <img class="alignnone size-full wp-image-2064" src="http://www.banpie.info/wp-content/uploads/2019/03/ShbVjfV4gqosAovx.pngthumbnail.png" width="495" height="136" alt="中国国家统计局数据就业人口报告" /> <img class="alignnone size-full wp-image-2065" src="http://www.banpie.info/wp-content/uploads/2019/03/G61sVvQ7LlUqhsbK.jpgthumbnail.png" width="600" height="388" alt="《中国高等教育质量报告》" />
 
 所以，**TAM用户数量约为8亿人（7.725+0.37亿）。**
 
@@ -57,7 +57,7 @@ categories:
 1.  **明确SAM**：斜杠私塾目前所有推广渠道均为线上渠道，所以用户接触斜杠私塾的前提是：**网络覆盖/使用**。
 2.  **评估SAM**：准职业人群中使用互联网/移动互联网的人数。中国互联网络信息中心（CNNIC）发布《第37次中国互联网络发展状况统计报告》截至2015年12月，我国网民规模达6.88亿，其中准职业人群中网民占到了4.84亿。
 
-![][7]
+<img class="alignnone size-full wp-image-2066" src="http://www.banpie.info/wp-content/uploads/2019/03/XH2QwLR3vKANUjyV.pngthumbnail.png" width="535" height="456" alt="" />
 
 所以，经过调整，**SAM用户数量约为 4.84亿人。**
 
@@ -99,9 +99,5 @@ categories:
 MVC的部分我们下回分解！
 
  [1]: http://www.banpie.info/user-research
- [2]: https://dn-shimo-image.qbox.me/LA8h5HgI2GElxsWC.jpeg!thumbnail
- [3]: http://data.stats.gov.cn/staticreq.htm
- [4]: http://www.moe.gov.cn/jyb_xwfb/xw_fbh/moe_2069/xwfbh_2016n/xwfb_160407/160407_mtbd/201604/t20160408_237168.html
- [5]: https://dn-shimo-image.qbox.me/ShbVjfV4gqosAovx.png!thumbnail
- [6]: https://dn-shimo-image.qbox.me/G61sVvQ7LlUqhsbK.jpg!thumbnail
- [7]: https://dn-shimo-image.qbox.me/XH2QwLR3vKANUjyV.png!thumbnail
+ [2]: http://data.stats.gov.cn/staticreq.htm
+ [3]: http://www.moe.gov.cn/jyb_xwfb/xw_fbh/moe_2069/xwfbh_2016n/xwfb_160407/160407_mtbd/201604/t20160408_237168.html
