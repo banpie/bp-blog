@@ -7,7 +7,7 @@ author: banpie
 post_date: 2013-12-21 22:15:11
 layout: post
 link: >
-  http://www.banpie.info/how-to-create-a-short-url/
+  https://www.banpie.info/how-to-create-a-short-url/
 published: true
 tags: [ ]
 categories:
