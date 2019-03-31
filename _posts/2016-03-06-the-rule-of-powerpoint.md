@@ -7,7 +7,7 @@ author: banpie
 post_date: 2016-03-06 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/the-rule-of-powerpoint/
+  https://www.banpie.info/the-rule-of-powerpoint/
 published: true
 tags:
   - 演说
@@ -74,7 +74,7 @@ Ps.：如下的创客贴演示文件用15分钟构思完成，使用的Keynote�
 *   类文字云和背景图片拼贴的方式强调设计需求的广泛，即：设计无处不再；
 *   色彩上使用创客帖的Logo颜色为：#2fc3d0，黄色为辅助色彩，同时黄色具紧迫感的特征，可以用于强调问题的紧迫；
 
-![][1]
+<img class="alignnone size-full wp-image-2011" src="http://www.banpie.info/wp-content/uploads/2019/03/part1.gif" width="720" height="405" alt="" />
 
 在解决方案的部分，我主要利用的工具：
 
@@ -82,23 +82,4 @@ Ps.：如下的创客贴演示文件用15分钟构思完成，使用的Keynote�
 *   再通过1分钟这个数据来强调创客贴这个工具的高效（轻松点击可以完成设计）；
 *   同时为1分钟增加了从左往右的移入动画进行强调；
 
-![][2]
-
-[^1]:    
-    [Slideology : The Art and Science of Creating Great Presentations][3] <a href="1" rev="footnote">↩</a>
-
-[^2]:    
-    [Resonate : Present Visual Stories that Transform Audiences][4] <a href="2" rev="footnote">↩</a>
-
-[^3]:    
-    [The Only 10 Slides You Need in Your Pitch][5] <a href="3" rev="footnote">↩</a>
-
-[^4]:    
-    [The Infographic of 10 Slides Structure][6] <a href="4" rev="footnote">↩</a>
-
- [1]: http://www.banpie.info/wp-content/uploads/2018/11/the-rule-of-powerpoint/part1.gif
- [2]: http://www.banpie.info/wp-content/uploads/2018/11/the-rule-of-powerpoint/part2.gif
- [3]: https://book.douban.com/subject/3251585/
- [4]: https://book.douban.com/subject/5288156/
- [5]: http://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/
- [6]: http://visual.ly/only-10-slides-you-need-pitch
+<img class="alignnone size-full wp-image-2012" src="http://www.banpie.info/wp-content/uploads/2019/03/part2.gif" width="720" height="405" alt="" />
