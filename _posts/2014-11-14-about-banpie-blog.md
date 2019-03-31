@@ -5,7 +5,8 @@ post_name: about-banpie-blog
 author: banpie
 post_date: 2014-11-14 00:00:00
 layout: post
-link: http://www.banpie.info/about-banpie-blog/
+link: >
+  https://www.banpie.info/about-banpie-blog/
 published: true
 tags:
   - 随笔
