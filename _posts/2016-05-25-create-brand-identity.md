@@ -8,7 +8,7 @@ author: banpie
 post_date: 2016-05-25 23:03:24
 layout: post
 link: >
-  http://www.banpie.info/create-brand-identity/
+  https://www.banpie.info/create-brand-identity/
 published: true
 tags:
   - 营销
