@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-01-07 22:06:48
 layout: post
 link: >
-  http://www.banpie.info/how-to-collaborate-on-documents-in-groups-using-skydrive/
+  https://www.banpie.info/how-to-collaborate-on-documents-in-groups-using-skydrive/
 published: true
 tags: [ ]
 categories:
