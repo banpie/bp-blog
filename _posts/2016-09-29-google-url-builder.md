@@ -7,9 +7,10 @@ author: banpie
 post_date: 2016-09-29 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/google-url-builder/
+  https://www.banpie.info/google-url-builder/
 published: true
-tags: [ ]
+tags:
+  - 新媒体自习室
 categories:
   - 未分类
 ---
@@ -20,8 +21,6 @@ categories:
 `着陆页`(Landing Page)指的是访客通过点击第三方渠道直接到达的网页，该网页通常以请求访客完成某项动作为目的。着陆页强调的是**转化**，比如经常看到的招聘H5页面，最后带着“投递简历”按钮的，活动报名页面最后带“预约报名”按钮的，这种强调**转化**，通常带有Call to Action按钮的单页网页都算做是着陆页。
 
 比如，当我们在各个渠道发布了一个招聘的H5广告以后，我们希望知道这个H5广告在不同渠道的点击数，应该怎么做呢？下面这个视频会教你如何利用Google URL 网址构建起来实现这个功能，强大且免费！
-
-
 
 ## 微信公众号监测
 
@@ -49,7 +48,7 @@ categories:
 
 想要实现这样的功能，目前在微信上只有通过认证的服务号才有这个接口实现：
 
-![test][1]
+<img class="alignnone size-full wp-image-2087" src="http://www.banpie.info/wp-content/uploads/2019/03/wechat-utm-qrcode.png" width="1000" height="785" alt="test" />
 
 你可以通过下面3个方法去实现：
 
@@ -64,7 +63,6 @@ categories:
 
 (function(){ var option ={"auto_play":"0","file_id":"14651978969371824467","app_id":"1252799986","width":640,"height":360,"https":1}; /*调用播放器进行播放*/ new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ "id_video_container_14651978969371824467", option ); })()
 
-广告时间：第三期「新媒体骇客训练营」即将开班，点击[预约占座][2]。
+广告时间：第三期「新媒体骇客训练营」即将开班，点击[预约占座][1]。
 
- [1]: http://www.banpie.info/wp-content/uploads/2018/11/wechat-utm-qrcode.png
- [2]: http://www.bpteach.com
+ [1]: http://www.bpteach.com
