@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-01-16 23:20:04
 layout: post
 link: >
-  http://www.banpie.info/how-to-quickly-download-web-video/
+  https://www.banpie.info/how-to-quickly-download-web-video/
 published: true
 tags: [ ]
 categories:
