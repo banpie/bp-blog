@@ -7,7 +7,7 @@ author: banpie
 post_date: 2016-05-20 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/qiniu-cloud-storage/
+  https://www.banpie.info/qiniu-cloud-storage/
 published: true
 tags: [ ]
 categories:
@@ -23,36 +23,30 @@ categories:
 
 你可以使用我的[推荐链接][1]进行注册。
 
-![][2]
+<img class="alignnone size-full wp-image-2035" src="http://www.banpie.info/wp-content/uploads/2019/03/qiniu-1.png" width="1280" height="800" alt="" />
 
 ## 2\. 添加储存空间
 
 储存空间在七牛里称为`对象储存`，可以理解类似电脑的硬盘分区，你可以在里面上传各种各样的文件，当然包括视频。
 
-![][3]
+<img class="alignnone size-full wp-image-2036" src="http://www.banpie.info/wp-content/uploads/2019/03/qiniu-2.png" width="1280" height="800" alt="" />
 
 点击`对象储存`后，输入自定的空间名，设置为公开空间后，点击确认即可。
 
-![][4]
+<img class="alignnone size-full wp-image-2037" src="http://www.banpie.info/wp-content/uploads/2019/03/qiniu-3.png" width="1280" height="800" alt="" />
 
 ## 3\. 上传视频
 
 新建完空间后，点击`内容管理`进入文件上传页面，上传相关的文件。
 
-![][5]
+<img class="alignnone size-full wp-image-2038" src="http://www.banpie.info/wp-content/uploads/2019/03/qiniu-4.png" width="1280" height="800" alt="" />
 
-![][6]
+<img class="alignnone size-full wp-image-2039" src="http://www.banpie.info/wp-content/uploads/2019/03/qiniu-5.png" width="1280" height="800" alt="" />
 
 ## 4\. 分享外链
 
 返回内容管理页面，点击文件名旁边的省略号按钮，点击`复制外链`就可以把链接分享给其他人了。
 
-![][7]
+<img class="alignnone size-full wp-image-2040" src="http://www.banpie.info/wp-content/uploads/2019/03/qiniu-6.png" width="1280" height="800" alt="" />
 
  [1]: https://portal.qiniu.com/signup?code=3lk7jzvknk5zm
- [2]: http://www.banpie.info/wp-content/uploads/2018/11/qiniu-1.png
- [3]: http://www.banpie.info/wp-content/uploads/2018/11/qiniu-2.png
- [4]: http://www.banpie.info/wp-content/uploads/2018/11/qiniu-3.png
- [5]: http://www.banpie.info/wp-content/uploads/2018/11/qiniu-4.png
- [6]: http://www.banpie.info/wp-content/uploads/2018/11/qiniu-5.png
- [7]: http://www.banpie.info/wp-content/uploads/2018/11/qiniu-6.png
