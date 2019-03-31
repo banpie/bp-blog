@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-01-17 21:45:54
 layout: post
 link: >
-  http://www.banpie.info/how-t-organize-business-cards-easily-and-effectively/
+  https://www.banpie.info/how-t-organize-business-cards-easily-and-effectively/
 published: true
 tags: [ ]
 categories:
