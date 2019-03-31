@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-01-27 18:45:34
 layout: post
 link: >
-  http://www.banpie.info/how-to-get-rid-of-the-registration-problems/
+  https://www.banpie.info/how-to-get-rid-of-the-registration-problems/
 published: true
 tags: [ ]
 categories:
