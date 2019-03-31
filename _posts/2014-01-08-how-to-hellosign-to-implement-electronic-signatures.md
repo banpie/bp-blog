@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-01-08 18:21:37
 layout: post
 link: >
-  http://www.banpie.info/how-to-hellosign-to-implement-electronic-signatures/
+  https://www.banpie.info/how-to-hellosign-to-implement-electronic-signatures/
 published: true
 tags: [ ]
 categories:
