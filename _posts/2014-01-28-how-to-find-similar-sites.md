@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-01-28 22:00:27
 layout: post
 link: >
-  http://www.banpie.info/how-to-find-similar-sites/
+  https://www.banpie.info/how-to-find-similar-sites/
 published: true
 tags: [ ]
 categories:
