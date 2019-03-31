@@ -6,7 +6,7 @@ author: banpie
 post_date: 2016-03-01 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/what-is-design-thinking/
+  https://www.banpie.info/what-is-design-thinking/
 published: true
 tags: [ ]
 categories:
@@ -63,15 +63,15 @@ Stanford D.School 所倡导设计思维的原则加入了视觉化思考和社�
 
 说到这里，最后西班牙慈善机构是怎么设计这个海报的呢？这一名为“A Message Only For Children”的公益海报中，设计者运用透镜印刷技术，让只有身高低于135公分的孩童（10岁的平均身高）才能看见求救专线号码，而成年人只能从海报上看到一个受惊男孩的头像。
 
-![][1]
+<img class="alignnone size-full wp-image-2002" src="http://www.banpie.info/wp-content/uploads/2019/03/1.png" width="600" height="322" alt="" />
 
-![][2]
+<img class="alignnone size-full wp-image-2003" src="http://www.banpie.info/wp-content/uploads/2019/03/2.png" width="600" height="337" alt="" />
 
 孩童视角：一个受虐孩子的图片，文字：“如果你受到伤害，请拨打这个电话116 111，我们将帮助你。”
 
-![][3]
+<img class="alignnone size-full wp-image-2004" src="http://www.banpie.info/wp-content/uploads/2019/03/3.jpg" width="600" height="886" alt="" />
 
-成人视角：一个普通的孩子图片，文字为“有时候，只有受虐的人最清楚” ![][4]
+成人视角：一个普通的孩子图片，文字为“有时候，只有受虐的人最清楚” <img class="alignnone size-full wp-image-2005" src="http://www.banpie.info/wp-content/uploads/2019/03/4.jpg" width="600" height="886" alt="" />
 
 有人说：判断一个国家的发达程度，就看他们如何对待弱势群体。所以，商业或者设计做到最后，大抵也如此吧。
 
@@ -79,13 +79,9 @@ Stanford D.School 所倡导设计思维的原则加入了视觉化思考和社�
 
 如果你需要更深入的学习Design Thinking，以下的材料不妨一试：
 
-*   [Coursera: Design Thinking for Bussiness Innovation][5] 
-*   [Venture Lab: Design Thinking Action Lab][5]
-*   [Book: Designing for Growth Tool Kit][6]
+*   [Coursera: Design Thinking for Bussiness Innovation][1] 
+*   [Venture Lab: Design Thinking Action Lab][1]
+*   [Book: Designing for Growth Tool Kit][2]
 
- [1]: http://www.banpie.info/wp-content/uploads/2018/11/design-thinking/1.png
- [2]: http://www.banpie.info/wp-content/uploads/2018/11/design-thinking/2.png
- [3]: http://www.banpie.info/wp-content/uploads/2018/11/design-thinking/3.jpg
- [4]: http://www.banpie.info/wp-content/uploads/2018/11/design-thinking/4.jpg
- [5]: https://novoed.com/designthinking
- [6]: http://www.amazon.com/Designing-Growth-Thinking-Managers-Publishing/dp/0231158386
+ [1]: https://novoed.com/designthinking
+ [2]: http://www.amazon.com/Designing-Growth-Thinking-Managers-Publishing/dp/0231158386
