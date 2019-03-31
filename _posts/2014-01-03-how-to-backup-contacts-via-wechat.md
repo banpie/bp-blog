@@ -7,7 +7,7 @@ author: banpie
 post_date: 2014-01-03 23:57:52
 layout: post
 link: >
-  http://www.banpie.info/how-to-backup-contacts-via-wechat/
+  https://www.banpie.info/how-to-backup-contacts-via-wechat/
 published: true
 tags:
   - 微信
