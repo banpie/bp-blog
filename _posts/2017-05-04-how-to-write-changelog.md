@@ -6,11 +6,11 @@ author: banpie
 post_date: 2017-05-04 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/how-to-write-changelog/
+  https://www.banpie.info/how-to-write-changelog/
 published: true
 tags:
-  - changelog
   - 技术文档
+  - changelog
 categories:
   - 技术
 ---
