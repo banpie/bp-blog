@@ -7,11 +7,11 @@ author: banpie
 post_date: 2015-01-25 17:34:41
 layout: post
 link: >
-  http://www.banpie.info/video-storytelling-casestudy/
+  https://www.banpie.info/video-storytelling-casestudy/
 published: true
 tags:
-  - 影视
   - 故事
+  - 影视
 categories:
   - 未分类
 ---
