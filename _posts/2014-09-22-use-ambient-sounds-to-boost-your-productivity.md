@@ -8,7 +8,7 @@ author: banpie
 post_date: 2014-09-22 11:07:21
 layout: post
 link: >
-  http://www.banpie.info/use-ambient-sounds-to-boost-your-productivity/
+  https://www.banpie.info/use-ambient-sounds-to-boost-your-productivity/
 published: true
 tags: [ ]
 categories:
