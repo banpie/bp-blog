@@ -6,12 +6,12 @@ post_name: video-download
 author: banpie
 post_date: 2017-03-10 00:00:00
 layout: post
-link: http://www.banpie.info/video-download/
+link: https://www.banpie.info/video-download/
 published: true
 tags:
+  - 视频下载
   - 微信公众号
   - 新媒体自习室
-  - 视频下载
 categories:
   - 新媒体自习室
 ---
