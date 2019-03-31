@@ -6,7 +6,7 @@ author: banpie
 post_date: 2014-02-25 20:47:02
 layout: post
 link: >
-  http://www.banpie.info/why-are-we-using-read-it-later/
+  https://www.banpie.info/why-are-we-using-read-it-later/
 published: true
 tags: [ ]
 categories:
@@ -34,7 +34,7 @@ categories:
 
 *   打开你手机应用商店搜索「Pocket」，下载并安装对应的手机APP；
 
-![][1]
+<img class="alignnone size-full wp-image-1665" src="http://www.banpie.info/wp-content/uploads/2019/03/0-10.jpg" width="620" height="1147" alt="" />
 
 ## 2、把文章拖到Pocket
 
@@ -44,18 +44,16 @@ categories:
 
 *   **移动端**：点击Chrome手机浏览器右上角的「……」分享按钮，选择「Add To Pocket」即可将文章添加到Pocket稍后阅读；
 
-![][2]
+<img class="alignnone size-full wp-image-1666" src="http://www.banpie.info/wp-content/uploads/2019/03/pocket-1.jpg" width="620" height="317" alt="" />
 
 ## 3、多平台同步阅读
 
 文章保存后，Pocket会自动同步，无论你打开Pocket网页，还是Pocket APP，无论你在线还是不在线，只要同步完成，你都能可以随时随地感受移动阅读之美。（喜欢的文章就加个星，不喜欢就直接删除）
 
-[![why-are-we-using-read-it-later-03][3]][3]
+[![why-are-we-using-read-it-later-03][1]][1]
 
 ## 4、更多：Pocket视频福利
 
 http://v.qq.com/boke/page/m/z/1/m012682e9z1.html
 
- [1]: http://mmbiz.qpic.cn/mmbiz/z3T1vlHdIX91x4u99JDqQuLicSjurUJRM6uDMTWIow0b9d6rRdibVTDHg05T0oRRCFiaMom90UTrgpF9yn7TZNDQA/0
- [2]: http://www.banpie.info/wp-content/uploads/2018/11/pocket-1.jpg
- [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/why-are-we-using-read-it-later-03.jpg
+ [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/why-are-we-using-read-it-later-03.jpg
