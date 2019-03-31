@@ -7,7 +7,7 @@ author: banpie
 post_date: 2018-03-15 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/how-to-do-crm-in-any-platform/
+  https://www.banpie.info/how-to-do-crm-in-any-platform/
 published: true
 tags:
   - CRM
@@ -55,15 +55,15 @@ categories:
 
 而无论是在微信号中：
 
-<img class="alignnone size-full wp-image-1090" src="http://www.banpie.info/wp-content/uploads/2018/11/006tKfTcgy1fpdut42fn6j30oq17wtaj.jpg" width="721" height="1280" alt="" />
+<img class="alignnone size-full wp-image-2242" src="http://www.banpie.info/wp-content/uploads/2019/03/006tKfTcgy1fpdut42fn6j30oq17wtaj.jpg" width="721" height="1280" alt="" />
 
 在公众号后台中：
 
-<img class="alignnone size-full wp-image-1091" src="http://www.banpie.info/wp-content/uploads/2018/11/006tNc79gy1fpdurgstk8j30p20gq74o.jpg" width="902" height="602" alt="" />
+<img class="alignnone size-full wp-image-2243" src="http://www.banpie.info/wp-content/uploads/2019/03/006tNc79gy1fpdurgstk8j30p20gq74o.jpg" width="902" height="602" alt="" />
 
 或是在CRM的系统：
 
-<img class="alignnone size-full wp-image-1092" src="http://www.banpie.info/wp-content/uploads/2018/11/006tKfTcgy1fpduw5llkqj31kw0s7wg6.jpg" width="1280" height="634" alt="" />
+<img class="alignnone size-full wp-image-2244" src="http://www.banpie.info/wp-content/uploads/2019/03/006tKfTcgy1fpduw5llkqj31kw0s7wg6.jpg" width="1280" height="634" alt="" />
 
 还是微博系统、邮件系统……你都可以用这个一套「生命周期的标签」来定义你的客户。
 
