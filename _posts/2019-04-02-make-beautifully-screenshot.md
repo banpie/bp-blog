@@ -6,7 +6,7 @@ author: banpie
 post_date: 2019-04-02 22:57:05
 layout: post
 link: >
-  http://www.banpie.info/make-beautifully-screenshot-4/
+  http://www.banpie.info/make-beautifully-screenshot/
 published: true
 tags:
   - 截图
@@ -37,10 +37,11 @@ categories:
 
 当然，如果你想要更高级的自定义移动端的设备类型，比如iPhone X 系列的「留海」等等，你可以同样搜索到非常多类似的工具，如果你有好的推荐，也欢迎你留言告诉我。
 
- [1]: https://www.producthunt.com/#
- [2]: https://www.screely.com/
- [3]: https://www.kapwing.com/mobile-mockup
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuIiwiaGlzdG
 9yeSI6Wy0xMTQ5MTEzMTkwXX0=
 -->
+
+ [1]: https://www.producthunt.com/#
+ [2]: https://www.screely.com/
+ [3]: https://www.kapwing.com/mobile-mockup
