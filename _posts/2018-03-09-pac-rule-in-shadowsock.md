@@ -7,7 +7,7 @@ author: banpie
 post_date: 2018-03-09 00:00:00
 layout: post
 link: >
-  https://www.banpie.info/pac-rule-in-shadowsock/
+  http://www.banpie.info/pac-rule-in-shadowsock/
 published: true
 tags: [ ]
 categories:
@@ -21,7 +21,7 @@ categories:
 
 说到「翻墙」的好处自然有很多，但是光是能够访问 Youtube 和 Google 的系列产品，其实已经足够说服你掌握这项技能了。
 
-而至于如何翻墙的问题，如果你愿意搜索，你很容易就能找到许多工具和技巧，简单的比如下载蓝灯（不稳定，但免费），稍微复杂一些的比如“一键Shadowsocks”（如果你不知道这个，你可以查看[如何翻墙：使用Shadowsock搭建一条自由的梯子](https://www.banpie.info/shadowsocks-pac-gfw/)）。
+而至于如何翻墙的问题，如果你愿意搜索，你很容易就能找到许多工具和技巧，简单的比如下载蓝灯（不稳定，但免费），稍微复杂一些的比如“一键Shadowsocks”（如果你不知道这个，你可以查看[如何翻墙：使用Shadowsock搭建一条自由的梯子][1]）。
 
 但是本文说的不是如何翻墙，而是使用代理服务器翻墙以后，许多人在「自动代理模式」和「全局代理模式」下可能遇到的一个问题。
 
@@ -55,3 +55,5 @@ categories:
 <img class="alignnone size-full wp-image-2206" src="http://www.banpie.info/wp-content/uploads/2019/03/006tKfTcgy1fpjmt6vzrej31kw0hjgo6.jpg" width="1280" height="394" alt="" />
 
 通过上面的案例，我们发现在访问的Trello的网站中，主要的资源不仅有`Trello.com`，例如CSS的文件是来源于`trellocdn.com`这个域名，因此我们在Pac规则中再写一条`||trellocdn.com^`即可。
+
+ [1]: https://www.banpie.info/shadowsocks-pac-gfw/
