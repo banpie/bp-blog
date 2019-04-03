@@ -3,7 +3,7 @@ ID: 421
 post_title: >
   简历整容术：如何让求职简历百发百中
 post_name: how-to-optimize-resume
-author: banpie
+author: 半撇
 post_date: 2018-03-09 00:00:00
 layout: post
 link: >
