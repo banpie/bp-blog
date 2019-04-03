@@ -3,11 +3,11 @@ ID: 417
 post_title: >
   提问的智慧：如何让你的问题得到满意的答案
 post_name: how-to-ask-smartly
-author: banpie
+author: 半撇
 post_date: 2018-03-19 00:00:00
 layout: post
 link: >
-  https://www.banpie.info/how-to-ask-smartly/
+  http://www.banpie.info/how-to-ask-smartly/
 published: true
 tags: [ ]
 categories:
