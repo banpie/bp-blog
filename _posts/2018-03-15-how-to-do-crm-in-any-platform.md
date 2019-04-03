@@ -3,11 +3,11 @@ ID: 416
 post_title: >
   如何在任意平台优雅地管理你的客户
 post_name: how-to-do-crm-in-any-platform
-author: banpie
+author: 半撇
 post_date: 2018-03-15 00:00:00
 layout: post
 link: >
-  https://www.banpie.info/how-to-do-crm-in-any-platform/
+  http://www.banpie.info/how-to-do-crm-in-any-platform/
 published: true
 tags:
   - CRM
