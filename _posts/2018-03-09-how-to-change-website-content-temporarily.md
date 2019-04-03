@@ -4,11 +4,11 @@ post_title: >
   网页破解的傻瓜之道：如何暂时性地修改任意网页内容
 post_name: >
   how-to-change-website-content-temporarily
-author: banpie
+author: 半撇
 post_date: 2018-03-09 00:00:00
 layout: post
 link: >
-  https://www.banpie.info/how-to-change-website-content-temporarily/
+  http://www.banpie.info/how-to-change-website-content-temporarily/
 published: true
 tags: [ ]
 categories:
