@@ -3,11 +3,11 @@ ID: 409
 post_title: >
   怡红院的营销之道：教外行学营销中的一次即兴
 post_name: inbound-and-outbound-marketing
-author: banpie
+author: 半撇
 post_date: 2018-03-14 00:00:00
 layout: post
 link: >
-  https://www.banpie.info/inbound-and-outbound-marketing/
+  http://www.banpie.info/inbound-and-outbound-marketing/
 published: true
 tags: [ ]
 categories:
