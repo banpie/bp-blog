@@ -2,7 +2,7 @@
 ID: 840
 post_title: 关于
 post_name: about
-author: banpie
+author: 半撇
 post_date: 2018-11-21 00:09:32
 layout: page
 link: http://www.banpie.info/about/
@@ -18,9 +18,9 @@ categories: [ ]
 ## 时间线
 
 *   2017\.06.10: 课程学员突破累计20000人；
-*   2017\.04.19: 联合网易云课堂、香港城市大学推出第一期《<a href="http://mooc.study.163.com/smartSpec/detail/1001268002.htm" target="_blank" rel="noopener">全栈新媒体运营微专业</a>》；
+*   2017\.04.19: 联合网易云课堂、香港城市大学推出第一期《<a href="http://mooc.study.163.com/smartSpec/detail/1001268002.htm" target="_blank" rel="noopener noreferrer">全栈新媒体运营微专业</a>》；
 *   2017\.03.09: 「新媒体骇客训练营」调整为「全栈新媒体骇客训练营」，推出第五期；
-*   2016\.11.08: 第一部项目制课程：<a href="http://learn.bpteach.com/course/1" target="_blank" rel="noopener">《新媒体运营的第一门技术课》</a>；
+*   2016\.11.08: 第一部项目制课程：<a href="http://learn.bpteach.com/course/1" target="_blank" rel="noopener noreferrer">《新媒体运营的第一门技术课》</a>；
 *   2016\.10.15: 第二期「新媒体骇客训练营」；
 *   2016\.08.20: 第一期「新媒体骇客训练营」；
 *   2016\.06.16: 入驻腾讯众创空间；
@@ -36,8 +36,8 @@ categories: [ ]
 
 ## 联系
 
-> *   <a href="http://www.zhihu.com/people/halfpie" target="_blank" rel="noopener">知乎</a>
-> *   <a href="https://github.com/devmidai" target="_blank" rel="noopener">Github</a>
+> *   <a href="http://www.zhihu.com/people/halfpie" target="_blank" rel="noopener noreferrer">知乎</a>
+> *   <a href="https://github.com/devmidai" target="_blank" rel="noopener noreferrer">Github</a>
 > *   [邮箱][1]
 > *   [公众号][2]
 
