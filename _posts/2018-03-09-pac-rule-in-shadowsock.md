@@ -3,7 +3,7 @@ ID: 418
 post_title: >
   翻墙进阶术：如何让你访问普通外网的速度快人一步
 post_name: pac-rule-in-shadowsock
-author: banpie
+author: 半撇
 post_date: 2018-03-09 00:00:00
 layout: post
 link: >
