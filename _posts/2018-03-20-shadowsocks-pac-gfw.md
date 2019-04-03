@@ -3,7 +3,7 @@ ID: 419
 post_title: >
   如何翻墙：使用Shadowsock搭建一条自由的梯子
 post_name: shadowsocks-pac-gfw
-author: banpie
+author: 半撇
 post_date: 2018-03-20 00:00:00
 layout: post
 link: >
@@ -71,7 +71,7 @@ categories:
 
 ### **3\.1 购买VPS**
 
-首先我们需要访问 [搬瓦工][3] （如访问缓慢，请使用 *[bwh1.net](http://bwh1.net/aff.php?aff=11742)* 访问）购买VPS（如果你无法访问这个网站，有可能是被墙了，所以先使用类似的蓝灯VPN 切换到全局模式下访问后再购买），对于个人使用而言（每个月500G流量），可以选最便宜的每月2.99$，折合人民币也就20块几毛，和市面大部分收费的 VPN 费用差不多。
+首先我们需要访问 [搬瓦工][3] （如访问缓慢，请使用 *[bwh1.net][4]* 访问）购买VPS（如果你无法访问这个网站，有可能是被墙了，所以先使用类似的蓝灯VPN 切换到全局模式下访问后再购买），对于个人使用而言（每个月500G流量），可以选最便宜的每月2.99$，折合人民币也就20块几毛，和市面大部分收费的 VPN 费用差不多。
 
 <img class="alignnone size-full wp-image-1446" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-b47cff6ae3bd43b5.jpeg" width="1240" height="632" alt="image1" />
 
@@ -95,11 +95,11 @@ categories:
 
 安装Shadowsocks服务器分为3种情况：
 
-- **自带安装法**：老版的服务器通常自带了Shadowsocks入口，你只需要点击一个按钮安装就可以，具体查看下方教程。
-- **隐藏安装法**：部分服务器可以通过特定的URL访问Shadowsocks入口，然后再点击按钮直接安装，具体查看下方教程。
-- **SSH安装法**：上面两个方法都没有的，可以借助快捷脚本安装，具体查看下方教程。
+*   **自带安装法**：老版的服务器通常自带了Shadowsocks入口，你只需要点击一个按钮安装就可以，具体查看下方教程。
+*   **隐藏安装法**：部分服务器可以通过特定的URL访问Shadowsocks入口，然后再点击按钮直接安装，具体查看下方教程。
+*   **SSH安装法**：上面两个方法都没有的，可以借助快捷脚本安装，具体查看下方教程。
 
-#### 3.2.1 自带安装法
+#### 3\.2.1 自带安装法
 
 购买成功后回到首页，先选择右上角的 **Client Area**，然后选择 **My Services**
 
@@ -123,27 +123,25 @@ categories:
 
 <img class="alignnone size-full wp-image-1455" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-4752c12e7734e235.jpeg" width="1240" height="668" alt="image1" />
 
-#### 3.2.2 隐藏安装法
+#### 3\.2.2 隐藏安装法
 
 由于目前搬瓦工已经隐藏了 Shadowsocks 的安装入口，不过针对部分的服务器，它的这功能没被删除，只是隐藏而已（前提：Shadowsocks 隐藏入口需要系统选择 Centos6 可以选带BBR的）
 
 具体的步骤为：
 
-1. **登陆搬瓦工**：[搬瓦工地址](http://bwh1.net/aff.php?aff=11742)。
-2. **进入KiwiVM 后台**：找到购买的主机，点击“[KiwiVM Control Panel](https://www.wervps.com/goto/nhk3t9g)”。
-3. **安装 Shadowsocks**：访问`https://kiwivm.64clouds.com/preloader.php?load=/main-exec.php?mode=extras_shadowsocks`，然后点击`Install Shadowsocks Server`完成安装。
-   ![](https://cdn.bpteach.com/images/2019-02-14-023714.png)
-4. **查看Shadowsocks信息**：点击`Go back`返回之前的页面(`[https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks`，可以看到相关的账号信息和使用方法。
-   ![img](https://cdn.bpteach.com/images/2019-02-14-023725.png)
-5. 完成！
+1.  **登陆搬瓦工**：[搬瓦工地址][4]。
+2.  **进入KiwiVM 后台**：找到购买的主机，点击“[KiwiVM Control Panel][5]”。
+3.  **安装 Shadowsocks**：访问`https://kiwivm.64clouds.com/preloader.php?load=/main-exec.php?mode=extras_shadowsocks`，然后点击`Install Shadowsocks Server`完成安装。 <img class="alignnone size-full wp-image-1556" src="http://www.banpie.info/wp-content/uploads/2019/02/2019-02-14-023714.png" width="1054" height="285" alt="" />
+4.  **查看Shadowsocks信息**：点击`Go back`返回之前的页面(`[https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks`，可以看到相关的账号信息和使用方法。 <img class="alignnone size-full wp-image-1557" src="http://www.banpie.info/wp-content/uploads/2019/02/2019-02-14-023725.png" width="1062" height="674" alt="img" />
+5.  完成！
 
-#### 3.2.3 SSH安装法
+#### 3\.2.3 SSH安装法
 
-具体可参考[一键脚本搭建ss](https://flyzyblog.com/install-ss-ssr-bbr-in-one-command/)。
+具体可参考[一键脚本搭建ss][6]。
 
 ### 3\.3 安装Shadowsocks客户端
 
-**Shadowsocks**客户端的[下载地址][4]，可以看到有各种客户端的下载。貌似这货也是得翻墙才能访问到。
+**Shadowsocks**客户端的[下载地址][7]，可以看到有各种客户端的下载。貌似这货也是得翻墙才能访问到。
 
 <img class="alignnone size-full wp-image-1456" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-848193232914a670.jpg" width="1240" height="705" alt="image" />
 
@@ -191,7 +189,10 @@ iOS上用的VPN App 是**Wingy**，可以App Store上直接搜。官方的**Wing
 
 最后，自己搭建的 VPN 好处是可以和别人共享，告诉别人相关的配置信息即可。市面上一些收费的 VPN 还会有限制，比如说不让看 YouTube 有一定流量限制不能分享账号否则封号等。
 
-[1]: http://zh.wikipedia.org/wiki/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
-[2]: https://vc2tea.com/whats-shadowsocks/
-[3]: https://bandwagonhost.com/aff.php?aff=11742
-[4]: https://shadowsocks.org/en/download/clients.html
+ [1]: http://zh.wikipedia.org/wiki/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
+ [2]: https://vc2tea.com/whats-shadowsocks/
+ [3]: https://bandwagonhost.com/aff.php?aff=11742
+ [4]: http://bwh1.net/aff.php?aff=11742
+ [5]: https://www.wervps.com/goto/nhk3t9g
+ [6]: https://flyzyblog.com/install-ss-ssr-bbr-in-one-command/
+ [7]: https://shadowsocks.org/en/download/clients.html
