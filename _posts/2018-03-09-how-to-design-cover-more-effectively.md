@@ -3,7 +3,7 @@ ID: 420
 post_title: >
   半自动的海报生成术：如何提升30倍的的封面制作效率
 post_name: how-to-design-cover-more-effectively
-author: banpie
+author: 半撇
 post_date: 2018-03-09 00:00:00
 layout: post
 link: >
