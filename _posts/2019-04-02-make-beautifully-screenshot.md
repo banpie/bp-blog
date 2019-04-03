@@ -6,7 +6,7 @@ author: banpie
 post_date: 2019-04-02 22:57:05
 layout: post
 link: >
-  http://www.banpie.info/make-beautifully-screenshot-4/
+  http://www.banpie.info/make-beautifully-screenshot/
 published: true
 tags:
   - 截图
@@ -87,10 +87,11 @@ eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuIiwiaGlzdG
 9yeSI6WzE0ODQ3NDI4NF19
 -->
 
- [1]: https://www.producthunt.com/#
- [2]: https://www.screely.com/
- [3]: https://www.kapwing.com/mobile-mockup
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuIiwiaGlzdG
 9yeSI6Wy0xMDE1OTYxMTA5XX0=
 -->
+
+ [1]: https://www.producthunt.com/#
+ [2]: https://www.screely.com/
+ [3]: https://www.kapwing.com/mobile-mockup
