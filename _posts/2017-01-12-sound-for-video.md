@@ -2,7 +2,7 @@
 ID: 462
 post_title: 如何为视频选择完美的配乐
 post_name: sound-for-video
-author: banpie
+author: 半撇
 post_date: 2017-01-12 00:00:00
 layout: post
 link: https://www.banpie.info/sound-for-video/
