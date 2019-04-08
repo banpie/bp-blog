@@ -3,7 +3,7 @@ ID: 421
 post_title: >
   简历整容术：如何让求职简历百发百中
 post_name: how-to-optimize-resume
-author: 半撇
+author: 半撇banpie
 post_date: 2018-03-09 00:00:00
 layout: post
 link: >
@@ -61,3 +61,6 @@ categories:
 > 作为UGC达人，长期关注娱乐动态，结合热播古装剧《花千骨》热点内容，策划「40 首热门古装电视剧原声带」创意歌单，上线仅1小时收录音乐平台UGC热门歌单，获得全网 32.5 万的点击率和 376 的高量收藏。
 
 因为简历阅读的时间几乎只有10S，因此看简历的人更多的时候是在找关键字，岗位描述里有x、y、z，如果你也用x、y、z去描述你的经历，那么通过率自然就非常高。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExODE0NDE3NDhdfQ==
+-->
