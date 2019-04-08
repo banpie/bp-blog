@@ -4,7 +4,7 @@ post_title: >
   Google
   创业营销微课堂：如何构建品牌识别
 post_name: create-brand-identity
-author: banpie
+author: 半撇
 post_date: 2016-05-25 23:03:24
 layout: post
 link: >
