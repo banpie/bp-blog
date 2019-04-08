@@ -2,7 +2,7 @@
 ID: 94
 post_title: 如何用PPT做信息图之圆环图
 post_name: how-to-make-infographics-using-ppt
-author: banpie
+author: 半撇
 post_date: 2014-01-21 21:58:12
 layout: post
 link: >
