@@ -1,13 +1,18 @@
 ---
-
-post_title: 营销者如何利用关键词规划师来评估选题潜力
+ID: 2323
+post_title: >
+  营销者如何利用关键词规划师来评估选题潜力
 post_name: baidu-keyword-planner
+author: 半撇
+post_date: 2019-04-08 21:34:08
 layout: post
+link: >
+  http://www.banpie.info/baidu-keyword-planner/
 published: true
-tags:[seo,选题]
-categories:[营销]
+tags: [ ]
+categories:
+  - 其他
 ---
-
 对于营销者来说，做一篇内容之前，需要完成2个内容评估工作：
 
 1. **相关性评估**：你即将撰写的文章是否跟你的产品相关，比如半撇私塾是做新媒体营销培训的，那么《如何在3个月内减肥15斤》就不是一篇合适的文章；
