@@ -124,8 +124,8 @@ eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuIiwiaGlzdG
 
  [1]: https://www.producthunt.com/#
  [2]: https://www.screely.com/
- [3]: https://www.kapwing.com/mobile-mockup
+ [3]: https://www.kapwing.com/mobile-mock
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuIiwiaGlzdG
-9yeSI6Wy03NDQzMzU1MjAsMTk3MDYyNjQ0Ml19
+9yeSI6WzEyMjAzNjQxMjMsMTk3MDYyNjQ0Ml19
 -->
