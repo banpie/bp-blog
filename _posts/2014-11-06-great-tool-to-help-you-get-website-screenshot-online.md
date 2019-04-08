@@ -4,7 +4,7 @@ post_title: >
   url2png：优秀的在线网页全屏截图工具
 post_name: >
   great-tool-to-help-you-get-website-screenshot-online
-author: banpie
+author: 半撇
 post_date: 2014-11-06 14:58:44
 layout: post
 link: >
