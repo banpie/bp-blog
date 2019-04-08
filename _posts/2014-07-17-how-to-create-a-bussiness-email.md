@@ -2,11 +2,11 @@
 ID: 160
 post_title: 如何锻造一个私人专属邮箱
 post_name: how-to-create-a-bussiness-email
-author: banpie
+author: 半撇
 post_date: 2014-07-17 14:52:38
 layout: post
 link: >
-  http://www.banpie.info/how-to-create-a-bussiness-email/
+  https://www.banpie.info/how-to-create-a-bussiness-email/
 published: true
 tags: [ ]
 categories:
