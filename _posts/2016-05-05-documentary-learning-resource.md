@@ -2,7 +2,7 @@
 ID: 203
 post_title: 纪录片学习资源推荐
 post_name: documentary-learning-resource
-author: banpie
+author: 半撇
 post_date: 2016-05-05 00:00:00
 layout: post
 link: >
