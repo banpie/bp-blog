@@ -4,7 +4,7 @@ post_title: >
   如何获取图片上某一点的颜色值
 post_name: >
   how-to-get-the-rgb-value-using-qq-screenshot-tool
-author: banpie
+author: 半撇
 post_date: 2014-03-14 23:31:18
 layout: post
 link: >
@@ -32,6 +32,7 @@ categories:
 
 开启QQ截图功能后，屏幕会变黑，鼠标会从白色变为彩色，鼠标对准的地方，QQ截图工具会自动读出色彩的RGB值，下图中记下这3位数的值即是对应像素的RGB值，如：（254，190，93）。
 
-<img class="alignnone size-full wp-image-1755" src="http://www.banpie.info/wp-content/uploads/2019/03/0-57.jpg" width="635" height="371" alt="" />
+[<img class="alignnone size-full wp-image-2637" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-194.jpg" width="635" height="371" alt="" />][2]
 
  [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/03/how-to-get-the-rgb-value-using-qq-screenshot-tool-01.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-194.jpg
