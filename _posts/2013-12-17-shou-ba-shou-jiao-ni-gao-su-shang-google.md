@@ -3,7 +3,7 @@ ID: 68
 post_title: >
   如何利用修改Hosts文件高速使用Google服务
 post_name: shou-ba-shou-jiao-ni-gao-su-shang-google
-author: banpie
+author: 半撇
 post_date: 2013-12-17 22:27:16
 layout: post
 link: >
