@@ -2,7 +2,7 @@
 ID: 327
 post_title: 半，这个网站怎么做啊？
 post_name: built-with
-author: banpie
+author: 半撇
 post_date: 2016-09-03 00:00:00
 layout: post
 link: https://www.banpie.info/built-with/
@@ -25,7 +25,7 @@ categories:
 
 举个非常非常简单的例子。
 
-<img class="alignnone size-full wp-image-2078" src="http://www.banpie.info/wp-content/uploads/2019/03/WechatIMG13.jpg" width="719" height="1280" alt="" />
+[<img class="alignnone size-full wp-image-2973" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-364.jpg" width="719" height="1280" alt="" />][1]
 
 我大概分析了一下这个产品： - 初创企业，还是大学生团队，所以应该不会花太多钱在平台搭建上面； - 内容性产品，那应该会用CMS的框架就对了； - 独立域名，访问速度也很快，大概不是托管的；
 
@@ -58,3 +58,5 @@ categories:
 到这里，作为一个技术小白，你也可以通过这种方式Get Things Done，快速找到专注于这个领域的开发者： - 到QQ群/Segmentfault/v2ex搜索“Ghost CMS 技术交流”； - 或者直接到Ghost中文论坛搜索找到哪些活跃的论坛版主，勾搭业务；
 
 相信我，这种方式靠谱而且便宜的多。
+
+ [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-364.jpg
