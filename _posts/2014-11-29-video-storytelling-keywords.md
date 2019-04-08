@@ -3,7 +3,7 @@ ID: 177
 post_title: >
   如何用视频讲故事（二）：关键字与前期准备
 post_name: video-storytelling-keywords
-author: banpie
+author: 半撇
 post_date: 2014-11-29 00:10:10
 layout: post
 link: >
