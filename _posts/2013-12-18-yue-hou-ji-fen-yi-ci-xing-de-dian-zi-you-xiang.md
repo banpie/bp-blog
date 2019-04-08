@@ -4,7 +4,7 @@ post_title: >
   阅后即焚：“一次性”的电子邮箱
 post_name: >
   yue-hou-ji-fen-yi-ci-xing-de-dian-zi-you-xiang
-author: banpie
+author: 半撇
 post_date: 2013-12-18 22:23:10
 layout: post
 link: >
