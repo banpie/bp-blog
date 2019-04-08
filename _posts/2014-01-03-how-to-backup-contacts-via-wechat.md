@@ -3,7 +3,7 @@ ID: 78
 post_title: >
   如何用微信快速备份还原通讯录
 post_name: how-to-backup-contacts-via-wechat
-author: banpie
+author: 半撇
 post_date: 2014-01-03 23:57:52
 layout: post
 link: >
