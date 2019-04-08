@@ -2,7 +2,7 @@
 ID: 175
 post_title: 关于关停半撇科技博客
 post_name: about-banpie-blog
-author: banpie
+author: 半撇
 post_date: 2014-11-14 00:00:00
 layout: post
 link: >
