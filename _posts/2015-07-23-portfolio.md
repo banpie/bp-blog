@@ -2,7 +2,7 @@
 ID: 202
 post_title: 作品
 post_name: portfolio
-author: banpie
+author: 半撇
 post_date: 2015-07-23 11:37:00
 layout: post
 link: https://www.banpie.info/portfolio/
