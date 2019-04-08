@@ -1,4 +1,4 @@
-潜在客户---
+---
 ID: 2274
 post_title: 如何快速制作出漂亮的截图
 post_name: make-beautifully-screenshot
@@ -127,5 +127,5 @@ eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuIiwiaGlzdG
  [3]: https://www.kapwing.com/mobile-mockup
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoic3RhdHVzOiBkcmFmdFxuIiwiaGlzdG
-9yeSI6WzY0ODU4MDQ5LDE5NzA2MjY0NDJdfQ==
+9yeSI6Wy03NDQzMzU1MjAsMTk3MDYyNjQ0Ml19
 -->
