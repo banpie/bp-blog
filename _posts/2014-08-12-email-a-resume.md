@@ -2,7 +2,7 @@
 ID: 164
 post_title: 如何优雅地投递简历
 post_name: email-a-resume
-author: banpie
+author: 半撇
 post_date: 2014-08-12 10:05:38
 layout: post
 link: https://www.banpie.info/email-a-resume/
