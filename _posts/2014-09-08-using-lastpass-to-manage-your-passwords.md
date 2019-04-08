@@ -3,11 +3,11 @@ ID: 169
 post_title: >
   如何安全而便捷地管理你的帐号密码
 post_name: using-lastpass-to-manage-your-passwords
-author: banpie
+author: 半撇
 post_date: 2014-09-08 10:23:30
 layout: post
 link: >
-  http://www.banpie.info/using-lastpass-to-manage-your-passwords/
+  https://www.banpie.info/using-lastpass-to-manage-your-passwords/
 published: true
 tags: [ ]
 categories:
