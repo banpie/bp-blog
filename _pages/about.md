@@ -2,7 +2,7 @@
 ID: 840
 post_title: 关于
 post_name: about
-author: 半撇
+author: 半撇banpie
 post_date: 2018-11-21 00:09:32
 layout: page
 link: http://www.banpie.info/about/
@@ -43,3 +43,6 @@ categories: [ ]
 
  [1]: mailto:banpie@bpteach.com
  [2]: https://qr.api.cli.im/qr?data=http%253A%252F%252Fweixin.qq.com%252Fr%252FOUOmvnDEwy28rTTd9xYr&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=260&kid=cliim&key=66b32de956a67c918891a3832e92521e
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTYwOTQxODg1M119
+-->
