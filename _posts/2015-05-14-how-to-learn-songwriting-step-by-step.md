@@ -2,7 +2,7 @@
 ID: 186
 post_title: 作曲自学图谱
 post_name: how-to-learn-songwriting-step-by-step
-author: banpie
+author: 半撇
 post_date: 2015-05-14 09:40:00
 layout: post
 link: >
