@@ -2,7 +2,7 @@
 ID: 211
 post_title: YC 创业课最全资源整理
 post_name: yc-starup-course-references
-author: banpie
+author: 半撇
 post_date: 2016-06-03 23:03:27
 layout: post
 link: >
