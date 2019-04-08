@@ -3,7 +3,7 @@ ID: 161
 post_title: 如何优雅地为短片配乐
 post_name: >
   how-to-find-the-right-soundtrack-for-the-film
-author: banpie
+author: 半撇
 post_date: 2014-07-24 21:35:07
 layout: post
 link: >
