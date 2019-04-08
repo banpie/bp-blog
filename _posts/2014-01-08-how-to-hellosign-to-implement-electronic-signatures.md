@@ -3,7 +3,7 @@ ID: 82
 post_title: 如何利用HelloSign实现电子签名
 post_name: >
   how-to-hellosign-to-implement-electronic-signatures
-author: banpie
+author: 半撇
 post_date: 2014-01-08 18:21:37
 layout: post
 link: >
