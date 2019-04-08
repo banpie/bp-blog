@@ -5,7 +5,7 @@ post_title: >
   Me：如何将优秀的网页设计融入到幻灯片中
 post_name: >
   how-to-incorporate-stylify-me-in-to-your-presentation-design
-author: banpie
+author: 半撇
 post_date: 2014-10-14 11:33:03
 layout: post
 link: >
