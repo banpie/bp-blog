@@ -3,7 +3,7 @@ ID: 181
 post_title: >
   如何用视频讲故事（三）：案例
 post_name: video-storytelling-casestudy
-author: banpie
+author: 半撇
 post_date: 2015-01-25 17:34:41
 layout: post
 link: >
