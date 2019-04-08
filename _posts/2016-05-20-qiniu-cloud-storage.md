@@ -3,7 +3,7 @@ ID: 442
 post_title: >
   中文世界最良心的视频托管工具
 post_name: qiniu-cloud-storage
-author: banpie
+author: 半撇
 post_date: 2016-05-20 00:00:00
 layout: post
 link: >
@@ -23,30 +23,36 @@ categories:
 
 你可以使用我的[推荐链接][1]进行注册。
 
-<img class="alignnone size-full wp-image-2035" src="http://www.banpie.info/wp-content/uploads/2019/03/qiniu-1.png" width="1280" height="800" alt="" />
+[<img class="alignnone size-full wp-image-2934" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-114.png" width="1280" height="800" alt="" />][2]
 
 ## 2\. 添加储存空间
 
 储存空间在七牛里称为`对象储存`，可以理解类似电脑的硬盘分区，你可以在里面上传各种各样的文件，当然包括视频。
 
-<img class="alignnone size-full wp-image-2036" src="http://www.banpie.info/wp-content/uploads/2019/03/qiniu-2.png" width="1280" height="800" alt="" />
+[<img class="alignnone size-full wp-image-2935" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-115.png" width="1280" height="800" alt="" />][3]
 
 点击`对象储存`后，输入自定的空间名，设置为公开空间后，点击确认即可。
 
-<img class="alignnone size-full wp-image-2037" src="http://www.banpie.info/wp-content/uploads/2019/03/qiniu-3.png" width="1280" height="800" alt="" />
+[<img class="alignnone size-full wp-image-2936" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-116.png" width="1280" height="800" alt="" />][4]
 
 ## 3\. 上传视频
 
 新建完空间后，点击`内容管理`进入文件上传页面，上传相关的文件。
 
-<img class="alignnone size-full wp-image-2038" src="http://www.banpie.info/wp-content/uploads/2019/03/qiniu-4.png" width="1280" height="800" alt="" />
+[<img class="alignnone size-full wp-image-2937" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-117.png" width="1280" height="800" alt="" />][5]
 
-<img class="alignnone size-full wp-image-2039" src="http://www.banpie.info/wp-content/uploads/2019/03/qiniu-5.png" width="1280" height="800" alt="" />
+[<img class="alignnone size-full wp-image-2938" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-118.png" width="1280" height="800" alt="" />][6]
 
 ## 4\. 分享外链
 
 返回内容管理页面，点击文件名旁边的省略号按钮，点击`复制外链`就可以把链接分享给其他人了。
 
-<img class="alignnone size-full wp-image-2040" src="http://www.banpie.info/wp-content/uploads/2019/03/qiniu-6.png" width="1280" height="800" alt="" />
+[<img class="alignnone size-full wp-image-2939" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-119.png" width="1280" height="800" alt="" />][7]
 
  [1]: https://portal.qiniu.com/signup?code=3lk7jzvknk5zm
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-114.png
+ [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-115.png
+ [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-116.png
+ [5]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-117.png
+ [6]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-118.png
+ [7]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-119.png
