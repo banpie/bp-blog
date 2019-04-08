@@ -2,7 +2,7 @@
 ID: 98
 post_title: 网站内容无法复制，怎么破？
 post_name: how-to-copy-the-content-of-the-website
-author: banpie
+author: 半撇
 post_date: 2014-01-25 10:21:57
 layout: post
 link: >
