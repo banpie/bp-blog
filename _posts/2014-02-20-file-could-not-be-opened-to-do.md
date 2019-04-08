@@ -2,7 +2,7 @@
 ID: 117
 post_title: 文件无法打开怎么办？
 post_name: file-could-not-be-opened-to-do
-author: banpie
+author: 半撇
 post_date: 2014-02-20 16:51:22
 layout: post
 link: >
