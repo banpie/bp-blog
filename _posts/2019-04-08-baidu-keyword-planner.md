@@ -1,13 +1,10 @@
 ---
-ID: 2323
 post_title: >
   营销者如何利用关键词规划师来评估选题潜力
 post_name: baidu-keyword-planner
 author: 半撇
 post_date: 2019-04-08 21:34:08
 layout: post
-link: >
-  http://www.banpie.info/baidu-keyword-planner/
 published: true
 tags: 
  - seo
