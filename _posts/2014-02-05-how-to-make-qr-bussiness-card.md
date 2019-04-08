@@ -2,7 +2,7 @@
 ID: 104
 post_title: 如何制作二维码名片
 post_name: how-to-make-qr-bussiness-card
-author: banpie
+author: 半撇
 post_date: 2014-02-05 17:12:48
 layout: post
 link: >
@@ -14,7 +14,7 @@ categories:
 ---
 近年来商家无所不用其极地将二维码营销推到了一定的高度，那么当我们也去触碰这块领域时，怎么做呢？今天伟仔带你飞一会儿！我们来认识强大得丧心病狂的草料二维码！请打开cli.im即草料官网。
 
-<img class="alignnone size-full wp-image-1607" src="http://www.banpie.info/wp-content/uploads/2019/03/qr-code-1.jpeg" width="610" height="343" alt="" />
+[<img class="alignnone size-full wp-image-2413" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file.jpeg" width="610" height="343" alt="" />][1]
 
 它提供免费的二维码基础服务，它能实现将以下几十种信息转换成你要的二维码：
 
@@ -42,13 +42,13 @@ categories:
 
 如图伟仔完整输入个人信息->点击生成二维码名片->手机扫描后发现，全部信息都有，并且是一键保存！
 
-<img class="alignnone size-full wp-image-1608" src="http://www.banpie.info/wp-content/uploads/2019/03/qr-code-2.jpeg" width="610" height="343" alt="" />
+[<img class="alignnone size-full wp-image-2417" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1.jpeg" width="610" height="343" alt="" />][2]
 
 ## 2\.二维码优化
 
 顾名思义，在你已生成二维码的基础上选择各式「美化模板」，进行视觉优化，让你的二维码更具冲击感。
 
-<img class="alignnone size-full wp-image-1609" src="http://www.banpie.info/wp-content/uploads/2019/03/qr-code-3.jpeg" width="610" height="343" alt="" />
+[<img class="alignnone size-full wp-image-2419" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-2.jpeg" width="610" height="343" alt="" />][3]
 
 ## 3\.大神解码器
 
@@ -64,7 +64,7 @@ categories:
 
 下次，电脑上看到二维码时掏出手机是很不光彩的……
 
-<img class="alignnone size-full wp-image-1610" src="http://www.banpie.info/wp-content/uploads/2019/03/qr-code-4.jpeg" width="610" height="343" alt="" />
+[<img class="alignnone size-full wp-image-2422" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3.jpeg" width="610" height="343" alt="" />][4]
 
 ## 4\.活码商业应用
 
@@ -84,4 +84,10 @@ categories:
 
 那么，还等什么？开始使用推广你的商品吧，说不定明天「非死不可」就天价收购你的产品了……
 
-<img class="alignnone size-full wp-image-1611" src="http://www.banpie.info/wp-content/uploads/2019/03/qr-code-5.jpeg" width="610" height="343" alt="" />
+[<img class="alignnone size-full wp-image-2423" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-4.jpeg" width="610" height="343" alt="" />][5]
+
+ [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file.jpeg
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1.jpeg
+ [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-2.jpeg
+ [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3.jpeg
+ [5]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-4.jpeg
