@@ -3,7 +3,7 @@ ID: 463
 post_title: >
   如何利用iPhone制作电影预告片级的短视频
 post_name: imovie-trailer-tutorial
-author: banpie
+author: 半撇
 post_date: 2017-01-20 00:00:00
 layout: post
 link: >
