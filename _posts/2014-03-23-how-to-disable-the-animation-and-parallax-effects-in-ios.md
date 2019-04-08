@@ -4,7 +4,7 @@ post_title: >
   如何关闭iPhone上烦人的动画效果
 post_name: >
   how-to-disable-the-animation-and-parallax-effects-in-ios
-author: banpie
+author: 半撇
 post_date: 2014-03-23 22:21:03
 layout: post
 link: >
@@ -22,16 +22,21 @@ categories:
 
 ## 1、打开“设置”，然后点选“通用”菜单
 
-<img class="alignnone size-full wp-image-1782" src="http://www.banpie.info/wp-content/uploads/2019/03/0-18.png" width="480" height="720" alt="" />
+[<img class="alignnone size-full wp-image-2679" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-64.png" width="480" height="720" alt="" />][1]
 
 ## 2、在“通用”菜单下，点击“辅助功能”
 
-<img class="alignnone size-full wp-image-1783" src="http://www.banpie.info/wp-content/uploads/2019/03/0-19.png" width="500" height="750" alt="" />
+[<img class="alignnone size-full wp-image-2681" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-65.png" width="500" height="750" alt="" />][2]
 
 ## 3、在“辅助功能”菜单下，点选“减少动态效果 ”
 
-<img class="alignnone size-full wp-image-1784" src="http://www.banpie.info/wp-content/uploads/2019/03/0-20.png" width="480" height="720" alt="" />
+[<img class="alignnone size-full wp-image-2682" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-66.png" width="480" height="720" alt="" />][3]
 
 ## 4、再一次点选“减少动态效果”，使开关变为绿色，完事儿！
 
-<img class="alignnone size-full wp-image-1785" src="http://www.banpie.info/wp-content/uploads/2019/03/0-56.jpg" width="640" height="960" alt="" />
+[<img class="alignnone size-full wp-image-2684" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-203.jpg" width="640" height="960" alt="" />][4]
+
+ [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-64.png
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-65.png
+ [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-66.png
+ [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-203.jpg
