@@ -2,7 +2,7 @@
 ID: 340
 post_title: 半撇私塾里程集
 post_name: milestones-4-media
-author: banpie
+author: 半撇
 post_date: 2016-11-24 00:00:00
 layout: post
 link: >
