@@ -4,7 +4,7 @@ post_title: >
   简单又快捷的电子化名片管理方式
 post_name: >
   how-t-organize-business-cards-easily-and-effectively
-author: banpie
+author: 半撇
 post_date: 2014-01-17 21:45:54
 layout: post
 link: >
