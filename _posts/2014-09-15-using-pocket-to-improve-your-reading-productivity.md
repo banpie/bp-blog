@@ -4,7 +4,7 @@ post_title: >
   如何在公交地铁上用好Pocket消磨时间
 post_name: >
   using-pocket-to-improve-your-reading-productivity
-author: banpie
+author: 半撇
 post_date: 2014-09-15 11:54:14
 layout: post
 link: >
