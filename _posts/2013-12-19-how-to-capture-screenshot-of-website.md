@@ -4,7 +4,7 @@ post_title: >
   如何利用Awesome
   Screenshot进行全屏截图
 post_name: how-to-capture-screenshot-of-website
-author: banpie
+author: 半撇
 post_date: 2013-12-19 21:44:38
 layout: post
 link: >
