@@ -3,11 +3,11 @@ ID: 377
 post_title: >
   20小时的YC创业课，到底讲了什么？
 post_name: how-to-start-a-startup
-author: banpie
+author: 半撇
 post_date: 2016-06-03 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/how-to-start-a-startup/
+  https://www.banpie.info/how-to-start-a-startup/
 published: true
 tags: [ ]
 categories:
