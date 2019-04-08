@@ -3,7 +3,7 @@ ID: 100
 post_title: 如何摆脱注册烦恼
 post_name: >
   how-to-get-rid-of-the-registration-problems
-author: banpie
+author: 半撇
 post_date: 2014-01-27 18:45:34
 layout: post
 link: >
