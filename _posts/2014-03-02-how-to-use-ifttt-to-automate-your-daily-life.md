@@ -3,7 +3,7 @@ ID: 125
 post_title: 如何让整个互联网都为你工作
 post_name: >
   how-to-use-ifttt-to-automate-your-daily-life
-author: banpie
+author: 半撇
 post_date: 2014-03-02 20:32:32
 layout: post
 link: >
@@ -43,7 +43,7 @@ IFTTT（if this then that）服务主要由四个关键词组成：**Task、Trig
 
 在浏览器地址栏输入www.ifttt.com，访问ITFFF网站，点击左上角的「Create」按钮创建一个Task命令。
 
-<img class="alignnone size-full wp-image-1701" src="http://www.banpie.info/wp-content/uploads/2019/03/0-80.jpg" width="620" height="296" alt="" />
+[<img class="alignnone size-full wp-image-2553" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-149.jpg" width="620" height="296" alt="" />][1]
 
 ## 2、设置this程序条件
 
@@ -51,7 +51,7 @@ IFTTT（if this then that）服务主要由四个关键词组成：**Task、Trig
 
 菜单中，选择「Pocket」这个应用Channel-> 进入「Choose a Trigger」条件选择框，选择「New favorite item」条件，点击「Create Trigger」即可成功创建程序条件。
 
-<img class="alignnone size-full wp-image-1702" src="http://www.banpie.info/wp-content/uploads/2019/03/0-83.jpg" width="620" height="738" alt="" />
+[<img class="alignnone size-full wp-image-2554" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-150.jpg" width="620" height="738" alt="" />][2]
 
 ## 3、设置that程序命令
 
@@ -61,7 +61,7 @@ IFTTT（if this then that）服务主要由四个关键词组成：**Task、Trig
 
 Ps:为知笔记的账号附带一个后缀为@wiz.cn的邮箱，只要往这个为知邮箱发邮件，为知会自动将邮件转存到你的笔记中，你可在为知笔记客户端的账号信息查看该邮箱名称）
 
-<img class="alignnone size-full wp-image-1703" src="http://www.banpie.info/wp-content/uploads/2019/03/0-84.jpg" width="620" height="652" alt="" />
+[<img class="alignnone size-full wp-image-2555" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-151.jpg" width="620" height="652" alt="" />][3]
 
 ## 4、更多
 
@@ -71,4 +71,9 @@ Ps:为知笔记的账号附带一个后缀为@wiz.cn的邮箱，只要往这个�
 
 如果你的手机系统是IOS，也可以搜索IFTTT下载APP应用。（靠！为什么支持安卓……）
 
-<img class="alignnone size-full wp-image-1704" src="http://www.banpie.info/wp-content/uploads/2019/03/0-85.jpg" width="620" height="228" alt="" />
+[<img class="alignnone size-full wp-image-2557" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-153.jpg" width="620" height="228" alt="" />][4]
+
+ [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-149.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-150.jpg
+ [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-151.jpg
+ [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-153.jpg
