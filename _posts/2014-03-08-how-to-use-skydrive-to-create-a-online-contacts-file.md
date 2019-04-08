@@ -3,7 +3,7 @@ ID: 128
 post_title: 如何高效的制作一份通讯录
 post_name: >
   how-to-use-skydrive-to-create-a-online-contacts-file
-author: banpie
+author: 半撇
 post_date: 2014-03-08 17:05:13
 layout: post
 link: >
@@ -21,19 +21,19 @@ categories:
 
 在浏览器输入[www.skydrive.com][1]，登陆账户后，点击左上角的「创建」按钮，选择创建一个「Excel」文档。
 
-<img class="alignnone size-full wp-image-1710" src="http://www.banpie.info/wp-content/uploads/2019/03/0-73.jpg" width="900" height="997" alt="" />
+[<img class="alignnone size-full wp-image-2567" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-162.jpg" width="900" height="997" alt="" />][2]
 
 ## 2、创建共享链接
 
 点击页面右上角的「共享」按钮，进入链接共享设置页面 -> 选择左边菜单栏的「获取链接」，勾选默认的「编辑」选项，并点击「创建链接」蓝色按钮，这样任何知道此链接的用户都在线编辑这个Excel文档。
 
-<img class="alignnone size-full wp-image-1711" src="http://www.banpie.info/wp-content/uploads/2019/03/0-26.png" width="620" height="623" alt="" />
+[<img class="alignnone size-full wp-image-2569" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-40.png" width="620" height="623" alt="" />][3]
 
 ## 3、分享共享链接
 
 将创建的文档共享链接通过QQ、邮件、或者微信等方式发送给其他人，这样,他们只要访问这个网址，就可以直接在线填写了，你也就省去了一个一个复制黏贴的痛苦。
 
-<img class="alignnone size-full wp-image-1712" src="http://www.banpie.info/wp-content/uploads/2019/03/0-28.png" width="620" height="348" alt="" />
+[<img class="alignnone size-full wp-image-2571" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-41.png" width="620" height="348" alt="" />][4]
 
 如果你想一个填写通知，阿半这里有现成的文字模板，对应的换上你自己的**Skydrive**短链接就行了（阅读原文有通讯录Excel模板）：
 
@@ -52,3 +52,6 @@ categories:
 最后，山中小石头是半撇有道儿的忠实选题提供者，阿半很是感谢。
 
  [1]: http://www.skydrive.com
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-162.jpg
+ [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-40.png
+ [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-41.png
