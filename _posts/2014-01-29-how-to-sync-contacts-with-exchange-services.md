@@ -4,7 +4,7 @@ post_title: >
   如何用Exchange同步电脑和手机的联系人
 post_name: >
   how-to-sync-contacts-with-exchange-services
-author: banpie
+author: 半撇
 post_date: 2014-01-29 21:35:38
 layout: post
 link: >
