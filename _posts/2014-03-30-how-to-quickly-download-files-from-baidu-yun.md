@@ -4,7 +4,7 @@ post_title: >
   如何搜索并下载百度云的亿万资源
 post_name: >
   how-to-quickly-download-files-from-baidu-yun
-author: banpie
+author: 半撇
 post_date: 2014-03-30 17:57:39
 layout: post
 link: >
@@ -20,11 +20,11 @@ categories:
 
 ## 1、输入“关键字”+“site:pan.baidu.com”
 
-在百度搜索中键入资源关键字，然后加上site:pan.baidu.com，比如：Powerpoint视频 site:pan.baidu.com 。<img class="alignnone size-full wp-image-1818" src="http://www.banpie.info/wp-content/uploads/2019/03/0-15.png" width="620" height="259" alt="" />
+在百度搜索中键入资源关键字，然后加上site:pan.baidu.com，比如：Powerpoint视频 site:pan.baidu.com 。[<img class="alignnone size-full wp-image-2730" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-73.png" width="620" height="259" alt="" />][1]
 
 ## 2、查看资源搜索结果
 
-<img class="alignnone size-full wp-image-1819" src="http://www.banpie.info/wp-content/uploads/2019/03/0-16.png" width="620" height="460" alt="" />
+[<img class="alignnone size-full wp-image-2732" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-75.png" width="620" height="460" alt="" />][2]
 
 ## 3、下载资源：
 
@@ -34,7 +34,7 @@ categories:
 
 *   点击「下载」-> 「普通下载」，直接将资源下载保存至硬盘
 
-<img class="alignnone size-full wp-image-1820" src="http://www.banpie.info/wp-content/uploads/2019/03/0-17.png" width="620" height="345" alt="" />
+[<img class="alignnone size-full wp-image-2733" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-76.png" width="620" height="345" alt="" />][3]
 
 ## 4、网盘资源搜索工具
 
@@ -45,3 +45,7 @@ categories:
 *   网盘屋：www.wangpanwu.co
 
 *   盘易搜：www.panyisou.com
+
+ [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-73.png
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-75.png
+ [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-76.png
