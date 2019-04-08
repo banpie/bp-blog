@@ -4,11 +4,11 @@ post_title: >
   Axure
   RP：$589的产品利器对学生党免费！
 post_name: axure-rp-educational-free-license
-author: banpie
+author: 半撇
 post_date: 2014-12-15 23:07:25
 layout: post
 link: >
-  http://www.banpie.info/axure-rp-educational-free-license/
+  https://www.banpie.info/axure-rp-educational-free-license/
 published: true
 tags:
   - 工具
