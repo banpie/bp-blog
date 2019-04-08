@@ -3,11 +3,11 @@ ID: 95
 post_title: >
   如何利用Zamzar将图片转换为文字
 post_name: how-to-convert-the-picture-into-word
-author: banpie
+author: 半撇
 post_date: 2014-01-23 23:24:33
 layout: post
 link: >
-  http://www.banpie.info/how-to-convert-the-picture-into-word/
+  https://www.banpie.info/how-to-convert-the-picture-into-word/
 published: true
 tags: [ ]
 categories:
