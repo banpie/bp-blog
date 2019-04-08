@@ -4,7 +4,7 @@ post_title: >
   如何用Skydrive进行多人协同文档编辑
 post_name: >
   how-to-collaborate-on-documents-in-groups-using-skydrive
-author: banpie
+author: 半撇
 post_date: 2014-01-07 22:06:48
 layout: post
 link: >
