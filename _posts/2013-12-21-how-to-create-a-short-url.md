@@ -3,7 +3,7 @@ ID: 72
 post_title: >
   如何利用短链接服务监测网站访问流量
 post_name: how-to-create-a-short-url
-author: banpie
+author: 半撇
 post_date: 2013-12-21 22:15:11
 layout: post
 link: >
