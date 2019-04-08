@@ -3,7 +3,7 @@ ID: 418
 post_title: >
   翻墙进阶术：如何让你访问普通外网的速度快人一步
 post_name: pac-rule-in-shadowsock
-author: 半撇
+author: 半撇banpie
 post_date: 2018-03-09 00:00:00
 layout: post
 link: >
@@ -57,3 +57,6 @@ categories:
 通过上面的案例，我们发现在访问的Trello的网站中，主要的资源不仅有`Trello.com`，例如CSS的文件是来源于`trellocdn.com`这个域名，因此我们在Pac规则中再写一条`||trellocdn.com^`即可。
 
  [1]: https://www.banpie.info/shadowsocks-pac-gfw/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTE2NzAwMzUwXX0=
+-->
