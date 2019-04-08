@@ -3,11 +3,11 @@ ID: 165
 post_title: >
   如何通过浏览器远程控制你的Android手机
 post_name: airdroid-remote-control
-author: banpie
+author: 半撇
 post_date: 2014-08-17 17:43:20
 layout: post
 link: >
-  http://www.banpie.info/airdroid-remote-control/
+  https://www.banpie.info/airdroid-remote-control/
 published: true
 tags: [ ]
 categories:
