@@ -3,7 +3,7 @@ ID: 461
 post_title: >
   你不知道的最佳新媒体写作工作流
 post_name: new-media-content-production-workflow
-author: banpie
+author: 半撇
 post_date: 2017-01-06 00:00:00
 layout: post
 link: >
