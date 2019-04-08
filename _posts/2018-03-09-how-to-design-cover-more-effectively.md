@@ -3,7 +3,7 @@ ID: 420
 post_title: >
   半自动的海报生成术：如何提升30倍的的封面制作效率
 post_name: how-to-design-cover-more-effectively
-author: 半撇
+author: 半撇banpie
 post_date: 2018-03-09 00:00:00
 layout: post
 link: >
@@ -65,3 +65,6 @@ categories:
 当然，这个还不是我非常满意的方案。我在想，既然布局是固定的，需要手动修改的只有标题，那么有没有可能能够实现：**只需我把标题输入到一个表单，然后表单的Webhook接口，利用Zapier整合Unsplash+Uigraident+Google Slide + Onedrive的API，自动生成1张封面图片，保存到我的Onedrive文件夹呢？**
 
 应该是有可能的，不过等到我找到了方法在和你说吧。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQwMjkwMDg5MF19
+-->
