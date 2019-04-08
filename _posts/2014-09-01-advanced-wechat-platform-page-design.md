@@ -3,7 +3,7 @@ ID: 171
 post_title: >
   手把手教你微信排版的进阶之道
 post_name: advanced-wechat-platform-page-design
-author: banpie
+author: 半撇
 post_date: 2014-09-01 10:50:26
 layout: post
 link: >
