@@ -3,7 +3,7 @@ ID: 475
 post_title: >
   如何快速实现公众号文章弹幕效果
 post_name: wechat-bullet-screen
-author: banpie
+author: 半撇
 post_date: 2016-12-24 00:00:00
 layout: post
 link: >
