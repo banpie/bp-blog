@@ -3,7 +3,7 @@ ID: 97
 post_title: 如何为PPT录制旁白
 post_name: >
   how-to-record-narration-for-a-powerpoint-presentation
-author: banpie
+author: 半撇
 post_date: 2014-01-25 19:42:34
 layout: post
 link: >
