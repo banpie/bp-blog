@@ -4,7 +4,7 @@ post_title: >
   「
   新媒体骇客训练营」第三期招生启动
 post_name: bpteach-zs
-author: banpie
+author: 半撇
 post_date: 2016-12-03 09:40:40
 layout: post
 link: https://www.banpie.info/bpteach-zs/
