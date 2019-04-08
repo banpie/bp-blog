@@ -3,15 +3,15 @@ ID: 372
 post_title: >
   莫做高深的传播学：传播学研究的3大视角
 post_name: communication-theory-for-everyone
-author: banpie
+author: 半撇
 post_date: 2017-01-10 14:53:19
 layout: post
 link: >
-  http://www.banpie.info/communication-theory-for-everyone/
+  https://www.banpie.info/communication-theory-for-everyone/
 published: true
 tags:
-  - Mooc
   - 传播学理论
+  - Mooc
   - 笔记
 categories:
   - 传播
@@ -58,7 +58,7 @@ categories:
 *   再接着是**人际传播**：我们日常的沟通交流，发表的演讲等等都属于这个范畴
 *   最后是**人内传播**：自己与自己的沟通，表示你在接受完信息后与自己的沟通过程；
 
-![][1]
+[<img class="alignnone size-full wp-image-3017" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-370.jpg" width="678" height="417" alt="" />][1]
 
 想要更好的了解传播学的理论，清楚什么是 **Theory**, **Model** , **Concept** 也许是比较好的开始。
 
@@ -72,7 +72,7 @@ categories:
 
 **理论**，英文解释是：*all statements about reality that seek to explain or predict the relation between phenomena*，也就是说所谓理论，它是可以用来**预测**的。比如：重力理论的预测性在于，如果我把铅笔丢下，它会掉到地上。 **假设**，也就是hypothesis，英文解释是： *A specific predicted result, derived from theory*。当我们尝试通过理论推导出某一件大事情的预测结果，我们称之为假说。比如我们有重力理论，那么根据这个理论，“如果我们笔丢到地上，它就会掉下去”这个就是假设。 **模型**，也就是Model的解释则是：*Whenever we visualize these statements, this is called a model*。通常而言，在模型中的箭头，线都代表着假设。
 
-![][2]
+[<img class="alignnone size-full wp-image-3018" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-371.jpg" width="780" height="338" alt="" />][2]
 
 **自变量**与**因变量**。在研究中我们的提出的假设，一般都会包含自变量和因变量，比如：我们想衡量一个人赠送礼物给别人和这个人被别人喜欢的程度之间的关系，那么送礼物这个行为就是自变量independent variable，被别人喜欢的程度则是因变量dependent variable。在这个研究中，我们可以根据理论来提出这个假设，然后通过研究来验证这个假设中的自变量和因变量之间的关系是不是同理论描述的那样。
 
@@ -104,7 +104,7 @@ categories:
 
 当我们开始讲理论的时候，传播学中第一个要学习的就是信息传递理论（**Basic Transmission Model**）：该理论提出传播是一个线性过程，从发送者－信息－接受者。
 
-![][3]
+[<img class="alignnone size-full wp-image-3019" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-372.jpg" width="351" height="116" alt="" />][3]
 
 1948年拉斯维尔提出的在线性传播的过程中，应该考虑更多的因素（信息传播的5W）：
 
@@ -116,7 +116,7 @@ categories:
 
 > 也就是：Who, says What, in which Channel, to Whom, and with what Effect.
 
-![][4]
+[<img class="alignnone size-full wp-image-3020" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-373.jpg" width="472" height="123" alt="" />][4]
 
 1949年Shannon&Weaver 把信息的传播看作一个更为完整的线性的过程：在这个模型中，信息从发出者开始，经过加工，通过渠道，再经过解码，最后传递到接受者一方：
 
@@ -126,7 +126,7 @@ categories:
 *   Receiver
 *   Effect
 
-![][5]
+[<img class="alignnone size-full wp-image-3021" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-374.jpg" width="638" height="260" alt="" />][5]
 
 在传播的整个过程中，任何可以干扰传播效果的因素，我们都称为**噪音**，比如：
 
@@ -157,7 +157,7 @@ categories:
 
 这个新的视角也于1960 被Roman Jacobson这个语言学家Model模型化了，他采用香浓-韦弗模型经典元素，也就是除了sender，message，receiver，channel，code之外，加入了他增加了符号学中的理念，**context**的因素，而Code对用的就是沟通中采用的形式，比如文字、语音等等。
 
-![][6]
+[<img class="alignnone size-full wp-image-3022" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-375.jpg" width="738" height="445" alt="" />][6]
 
 ### 新视角下对传播功能的认识
 
@@ -170,7 +170,7 @@ categories:
 *   诗兴功能（ Poetic function）: 信息即目的本身，比如绘画是为了画出伟大的艺术作品。
 *   元语言功能（Metalingual function）: 运用交流去解释某一件事情，比如字典的作用，还有一个就是我们现在上课所做的事情就是解释传播学的概念。
 
-![][7]
+[<img class="alignnone size-full wp-image-3023" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-376.jpg" width="749" height="454" alt="" />][7]
 
 通过关注信息的意思、符号、意义化和信息的主要功能，jacobson提供了与传播理论完全不同的视角。
 
@@ -186,7 +186,7 @@ categories:
 
 Newcomb 认为传播的目的是为了实现某种关系的平衡，或者说在社会这个系统下的一种和谐关系，于此，他引入了一个新的元素，也就X是小明A与小红B共同享有的社会环境，我们称之为X。
 
-![][8]
+[<img class="alignnone size-full wp-image-3024" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-377.jpg" width="694" height="403" alt="" />][8]
 
 X 可以有多种形式，你工作的地点，你的政治倾向，你归属的群体，甚至是某一个人。让我们先假定X就是A和B的同事X. A与B都非常喜欢X，但是某一天B和X吵架了。现在，A和B/X的关系就要发生变化了，A要么选着站在B或者X的那一边，要么保持中立，两边都站，但是无论A做了什么决定，他们之间又会确定一种新的关系并获得新的平衡。
 
@@ -200,11 +200,11 @@ X 可以有多种形式，你工作的地点，你的政治倾向，你归属的
 *   第二种方法视传播过程为一个信息交换的过程，更关注于用符号学去诠释，认为不同的环境会对同一个信息有不同的理解，虽然理解不同，但是最后也是产生有效的结果。
 *   第三种方法关注我们如何利用传播来理解这个世界，它强调我们在与周围交流的过程，也在构建、强化了我们的身份认同。
 
- [1]: http://www.banpie.info/wp-content/uploads/2018/11/Pyramid.jpg
- [2]: http://www.banpie.info/wp-content/uploads/2018/11/model.jpg
- [3]: http://www.banpie.info/wp-content/uploads/2018/11/basic.jpg
- [4]: http://www.banpie.info/wp-content/uploads/2018/11/lasswell.jpg
- [5]: http://www.banpie.info/wp-content/uploads/2018/11/shannon.jpg
- [6]: http://www.banpie.info/wp-content/uploads/2018/11/jacobson.jpg
- [7]: http://www.banpie.info/wp-content/uploads/2018/11/function.jpg
- [8]: http://www.banpie.info/wp-content/uploads/2018/11/culture.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-370.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-371.jpg
+ [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-372.jpg
+ [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-373.jpg
+ [5]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-374.jpg
+ [6]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-375.jpg
+ [7]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-376.jpg
+ [8]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-377.jpg
