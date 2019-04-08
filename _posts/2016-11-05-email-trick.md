@@ -3,7 +3,7 @@ ID: 338
 post_title: >
   应该没人告诉你，邮箱可以这么用。
 post_name: email-trick
-author: banpie
+author: 半撇
 post_date: 2016-11-05 00:00:00
 layout: post
 link: https://www.banpie.info/email-trick/
