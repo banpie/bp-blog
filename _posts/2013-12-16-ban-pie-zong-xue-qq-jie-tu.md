@@ -2,7 +2,7 @@
 ID: 67
 post_title: 如何利用QQ截图进行远程协作
 post_name: ban-pie-zong-xue-qq-jie-tu
-author: banpie
+author: 半撇
 post_date: 2013-12-16 09:15:43
 layout: post
 link: >
@@ -18,13 +18,13 @@ categories:
 
 在[QQ][2]启动的状态下，按着**CTRL**+**ALT**+**A**组合键，拖动鼠标以框选需要截取的区域。
 
-<img class="alignnone size-full wp-image-1575" src="http://www.banpie.info/wp-content/uploads/2019/03/using-qq-screenshot.jpg" width="600" height="337" alt="" />
+[<img class="alignnone size-full wp-image-2356" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-7.jpg" width="600" height="337" alt="" />][3]
 
 ## 2、QQ截图标注工具栏
 
 在QQ截图工具开启后，会出现一个浮动工具条，你可以在上面涂鸦、画圈、画箭头、填文字，你还可以选择滤镜美化截图，最后点击“**完成**”/“**保存**”即可。
 
-<img class="alignnone size-full wp-image-1576" src="http://www.banpie.info/wp-content/uploads/2019/03/the-toolbar-of-qq-screenshot.jpg" width="600" height="337" alt="" />
+[<img class="alignnone size-full wp-image-2358" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-9.jpg" width="600" height="337" alt="" />][4]
 
 ## 3、粘贴QQ截图
 
@@ -35,3 +35,5 @@ categories:
 
  [1]: http://www.banpie.info/tag/screenshot/
  [2]: http://www.banpie.info/tag/qq/
+ [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-7.jpg
+ [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-9.jpg
