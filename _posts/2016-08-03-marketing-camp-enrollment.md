@@ -3,7 +3,7 @@ ID: 326
 post_title: >
   有「半」呢，怕什么路途遥远！
 post_name: marketing-camp-enrollment
-author: banpie
+author: 半撇
 post_date: 2016-08-03 00:00:00
 layout: post
 link: >
