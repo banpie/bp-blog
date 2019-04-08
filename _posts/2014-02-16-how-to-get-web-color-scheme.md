@@ -2,7 +2,7 @@
 ID: 111
 post_title: 如何快速获取网站的配色方案
 post_name: how-to-get-web-color-scheme
-author: banpie
+author: 半撇
 post_date: 2014-02-16 10:44:27
 layout: post
 link: >
