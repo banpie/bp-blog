@@ -2,7 +2,7 @@
 ID: 88
 post_title: 如何快捷下载主流网站视频
 post_name: how-to-quickly-download-web-video
-author: banpie
+author: 半撇
 post_date: 2014-01-16 23:20:04
 layout: post
 link: >
