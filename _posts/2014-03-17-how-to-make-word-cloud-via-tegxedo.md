@@ -3,7 +3,7 @@ ID: 138
 post_title: >
   懒人信息图：如何快速做出“给面”的文字云
 post_name: how-to-make-word-cloud-via-tegxedo
-author: banpie
+author: 半撇
 post_date: 2014-03-17 23:08:53
 layout: post
 link: >
@@ -17,37 +17,37 @@ categories:
 
 有的！这期我们用更强大的Tagxedo制作可完全自定义的文字云效果，下图是我用自家Logo为形状，以www.banpie.info的网站内容为词频分析源获得的文字云效果图。（这期有作业啦！详情见本文文末的“半撇作业”布置）
 
-<img class="alignnone size-full wp-image-1765" src="http://www.banpie.info/wp-content/uploads/2019/03/word-cloud-1.jpeg" width="619" height="490" alt="" />
+[<img class="alignnone size-full wp-image-2654" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-26.jpeg" width="619" height="490" alt="" />][2]
 
 ## 1、访问Tagxedo官网
 
 在浏览器的地址栏中输入网址http://www.tagxedo.com，点击网页左上角的「Create」按钮。
 
-<img class="alignnone size-full wp-image-1766" src="http://www.banpie.info/wp-content/uploads/2019/03/word-cloud-2.jpeg" width="620" height="406" alt="" />
+[<img class="alignnone size-full wp-image-2656" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-27.jpeg" width="620" height="406" alt="" />][3]
 
 ## 2、选择文字云形状
 
 你可以从选择菜单上不的「Shape menu」选择内置的形状，也可以从「Add image」或「Add word」添加自定义图片或者文字，来作为文字云的形状。（本课程以半撇的logo图片为例子作为文字云的形状）
 
-<img class="alignnone size-full wp-image-1767" src="http://www.banpie.info/wp-content/uploads/2019/03/word-cloud-3.jpeg" width="620" height="413" alt="" />
+[<img class="alignnone size-full wp-image-2657" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-28.jpeg" width="620" height="413" alt="" />][4]
 
 ## 3、导入填充文字
 
 点击左边栏的「Load」按钮，你可以通过点击「Browse」上传.txt文件，或者在「Webpage」的url栏中输入网址，再或者直接在「Enter text」中黏贴文字，3中方式导入想要分析的文本。
 
-<img class="alignnone size-full wp-image-1768" src="http://www.banpie.info/wp-content/uploads/2019/03/word-cloud-4.jpeg" width="620" height="413" alt="" />
+[<img class="alignnone size-full wp-image-2659" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-30.jpeg" width="620" height="413" alt="" />][5]
 
 ## 4、微调文字云形状
 
 你可以点击「Threshold」或「blur」来调节文字云形状的显示效果，通过「Commit brush」画笔调节可见/隐藏部分（Black画笔添加可见文字云，White反之），其他的选项可自行调试。
 
-<img class="alignnone size-full wp-image-1769" src="http://www.banpie.info/wp-content/uploads/2019/03/word-cloud-5.jpeg" width="620" height="413" alt="" />
+[<img class="alignnone size-full wp-image-2660" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-31.jpeg" width="620" height="413" alt="" />][6]
 
 ## 5、调节文字云显示效果
 
 你可以通过「Color」「Theme」「Font」「Orientation」「Layout」来调节文字云的文字颜色，主题色彩，文字字体类型，还有文字布局，切换不同的文字云效果，最终确认后，点击左侧菜单栏的「Save」即可导出保存该文字云图片。
 
-<img class="alignnone size-full wp-image-1770" src="http://www.banpie.info/wp-content/uploads/2019/03/word-cloud-6.jpeg" width="620" height="413" alt="" />
+[<img class="alignnone size-full wp-image-2661" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-32.jpeg" width="620" height="413" alt="" />][7]
 
 ## 半撇作业：
 
@@ -55,6 +55,14 @@ categories:
 
 完成作业者将免费赠送《101中文字云玩法》PPT一份，我们也将挑选部分作品，于下期的懒人信息图系列课程中与大家分享。
 
-<img class="alignnone size-full wp-image-1771" src="http://www.banpie.info/wp-content/uploads/2019/03/word-cloud-7.jpeg" width="404" height="353" alt="" /> <img class="alignnone size-full wp-image-1772" src="http://www.banpie.info/wp-content/uploads/2019/03/word-cloud-8.jpeg" width="411" height="347" alt="" />
+[<img class="alignnone size-full wp-image-2663" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-33.jpeg" width="404" height="353" alt="" />][8] [<img class="alignnone size-full wp-image-2665" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-35.jpeg" width="411" height="347" alt="" />][9]
 
  [1]: http://www.banpie.info/2014/02/how-to-make-tag-cloud-via-wordle/
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-26.jpeg
+ [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-27.jpeg
+ [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-28.jpeg
+ [5]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-30.jpeg
+ [6]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-31.jpeg
+ [7]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-32.jpeg
+ [8]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-33.jpeg
+ [9]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-35.jpeg
