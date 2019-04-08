@@ -2,7 +2,7 @@
 ID: 106
 post_title: 如何利用Wordle制作文字云
 post_name: how-to-make-tag-cloud-via-wordle
-author: banpie
+author: 半撇
 post_date: 2014-02-09 15:39:31
 layout: post
 link: >
