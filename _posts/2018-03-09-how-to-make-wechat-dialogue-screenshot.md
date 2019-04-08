@@ -3,7 +3,7 @@ ID: 413
 post_title: >
   如何“做”出微信爆款课程的用户好评？
 post_name: how-to-make-wechat-dialogue-screenshot
-author: 半撇
+author: 半撇banpie
 post_date: 2018-03-09 00:00:00
 layout: post
 link: >
@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 神器
+  - 神器工具
 ---
 2016年被称为「知识付费」的元年，在那段时间，各种各样的课程层出不穷，无论是好的坏的，大多挂上了「付费」的标签。在许多的公众号爆款课程的销售套路中，我们常常能窥见如此的文案结构：
 
@@ -39,7 +39,7 @@ categories:
 
 此类工具统称「对话生成器」，搜索出来的工具很多，但是免费的目前推荐`http://we.wwei.cn/`，进入网站后，点击`微信对话生成器`即可。
 
-<img class="alignnone size-full wp-image-1267" src="http://www.banpie.info/wp-content/uploads/2018/11/d816c444a33d4f4de98f58dc1f7d16a9-1.jpg" width="1080" height="583" alt="image" />
+<img class="alignnone size-full wp-image-1267" src="http://www.banpie.info/wp-content/uploads/2018/11/d816c444a33d4f4de98f58dc1f7d16a9-1.jpg" width="1080" height="583" alt="image" />![image](http://upload-images.jianshu.io/upload_images/1668324-ed8e11858f391e31?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 ## 2\. 修改群外观
 
@@ -69,11 +69,29 @@ categories:
 
 > 客气了，对大家有所帮助就好。
 
-<img class="alignnone size-full wp-image-1271" src="http://www.banpie.info/wp-content/uploads/2018/11/e7ff2de18cb53dfba0060859c264d41a-1.jpg" width="1080" height="608" alt="image" />
+<img class="alignnone size-full wp-image-1271" src="http://www.banpie.info/wp-content/uploads/2018/11/e7ff2de18cb53dfba0060859c264d41a-1.jpg" width="1080" height="608" alt="image" />![image](http://upload-images.jianshu.io/upload_images/1668324-53a94e2a89dcbdeb?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+
+## 3\. 填写用户视角的好评文案
+
+在群聊的模式中，既然是很多人给好评，那么当然要增加尽可能多的用户视角的评价。
+
+![image](http://upload-images.jianshu.io/upload_images/1668324-1593a8756c9e0d6e?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+
+对了，不要忘记中间差一条**时间分割线**，目的就是为了刻画出每一天都有人好评的细节。
+
+![image](http://upload-images.jianshu.io/upload_images/1668324-2b4d23fe76b699ed?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+
+## 4\. 填写主角的友好回复
+
+“只有用户喊好怎么行，老师也要出来表示加油和鼓励”。增加上一条主角视角的评价，文案比如：
+
+> 客气了，对大家有所帮助就好。
+
+![image](http://upload-images.jianshu.io/upload_images/1668324-ac8bbbb3d4e081a2?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 对了，如果是女生老师，不要忘记加上笑脸。
 
-> 客气了，对大家有所帮助就好。?。
+> 客气了，对大家有所帮助就好。?😊。
 
 <img class="alignnone size-full wp-image-1272" src="http://www.banpie.info/wp-content/uploads/2018/11/dcc52f57c5a4e1eb09e7c946f8850039-1.jpg" width="658" height="348" alt="image" />
 
@@ -89,8 +107,25 @@ categories:
 
 不对……老师的部分还是保留。就像这样：
 
-<img class="alignnone size-full wp-image-1275" src="http://www.banpie.info/wp-content/uploads/2018/11/f265a40140906301593a42f042a08fea-1.jpg" width="646" height="1134" alt="image" />
+<img class="alignnone size-full wp-image-1275" src="http://www.banpie.info/wp-content/uploads/2018/11/f265a40140906301593a42f042a08fea-1.jpg" width="646" height="1134" alt="image" />![image](http://upload-images.jianshu.io/upload_images/1668324-73035a08b56722aa?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+
+## 塑造极致的真实感
+
+似乎到这里就差不多了？其实最重要的绝招还没有到。为了创造出「极致的真实感」和出于对「用户隐私的保护」，有必要调整一下人物的头像。
+
+![image](http://upload-images.jianshu.io/upload_images/1668324-a24f953db45ad70f?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+
+更重要的是！**给人物头像上一层马赛克**。
+
+![image](http://upload-images.jianshu.io/upload_images/1668324-1f0409c66c265f5a?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
+
+不对……老师的部分还是保留。就像这样：
+
+![image](http://upload-images.jianshu.io/upload_images/1668324-d7cef34b8db1987a?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 
 哈哈哈，一篇搞笑的工具文，不结尾了。
 
 > 本文只讨论技术实现，禁止进行道德层面的讨论。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjk2MzcxMDU5XX0=
+-->
