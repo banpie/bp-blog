@@ -3,7 +3,7 @@ ID: 476
 post_title: >
   如何快速提升封面图片的设计感
 post_name: wechat-cover-design
-author: banpie
+author: 半撇
 post_date: 2016-12-29 00:00:00
 layout: post
 link: >
