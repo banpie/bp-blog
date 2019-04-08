@@ -4,7 +4,7 @@ post_title: >
   如何迅速定位某个领域的最佳入门书籍
 post_name: >
   how-to-find-the-best-introduction-books-via-social-media
-author: banpie
+author: 半撇
 post_date: 2014-03-09 12:48:32
 layout: post
 link: >
