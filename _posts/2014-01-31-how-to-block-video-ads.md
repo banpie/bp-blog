@@ -2,7 +2,7 @@
 ID: 102
 post_title: 如何屏蔽主流视频网站的广告
 post_name: how-to-block-video-ads
-author: banpie
+author: 半撇
 post_date: 2014-01-31 20:54:05
 layout: post
 link: >
