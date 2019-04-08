@@ -4,11 +4,11 @@ post_title: >
   网页破解的傻瓜之道：如何暂时性地修改任意网页内容
 post_name: >
   how-to-change-website-content-temporarily
-author: 半撇
+author: 半撇banpie
 post_date: 2018-03-09 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/how-to-change-website-content-temporarily/
+  https://www.banpie.info/how-to-change-website-content-temporarily/
 published: true
 tags: [ ]
 categories:
@@ -75,3 +75,6 @@ categories:
  [1]: https://www.google.com/chrome/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier
  [2]: https://www.bpteach.com/
  [3]: https://developers.google.com/web/tools/chrome-devtools/javascript/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE1MjI4MzMxOV19
+-->
