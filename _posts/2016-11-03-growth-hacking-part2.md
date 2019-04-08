@@ -3,7 +3,7 @@ ID: 198
 post_title: >
   续篇｜硅谷里的传奇角色增长黑客是如何炼成的
 post_name: growth-hacking-part2
-author: banpie
+author: 半撇
 post_date: 2016-11-03 00:00:00
 layout: post
 link: >
@@ -50,7 +50,7 @@ categories:
 
 好产品不是一蹴而就，坏产品的负面传播却是非常疯狂的，应验了中国古话“丑事传千里”，前一段时间三星Note7事件，短短几天的时间全球皆知，但这样的效果显然是不利的；此次事件导致三星严重亏损，保守估计亏损150亿元。
 
-<img class="alignnone size-full wp-image-2101" src="http://www.banpie.info/wp-content/uploads/2019/03/9210c10d509ae2db.jpg" width="200" height="200" alt="图片来自快科技" />
+[<img class="alignnone size-full wp-image-2995" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-368.jpg" width="200" height="200" alt="图片来自快科技" />][6]
 
 如何去避免这样的事情发生呢？用户反馈。通过定期测试、调研、市场反馈收集，不断优化完善产品，才能避免这样的事情发生。
 
@@ -70,7 +70,7 @@ categories:
 
 **第三步：让产品广为传播**
 
-1.  激励用户共享你的产品: 还记得2016年春晚时候吗？马云爸爸做的集福活动，集齐5福就可以平分超过2亿元的现金红包，那段时间支付宝的好友数指数上升。 ![][6]
+1.  激励用户共享你的产品: 还记得2016年春晚时候吗？马云爸爸做的集福活动，集齐5福就可以平分超过2亿元的现金红包，那段时间支付宝的好友数指数上升。 ![][7]
 2.  让你的产品为它自己代言；
 3.  与相似目标用户的非竞争企业／产品合作，转化其现有的用户。
 
@@ -87,4 +87,5 @@ categories:
  [3]: https://analytics.google.com/
  [4]: http://index.baidu.com/
  [5]: http://tbi.tencent.com/
- [6]: http://obfe8r4sl.bkt.clouddn.com/%E6%9C%AA%E6%A0%87%E9%A2%98-1.jpg
+ [6]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-368.jpg
+ [7]: http://obfe8r4sl.bkt.clouddn.com/%E6%9C%AA%E6%A0%87%E9%A2%98-1.jpg
