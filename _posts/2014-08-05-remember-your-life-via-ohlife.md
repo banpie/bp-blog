@@ -2,7 +2,7 @@
 ID: 163
 post_title: 用最简单的方式记录你的人生
 post_name: remember-your-life-via-ohlife
-author: banpie
+author: 半撇
 post_date: 2014-08-05 14:11:48
 layout: post
 link: >
