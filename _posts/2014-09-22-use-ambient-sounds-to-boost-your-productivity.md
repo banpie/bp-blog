@@ -4,7 +4,7 @@ post_title: >
   寻找安静的力量：我的最佳白噪声写作伴侣
 post_name: >
   use-ambient-sounds-to-boost-your-productivity
-author: banpie
+author: 半撇
 post_date: 2014-09-22 11:07:21
 layout: post
 link: >
