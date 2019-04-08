@@ -4,7 +4,7 @@ post_title: >
   免数据线，用QQ实现手机电脑数据互传
 post_name: >
   how-to-transfer-data-between-a-cell-phone-and-computer-via-qq
-author: banpie
+author: 半撇
 post_date: 2014-01-01 00:19:30
 layout: post
 link: >
