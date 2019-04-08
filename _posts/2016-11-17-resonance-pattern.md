@@ -2,25 +2,25 @@
 ID: 337
 post_title: 共鸣的规律：解构纪录广告
 post_name: resonance-pattern
-author: banpie
+author: 半撇
 post_date: 2016-11-17 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/resonance-pattern/
+  https://www.banpie.info/resonance-pattern/
 published: true
 tags:
   - 传播
 categories:
-  - 传播
   - 视频
+  - 传播
 ---
 坎贝尔在《千面英雄》中给了故事绘制了一段完美的旅程：故事的主角从一个普通的世界，经历一段非凡的旅程，最后满载而归，再回归他的平凡世界。
 
-<img class="alignnone size-full wp-image-1283" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-03d1fc550b81022b.png" width="720" height="405" alt="image" />
+[<img class="alignnone size-full wp-image-2998" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-144.png" width="720" height="405" alt="image" />][1]
 
 麦基的《故事》里头将的原理还是一样，一个好的故事必须由好的故事主角来做驱动。
 
-<img class="alignnone size-full wp-image-1284" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-fedfd4c0dc900997.png" width="720" height="405" alt="image" />
+[<img class="alignnone size-full wp-image-2999" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-145.png" width="720" height="405" alt="image" />][2]
 
 但是长期一段时间，我可以理解3段式或者5段式的故事原理。但是再看到一些演讲、特别是现在流行的纪录广告短片，我想不明白是，为什么在这些故事里，没有明确的主角，这些主角也没有英雄的旅程，但是我还是被打动了？
 
@@ -34,7 +34,7 @@ categories:
 
 《Like A Girl》全长03:06，《不怎么样的25岁，谁没有过》全场03:57，为了可以更好的看出规律，我把第二部短片做了127%的变速，这样两个短片的时间就都一样了。
 
-<img class="alignnone size-full wp-image-1285" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-5321fe32a384921c.png" width="720" height="272" alt="image" />
+[<img class="alignnone size-full wp-image-3000" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-146.png" width="720" height="272" alt="image" />][3]
 
 你发现，对于Social Campaign型的纪录广告，整个故事结构都会被划分为如下几个部分：
 
@@ -83,3 +83,7 @@ categories:
 回归到故事结构实际的应用场景：下次无论是PPT演说还是一场分享，当你要都需要经历一段说服别人接受你的观点的过程的时候，尝试也让你的观众，你的英雄去经历一段英雄应该有的旅程吧。
 
 所以我说的当然也可能是错的。
+
+ [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-144.png
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-145.png
+ [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-146.png
