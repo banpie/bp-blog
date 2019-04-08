@@ -2,11 +2,11 @@
 ID: 2274
 post_title: 如何快速制作出漂亮的截图
 post_name: make-beautifully-screenshot
-author: 半撇banpie
+author: 半撇
 post_date: 2019-04-02 22:57:05
 layout: post
 link: >
-  http://www.banpie.info/make-beautifully-screenshot-4/
+  http://www.banpie.info/make-beautifully-screenshot/
 published: true
 tags:
   - 截图
