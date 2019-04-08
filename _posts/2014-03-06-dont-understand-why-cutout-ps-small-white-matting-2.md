@@ -3,7 +3,7 @@ ID: 126
 post_title: 不懂PS咋抠图—小白抠图法(2)
 post_name: >
   dont-understand-why-cutout-ps-small-white-matting-2
-author: banpie
+author: 半撇
 post_date: 2014-03-06 17:51:33
 layout: post
 link: >
