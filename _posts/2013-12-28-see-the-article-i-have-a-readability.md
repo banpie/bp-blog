@@ -3,7 +3,7 @@ ID: 76
 post_title: >
   Readability：快速优化网页阅读体验
 post_name: see-the-article-i-have-a-readability
-author: banpie
+author: 半撇
 post_date: 2013-12-28 12:52:38
 layout: post
 link: >
