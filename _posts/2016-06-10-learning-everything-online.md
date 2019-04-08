@@ -2,7 +2,7 @@
 ID: 214
 post_title: TED 学霸指南
 post_name: learning-everything-online
-author: banpie
+author: 半撇
 post_date: 2016-06-10 00:00:00
 layout: post
 link: >
