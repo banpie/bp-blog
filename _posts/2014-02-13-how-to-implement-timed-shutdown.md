@@ -2,7 +2,7 @@
 ID: 109
 post_title: 如何实现定时关机
 post_name: how-to-implement-timed-shutdown
-author: banpie
+author: 半撇
 post_date: 2014-02-13 17:32:42
 layout: post
 link: >
