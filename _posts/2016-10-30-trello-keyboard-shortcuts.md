@@ -3,7 +3,7 @@ ID: 334
 post_title: >
   像专家一样使用Trello(1)：常用快捷键篇
 post_name: trello-keyboard-shortcuts
-author: banpie
+author: 半撇
 post_date: 2016-10-30 00:00:00
 layout: post
 link: >
