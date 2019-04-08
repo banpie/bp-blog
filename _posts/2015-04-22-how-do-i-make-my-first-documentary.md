@@ -2,7 +2,7 @@
 ID: 184
 post_title: 《我的钱鬼老母》创作手记
 post_name: how-do-i-make-my-first-documentary
-author: banpie
+author: 半撇
 post_date: 2015-04-22 22:54:38
 layout: post
 link: >
