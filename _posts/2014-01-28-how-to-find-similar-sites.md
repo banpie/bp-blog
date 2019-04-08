@@ -3,7 +3,7 @@ ID: 101
 post_title: >
   如何找到“类型差不多”的网站
 post_name: how-to-find-similar-sites
-author: banpie
+author: 半撇
 post_date: 2014-01-28 22:00:27
 layout: post
 link: >
