@@ -4,19 +4,19 @@ post_title: >
   7分钟的国产纪录片是如何运用好莱坞故事结构
 post_name: >
   how-to-apply-hollywood-story-structure-to-mini-documentary
-author: banpie
+author: 半撇
 post_date: 2015-02-13 17:34:41
 layout: post
 link: >
-  http://www.banpie.info/how-to-apply-hollywood-story-structure-to-mini-documentary/
+  https://www.banpie.info/how-to-apply-hollywood-story-structure-to-mini-documentary/
 published: true
 tags:
-  - 影视
-  - 故事
   - 笔记
+  - 故事
+  - 影视
 categories:
-  - 写作
   - 视频
+  - 写作
 ---
 我一直觉得Storytelling的技巧都是图书出版商拿来骗钱的东西，直到凤凰7分钟的最佳微纪录片[《乡村教师》][1]拉到第8遍，一分一秒的在纸上画下故事曲线的时候，我兴奋了叫了出来，像在耗费长时间的研究，终于发现了讲故事里的门路。
 
