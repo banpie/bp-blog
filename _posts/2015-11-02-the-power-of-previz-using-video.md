@@ -3,7 +3,7 @@ ID: 193
 post_title: >
   利用PreViz加速你短片拍摄的构思
 post_name: the-power-of-previz-using-video
-author: banpie
+author: 半撇
 post_date: 2015-11-02 19:56:28
 layout: post
 link: >
