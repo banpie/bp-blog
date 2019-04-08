@@ -2,7 +2,7 @@
 ID: 113
 post_title: 如何在线制作照片拼贴画
 post_name: how-to-make-online-photo-collage
-author: banpie
+author: 半撇
 post_date: 2014-02-18 14:42:38
 layout: post
 link: >
