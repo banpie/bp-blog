@@ -2,7 +2,7 @@
 ID: 112
 post_title: 如何用剧照搜索出电影名
 post_name: how-to-use-stills-search-movie-names
-author: banpie
+author: 半撇
 post_date: 2014-02-16 17:26:16
 layout: post
 link: >
@@ -30,24 +30,30 @@ categories:
 
 对准图片右击鼠标，在弹出的菜单中选择「图片另存为」。（如何图片无法保存，打开QQ，按住Ctrl+A将图片截取保存下来）
 
-<img class="alignnone size-full wp-image-1632" src="http://www.banpie.info/wp-content/uploads/2019/03/0-5.jpg" width="620" height="413" alt="" />
+[<img class="alignnone size-full wp-image-2450" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-61.jpg" width="620" height="413" alt="" />][1]
 
 ## 2、上传剧照
 
 在浏览器中输入「stu.baidu.com」，打开百度识图官网->点击「本地上传」提交在第一步中保存好的图片->点击「→」箭头按钮确认提交。
 
-<img class="alignnone size-full wp-image-1633" src="http://www.banpie.info/wp-content/uploads/2019/03/0-6.jpg" width="610" height="344" alt="" />
+[<img class="alignnone size-full wp-image-2452" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-63.jpg" width="610" height="344" alt="" />][2]
 
 ## 3、获取电影名
 
 在页面上方「您的图片有可能是」中，获得的结果：“当幸福来敲门”，并附有与之相关的网页和图片内容，如果结果没有找到，你可以再尝试这些渠道获得答案。
 
-<img class="alignnone size-full wp-image-1634" src="http://www.banpie.info/wp-content/uploads/2019/03/0-7.jpg" width="620" height="251" alt="" />
+[<img class="alignnone size-full wp-image-2454" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-65.jpg" width="620" height="251" alt="" />][3]
 
 ## 4、其他以图搜图工具
 
 如果百度识图无法获得准确的结果，你们可以尝试其他两款搜图神器：Google图片与TinEye，这两个工具对于国外电影的搜索能力更为强大。
 
-<img class="alignnone size-full wp-image-1635" src="http://www.banpie.info/wp-content/uploads/2019/03/0-8.jpg" width="610" height="189" alt="" />
+[<img class="alignnone size-full wp-image-2455" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-66.jpg" width="610" height="189" alt="" />][4]
 
-<img class="alignnone size-full wp-image-1636" src="http://www.banpie.info/wp-content/uploads/2019/03/0-9.jpg" width="610" height="246" alt="" />
+[<img class="alignnone size-full wp-image-2456" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-67.jpg" width="610" height="246" alt="" />][5]
+
+ [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-61.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-63.jpg
+ [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-65.jpg
+ [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-66.jpg
+ [5]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-67.jpg
