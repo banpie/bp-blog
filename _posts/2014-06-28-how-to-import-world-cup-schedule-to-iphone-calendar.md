@@ -4,7 +4,7 @@ post_title: >
   如何将世界杯赛程导入iPhone日历
 post_name: >
   how-to-import-world-cup-schedule-to-iphone-calendar
-author: banpie
+author: 半撇
 post_date: 2014-06-28 17:27:24
 layout: post
 link: >
@@ -32,8 +32,11 @@ categories:
 
 6.  大功告成，关闭 Safar
 
-<img class="alignnone size-full wp-image-1948" src="http://www.banpie.info/wp-content/uploads/2019/03/0-7-2.jpg" width="430" height="375" alt="" />
+[<img class="alignnone size-full wp-image-2862" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-314.jpg" width="430" height="375" alt="" />][1]
 
-<img class="alignnone size-full wp-image-1949" src="http://www.banpie.info/wp-content/uploads/2019/03/0-8-2.jpg" width="430" height="375" alt="" />
+[<img class="alignnone size-full wp-image-2863" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-315.jpg" width="430" height="375" alt="" />][2]
 
 因为懒得再删除日历了，所以截图说明是盗用手机中国的，你看还是高清有码的。
+
+ [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-314.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-315.jpg
