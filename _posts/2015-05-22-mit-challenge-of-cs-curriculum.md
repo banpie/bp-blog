@@ -2,16 +2,16 @@
 ID: 187
 post_title: 挑战MIT：软件工程自学图谱
 post_name: mit-challenge-of-cs-curriculum
-author: banpie
+author: 半撇
 post_date: 2015-05-22 18:20:00
 layout: post
 link: >
   https://www.banpie.info/mit-challenge-of-cs-curriculum/
 published: true
 tags:
+  - 前端
   - 笔记
   - 学习图谱
-  - 前端
 categories:
   - 未分类
 ---
