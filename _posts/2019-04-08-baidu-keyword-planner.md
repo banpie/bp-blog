@@ -9,9 +9,11 @@ layout: post
 link: >
   http://www.banpie.info/baidu-keyword-planner/
 published: true
-tags: [ ]
+tags: 
+ - seo
+ - 选题
 categories:
-  - 其他
+  - 营销
 ---
 对于营销者来说，做一篇内容之前，需要完成2个内容评估工作：
 
