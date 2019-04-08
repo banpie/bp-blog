@@ -4,7 +4,7 @@ post_title: >
   网页破解的傻瓜之道：如何暂时性地修改任意网页内容
 post_name: >
   how-to-change-website-content-temporarily
-author: 半撇banpie
+author: 半撇
 post_date: 2018-03-09 00:00:00
 layout: post
 link: >
@@ -28,23 +28,23 @@ categories:
 
 比如，在某一刻，半撇有道儿的公众号粉丝数量是这样的：
 
-<img class="alignnone size-full wp-image-2178" src="http://www.banpie.info/wp-content/uploads/2019/03/006tNc79gy1fprnlfdgw5j31kw0ld0u0.jpg" width="1280" height="480" alt="" />
+[<img class="alignnone size-full wp-image-2361" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-11.jpg" width="1280" height="480" alt="" />][1]
 
 如果，你希望在这些数字短时间能够翻10倍甚至100倍，它也可以是这样的：
 
-<img class="alignnone size-full wp-image-2179" src="http://www.banpie.info/wp-content/uploads/2019/03/006tNc79gy1fprnpskqg7j31kw0lcjsp.jpg" width="1280" height="480" alt="" />
+[<img class="alignnone size-full wp-image-2367" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-15.jpg" width="1280" height="480" alt="" />][2]
 
 让我们来看看这个是如何实现的吧！
 
 ## 打开桌面浏览器
 
-无论你是写过代码的开发人员还是完全不懂代码的营销者，如果你正在手机上阅读这一篇文章，现在你可以切换到笔记本电脑，打开 [Google Chrome][1] 就可以准备开始了。
+无论你是写过代码的开发人员还是完全不懂代码的营销者，如果你正在手机上阅读这一篇文章，现在你可以切换到笔记本电脑，打开 [Google Chrome][3] 就可以准备开始了。
 
 > 大多数Web浏览器（包括Mozilla Firefox和Apple的Safari）都包含一个「检查元素」的工具，而Microsoft的Internet Explorer和Edge浏览器也包含一组类似的开发工具。本文重点介绍Google Chrome的「检查元素」工具，但大多数功能在其他浏览器中也都具备。
 
 ## 打开开发者工具
 
-你有有几种方式可以访问 Google Chrome 的检查元素。只需打开一个想要尝试编辑的网站（按照本教程进行操作，打开[www.bpteach.com][2]），然后以以下三种方式之一打开「检查元素」工具：
+你有有几种方式可以访问 Google Chrome 的检查元素。只需打开一个想要尝试编辑的网站（按照本教程进行操作，打开[www.bpteach.com][4]），然后以以下三种方式之一打开「检查元素」工具：
 
 1.  右键单击网页上的任意位置，在弹出的菜单底部，你会看到「检查」，点击这个按钮。
 2.  点击 Google Chrome 工具栏最右侧的汉堡菜单（带有3个堆积点的图标），点击「更多工具」，然后选择「开发者工具」。或者，在文件菜单中，单击查看 - >开发人员 - >开发人员工具。
@@ -52,29 +52,36 @@ categories:
 
 如果你的屏幕底部的检查元素没有足够的空间，因此单击检查元素窗格右上角“X”旁边的三个垂直点，将窗格放置到屏幕的右侧。
 
-<img class="alignnone size-full wp-image-2180" src="http://www.banpie.info/wp-content/uploads/2019/03/006tNc79gy1fpro7edjr7j31kw0vg12o.jpg" width="1280" height="707" alt="" />
+[<img class="alignnone size-full wp-image-2373" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-20.jpg" width="1280" height="707" alt="" />][5]
 
 ## 修改网页元素
 
 现在，你到了「检查元素」的窗口，你当然可以拿它来修改背景图片、颜色、文本、字体等等，但是在本文中我们着重介绍文本的修改。
 
-1.  双击选中你想要修改的文字，点击鼠标右键，你会看到这个部分变成了蓝色突出的文本块： <img class="alignnone size-full wp-image-2181" src="http://www.banpie.info/wp-content/uploads/2019/03/006tNc79gy1fprof9dl7jj31kw0r2gt8.jpg" width="1280" height="608" alt="" />
+1.  双击选中你想要修改的文字，点击鼠标右键，你会看到这个部分变成了蓝色突出的文本块： [<img class="alignnone size-full wp-image-2379" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-22.jpg" width="1280" height="608" alt="" />][6]
 
-2.  你会看到右侧的对应的文字也被选中了，双击“开发人员工具”窗格中呈蓝色突出显示的部分（比如这里的“做是最好的学”），它将变为可编辑的文本字段。 <img class="alignnone size-full wp-image-2182" src="http://www.banpie.info/wp-content/uploads/2019/03/006tNc79gy1fprogtqc34j31kw0rodpj.jpg" width="1280" height="622" alt="" />
+2.  你会看到右侧的对应的文字也被选中了，双击“开发人员工具”窗格中呈蓝色突出显示的部分（比如这里的“做是最好的学”），它将变为可编辑的文本字段。 [<img class="alignnone size-full wp-image-2380" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-23.jpg" width="1280" height="622" alt="" />][7]
 
-3.  这时候，你就可以自由地修改文本了，然后按回车！网页就会呈现出你修改后的样子了： <img class="alignnone size-full wp-image-2183" src="http://www.banpie.info/wp-content/uploads/2019/03/006tNc79gy1fprohzo6bqj31kw0pbqbu.jpg" width="1280" height="569" alt="" />
+3.  这时候，你就可以自由地修改文本了，然后按回车！网页就会呈现出你修改后的样子了： [<img class="alignnone size-full wp-image-2381" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-24.jpg" width="1280" height="569" alt="" />][8]
 
 当然，这都只是暂时性的修改，当你刷新页面，一切都将恢复正常。
 
-「检查元素」作为浏览器非常重要的一个开发工具，当然能量要远远大于这一点，如果你希望深入的研究，你可以阅读 [Google 的官方指南][3]。
+「检查元素」作为浏览器非常重要的一个开发工具，当然能量要远远大于这一点，如果你希望深入的研究，你可以阅读 [Google 的官方指南][9]。
 
 写到这里，我想说的是：虽然我们总是相信「数据背后的道理」，但是永远不要轻易地相信「图片就是数据背后的真相」。
 
 最后小广告，「半撇的创业手记」社群（知识星球）试运营开始了，在这个星球里，我会把创业过程中解决问题的方法和失败的经验都收录到里面，每一个季度的新课程内测也会在这里完成，如果你感兴趣，可以回复「社群」加入（当然，它是付费的）。
 
- [1]: https://www.google.com/chrome/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier
- [2]: https://www.bpteach.com/
- [3]: https://developers.google.com/web/tools/chrome-devtools/javascript/
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTE1MjI4MzMxOV19
 -->
+
+ [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-11.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-15.jpg
+ [3]: https://www.google.com/chrome/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier
+ [4]: https://www.bpteach.com/
+ [5]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-20.jpg
+ [6]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-22.jpg
+ [7]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-23.jpg
+ [8]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-24.jpg
+ [9]: https://developers.google.com/web/tools/chrome-devtools/javascript/
