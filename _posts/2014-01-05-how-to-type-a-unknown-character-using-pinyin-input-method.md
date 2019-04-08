@@ -4,7 +4,7 @@ post_title: >
   如何用拼音输入法打出你不认识的字
 post_name: >
   how-to-type-a-unknown-character-using-pinyin-input-method
-author: banpie
+author: 半撇
 post_date: 2014-01-05 23:09:31
 layout: post
 link: >
