@@ -3,7 +3,7 @@ ID: 201
 post_title: >
   一个令人尖叫的产品该有哪些动人的细节？
 post_name: 10-usability-heuristics
-author: banpie
+author: 半撇
 post_date: 2016-03-15 00:00:00
 layout: post
 link: >
@@ -35,7 +35,7 @@ categories:
 
 > 图解：左图家里墙上的网线插口，插进去没有任何提示灯；右图是小米路由器的网线插口，插进去信号通的话就有绿灯闪烁。
 
-<img class="alignnone size-full wp-image-2016" src="http://www.banpie.info/wp-content/uploads/2019/03/1_visibility.jpg" width="1200" height="1200" alt="" />
+[<img class="alignnone size-full wp-image-2916" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-344.jpg" width="1200" height="1200" alt="" />][1]
 
 ### 2\. 场景贴切原则
 
@@ -43,7 +43,7 @@ categories:
 
 > 图解：左图家里的热水器指示器，没有数字指示导致我对于水温只能靠猜；右图是得力的温度表，度数、颜色、体感一一俱全。
 
-<img class="alignnone size-full wp-image-2017" src="http://www.banpie.info/wp-content/uploads/2019/03/2_real-world.jpg" width="1280" height="1280" alt="" />
+[<img class="alignnone size-full wp-image-2917" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-345.jpg" width="1280" height="1280" alt="" />][2]
 
 ### 3\. 可控性原则
 
@@ -51,7 +51,7 @@ categories:
 
 > 图解：上图为百度图说的操作页面，在设计操作中没有任何撤销的按钮；下图为苹果手机的Home按键，有了它任何时候你都能回到手机的首页。
 
-<img class="alignnone size-full wp-image-2018" src="http://www.banpie.info/wp-content/uploads/2019/03/3_freedom.jpg" width="1280" height="1280" alt="" />
+[<img class="alignnone size-full wp-image-2918" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-346.jpg" width="1280" height="1280" alt="" />][3]
 
 ### 4\. 一致性原则
 
@@ -59,7 +59,7 @@ categories:
 
 > 图解：上图的男女厕所标示设计不规范，左边是白底黑标示，右边是黑底白标示；下图则是更容易理解的公共厕所性别标示，因为男女处于同级的关系。
 
-<img class="alignnone size-full wp-image-2019" src="http://www.banpie.info/wp-content/uploads/2019/03/4_standards.jpg" width="1280" height="1280" alt="" />
+[<img class="alignnone size-full wp-image-2919" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-347.jpg" width="1280" height="1280" alt="" />][4]
 
 ### 5\. 防错原则
 
@@ -67,7 +67,7 @@ categories:
 
 > 图解：上图是Window XP 下U盘弹出错误的窗口提示；下图是某虎软件的弹出提示，不仅给出了提示，还提供了解决方案（体验这方面，某无节操虎还是做的挺好的）。
 
-<img class="alignnone size-full wp-image-2020" src="http://www.banpie.info/wp-content/uploads/2019/03/5_error.jpg" width="1280" height="1280" alt="" />
+[<img class="alignnone size-full wp-image-2920" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-348.jpg" width="1280" height="1280" alt="" />][5]
 
 ### 6\. 协助记忆原则
 
@@ -75,7 +75,7 @@ categories:
 
 > 图解：上图是苹果系统输入法，在系统中我填写过近百次的邮箱地址，但是需要输入时它总是不会自动填写；下图微信的聊天窗口，只要我软件中保存了新图片，我要发送该图片之前，微信就会自动跳出该图片的发送提示；
 
-![][1]
+![][6]
 
 ### 7\. 灵活和高效原则
 
@@ -83,7 +83,7 @@ categories:
 
 > 图解：Adobe PS 的界面中，左边是普通用户最常用的工具按钮，点击按钮右下角弹出的菜单才是高级用户会使用的工具，通过这个虚弹出菜单，产品让高级的选项不会干扰到普通用户的使用。
 
-![][2]
+![][7]
 
 ### 8\. 美学和最简主义原则
 
@@ -91,7 +91,7 @@ categories:
 
 > 图解：上图是Sony 给Google TV 出的遥控器，作为观看辅助的遥控按键不仅细小还密密麻麻……；下图是Apple TV 的遥控器，3个大按钮搞定，简约帅气！
 
-<img class="alignnone size-full wp-image-2021" src="http://www.banpie.info/wp-content/uploads/2019/03/8_minimalist.jpg" width="1280" height="1280" alt="" />
+[<img class="alignnone size-full wp-image-2921" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-349.jpg" width="1280" height="1280" alt="" />][8]
 
 ### 9\. **容错原则**
 
@@ -99,14 +99,21 @@ categories:
 
 > 图解：上图的404页面没有给出任何的问题解释；下图网易的404页面不进告知的“网页不存在的原因”，提供了返回首页的链接。
 
-<img class="alignnone size-full wp-image-2022" src="http://www.banpie.info/wp-content/uploads/2019/03/9_404.jpg" width="1280" height="1280" alt="" />
+[<img class="alignnone size-full wp-image-2922" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-350.jpg" width="1280" height="1280" alt="" />][9]
 
 ### 10\. 帮助和文档
 
 `Help and documentation`：大而全还带着各种参数的使用说明书是极其反人类的，**请附带一份如何使用产品核心功能&具体步骤的帮助文档**，这样用户真的遇到问题也有地方查找。需要补充的是，如果一份大众产品的使用说明书连你的父母也看不懂，或许需要再被推敲推敲。
 
-> 扩展阅读：[10-Usability-Heuristics for User Interface Design][3]
+> 扩展阅读：[10-Usability-Heuristics for User Interface Design][10]
 
- [1]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/6_recognition.jpg
- [2]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/7_flexibility.jpg
- [3]: https://www.nngroup.com/articles/ten-usability-heuristics/
+ [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-344.jpg
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-345.jpg
+ [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-346.jpg
+ [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-347.jpg
+ [5]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-348.jpg
+ [6]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/6_recognition.jpg
+ [7]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/7_flexibility.jpg
+ [8]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-349.jpg
+ [9]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-350.jpg
+ [10]: https://www.nngroup.com/articles/ten-usability-heuristics/
