@@ -2,11 +2,11 @@
 ID: 86
 post_title: 如何识别出图片中的字体类型
 post_name: how-to-identify-a-font-by-image-upload
-author: banpie
+author: 半撇
 post_date: 2014-01-14 21:18:03
 layout: post
 link: >
-  http://www.banpie.info/how-to-identify-a-font-by-image-upload/
+  https://www.banpie.info/how-to-identify-a-font-by-image-upload/
 published: true
 tags: [ ]
 categories:
