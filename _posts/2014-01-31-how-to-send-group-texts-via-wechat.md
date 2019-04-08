@@ -3,7 +3,7 @@ ID: 103
 post_title: >
   如何用微信给好友群发新年祝福
 post_name: how-to-send-group-texts-via-wechat
-author: banpie
+author: 半撇
 post_date: 2014-01-31 19:59:40
 layout: post
 link: >
