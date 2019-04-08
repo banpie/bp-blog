@@ -3,11 +3,11 @@ ID: 116
 post_title: >
   如何同步不同设备的浏览器标签
 post_name: how-to-synchronize-browser-tabs
-author: banpie
+author: 半撇
 post_date: 2014-02-20 11:21:39
 layout: post
 link: >
-  http://www.banpie.info/how-to-synchronize-browser-tabs/
+  https://www.banpie.info/how-to-synchronize-browser-tabs/
 published: true
 tags: [ ]
 categories:
