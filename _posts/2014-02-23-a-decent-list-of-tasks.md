@@ -3,7 +3,7 @@ ID: 119
 post_title: >
   时间管理（1）：我是如何做出一份科学的任务清单
 post_name: a-decent-list-of-tasks
-author: banpie
+author: 半撇
 post_date: 2014-02-23 11:05:28
 layout: post
 link: >
