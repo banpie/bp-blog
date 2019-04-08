@@ -3,7 +3,7 @@ ID: 176
 post_title: >
   如何用视频讲故事（一）：好故事的4P要素
 post_name: video-storytelling-4p
-author: banpie
+author: 半撇
 post_date: 2014-11-15 19:56:28
 layout: post
 link: >
