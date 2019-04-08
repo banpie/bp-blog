@@ -2,7 +2,7 @@
 ID: 365
 post_title: 给音频自媒体人的制作神器
 post_name: garageband
-author: banpie
+author: 半撇
 post_date: 2016-11-14 00:00:00
 layout: post
 link: https://www.banpie.info/garageband/
