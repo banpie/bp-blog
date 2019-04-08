@@ -4,7 +4,7 @@ post_title: >
   番茄工作法：最简单有效的时间管理方式
 post_name: >
   tomatoes-work-method-the-most-simple-and-effective-time-management
-author: banpie
+author: 半撇
 post_date: 2014-04-12 17:36:06
 layout: post
 link: >
@@ -36,7 +36,7 @@ categories:
 
 访问AlloyTimer网站（短链接：http://t.cn/zTImrLG）-> 输入一个任务，将番茄时间设为25分钟 -> 点击「开始工作」。（点击文末阅读原文直接跳转，或者使用手机内置计时器也可）
 
-<img class="alignnone size-full wp-image-1850" src="http://www.banpie.info/wp-content/uploads/2019/03/0-14.png" width="620" height="463" alt="" />
+[<img class="alignnone size-full wp-image-2764" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-82.png" width="620" height="463" alt="" />][1]
 
 ## 2、专注做一件事情
 
@@ -47,3 +47,5 @@ categories:
 25分钟倒计时结束，无论是否完成任务，立即停下来，休息5分钟后，再继续下一个番茄时间。
 
 经过小范围测试以及自己的亲身体验，这个方法真的超超超级赞！各位如果有时间可以反馈使用心得。
+
+ [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-82.png
