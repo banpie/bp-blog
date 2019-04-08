@@ -2,7 +2,7 @@
 ID: 191
 post_title: GH4视频拍摄的最佳设置
 post_name: gh4-setup-for-filmmaking
-author: banpie
+author: 半撇
 post_date: 2015-09-29 10:20:36
 layout: post
 link: >
