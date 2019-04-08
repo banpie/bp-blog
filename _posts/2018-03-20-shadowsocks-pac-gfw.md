@@ -3,11 +3,11 @@ ID: 419
 post_title: >
   如何翻墙：使用Shadowsock搭建一条自由的梯子
 post_name: shadowsocks-pac-gfw
-author: 半撇banpie
+author: 半撇
 post_date: 2018-03-20 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/shadowsocks-pac-gfw/
+  https://www.banpie.info/shadowsocks-pac-gfw/
 published: true
 tags: [ ]
 categories:
@@ -38,11 +38,11 @@ categories:
 
 在很久很久以前，我们访问各种网站都是简单而直接的，用户的请求通过互联网发送到服务提供方，服务提供方直接将信息反馈给用户。
 
-<img class="alignnone size-full wp-image-1442" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-686b630266d7979e-9.png" width="591" height="122" alt="ss-01" />
+[<img class="alignnone size-full wp-image-2575" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-42.png" width="591" height="122" alt="ss-01" />][1]
 
-然后有一天，[GFW][1] 就出现了，他像一个收过路费的强盗一样夹在了在用户和服务之间，每当用户需要获取信息，都经过了 GFW，GFW将它不喜欢的内容统统过滤掉，于是客户当触发 GFW 的过滤规则的时候，就会收到`Connection Reset`这样的响应内容，而无法接收到正常的内容。
+然后有一天，[GFW][2] 就出现了，他像一个收过路费的强盗一样夹在了在用户和服务之间，每当用户需要获取信息，都经过了 GFW，GFW将它不喜欢的内容统统过滤掉，于是客户当触发 GFW 的过滤规则的时候，就会收到`Connection Reset`这样的响应内容，而无法接收到正常的内容。
 
-<img class="alignnone size-full wp-image-1443" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-43d48a47cd5e37d3-9.png" width="600" height="129" alt="ss-02" />
+[<img class="alignnone size-full wp-image-2576" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-43.png" width="600" height="129" alt="ss-02" />][3]
 
 聪明的人们想到了利用境外服务器代理的方法来绕过 GFW 的过滤，其中包含了各种HTTP代理服务、Socks服务、VPN服务… 其中以 ssh tunnel 的方法比较有代表性。
 
@@ -50,13 +50,13 @@ categories:
 *   2-3) 用户通过建立起的隧道进行代理，通过 ssh server 向真实的服务发起请求；
 *   4-5) 服务通过 ssh server，再通过创建好的隧道返回给用户；
 
-<img class="alignnone size-full wp-image-1444" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-79f777a9b7a84c7f-9.png" width="723" height="133" alt="ss-03" />
+[<img class="alignnone size-full wp-image-2578" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-45.png" width="723" height="133" alt="ss-03" />][4]
 
 由于 ssh 本身就是基于 RSA 加密技术，所以 GFW 无法从数据传输的过程中的加密数据内容进行关键词分析，避免了被重置链接的问题，但由于创建隧道和数据传输的过程中，ssh 本身的特征是明显的，所以 GFW 一度通过分析连接的特征进行干扰，导致 ssh 存在被定向进行干扰的问题。
 
-于是有人想了一个办法，就是在你的电脑和服务器上都同是安装shadowsocks ，因为本地的 Shadowsocks 客户端一般是本机或路由器或局域网的其他机器，不经过 GFW，所以解决了上面被 GFW 通过特征分析进行干扰的问题（[点击了解更多原理][2]）。
+于是有人想了一个办法，就是在你的电脑和服务器上都同是安装shadowsocks ，因为本地的 Shadowsocks 客户端一般是本机或路由器或局域网的其他机器，不经过 GFW，所以解决了上面被 GFW 通过特征分析进行干扰的问题（[点击了解更多原理][5]）。
 
-<img class="alignnone size-full wp-image-1445" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-52433ff789fc9d91-9.png" width="692" height="321" alt="ss-04" />
+[<img class="alignnone size-full wp-image-2579" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-46.png" width="692" height="321" alt="ss-04" />][6]
 
 更简单地说，就是需要你同时在你购买的服务器和你的电脑上安装 Shadowsocks 软件，下面我们将从vps购买开始，直到搭建成功ShadowSocks，对搬瓦工 VPS 搭建 Shadowsocks VPN 进行一个完整的介绍。
 
@@ -71,57 +71,57 @@ categories:
 
 ### **3\.1 购买VPS**
 
-首先我们需要访问 [搬瓦工][3] （如访问缓慢，请使用 *[bwh1.net][4](http://bwh1.net/aff.php?aff=11742)* 访问）购买VPS（如果你无法访问这个网站，有可能是被墙了，所以先使用类似的蓝灯VPN 切换到全局模式下访问后再购买），对于个人使用而言（每个月500G流量），可以选最便宜的每月2.99$，折合人民币也就20块几毛，和市面大部分收费的 VPN 费用差不多。
+首先我们需要访问 [搬瓦工][7] （如访问缓慢，请使用 *[bwh1.net][8](http://bwh1.net/aff.php?aff=11742)* 访问）购买VPS（如果你无法访问这个网站，有可能是被墙了，所以先使用类似的蓝灯VPN 切换到全局模式下访问后再购买），对于个人使用而言（每个月500G流量），可以选最便宜的每月2.99$，折合人民币也就20块几毛，和市面大部分收费的 VPN 费用差不多。
 
-<img class="alignnone size-full wp-image-1446" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-b47cff6ae3bd43b5.jpeg" width="1240" height="632" alt="image1" />
+[<img class="alignnone size-full wp-image-2581" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-10.jpeg" width="1240" height="632" alt="image1" />][9]
 
 选择KVM， 因为据说KVM是完全虚拟的，可以说是最真实的虚拟机，内存不共享，并且可以做很多事情，比如装docker，但是你选择OVZ 也可以。
 
-<img class="alignnone size-full wp-image-1447" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-3f689e690c58b2fa.jpg" width="1240" height="686" alt="image" />
+[<img class="alignnone size-full wp-image-2584" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-166.jpg" width="1240" height="686" alt="image" />][10]
 
 有按月按季度按年的，先选个按月的，第一次用也不知道稳不稳定。Location是服务器的地址，到时候打开谷歌首页显示的国家会和这个相关。
 
-<img class="alignnone size-full wp-image-1448" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-9f5ade6538dc5988.jpeg" width="1240" height="726" alt="" />
+[<img class="alignnone size-full wp-image-2587" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-11.jpeg" width="1240" height="726" alt="" />][11]
 
 确认之后点击点击 **Checkout**
 
-<img class="alignnone size-full wp-image-1449" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-3b275f7d36254bd5.jpg" width="1240" height="669" alt="image" />
+[<img class="alignnone size-full wp-image-2589" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-170.jpg" width="1240" height="669" alt="image" />][12]
 
 填写完相关的资料后付款，选择Alipay直接支付宝扫码付款。：）
 
-<img class="alignnone size-full wp-image-1450" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-01ceb215d88d2c78.jpeg" width="1240" height="636" alt="image" />
+[<img class="alignnone size-full wp-image-2591" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-12.jpeg" width="1240" height="636" alt="image" />][13]
 
 ### **3\.2 安装Shadowsocks服务器**
 
 安装Shadowsocks服务器分为3种情况：
 
-*  - **自带安装法**：老版的服务器通常自带了Shadowsocks入口，你只需要点击一个按钮安装就可以，具体查看下方教程。
-*  - **隐藏安装法**：部分服务器可以通过特定的URL访问Shadowsocks入口，然后再点击按钮直接安装，具体查看下方教程。
-*  - **SSH安装法**：上面两个方法都没有的，可以借助快捷脚本安装，具体查看下方教程。
+*   *   **自带安装法**：老版的服务器通常自带了Shadowsocks入口，你只需要点击一个按钮安装就可以，具体查看下方教程。
+*   *   **隐藏安装法**：部分服务器可以通过特定的URL访问Shadowsocks入口，然后再点击按钮直接安装，具体查看下方教程。
+*   *   **SSH安装法**：上面两个方法都没有的，可以借助快捷脚本安装，具体查看下方教程。
 
 #### 3\.2.1 自带安装法
 
 购买成功后回到首页，先选择右上角的 **Client Area**，然后选择 **My Services**
 
-<img class="alignnone size-full wp-image-1451" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-81db59779671c8ab.jpeg" width="1240" height="673" alt="image1" />
+[<img class="alignnone size-full wp-image-2594" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-13.jpeg" width="1240" height="673" alt="image1" />][14]
 
 点击 **KiwiVM Control Panel** 进入服务器的控制面板
 
-<img class="alignnone size-full wp-image-1452" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-c2223d65f86b026d.jpeg" width="1240" height="681" alt="image1" />
+[<img class="alignnone size-full wp-image-2596" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-14.jpeg" width="1240" height="681" alt="image1" />][15]
 
 侧边栏选择 **Main controls**，可以看到当前服务器的信息，**IP**地址后续需要提供给客户端。操作系统默认安装了 **Centos**，你可以在左边的 **Install new OS** 中选择其他的系统，有**Ubuntu**和**Debian**，只需几分钟便可重装完毕。
 
 不过最好还是使用 **Centos**，因为系统提供一键安装Shadowsocks的脚本只支持 **Centos**，换了其他系统的话脚本安装会失败，除非你会在对应系统上自己手动安装。
 
-<img class="alignnone size-full wp-image-1453" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-b0a13e614f116f42.jpeg" width="1240" height="657" alt="image1" />
+[<img class="alignnone size-full wp-image-2599" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-15.jpeg" width="1240" height="657" alt="image1" />][16]
 
 点击侧边栏最下方的 **Shadowsocks Server** 选项，进入之后直接点击 **Install Shadowsocks Server** 按钮，运行脚本在服务器上安装Shadowsocks，稍等片刻安装完毕。
 
-<img class="alignnone size-full wp-image-1454" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-e36ee4feddb0f4c3.png" width="1240" height="759" alt="image1" />
+[<img class="alignnone size-full wp-image-2602" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-48.png" width="1240" height="759" alt="image1" />][17]
 
 安装完成后重新点击 **Shadowsocks Server** 选项，进入界面后便可看到 **Shadowsocks server** 的相关信息，主要有**加密方式**，**端口号**，**服务器密码**，后续客户端连接服务器需要用到这些信息。
 
-<img class="alignnone size-full wp-image-1455" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-4752c12e7734e235.jpeg" width="1240" height="668" alt="image1" />
+[<img class="alignnone size-full wp-image-2611" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-16.jpeg" width="1240" height="668" alt="image1" />][18]
 
 #### 3\.2.2 隐藏安装法
 
@@ -129,41 +129,39 @@ categories:
 
 具体的步骤为：
 
-1.  **登陆搬瓦工**：[搬瓦工地址][4](http://bwh1.net/aff.php?aff=11742)。
-2.  **进入KiwiVM 后台**：找到购买的主机，点击“[KiwiVM Control Panel][5](https://www.wervps.com/goto/nhk3t9g)”。
-3.  **安装 Shadowsocks**：访问`https://kiwivm.64clouds.com/preloader.php?load=/main-exec.php?mode=extras_shadowsocks`，然后点击`Install Shadowsocks Server`完成安装。 <img class="alignnone size-full wp-image-1556" src="
-   ![](https://www.banpie.info/wp-content/uploads/2019/02/2019-02-14-023714.png" width="1054" height="285" alt="" />cdn.bpteach.com/images/2019-02-14-023714.png)
-4.  **查看Shadowsocks信息**：点击`Go back`返回之前的页面(`[https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks`，可以看到相关的账号信息和使用方法。 <img class="alignnone size-full wp-image-1557" src="
-   ![img](https://www.banpie.info/wp-content/uploads/2019/02/2019-02-14-023725.png" width="1062" height="674" alt="img" />cdn.bpteach.com/images/2019-02-14-023725.png)
+1.  **登陆搬瓦工**：[搬瓦工地址][8](http://bwh1.net/aff.php?aff=11742)。
+2.  **进入KiwiVM 后台**：找到购买的主机，点击“[KiwiVM Control Panel][19](https://www.wervps.com/goto/nhk3t9g)”。
+3.  **安装 Shadowsocks**：访问`https://kiwivm.64clouds.com/preloader.php?load=/main-exec.php?mode=extras_shadowsocks`，然后点击`Install Shadowsocks Server`完成安装。 <img class="alignnone size-full wp-image-1556" src="//www.banpie.info/wp-content/uploads/2019/02/2019-02-14-023714.png" width="1054" height="285" alt="" />cdn.bpteach.com/images/2019-02-14-023714.png)
+4.  **查看Shadowsocks信息**：点击`Go back`返回之前的页面(`[https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks`，可以看到相关的账号信息和使用方法。 <img class="alignnone size-full wp-image-1557" src="//www.banpie.info/wp-content/uploads/2019/02/2019-02-14-023725.png" width="1062" height="674" alt="img" />cdn.bpteach.com/images/2019-02-14-023725.png)
 5.  完成！
 
 #### 3\.2.3 SSH安装法
 
-具体可参考[一键脚本搭建ss][6](https://flyzyblog.com/install-ss-ssr-bbr-in-one-command/)。
+具体可参考[一键脚本搭建ss][20](https://flyzyblog.com/install-ss-ssr-bbr-in-one-command/)。
 
 ### 3\.3 安装Shadowsocks客户端
 
 **Shadowsocks**客户端的[下载地址][74]，可以看到有各种客户端的下载。貌似这货也是得翻墙才能访问到。
 
-<img class="alignnone size-full wp-image-1456" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-848193232914a670.jpg" width="1240" height="705" alt="image" />
+[<img class="alignnone size-full wp-image-2615" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-188.jpg" width="1240" height="705" alt="image" />][21]
 
 #### **3\.3.1 Mac配置**
 
 用的是Mac电脑，所以点击相关链接。东西都挂在github上，下载对应的zip文件，下载完成后安装并运行起来。
 
-<img class="alignnone size-full wp-image-1457" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-ae6bfd3b916ae895.jpeg" width="1240" height="710" alt="image1" />
+[<img class="alignnone size-full wp-image-2618" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-17.jpeg" width="1240" height="710" alt="image1" />][22]
 
 点击图标，进入 **服务器设置**
 
-<img class="alignnone size-full wp-image-1458" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-e227b64dd32177e9.jpeg" width="1240" height="896" alt="image1" />
+[<img class="alignnone size-full wp-image-2622" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-18.jpeg" width="1240" height="896" alt="image1" />][23]
 
 主要有四个地方要填，**服务器的地址**，**端口号**，**加密方法**，**密码**。服务器地址即为之前 **Main controls**选项中的IP地址。端口号、加密方法、密码必须与之前 **Shadowsocks Server** 中的信息一一匹配，否则会连接失败。
 
-<img class="alignnone size-full wp-image-1459" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-8d01bce61269d971.jpeg" width="1240" height="1109" alt="image1" />
+[<img class="alignnone size-full wp-image-2626" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-19.jpeg" width="1240" height="1109" alt="image1" />][24]
 
 设置完成后点击确定，然后服务器选择这个配置，默认选中PAC自动模式，确保Shadowsocks状态为**On**，这时候打开谷歌试试~
 
-<img class="alignnone size-full wp-image-1460" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-120c4a2c2f6bdf9b.jpeg" width="1240" height="609" alt="image1" />
+[<img class="alignnone size-full wp-image-2630" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-20.jpeg" width="1240" height="609" alt="image1" />][25]
 
 Google图标右下角显示的是Canada，因为之前服务器的地址选的是加拿大：）
 
@@ -173,31 +171,54 @@ iOS上用的VPN App 是**Wingy**，可以App Store上直接搜。官方的**Wing
 
 下载完成后运行，点击 **选择线路**
 
-<img class="alignnone size-full wp-image-1461" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-e3f66bc3709a75bb.jpeg" width="719" height="1280" alt="image1" />
+[<img class="alignnone size-full wp-image-2632" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-21.jpeg" width="719" height="1280" alt="image1" />][26]
 
 选择 **新增线路**
 
-<img class="alignnone size-full wp-image-1462" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-f76e3285466379ac.jpeg" width="721" height="1280" alt="image1" />
+[<img class="alignnone size-full wp-image-2635" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-22.jpeg" width="721" height="1280" alt="image1" />][27]
 
 选择 **Shadowsocks(R)**
 
-<img class="alignnone size-full wp-image-1463" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-615231a2c88f3940.jpeg" width="727" height="1280" alt="image1" />
+[<img class="alignnone size-full wp-image-2638" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-23.jpeg" width="727" height="1280" alt="image1" />][28]
 
 在配置界面填写服务器相关的信息，和Mac上的一样，填写完成后保存，然后在首页进行连接。
 
-<img class="alignnone size-full wp-image-1464" src="http://www.banpie.info/wp-content/uploads/2018/11/1668324-2e64fc6fdf4e51c9.jpeg" width="722" height="1280" alt="image1" />
+[<img class="alignnone size-full wp-image-2641" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-24.jpeg" width="722" height="1280" alt="image1" />][29]
 
 这样一来手机也能愉快的翻墙了。当然其他端的配置方式也基本一致，可以根据使用的平台下载对应的客户端。下载好的客户端最后自己在别处备份一下，因为官网需要翻墙，以方便后续其他未翻墙的机器下载。
 
 最后，自己搭建的 VPN 好处是可以和别人共享，告诉别人相关的配置信息即可。市面上一些收费的 VPN 还会有限制，比如说不让看 YouTube 有一定流量限制不能分享账号否则封号等。
 
- [1]: http://zh.wikipedia.org/wiki/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
- [2]: https://vc2tea.com/whats-shadowsocks/
- [3]: https://bandwagonhost.com/aff.php?aff=11742
- [4]: http://bwh1.net/aff.php?aff=11742
- [5]: https://www.wervps.com/goto/nhk3t9g
- [6]: https://flyzyblog.com/install-ss-ssr-bbr-in-one-command/
- [7]: https://shadowsocks.org/en/download/clients.html
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTA4MjQ2NzUyOF19
 -->
+
+ [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-42.png
+ [2]: http://zh.wikipedia.org/wiki/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
+ [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-43.png
+ [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-45.png
+ [5]: https://vc2tea.com/whats-shadowsocks/
+ [6]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-46.png
+ [7]: https://bandwagonhost.com/aff.php?aff=11742
+ [8]: http://bwh1.net/aff.php?aff=11742
+ [9]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-10.jpeg
+ [10]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-166.jpg
+ [11]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-11.jpeg
+ [12]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-170.jpg
+ [13]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-12.jpeg
+ [14]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-13.jpeg
+ [15]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-14.jpeg
+ [16]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-15.jpeg
+ [17]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-48.png
+ [18]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-16.jpeg
+ [19]: https://www.wervps.com/goto/nhk3t9g
+ [20]: https://flyzyblog.com/install-ss-ssr-bbr-in-one-command/
+ [21]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-188.jpg
+ [22]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-17.jpeg
+ [23]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-18.jpeg
+ [24]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-19.jpeg
+ [25]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-20.jpeg
+ [26]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-21.jpeg
+ [27]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-22.jpeg
+ [28]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-23.jpeg
+ [29]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-24.jpeg
