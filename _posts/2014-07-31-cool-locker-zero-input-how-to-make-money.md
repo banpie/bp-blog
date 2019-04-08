@@ -2,7 +2,7 @@
 ID: 162
 post_title: 零投入，如何赚钱？
 post_name: cool-locker-zero-input-how-to-make-money
-author: banpie
+author: 半撇
 post_date: 2014-07-31 23:56:07
 layout: post
 link: >
