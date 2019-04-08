@@ -3,7 +3,7 @@ ID: 70
 post_title: 加减乘除，搜索引擎大用处
 post_name: >
   yun-suan-fu-hao-zai-sou-suo-zhong-de-ying-yong
-author: banpie
+author: 半撇
 post_date: 2013-12-19 00:21:14
 layout: post
 link: >
