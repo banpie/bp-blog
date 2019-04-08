@@ -4,11 +4,11 @@ post_title: >
   哼唱搜索：找到那些你叫不出名的歌
 post_name: >
   how-to-search-for-music-using-your-voice-by-singing-or-humming
-author: banpie
+author: 半撇
 post_date: 2014-02-15 14:13:09
 layout: post
 link: >
-  http://www.banpie.info/how-to-search-for-music-using-your-voice-by-singing-or-humming/
+  https://www.banpie.info/how-to-search-for-music-using-your-voice-by-singing-or-humming/
 published: true
 tags: [ ]
 categories:
