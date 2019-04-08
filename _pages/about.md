@@ -2,7 +2,7 @@
 ID: 840
 post_title: 关于
 post_name: about
-author: 半撇banpie
+author: 半撇
 post_date: 2018-11-21 00:09:32
 layout: page
 link: http://www.banpie.info/about/
