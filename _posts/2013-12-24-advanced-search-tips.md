@@ -2,7 +2,7 @@
 ID: 73
 post_title: 3个最常用的高级搜索技巧
 post_name: advanced-search-tips
-author: banpie
+author: 半撇
 post_date: 2013-12-24 12:22:30
 layout: post
 link: >
