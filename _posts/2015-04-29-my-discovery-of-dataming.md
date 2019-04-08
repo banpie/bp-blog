@@ -2,7 +2,7 @@
 ID: 185
 post_title: 数据挖掘学习图谱
 post_name: my-discovery-of-dataming
-author: banpie
+author: 半撇
 post_date: 2015-04-29 19:40:32
 layout: post
 link: >
