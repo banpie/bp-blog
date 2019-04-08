@@ -2,7 +2,7 @@
 ID: 192
 post_title: 如何理解JS中闭包的概念
 post_name: understand-closure-in-js
-author: banpie
+author: 半撇
 post_date: 2015-10-20 14:17:00
 layout: post
 link: >
