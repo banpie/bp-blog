@@ -7,10 +7,11 @@ author: 半撇
 post_date: 2018-03-20 00:00:00
 layout: post
 link: >
-  https://www.banpie.info/shadowsocks-pac-gfw/
+  http://www.banpie.info/shadowsocks-pac-gfw/
 published: true
 tags: [ ]
 categories:
+  - 工具
   - 神器
   - 效率
 ---
