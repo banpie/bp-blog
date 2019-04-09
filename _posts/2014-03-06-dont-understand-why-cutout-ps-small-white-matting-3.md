@@ -7,10 +7,11 @@ author: 半撇
 post_date: 2014-03-06 18:08:11
 layout: post
 link: >
-  https://www.banpie.info/dont-understand-why-cutout-ps-small-white-matting-3/
+  http://www.banpie.info/dont-understand-why-cutout-ps-small-white-matting-3/
 published: true
 tags: [ ]
 categories:
+  - 工具
   - 神器
   - 设计
 ---
