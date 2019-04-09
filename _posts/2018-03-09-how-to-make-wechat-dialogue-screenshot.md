@@ -7,11 +7,12 @@ author: 半撇
 post_date: 2018-03-09 00:00:00
 layout: post
 link: >
-  https://www.banpie.info/how-to-make-wechat-dialogue-screenshot/
+  http://www.banpie.info/how-to-make-wechat-dialogue-screenshot/
 published: true
 tags: [ ]
 categories:
-  - 神器工具
+  - 工具
+  - 神器
 ---
 2016年被称为「知识付费」的元年，在那段时间，各种各样的课程层出不穷，无论是好的坏的，大多挂上了「付费」的标签。在许多的公众号爆款课程的销售套路中，我们常常能窥见如此的文案结构：
 
