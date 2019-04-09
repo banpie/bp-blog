@@ -4,14 +4,15 @@ post_title: >
   纯技术小白如何利用Coding
   Pages搭建免费WordPress站点
 post_name: build-wordpress-coding-net
-author: banpie
+author: 半撇
 post_date: 2018-03-07 00:00:00
 layout: post
 link: >
-  https://www.banpie.info/build-wordpress-coding-net/
+  http://www.banpie.info/build-wordpress-coding-net/
 published: true
 tags: [ ]
 categories:
+  - 工具
   - 神器
   - 技术
 ---
