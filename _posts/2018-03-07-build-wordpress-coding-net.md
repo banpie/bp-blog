@@ -13,7 +13,6 @@ published: true
 tags: [ ]
 categories:
   - 工具
-  - 神器
   - 技术
 ---
 著名的学习大神 Scott Young ，他曾提到一个细节：在学习一个东西的时候，你能否用比喻的方式向一个 10 岁的小孩解释清楚？
