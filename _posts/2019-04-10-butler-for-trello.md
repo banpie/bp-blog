@@ -41,19 +41,19 @@ categories:
 
 [<img class="alignnone size-full wp-image-3055" src="http://www.banpie.info/wp-content/uploads/2019/04/20190410223609-1.png" width="1280" height="791" alt="" />][4]
 
-但是，实际过程中，同时总是忘记把「截止日期」字段勾选掉，所以出现了一排红红的、看着令人难受的符号。
+但是，实际过程中，同事总是忘记把「截止日期」字段勾选掉，所以出现了一排红红的、看着令人难受的符号。
 
 [<img class="alignnone size-full wp-image-3056" src="http://www.banpie.info/wp-content/uploads/2019/04/20190410223926-1.png" width="1280" height="788" alt="" />][5]
 
 每一次都在卡片中提醒同事：「完成后记得勾选截止日期哦」，这显然不是一个非常聪明的办法！
 
-所以我想，有没有什么办法能够实现：如果同时把卡片拖动到「Done」，那么下面所有的卡片的截止日期就自动设置为「完成」呢？
+所以我想，有没有什么办法能够实现：如果同事把卡片拖动到「Done」，那么下面所有的卡片的截止日期就自动设置为「完成」呢？
 
 利用「Trello Automation」等关键词，我终于找到了 [Butler][6]。
 
 ## 如何使用 Butler
 
-你可以把 Butler 理解为 Trello 内的 [IFTTT][7]，这个工具旨在让帮助 Trello 用户免于重复性任务。例如我上面提及的的：如果同时把卡片拖动到「Done」，那么「Done」列表下所有的卡片的截止日期就自动设置为「完成」呢？
+你可以把 Butler 理解为 Trello 内的 [IFTTT][7]，这个工具旨在让帮助 Trello 用户免于重复性任务。例如我上面提及的的：如果同事把卡片拖动到「Done」，那么「Done」列表下所有的卡片的截止日期就自动设置为「完成」呢？
 
 让我们直接进入 [软件][8] 页面看一下，我如何实现我上面的需求。
 
@@ -75,15 +75,15 @@ categories:
 
 Butler 的想象力是无限的，我也是一开始摸索，后面应该还有会很多Hack 小技巧，如果你也有一些常见的规则设定，也欢迎你评论跟我分享！
 
- [1]: https://www.banpie.info/trello-keyboard-shortcuts/
- [2]: http://www.banpie.info/wp-content/uploads/2019/04/20190410223637-1.png
- [3]: http://www.banpie.info/wp-content/uploads/2019/04/20190410223718-1.png
- [4]: http://www.banpie.info/wp-content/uploads/2019/04/20190410223609-1.png
- [5]: http://www.banpie.info/wp-content/uploads/2019/04/20190410223926-1.png
- [6]: https://butlerfortrello.com/
- [7]: https://ifttt.com/
- [8]: https://www.butlerfortrello.com/dashboard.html
- [9]: http://www.banpie.info/wp-content/uploads/2019/04/20190410224929-1.png
- [10]: http://www.banpie.info/wp-content/uploads/2019/04/20190410225235-1.png
- [11]: http://www.banpie.info/wp-content/uploads/2019/04/20190410225354-1.png
- [12]: http://www.banpie.info/wp-content/uploads/2019/04/20190410225718-1.png
+[1]: https://www.banpie.info/trello-keyboard-shortcuts/
+[2]: http://www.banpie.info/wp-content/uploads/2019/04/20190410223637-1.png
+[3]: http://www.banpie.info/wp-content/uploads/2019/04/20190410223718-1.png
+[4]: http://www.banpie.info/wp-content/uploads/2019/04/20190410223609-1.png
+[5]: http://www.banpie.info/wp-content/uploads/2019/04/20190410223926-1.png
+[6]: https://butlerfortrello.com/
+[7]: https://ifttt.com/
+[8]: https://www.butlerfortrello.com/dashboard.html
+[9]: http://www.banpie.info/wp-content/uploads/2019/04/20190410224929-1.png
+[10]: http://www.banpie.info/wp-content/uploads/2019/04/20190410225235-1.png
+[11]: http://www.banpie.info/wp-content/uploads/2019/04/20190410225354-1.png
+[12]: http://www.banpie.info/wp-content/uploads/2019/04/20190410225718-1.png
