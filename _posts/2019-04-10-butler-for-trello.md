@@ -1,14 +1,14 @@
 ---
-ID: 3061
+ID: 3052
 post_title: >
   创业团队如何使用 Butler
   来自动化 Trello
-post_name: butler-for-trello-2
+post_name: butler-for-trello
 author: 半撇
 post_date: 2019-04-10 23:08:39
 layout: post
 link: >
-  http://www.banpie.info/butler-for-trello-2/
+  http://www.banpie.info/butler-for-trello/
 published: true
 tags:
   - trello
