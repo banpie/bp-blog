@@ -5,7 +5,7 @@ post_name: about
 author: 半撇
 post_date: 2018-11-21 00:09:32
 layout: page
-link: https://www.banpie.info/about/
+link: http://www.banpie.info/about/
 published: true
 tags: [ ]
 categories: [ ]
