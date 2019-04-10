@@ -57,15 +57,15 @@ categories:
 
 让我们直接进入 [软件][8] 页面看一下，我如何实现我上面的需求。
 
-1\.添加Butler：选择你所要设置自动化的面板，点击「Invite Butler」，把这个自动化机器人添加到你的 Trello 面板中。
+1\.**添加 Butler**：选择你所要设置自动化的面板，点击「Invite Butler」，把这个自动化机器人添加到你的 Trello 面板中。
 
 [<img class="alignnone size-full wp-image-3057" src="http://www.banpie.info/wp-content/uploads/2019/04/20190410224929-1.png" width="1280" height="793" alt="" />][9]
 
-2\.添加Butler 规则：进入配置页面后，点击「Add Command」开始配置规则。
+2\.**添加 Butler 规则**：进入配置页面后，点击「Add Command」开始配置规则。
 
 [<img class="alignnone size-full wp-image-3058" src="http://www.banpie.info/wp-content/uploads/2019/04/20190410225235-1.png" width="1280" height="785" alt="" />][10]
 
-3\.配置 Butler 规则：在这里有无数的规则可以设定，你可以自己选择条件，和对应条件后续的执行动作，比如我这里设定的「如果有卡片移动到`Done`，那么截止日期设定为`Complete`」。
+3\.**配置 Butler 规则**：在这里有无数的规则可以设定，你可以自己选择条件，和对应条件后续的执行动作，比如我这里设定的「如果有卡片移动到`Done`，那么截止日期设定为`Complete`」。
 
 [<img class="alignnone size-full wp-image-3059" src="http://www.banpie.info/wp-content/uploads/2019/04/20190410225354-1.png" width="1280" height="784" alt="" />][11]
 
