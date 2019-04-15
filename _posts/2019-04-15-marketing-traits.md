@@ -23,7 +23,7 @@ categories:
 
 所以我常常会被问到：**对于创业者来说，到底需要具备哪一些营销能力？**
 
-对于这样的问题，我常常能够罗列出一大串的关键词，比如：文案、写作、运营、设计、传播学…… 也是在看到了[LinkedIn Speaker Series: Jennifer Dulski - YouTube][1] （大名钉钉的Change.org的营销总监）的分享后，我找到了更好的提炼方式。
+对于这样的问题，我常常能够罗列出一大串的关键词，比如：文案、写作、运营、设计、传播学…… 也是在看到了[LinkedIn Speaker Series: Jennifer Dulski - YouTube][1] （大名鼎鼎的Change.org的营销总监）的分享后，我找到了更好的提炼方式。
 
 [<img class="alignnone size-full wp-image-3069" src="http://www.banpie.info/wp-content/uploads/2019/04/20190415232729.png" width="1280" height="800" alt="" />][2]
 
@@ -71,8 +71,8 @@ categories:
 
 最后，本文都是基于创始人没有营销背景，或者团队中缺少了营销角色的人。如果你的团队的配置比较齐全，比如营销、产品、运营的3个核心支柱都有的话，那么你自然去专注你的领域就可以了。
 
- [1]: https://www.youtube.com/watch?v=EluVjssrCBk
- [2]: http://www.banpie.info/wp-content/uploads/2019/04/20190415232729.png
- [3]: http://www.banpie.info/wp-content/uploads/2019/04/20190415233443.jpg
- [4]: http://www.banpie.info/wp-content/uploads/2019/04/20190415233453.jpg
- [5]: http://www.banpie.info/wp-content/uploads/2019/04/20190415233507.jpg
+[1]: https://www.youtube.com/watch?v=EluVjssrCBk
+[2]: http://www.banpie.info/wp-content/uploads/2019/04/20190415232729.png
+[3]: http://www.banpie.info/wp-content/uploads/2019/04/20190415233443.jpg
+[4]: http://www.banpie.info/wp-content/uploads/2019/04/20190415233453.jpg
+[5]: http://www.banpie.info/wp-content/uploads/2019/04/20190415233507.jpg
