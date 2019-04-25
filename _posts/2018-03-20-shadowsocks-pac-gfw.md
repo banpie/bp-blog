@@ -72,7 +72,7 @@ categories:
 
 ### **3\.1 购买VPS**
 
-首先我们需要访问 [搬瓦工][7] （如访问缓慢，请使用 *[bwh1.net][8](http://bwh1.net/aff.php?aff=11742)* 访问）购买VPS（如果你无法访问这个网站，有可能是被墙了，所以先使用类似的蓝灯VPN 切换到全局模式下访问后再购买），对于个人使用而言（每个月500G流量），可以选最便宜的每月2.99$，折合人民币也就20块几毛，和市面大部分收费的 VPN 费用差不多。
+首先我们需要访问 [搬瓦工][7] （如访问缓慢，请使用 *[bwh88.net][8]* 访问）购买VPS（如果你无法访问这个网站，有可能是被墙了，所以先使用类似的蓝灯VPN 切换到全局模式下访问后再购买），对于个人使用而言（每个月500G流量），可以选最便宜的每月2.99$，折合人民币也就20块几毛，和市面大部分收费的 VPN 费用差不多。
 
 [<img class="alignnone size-full wp-image-2581" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-10.jpeg" width="1240" height="632" alt="image1" />][9]
 
@@ -201,7 +201,7 @@ eyJoaXN0b3J5IjpbMTA4MjQ2NzUyOF19
  [5]: https://vc2tea.com/whats-shadowsocks/
  [6]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-46.png
  [7]: https://bandwagonhost.com/aff.php?aff=11742
- [8]: http://bwh1.net/aff.php?aff=11742
+ [8]: http://bwh88.net/aff.php?aff=11742
  [9]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-10.jpeg
  [10]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-166.jpg
  [11]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-11.jpeg
