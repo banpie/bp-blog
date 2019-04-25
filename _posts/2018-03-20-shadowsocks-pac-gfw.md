@@ -130,19 +130,19 @@ categories:
 
 具体的步骤为：
 
-1.  **登陆搬瓦工**：[搬瓦工地址][8](http://bwh1.net/aff.php?aff=11742)。
-2.  **进入KiwiVM 后台**：找到购买的主机，点击“[KiwiVM Control Panel][19](https://www.wervps.com/goto/nhk3t9g)”。
-3.  **安装 Shadowsocks**：访问`https://kiwivm.64clouds.com/preloader.php?load=/main-exec.php?mode=extras_shadowsocks`，然后点击`Install Shadowsocks Server`完成安装。 <img class="alignnone size-full wp-image-1556" src="//www.banpie.info/wp-content/uploads/2019/02/2019-02-14-023714.png" width="1054" height="285" alt="" />cdn.bpteach.com/images/2019-02-14-023714.png)
-4.  **查看Shadowsocks信息**：点击`Go back`返回之前的页面(`[https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks`，可以看到相关的账号信息和使用方法。 <img class="alignnone size-full wp-image-1557" src="//www.banpie.info/wp-content/uploads/2019/02/2019-02-14-023725.png" width="1062" height="674" alt="img" />cdn.bpteach.com/images/2019-02-14-023725.png)
+1.  **登陆搬瓦工**：[搬瓦工地址][8]。
+2.  **进入KiwiVM 后台**：找到购买的主机，点击“[KiwiVM Control Panel][19]”。
+3.  **安装 Shadowsocks**：访问`https://kiwivm.64clouds.com/preloader.php?load=/main-exec.php?mode=extras_shadowsocks`，然后点击`Install Shadowsocks Server`完成安装。 <img class="alignnone size-full wp-image-1556" src="//www.banpie.info/wp-content/uploads/2019/02/2019-02-14-023714.png" width="1054" height="285" alt="" />
+4.  **查看Shadowsocks信息**：点击`Go back`返回之前的页面(`[https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks`，可以看到相关的账号信息和使用方法。 <img class="alignnone size-full wp-image-1557" src="//www.banpie.info/wp-content/uploads/2019/02/2019-02-14-023725.png" width="1062" height="674" alt="img" />
 5.  完成！
 
 #### 3\.2.3 SSH安装法
 
-具体可参考[一键脚本搭建ss][20](https://flyzyblog.com/install-ss-ssr-bbr-in-one-command/)。
+具体可参考[一键脚本搭建ss][20]。
 
 ### 3\.3 安装Shadowsocks客户端
 
-**Shadowsocks**客户端的[下载地址][74]，可以看到有各种客户端的下载。貌似这货也是得翻墙才能访问到。
+**Shadowsocks**客户端的 [下载地址][74] ，可以看到有各种客户端的下载。貌似这货也是得翻墙才能访问到。
 
 [<img class="alignnone size-full wp-image-2615" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-188.jpg" width="1240" height="705" alt="image" />][21]
 
@@ -190,36 +190,32 @@ iOS上用的VPN App 是**Wingy**，可以App Store上直接搜。官方的**Wing
 
 最后，自己搭建的 VPN 好处是可以和别人共享，告诉别人相关的配置信息即可。市面上一些收费的 VPN 还会有限制，比如说不让看 YouTube 有一定流量限制不能分享账号否则封号等。
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjQ2NzUyOF19
--->
-
- [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-42.png
- [2]: http://zh.wikipedia.org/wiki/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
- [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-43.png
- [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-45.png
- [5]: https://vc2tea.com/whats-shadowsocks/
- [6]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-46.png
- [7]: https://bandwagonhost.com/aff.php?aff=11742
- [8]: http://bwh88.net/aff.php?aff=11742
- [9]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-10.jpeg
- [10]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-166.jpg
- [11]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-11.jpeg
- [12]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-170.jpg
- [13]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-12.jpeg
- [14]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-13.jpeg
- [15]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-14.jpeg
- [16]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-15.jpeg
- [17]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-48.png
- [18]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-16.jpeg
- [19]: https://www.wervps.com/goto/nhk3t9g
- [20]: https://flyzyblog.com/install-ss-ssr-bbr-in-one-command/
- [21]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-188.jpg
- [22]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-17.jpeg
- [23]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-18.jpeg
- [24]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-19.jpeg
- [25]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-20.jpeg
- [26]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-21.jpeg
- [27]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-22.jpeg
- [28]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-23.jpeg
- [29]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-24.jpeg
+[1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-42.png
+[2]: http://zh.wikipedia.org/wiki/%E9%87%91%E7%9B%BE%E5%B7%A5%E7%A8%8B
+[3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-43.png
+[4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-45.png
+[5]: https://vc2tea.com/whats-shadowsocks/
+[6]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-46.png
+[7]: https://bandwagonhost.com/aff.php?aff=11742
+[8]: http://bwh88.net/aff.php?aff=11742
+[9]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-10.jpeg
+[10]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-166.jpg
+[11]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-11.jpeg
+[12]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-170.jpg
+[13]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-12.jpeg
+[14]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-13.jpeg
+[15]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-14.jpeg
+[16]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-15.jpeg
+[17]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-48.png
+[18]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-16.jpeg
+[19]: https://www.wervps.com/goto/nhk3t9g
+[20]: https://flyzyblog.com/install-ss-ssr-bbr-in-one-command/
+[21]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-188.jpg
+[22]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-17.jpeg
+[23]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-18.jpeg
+[24]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-19.jpeg
+[25]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-20.jpeg
+[26]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-21.jpeg
+[27]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-22.jpeg
+[28]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-23.jpeg
+[29]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-24.jpeg
