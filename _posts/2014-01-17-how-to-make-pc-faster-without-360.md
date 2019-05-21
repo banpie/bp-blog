@@ -2,7 +2,7 @@
 ID: 91
 post_title: 如何简单地加速电脑启动速度
 post_name: how-to-make-pc-faster-without-360
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-17 01:17:39
 layout: post
 link: >
@@ -39,3 +39,6 @@ categories:
  [1]: http://www.banpie.info/wp-content/uploads/2018/11/20140117005949.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/20140117010209.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/60cbfabe-3161-4865-93ac-447a9c6392aa.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxMzUyNDMxNDddfQ==
+-->
