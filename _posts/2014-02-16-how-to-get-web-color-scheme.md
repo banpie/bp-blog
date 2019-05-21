@@ -2,7 +2,7 @@
 ID: 111
 post_title: 如何快速获取网站的配色方案
 post_name: how-to-get-web-color-scheme
-author: 半撇
+author: 半撇banpie
 post_date: 2014-02-16 10:44:27
 layout: post
 link: >
@@ -45,3 +45,6 @@ categories:
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/How-to-get-web-color-scheme-02.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/How-to-get-web-color-scheme-03.jpg
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/How-to-get-web-color-scheme-04.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTU5NjIzNjgxMl19
+-->
