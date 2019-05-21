@@ -3,7 +3,7 @@ ID: 377
 post_title: >
   20小时的YC创业课，到底讲了什么？
 post_name: how-to-start-a-startup
-author: 半撇
+author: 半撇banpie
 post_date: 2016-06-03 00:00:00
 layout: post
 link: >
@@ -637,3 +637,6 @@ Emmett：总体来说很正确。但有一点没有考虑到的是，学生群�
  [3]: http://www.36kr.com/p/213470.html
  [4]: http://www.36kr.com/p/212668.html
  [5]: http://blog.samaltman.com/employee-equity
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc4NjA3ODAxNl19
+-->
