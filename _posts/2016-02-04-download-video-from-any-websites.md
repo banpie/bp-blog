@@ -2,7 +2,7 @@
 ID: 194
 post_title: 如何下载任意网站的视频
 post_name: download-video-from-any-websites
-author: 半撇
+author: 半撇banpie
 post_date: 2016-02-04 00:00:00
 layout: post
 link: >
@@ -23,15 +23,18 @@ categories:
 
 在`Chrome`／`Firefox`浏览器的应用商店中搜索`Video Downloader Prefessioanl`，下载并安装。
 
-[<img class="alignnone size-full wp-image-2899" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-56.jpeg" width="1280" height="827" alt="" />][1]
+[<img class="alignnone size-full wp-image-281999" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-563/chrome-store.jpeg" width="1280" height="827" alt="" />][1]
 
 ## 3\. 下载网页视频
 
 在网页中播放视频的时候安装插件后，浏览器右上角`Video Downloader Prefessioanl`的图标会变成一个绿色的向下箭头标示，点击即可下载网页里的视频。
 
-![][2]
+![][21]
 
 > 如果遇到无法下载Youtube视频的情况，请直接上`Clipconverter`黏贴Yotube视频链接即可下载。
 
  [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-56.jpeg
  [2]: http://www.banpie.info/wp-content/uploads/2018/11/download-video-from-any-websites/video-downloader.jpeg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg4MjI4MjE5MF19
+-->
