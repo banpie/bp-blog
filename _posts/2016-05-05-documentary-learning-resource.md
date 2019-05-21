@@ -2,11 +2,11 @@
 ID: 203
 post_title: 纪录片学习资源推荐
 post_name: documentary-learning-resource
-author: 半撇
+author: 半撇banpie
 post_date: 2016-05-05 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/documentary-learning-resource/
+  https://www.banpie.info/documentary-learning-resource/
 published: true
 tags:
   - 故事
@@ -48,3 +48,6 @@ eyJoaXN0b3J5IjpbLTE2NTAxOTE5NjVdfQ==
  [10]: http://www.lynda.com/Video-tutorials/Lighting-Video-Interview/103708-2.html
  [11]: http://www.lynda.com/Final-Cut-Pro-tutorials/Documentary-Editing-Final-Cut-Pro-X-v101x/191333-2.html
  [12]: https://www.amazon.cn/Color-Correction-Handbook-Professional-Techniques-for-Video-and-Cinema-Van-Hurkman-Alexis/dp/0321929667/ref=sr_1_1?ie=UTF8&qid=1462439826&sr=8-1&keywords=Color+Correction+Handbook
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5OTM3NzI3MzBdfQ==
+-->
