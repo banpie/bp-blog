@@ -4,11 +4,11 @@ post_title: >
   如何利用Google
   Docs进行协同文档编辑？
 post_name: google-docs-online-editing
-author: 半撇banpie
+author: 半撇
 post_date: 2013-12-14 22:53:00
 layout: post
 link: >
-  https://www.banpie.info/google-docs-online-editing/
+  http://www.banpie.info/google-docs-online-editing/
 published: true
 tags:
   - 工具
@@ -71,13 +71,13 @@ categories:
 
 ### Google Docs在中国访问不稳定，怎么解决？
 
-> *   这个问题，可以参见我们的[如何利用Goagent进行科学上网][53]的教程链接。
+> *   这个问题，可以参见我们的[如何利用Goagent进行科学上网][4]的教程链接。
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2MDc5OTIwNDBdfQ==
+-->
 
  [1]: https://drive.google.com/
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-6.png
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-7.png
- [4]: ~/qq-snapchat.png
- [53]: http://www.banpie.info/how-to-use-goagent-to-science-online/
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc5OTIwNDBdfQ==
--->
+ [4]: http://www.banpie.info/how-to-use-goagent-to-science-online/
