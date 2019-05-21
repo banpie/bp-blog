@@ -3,7 +3,7 @@ ID: 176
 post_title: >
   如何用视频讲故事（一）：好故事的4P要素
 post_name: video-storytelling-4p
-author: 半撇
+author: 半撇banpie
 post_date: 2014-11-15 19:56:28
 layout: post
 link: >
@@ -64,3 +64,6 @@ Stillmotion的一系列的短片拍摄教程，应该算的是国内许多婚礼
  [5]: http://www.imfinethanksmovie.com/
  [6]: https://vimeo.com/58580161
  [7]: https://vimeo.com/55772166
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU4MDI2NjA0MV19
+-->
