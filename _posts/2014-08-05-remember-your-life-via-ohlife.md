@@ -2,7 +2,7 @@
 ID: 163
 post_title: 用最简单的方式记录你的人生
 post_name: remember-your-life-via-ohlife
-author: 半撇
+author: 半撇banpie
 post_date: 2014-08-05 14:11:48
 layout: post
 link: >
@@ -82,3 +82,6 @@ categories:
  [8]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/5.-review-and-export-your-life-story-in-ohlife-from-banpie.info_.jpg
  [9]: http://www.banpie.info/how-to-use-wiz-note-for-collaboration/ "如何做一次协同报道：从采集到共享"
  [10]: http://www.banpie.info/how-to-use-ifttt-to-automate-your-daily-life/ "如何让整个互联网都为你工作"
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIzNjQ1ODM0MV19
+-->
