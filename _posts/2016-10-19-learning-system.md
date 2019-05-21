@@ -3,10 +3,10 @@ ID: 332
 post_title: >
   普通人如何构建属于自己的学习系统
 post_name: learning-system
-author: 半撇banpie
+author: 半撇
 post_date: 2016-10-19 00:00:00
 layout: post
-link: https://www.banpie.info/learning-system/
+link: http://www.banpie.info/learning-system/
 published: true
 tags: [ ]
 categories:
@@ -78,9 +78,10 @@ eyJoaXN0b3J5IjpbLTE3NDg4OTkwMl19
 eyJoaXN0b3J5IjpbLTE0NTM4NzkxOTZdfQ==
 -->
 
- [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-138.png
- [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-366.jpg
- [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-139.png
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTYwNTUwNTkyOF19
 -->
+
+ [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-138.png
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-366.jpg
+ [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-139.png
