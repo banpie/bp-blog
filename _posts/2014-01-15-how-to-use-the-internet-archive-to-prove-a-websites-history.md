@@ -3,7 +3,7 @@ ID: 87
 post_title: 如何查看网站的历史页面
 post_name: >
   how-to-use-the-internet-archive-to-prove-a-websites-history
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-15 22:41:44
 layout: post
 link: >
@@ -43,3 +43,6 @@ categories:
  [2]: http://www.banpie.info/wp-content/uploads/2018/11/how-to-use-the-internet-archive-to-prove-a-websites-history-01.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-use-the-internet-archive-to-prove-a-websites-history-02.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-use-the-internet-archive-to-prove-a-websites-history-03.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxODE2NDIyN119
+-->
