@@ -3,7 +3,7 @@ ID: 122
 post_title: >
   如何利用Google实现语音转录文本
 post_name: how-to-use-google-web-speech-api
-author: 半撇
+author: 半撇banpie
 post_date: 2014-02-27 20:56:24
 layout: post
 link: >
@@ -33,27 +33,30 @@ categories:
 
 用手机Chrome浏览器访问：<http://t.cn/zjgwkHW>。
 
-[<img class="alignnone size-full wp-image-2503" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-108.jpg" width="620" height="952" alt="" />][1]
+[<img class="alignnone size-full wp-image-25031670" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1083/0-86.jpg" width="620" height="952" alt="" />][1]
 
 ## 2、选择录音语言
 
 点击输入框底部的「语言选择条」，在弹出的菜单中选择你的录音语言。
 
-[<img class="alignnone size-full wp-image-2504" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-109.jpg" width="620" height="475" alt="" />][2]
+[<img class="alignnone size-full wp-image-25041671" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1093/0-87.jpg" width="620" height="475" alt="" />][2]
 
 ## 3、对着手机麦克风说话
 
 点击输入框右侧的「麦克风」按钮，之后会在底部弹出黄色的「使用麦克风」确认对话框，点击确认后，对着麦克风说话即可。
 
-[<img class="alignnone size-full wp-image-2506" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-111.jpg" width="576" height="884" alt="" />][3]
+[<img class="alignnone size-full wp-image-25061672" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1113/0-88.jpg" width="576" height="884" alt="" />][3]
 
 ## 4、复制文本或发送邮件
 
 录音完毕后，再次点击输入框右侧的「麦克风」按钮，即可完成语音文本转录。此后，下方会出现两个按钮，点击「Copy and paste」后，在输入框中的文本即可进行复制，点击「Create Email」可直接创建一个带录音文本的邮件。
 
-[<img class="alignnone size-full wp-image-2507" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-112.jpg" width="620" height="476" alt="" />][4]
+[<img class="alignnone size-full wp-image-25071673" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1123/0-89.jpg" width="620" height="476" alt="" />][4]
 
  [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-108.jpg
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-109.jpg
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-111.jpg
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-112.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg0NDA4NTU3NV19
+-->
