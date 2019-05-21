@@ -2,7 +2,7 @@
 ID: 73
 post_title: 3个最常用的高级搜索技巧
 post_name: advanced-search-tips
-author: 半撇
+author: 半撇banpie
 post_date: 2013-12-24 12:22:30
 layout: post
 link: >
@@ -31,3 +31,6 @@ categories:
 **"关键词"**
 
 在字词前后分别加上中文或英文双引号，可精确搜索字序相同的词组。使用双引号进行搜索可能会排除一些相关的搜索结果，如键入“中国电视报”，在搜索结果中就不会出现与“广州电视报”相关的网页。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTIwNjM0OTY0OF19
+-->
