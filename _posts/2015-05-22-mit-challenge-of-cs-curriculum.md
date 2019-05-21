@@ -2,7 +2,7 @@
 ID: 187
 post_title: 挑战MIT：软件工程自学图谱
 post_name: mit-challenge-of-cs-curriculum
-author: 半撇
+author: 半撇banpie
 post_date: 2015-05-22 18:20:00
 layout: post
 link: >
@@ -12,6 +12,7 @@ tags:
   - 前端
   - 笔记
   - 学习图谱
+  - 前端
 categories:
   - 未分类
 ---
@@ -174,3 +175,6 @@ MIT计算机系的四年的本科课程的专业课表，具体课程的介绍�
  [16]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010
  [17]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012
  [18]: #jump
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY0MzgxNDI1Ml19
+-->
