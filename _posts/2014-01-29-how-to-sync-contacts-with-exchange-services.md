@@ -4,7 +4,7 @@ post_title: >
   如何用Exchange同步电脑和手机的联系人
 post_name: >
   how-to-sync-contacts-with-exchange-services
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-29 21:35:38
 layout: post
 link: >
@@ -65,3 +65,6 @@ categories:
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-sync-contacts-with-exchange-services-3.png
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-sync-contacts-with-exchange-services-4.png
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-sync-contacts-with-exchange-services-5.png
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ2OTYxNTc3OF19
+-->
