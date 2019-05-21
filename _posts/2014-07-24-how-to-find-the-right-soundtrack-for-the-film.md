@@ -3,7 +3,7 @@ ID: 161
 post_title: 如何优雅地为短片配乐
 post_name: >
   how-to-find-the-right-soundtrack-for-the-film
-author: 半撇
+author: 半撇banpie
 post_date: 2014-07-24 21:35:07
 layout: post
 link: >
@@ -73,3 +73,6 @@ http://v.youku.com/v_show/id_XNzQyNjk3Njg4.html
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/set-filters-on-marmosetmusic.com_.png
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/set-mood-for-your-video-story.png
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/download-soundtrack-on-marmosetmusic.com_.png
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzQ4ODkxOTJdfQ==
+-->
