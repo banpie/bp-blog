@@ -4,7 +4,7 @@ post_title: >
   如何在公交地铁上用好Pocket消磨时间
 post_name: >
   using-pocket-to-improve-your-reading-productivity
-author: 半撇
+author: 半撇banpie
 post_date: 2014-09-15 11:54:14
 layout: post
 link: >
@@ -75,3 +75,6 @@ categories:
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/readinginpokcet_thumb.png "reading in pokcet"
  [6]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/edittaginpokcet_thumb.png "edit tag in  pokcet"
  [7]: http://www.banpie.info/how-to-use-wiz-note-for-collaboration/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM3ODExNTA1NF19
+-->
