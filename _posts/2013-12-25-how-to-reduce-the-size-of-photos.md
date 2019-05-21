@@ -2,11 +2,11 @@
 ID: 74
 post_title: 免安装，3步迅速压缩图片大小
 post_name: how-to-reduce-the-size-of-photos
-author: 半撇banpie
+author: 半撇
 post_date: 2013-12-25 22:04:27
 layout: post
 link: >
-  https://www.banpie.info/how-to-reduce-the-size-of-photos/
+  http://www.banpie.info/how-to-reduce-the-size-of-photos/
 published: true
 tags: [ ]
 categories:
@@ -32,9 +32,10 @@ categories:
 
 [![adjust pic size][3]][3]
 
- [1]: http://www.banpie.info/wp-content/uploads/2018/11/right-click-picture.jpg
- [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/readjust.jpg
- [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/adjust-pic-size.jpg
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTYxMjY4NjM0Nl19
 -->
+
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/right-click-picture.jpg
+ [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/readjust.jpg
+ [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/adjust-pic-size.jpg
