@@ -4,11 +4,11 @@ post_title: >
   如何利用搜狗检索微信公众号文章
 post_name: >
   how-to-search-wechat-official-account-posts
-author: 半撇banpie
+author: 半撇
 post_date: 2014-06-28 17:22:47
 layout: post
 link: >
-  https://www.banpie.info/how-to-search-wechat-official-account-posts/
+  http://www.banpie.info/how-to-search-wechat-official-account-posts/
 published: true
 tags:
   - 微信
@@ -33,10 +33,11 @@ categories:
 
 你看，我在搜索栏中输入“‘1招见效’的健身APP”直接返回第76期的《手机上“1招见效”的健身APP》文章，看来还是真的很靠谱！
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzE1MzUyNjY1XX0=
+-->
+
  [1]: http://www.banpie.info/how-to-search-wechat-posts-on-desktop "如何在电脑上搜索微信公众平台文章"
  [2]: http://www.sogou.com
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-318.jpg
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-319.jpg
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1MzUyNjY1XX0=
--->
