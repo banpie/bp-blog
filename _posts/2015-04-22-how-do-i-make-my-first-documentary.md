@@ -2,7 +2,7 @@
 ID: 184
 post_title: 《我的钱鬼老母》创作手记
 post_name: how-do-i-make-my-first-documentary
-author: 半撇
+author: 半撇banpie
 post_date: 2015-04-22 22:54:38
 layout: post
 link: >
@@ -132,3 +132,6 @@ categories:
  [11]: http://www.lynda.com/Final-Cut-Pro-tutorials/Documentary-Editing-Final-Cut-Pro-X-v101x/191333-2.html
  [12]: http://www.lynda.com/Logic-Pro-tutorials/Mixing-Short-Film-Logic-Pro/111778-2.html
  [13]: http://www.lynda.com/Color-tutorials/Correction-in-Final-Cut-Pro-X/83097-2.html
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA0MjA0MTIwM119
+-->
