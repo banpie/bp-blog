@@ -4,15 +4,15 @@ post_title: >
   纯技术小白如何利用Coding
   Pages搭建免费WordPress站点
 post_name: build-wordpress-coding-net
-author: 半撇
+author: 半撇banpie
 post_date: 2018-03-07 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/build-wordpress-coding-net/
+  https://www.banpie.info/build-wordpress-coding-net/
 published: true
 tags: [ ]
 categories:
-  - 工具
+  - 工具神器
   - 技术
 ---
 著名的学习大神 Scott Young ，他曾提到一个细节：在学习一个东西的时候，你能否用比喻的方式向一个 10 岁的小孩解释清楚？
@@ -104,3 +104,6 @@ Coding Pages！所以本文分享的就是利用 Coding Pages 实现 WordPress �
 总之，WordPress 的折腾空间是无限之大的。后台插件的丰富、社区支持的完善，可以说到现在，几乎可以实现我平常工作中 95% 以上的内容管理需求。
 
 WordPress 的开始，也是折腾的开始，祝你愉快。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE0ODY0MzIzOV19
+-->
