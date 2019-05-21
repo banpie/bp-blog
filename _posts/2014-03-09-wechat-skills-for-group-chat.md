@@ -3,7 +3,7 @@ ID: 134
 post_title: >
   这么用微信最科学：微信群聊的小技巧
 post_name: wechat-skills-for-group-chat
-author: 半撇
+author: 半撇banpie
 post_date: 2014-03-09 12:44:10
 layout: post
 link: >
@@ -22,7 +22,7 @@ categories:
 
 只要长按TA的头像，微信对话框就会自动出现TA的名字了，输入你想对TA说的话之后，TA的微信就会弹出提示。
 
-[<img class="alignnone size-full wp-image-2614" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-187.jpg" width="620" height="472" alt="" />][1]
+[<img class="alignnone size-full wp-image-26141739" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1873/0-60.jpg" width="620" height="472" alt="" />][1]
 
 ## **2、微信群不见了，找的回来吗？**
 
@@ -30,14 +30,17 @@ categories:
 
 *   保存到通讯录：该微信群添加到通讯录里，彻底解决该现象的发生。
 
-[<img class="alignnone size-full wp-image-2616" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-189.jpg" width="620" height="455" alt="" />][2]
+[<img class="alignnone size-full wp-image-26161740" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1893/0-61.jpg" width="620" height="455" alt="" />][2]
 
 ## **3、说错话了，怎么办？**
 
 当你按住了微信的语音键录音后，但又不想发布的时候，按住录音的手指不要放开，向上滑动即可取消发送。
 
-[<img class="alignnone size-full wp-image-2617" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-190.jpg" width="620" height="454" alt="" />][3]
+[<img class="alignnone size-full wp-image-261741" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1903/0-62.jpg" width="620" height="454" alt="" />][3]
 
  [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-187.jpg
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-189.jpg
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-190.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk1ODg5NjI0Ml19
+-->
