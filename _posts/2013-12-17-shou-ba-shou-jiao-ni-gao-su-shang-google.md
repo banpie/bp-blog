@@ -3,11 +3,11 @@ ID: 68
 post_title: >
   如何利用修改Hosts文件高速使用Google服务
 post_name: shou-ba-shou-jiao-ni-gao-su-shang-google
-author: 半撇
+author: 半撇banpie
 post_date: 2013-12-17 22:27:16
 layout: post
 link: >
-  http://www.banpie.info/shou-ba-shou-jiao-ni-gao-su-shang-google/
+  https://www.banpie.info/shou-ba-shou-jiao-ni-gao-su-shang-google/
 published: true
 tags: [ ]
 categories:
@@ -55,3 +55,6 @@ eyJoaXN0b3J5IjpbOTIwMzA4Mjk2XX0=
  [6]: http://www.banpie.info/wp-content/uploads/2013/12/smartladder.googlecode.com-svn-hosts-pc-hosts.png
  [7]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/hosts-paste.png
  [8]: https://mail.google.com
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTEyNDc2MDg3N119
+-->
