@@ -5,7 +5,7 @@ post_title: >
   Me：如何将优秀的网页设计融入到幻灯片中
 post_name: >
   how-to-incorporate-stylify-me-in-to-your-presentation-design
-author: 半撇
+author: 半撇banpie
 post_date: 2014-10-14 11:33:03
 layout: post
 link: >
@@ -59,3 +59,6 @@ categories:
  [10]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/10/Screenshotofchangingmastertheme.png
  [11]: http://www.uisdc.com/6-rules-webdesign-color
  [12]: http://www.uisdc.com/make-photo-professional
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ4MzMyOTU1N119
+-->
