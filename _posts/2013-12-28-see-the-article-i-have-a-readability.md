@@ -3,7 +3,7 @@ ID: 76
 post_title: >
   Readability：快速优化网页阅读体验
 post_name: see-the-article-i-have-a-readability
-author: 半撇
+author: 半撇banpie
 post_date: 2013-12-28 12:52:38
 layout: post
 link: >
@@ -43,3 +43,6 @@ categories:
  [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/20131228123934.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/20131228124520.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/bigewww.banpie.info_.png
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NjkxNDkwNjddfQ==
+-->
