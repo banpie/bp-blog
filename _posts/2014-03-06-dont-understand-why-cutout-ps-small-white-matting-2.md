@@ -3,11 +3,11 @@ ID: 126
 post_title: 不懂PS咋抠图—小白抠图法(2)
 post_name: >
   dont-understand-why-cutout-ps-small-white-matting-2
-author: 半撇
+author: 半撇banpie
 post_date: 2014-03-06 17:51:33
 layout: post
 link: >
-  http://www.banpie.info/dont-understand-why-cutout-ps-small-white-matting-2/
+  https://www.banpie.info/dont-understand-why-cutout-ps-small-white-matting-2/
 published: true
 tags: [ ]
 categories:
@@ -84,3 +84,6 @@ eyJoaXN0b3J5IjpbMTc2OTczMTQyMV19
  [5]: http://www.banpie.info/wp-content/uploads/2014/03/How-to-clip-photos-05.jpg
  [6]: http://www.banpie.info/wp-content/uploads/2014/03/How-to-clip-photos-06.jpg
  [7]: http://www.banpie.info/wp-content/uploads/2014/03/How-to-clip-photos-07.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc4MzUxOTU4XX0=
+-->
