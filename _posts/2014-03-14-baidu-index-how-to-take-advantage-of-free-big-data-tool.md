@@ -4,7 +4,7 @@ post_title: >
   百度指数：如何利用免费的数据挖掘工具
 post_name: >
   baidu-index-how-to-take-advantage-of-free-big-data-tool
-author: 半撇
+author: 半撇banpie
 post_date: 2014-03-14 23:26:52
 layout: post
 link: >
@@ -32,7 +32,7 @@ categories:
 
 在浏览器中输入「www.index.baidu.com」-> 在搜索框中输入你想查看的关键字，比如：蓝月亮 ->点击「查看指数」即可。
 
-[<img class="alignnone size-full wp-image-2624" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-49.png" width="620" height="213" alt="" />][1]
+[<img class="alignnone size-full wp-image-26241746" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-493/0-21.png" width="620" height="213" alt="" />][1]
 
 ## **2、从需求分布看聚焦点**
 
@@ -40,14 +40,17 @@ categories:
 
 比如，你可以查看到，在2014-03-05至2014-03-11期间，作为最大的聚焦点“管理系统”关注度有所下降，但是第三大聚焦点“校园招聘”关注度正在上升。（如果你想对比一下不同品牌的校园招聘关注度，可以搜索下“校园招聘”的百度指数）
 
-[<img class="alignnone size-full wp-image-2625" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-50.png" width="620" height="315" alt="" />][2]
+[<img class="alignnone size-full wp-image-26251747" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-503/0-22.png" width="620" height="315" alt="" />][2]
 
 ## **3、从热门搜索看相关点**
 
-再看到下面的「热门搜索」分布图，你可以在看到第三行看到“威露士”这个品牌，这个就是蓝月亮的同类竞争品。再比如，你想了解一下有没其他像百度指数一样的免费数据挖掘工具，你也会在这里看到“淘宝指数”这个关键词。（之后课程也会讲如何用“淘宝指数”做产业分析）[<img class="alignnone size-full wp-image-2627" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-51.png" width="620" height="267" alt="" />][3]
+再看到下面的「热门搜索」分布图，你可以在看到第三行看到“威露士”这个品牌，这个就是蓝月亮的同类竞争品。再比如，你想了解一下有没其他像百度指数一样的免费数据挖掘工具，你也会在这里看到“淘宝指数”这个关键词。（之后课程也会讲如何用“淘宝指数”做产业分析）[<img class="alignnone size-full wp-image-26271748" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-513/0-23.png" width="620" height="267" alt="" />][3]
 
-[<img class="alignnone size-full wp-image-2627" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-51.png" width="620" height="267" alt="" />][3]
+[<img class="alignnone size-full wp-image-26271748" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-513/0-23.png" width="620" height="267" alt="" />][3]
 
  [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-49.png
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-50.png
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-51.png
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTgyNjA1NzE4M119
+-->
