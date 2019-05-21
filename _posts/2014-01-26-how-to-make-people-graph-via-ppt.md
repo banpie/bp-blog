@@ -2,7 +2,7 @@
 ID: 99
 post_title: 如何用PPT做信息图之条条图
 post_name: how-to-make-people-graph-via-ppt
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-26 10:54:07
 layout: post
 link: >
@@ -74,3 +74,6 @@ categories:
  [11]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-make-people-graph-via-ppt-08.png
  [12]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-make-people-graph-via-ppt-09.png
  [13]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-make-people-graph-via-ppt-10.png
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTMxNzg4MTMyXX0=
+-->
