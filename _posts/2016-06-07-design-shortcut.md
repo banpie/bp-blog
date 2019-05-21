@@ -2,7 +2,7 @@
 ID: 212
 post_title: 4种简洁的PPT设计套路
 post_name: design-shortcut
-author: 半撇
+author: 半撇banpie
 post_date: 2016-06-07 00:00:00
 layout: post
 link: https://www.banpie.info/design-shortcut/
@@ -25,25 +25,25 @@ categories:
 
 如果图片整体偏暗，字体使用亮色来突出。
 
-[<img class="alignnone size-full wp-image-2947" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-60.jpeg" width="1280" height="720" alt="" />][1]
+[<img class="alignnone size-full wp-image-2947051" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-603/color.001.jpeg" width="1280" height="720" alt="" />][1]
 
 ## 2\. 亮图配暗字
 
 相反如果图片整体偏亮，字体则使用暗色来突出。
 
-[<img class="alignnone size-full wp-image-2948" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-61.jpeg" width="1280" height="720" alt="" />][2]
+[<img class="alignnone size-full wp-image-2948052" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-613/color.002.jpeg" width="1280" height="720" alt="" />][2]
 
 ## 3\. 杂图加色块
 
 图片图片的颜色太多，添加一个半透明的色块，然后把文字放在上面。
 
-[<img class="alignnone size-full wp-image-2949" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-62.jpeg" width="1280" height="720" alt="" />][3]
+[<img class="alignnone size-full wp-image-2949053" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-623/color.003.jpeg" width="1280" height="720" alt="" />][3]
 
 ## 4\. 更杂模糊掉
 
 如果图片的元素非常杂，那么放到图片编辑文件中加一个“高斯模糊”的滤镜，然后再配上文字。
 
-[<img class="alignnone size-full wp-image-2950" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-63.jpeg" width="1280" height="720" alt="" />][4]
+[<img class="alignnone size-full wp-image-2950054" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-633/color.004.jpeg" width="1280" height="720" alt="" />][4]
 
 ## Bonus
 
@@ -56,3 +56,6 @@ categories:
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-61.jpeg
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-62.jpeg
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-63.jpeg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDQyNTQzMjk4XX0=
+-->
