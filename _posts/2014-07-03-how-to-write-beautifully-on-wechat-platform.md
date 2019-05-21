@@ -4,7 +4,7 @@ post_title: >
   如何利用Markdown排版微信公众号文章
 post_name: >
   how-to-write-beautifully-on-wechat-platform
-author: 半撇
+author: 半撇banpie
 post_date: 2014-07-03 09:36:00
 layout: post
 link: >
@@ -36,7 +36,7 @@ Markdown Here 自定义CSS代码传送门**：**<a href="https://link.zhihu.com/
 
 **3\.1 公众号排版设计规范**
 
-[<img class="alignnone size-full wp-image-2883" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-328.jpg" width="720" height="406" alt="img" />][1]
+[<img class="alignnone size-full wp-image-28831969" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3283/v2-ac10e8187ffc8a532b8612d0017467ce_hd.jpg" width="720" height="406" alt="img" />][1]
 
 **3\.2 Markdown 语法基础**
 
@@ -63,11 +63,11 @@ Markdown简洁的语法代替排版，而不像一般我们用的字处理软件
 
 *   **标题**：对于文章的标题1、标题2，你只需要在文字前面加上对应数量的#号，Markdown会自动渲染出格式。
 
-[<img class="alignnone size-full wp-image-2884" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-329.jpg" width="521" height="336" alt="img" />][2]
+[<img class="alignnone size-full wp-image-28841970" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3293/ef84d14fc5dab40b967a477e1f001def_hd.jpg" width="521" height="336" alt="img" />][2]
 
 *   **列表**：在 Markdown 下，列表的显示只需要在文字前加上 - 或 * 即可变为无序列表，有序列表则直接在文字前加1. 2. 3.符号，再在符合和文字之间加上一个字符的空格即可。
 
-[<img class="alignnone size-full wp-image-2885" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-330.jpg" width="476" height="431" alt="img" />][3]
+[<img class="alignnone size-full wp-image-28851971" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3303/2018-11-21-123438.jpg" width="476" height="431" alt="img" />][3]
 
 *   **引用**：如果你需要引用一小段别处的句子，那么就要用引用的格式。你只需要在引用的文本前面加上一个 > 和空格即可，例如：
 
@@ -77,19 +77,19 @@ Markdown简洁的语法代替排版，而不像一般我们用的字处理软件
 
 *   在Chrome上安装<a href="https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa" rel="noopener noreferrer">markdown here</a>插件
 
-[<img class="alignnone size-full wp-image-2886" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-331.jpg" width="720" height="390" alt="img" />][4]
+[<img class="alignnone size-full wp-image-28861972" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3313/2018-11-21-123430.jpg" width="720" height="390" alt="img" />][4]
 
-*   在微信公众后台使用Markdown语言写作 [<img class="alignnone size-full wp-image-2887" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-332.jpg" width="720" height="489" alt="img" />][5]
+*   在微信公众后台使用Markdown语言写作 [<img class="alignnone size-full wp-image-28871973" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3323/2018-11-21-123436.jpg" width="720" height="489" alt="img" />][5]
 
 *   按住快捷键Ctrl+Alt+M，对Markdown文章进行渲染
 
-[<img class="alignnone size-full wp-image-2888" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-333.jpg" width="720" height="465" alt="img" />][6]
+[<img class="alignnone size-full wp-image-28881974" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3333/2018-11-21-123429.jpg" width="720" height="465" alt="img" />][6]
 
 至此，什么引用符号、标题样式、分割符、代码栏等样式就一一具备了。拿去得瑟吧！
 
 ## 写在后面
 
-*   如果你不太喜欢Markdown 的排版方式，还是偏好使用第三方编辑器进行排版，我推荐你阅读这一篇文章：《[四大主流微信编辑器完全对比指南][7]》
+*   如果你不太喜欢Markdown 的排版方式，还是偏好使用第三方编辑器进行排版，我推荐你阅读这一篇文章：《[四大主流微信编辑器完全对比指南][71]》
 *   排版只是新媒体运营最为基础的部分，如果你考虑想要转行新媒体运营或者数字营销岗位，这里是我自己制作的免费课程：《<a href="https://link.zhihu.com/?target=http%3A//learn.bpteach.com/course/100%3Futm_source%3Dzhihu.com%26utm_medium%3Dreferral%26utm_campaign%3Dmkg102-bp%26utm_term%3Dwechatlayout" rel="noopener noreferrer">新媒体自习室</a>》
 
 ## **更新日志：**
@@ -106,3 +106,6 @@ Markdown简洁的语法代替排版，而不像一般我们用的字处理软件
  [5]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-332.jpg
  [6]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-333.jpg
  [7]: https://www.zhihu.com/question/30770510/answer/465749675
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc5MTE0MzM1MV19
+-->
