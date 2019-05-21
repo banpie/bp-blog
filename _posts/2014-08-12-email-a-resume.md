@@ -2,7 +2,7 @@
 ID: 164
 post_title: 如何优雅地投递简历
 post_name: email-a-resume
-author: 半撇
+author: 半撇banpie
 post_date: 2014-08-12 10:05:38
 layout: post
 link: https://www.banpie.info/email-a-resume/
@@ -85,3 +85,6 @@ categories:
  [10]: http://www.banpie.info/mailpin-from-now-on-no-longer-have-a-mass-email/
  [11]: http://www.banpie.info/how-to-hellosign-to-implement-electronic-signatures/
  [12]: http://www.banpie.info/yue-hou-ji-fen-yi-ci-xing-de-dian-zi-you-xiang/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM3MTYyNDEzNV19
+-->
