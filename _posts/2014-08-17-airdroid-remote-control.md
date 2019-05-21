@@ -3,11 +3,11 @@ ID: 165
 post_title: >
   如何通过浏览器远程控制你的Android手机
 post_name: airdroid-remote-control
-author: 半撇banpie
+author: 半撇
 post_date: 2014-08-17 17:43:20
 layout: post
 link: >
-  https://www.banpie.info/airdroid-remote-control/
+  http://www.banpie.info/airdroid-remote-control/
 published: true
 tags: [ ]
 categories:
@@ -61,6 +61,10 @@ categories:
 
 更多关于远程控制的教程，你还可以查看[伟仔][16]的[如何用手机远程操控家里的电脑][17]。
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0NDc5NDMxNjVdfQ==
+-->
+
  [1]: http://www.banpie.info/tag/Android
  [2]: http://www.banpie.info/tag/app/
  [3]: http://www.banpie.info/tag/wifi
@@ -78,6 +82,3 @@ categories:
  [15]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/remotelytakingpicsviaandroid.jpg
  [16]: http://www.banpie.info/author/ybw1990/
  [17]: http://www.banpie.info/splashtop-remote-control/
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDc5NDMxNjVdfQ==
--->
