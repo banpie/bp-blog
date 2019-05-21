@@ -4,7 +4,7 @@ post_title: >
   Axure
   RP：$589的产品利器对学生党免费！
 post_name: axure-rp-educational-free-license
-author: 半撇
+author: 半撇banpie
 post_date: 2014-12-15 23:07:25
 layout: post
 link: >
@@ -58,3 +58,6 @@ categories:
  [13]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/12/Watch-the-Online-Video-Course-UX-Design-Tools-Axure.png
  [14]: http://www.lynda.com/Prototyping-training-tutorials/95-0.html
  [15]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/12/lynda-ux-prototying-488x600.png
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQxMDU2MTI5NF19
+-->
