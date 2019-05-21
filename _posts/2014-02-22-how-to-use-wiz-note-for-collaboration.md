@@ -3,11 +3,11 @@ ID: 118
 post_title: >
   如何做一次协同报道：从采集到共享
 post_name: how-to-use-wiz-note-for-collaboration
-author: 半撇
+author: 半撇banpie
 post_date: 2014-02-22 17:02:17
 layout: post
 link: >
-  http://www.banpie.info/how-to-use-wiz-note-for-collaboration/
+  https://www.banpie.info/how-to-use-wiz-note-for-collaboration/
 published: true
 tags: [ ]
 categories:
@@ -58,3 +58,6 @@ eyJoaXN0b3J5IjpbLTIwMzQwNzQyMjhdfQ==
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-77.jpg
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-78.jpg
  [5]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-34.png
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDEyMzA2ODI2XX0=
+-->
