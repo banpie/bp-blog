@@ -2,7 +2,7 @@
 ID: 80
 post_title: 如何在浏览器内搜索最省时
 post_name: time-saving-chrome-search-tricks
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-06 22:10:35
 layout: post
 link: >
@@ -34,3 +34,6 @@ categories:
 
  [1]: http://www.banpie.info/wp-content/uploads/2018/11/20140106220642.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/20140106220707.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5MjY1NzI2MThdfQ==
+-->
