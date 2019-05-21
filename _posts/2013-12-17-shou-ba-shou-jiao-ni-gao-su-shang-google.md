@@ -3,11 +3,11 @@ ID: 68
 post_title: >
   如何利用修改Hosts文件高速使用Google服务
 post_name: shou-ba-shou-jiao-ni-gao-su-shang-google
-author: 半撇banpie
+author: 半撇
 post_date: 2013-12-17 22:27:16
 layout: post
 link: >
-  https://www.banpie.info/shou-ba-shou-jiao-ni-gao-su-shang-google/
+  http://www.banpie.info/shou-ba-shou-jiao-ni-gao-su-shang-google/
 published: true
 tags: [ ]
 categories:
@@ -43,6 +43,10 @@ Hosts这个神秘兮兮的文件其实就藏在你电脑的C盘里，按照这�
 
 恭喜你，现在就可以高速畅游Google啦！你可以试一试这个[链接][8]，看看你的Gmail打开是不是很快啊？
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTIwMzA4Mjk2XX0=
+-->
+
  [1]: http://opengg.me/613/generate-hosts-for-google/
  [2]: http://www.banpie.info/how-to-use-goagent-to-science-online/ "如何利用Goagent进行科学上网"
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/hosts.png
@@ -51,6 +55,3 @@ Hosts这个神秘兮兮的文件其实就藏在你电脑的C盘里，按照这�
  [6]: http://www.banpie.info/wp-content/uploads/2013/12/smartladder.googlecode.com-svn-hosts-pc-hosts.png
  [7]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/hosts-paste.png
  [8]: https://mail.google.com
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwMzA4Mjk2XX0=
--->
