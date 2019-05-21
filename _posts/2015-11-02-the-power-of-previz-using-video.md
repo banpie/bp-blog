@@ -3,7 +3,7 @@ ID: 193
 post_title: >
   利用PreViz加速你短片拍摄的构思
 post_name: the-power-of-previz-using-video
-author: 半撇
+author: 半撇banpie
 post_date: 2015-11-02 19:56:28
 layout: post
 link: >
@@ -59,3 +59,6 @@ Sandwich经常做一些还没有正式投入制作的Demo视频，这种Demo版�
  [2]: https://www.youtube.com/watch?v=vZ2BopXCerI
  [3]: https://www.youtube.com/watch?v=eOUy98Y_AkY
  [4]: http://danehoward.com/project/previz/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTU0OTc1NDcyMV19
+-->
