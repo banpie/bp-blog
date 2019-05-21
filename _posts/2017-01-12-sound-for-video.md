@@ -2,7 +2,7 @@
 ID: 462
 post_title: 如何为视频选择完美的配乐
 post_name: sound-for-video
-author: 半撇
+author: 半撇banpie
 post_date: 2017-01-12 00:00:00
 layout: post
 link: https://www.banpie.info/sound-for-video/
@@ -56,3 +56,6 @@ categories:
 配乐具体应该如何去选择，只有动手自己在视频中去尝试才能体会。最后，我们也把自己平常使用的配乐打包分享出来，你可以关注公众号【半撇有道儿】，回复【配乐】即可获取。
 
  [1]: https://www.marmosetmusic.com/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyMTIzMjc3MThdfQ==
+-->
