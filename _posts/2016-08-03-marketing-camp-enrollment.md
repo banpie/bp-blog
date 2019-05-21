@@ -3,7 +3,7 @@ ID: 326
 post_title: >
   有「半」呢，怕什么路途遥远！
 post_name: marketing-camp-enrollment
-author: 半撇
+author: 半撇banpie
 post_date: 2016-08-03 00:00:00
 layout: post
 link: >
@@ -85,3 +85,6 @@ categories:
 > PS: 本文标题获轻松冥想0师授权改编，拜谢0师！
 
  [1]: http://learn.bpteach.com/classroom/3/introduction?utm_source=bpblog&utm_medium=textlink&utm_campaign=enrollnotice
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg0NTQyOTQzNF19
+-->
