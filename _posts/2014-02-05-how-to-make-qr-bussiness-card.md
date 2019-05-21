@@ -2,11 +2,11 @@
 ID: 104
 post_title: 如何制作二维码名片
 post_name: how-to-make-qr-bussiness-card
-author: 半撇banpie
+author: 半撇
 post_date: 2014-02-05 17:12:48
 layout: post
 link: >
-  https://www.banpie.info/how-to-make-qr-bussiness-card/
+  http://www.banpie.info/how-to-make-qr-bussiness-card/
 published: true
 tags: [ ]
 categories:
@@ -86,11 +86,12 @@ categories:
 
 [<img class="alignnone size-full wp-image-24231611" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-fil3/qr-code-45.jpeg" width="610" height="343" alt="" />][5]
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTA1MjY1MzgwXX0=
+-->
+
  [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file.jpeg
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1.jpeg
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-2.jpeg
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3.jpeg
  [5]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-4.jpeg
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1MjY1MzgwXX0=
--->
