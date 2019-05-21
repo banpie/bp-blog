@@ -3,7 +3,7 @@ ID: 166
 post_title: >
   零代码！Weebly的10分钟傻瓜式网站搭建之道
 post_name: build-sites-via-weebly
-author: 半撇
+author: 半撇banpie
 post_date: 2014-08-25 00:32:36
 layout: post
 link: >
@@ -122,3 +122,6 @@ categories:
  [23]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/dataanalysis_thumb.jpg "data analysis"
  [24]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/08/dataanalysis.jpg
  [25]: http://promotion.aliyun.com/act/aliyun/kjmedia/activity_3.html?ali_trackid=2:mm_13429164_7164438_24318027:1407557480_2k5_541541622#tocoupon
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ1NTA5MTA2XX0=
+-->
