@@ -4,11 +4,11 @@ post_title: >
   如何利用搜狗检索微信公众号文章
 post_name: >
   how-to-search-wechat-official-account-posts
-author: 半撇
+author: 半撇banpie
 post_date: 2014-06-28 17:22:47
 layout: post
 link: >
-  http://www.banpie.info/how-to-search-wechat-official-account-posts/
+  https://www.banpie.info/how-to-search-wechat-official-account-posts/
 published: true
 tags:
   - 微信
@@ -41,3 +41,6 @@ eyJoaXN0b3J5IjpbNzE1MzUyNjY1XX0=
  [2]: http://www.sogou.com
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-318.jpg
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-319.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTYzMTE3MjU5MF19
+-->
