@@ -3,11 +3,11 @@ ID: 181
 post_title: >
   如何用视频讲故事（三）：案例
 post_name: video-storytelling-casestudy
-author: 半撇banpie
+author: 半撇
 post_date: 2015-01-25 17:34:41
 layout: post
 link: >
-  https://www.banpie.info/video-storytelling-casestudy/
+  http://www.banpie.info/video-storytelling-casestudy/
 published: true
 tags:
   - 故事
@@ -73,11 +73,12 @@ categories:
 
 *   土豆：[Coava, a case study of storytelling][5]
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTcyMjk5MzY3NF19
+-->
+
  [1]: http://stillmotionblog.com/storytelling-challenge/
  [2]: http://stillmotionblog.com/storyboard-shotlist-gear/
  [3]: http://stillmotionblog.com/call-sheets/
  [4]: https://vimeo.com/64669074
  [5]: http://www.tudou.com/programs/view/Ij7UiWj4AGs/
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjk5MzY3NF19
--->
