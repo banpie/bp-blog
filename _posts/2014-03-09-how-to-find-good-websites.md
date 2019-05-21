@@ -3,7 +3,7 @@ ID: 132
 post_title: >
   编辑众包：如何发现优秀的网站
 post_name: how-to-find-good-websites
-author: 半撇
+author: 半撇banpie
 post_date: 2014-03-09 12:41:07
 layout: post
 link: >
@@ -35,19 +35,19 @@ categories:
 
 *   随时随地Stumble一下，无论你在刷微博还是人人
 
-[<img class="alignnone size-full wp-image-2606" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-181.jpg" width="620" height="481" alt="" />][1]
+[<img class="alignnone size-full wp-image-26061732" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1813/0-63.jpg" width="620" height="481" alt="" />][1]
 
 ## 2、设置你感兴趣的领域
 
 勾选你感兴趣的领域，Stumble就会据此为你推荐网站、文章、图片、以及视频。（我自己是选了Internet、Technology、Design等，推荐的站点都非常靠谱）
 
-[<img class="alignnone size-full wp-image-2607" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-182.jpg" width="620" height="400" alt="" />][2]
+[<img class="alignnone size-full wp-image-26071733" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1823/0-64.jpg" width="620" height="400" alt="" />][2]
 
 ## 3、Stumble一下
 
 点击页面上面的「stumble」按钮，StumbleUpon引擎将给你推荐一个你可能感兴趣的网站，如果你不喜欢，继续「stumble」（咦，怎么跑出个农村报的？此处为软广……）
 
-[<img class="alignnone size-full wp-image-2608" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-183.jpg" width="620" height="295" alt="" />][3]
+[<img class="alignnone size-full wp-image-26081734" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1833/0-65.jpg" width="620" height="295" alt="" />][3]
 
 ## 4、更多推荐
 
@@ -58,3 +58,6 @@ Stumble推荐的结果大多的英文的，但因使用人数多、算法优秀�
  [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-181.jpg
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-182.jpg
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-183.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTMyNjMwNzMxNV19
+-->
