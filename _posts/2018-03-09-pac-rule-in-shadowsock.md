@@ -3,11 +3,11 @@ ID: 418
 post_title: >
   翻墙进阶术：如何让你访问普通外网的速度快人一步
 post_name: pac-rule-in-shadowsock
-author: 半撇banpie
+author: 半撇
 post_date: 2018-03-09 00:00:00
 layout: post
 link: >
-  https://www.banpie.info/pac-rule-in-shadowsock/
+  http://www.banpie.info/pac-rule-in-shadowsock/
 published: true
 tags: [ ]
 categories:
@@ -60,12 +60,12 @@ categories:
 eyJoaXN0b3J5IjpbNTE2NzAwMzUwXX0=
 -->
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY4ODk0OTQxNl19
+-->
+
  [1]: https://www.banpie.info/shadowsocks-pac-gfw/
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-143.jpg
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-145.jpg
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-147.jpg
  [5]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-148.jpg
- [6]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-152.jpg [1]: https://www.banpie.info/shadowsocks-pac-gfw/
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODk0OTQxNl19
--->
