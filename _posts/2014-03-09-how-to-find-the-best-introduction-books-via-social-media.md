@@ -4,7 +4,7 @@ post_title: >
   如何迅速定位某个领域的最佳入门书籍
 post_name: >
   how-to-find-the-best-introduction-books-via-social-media
-author: 半撇
+author: 半撇banpie
 post_date: 2014-03-09 12:48:32
 layout: post
 link: >
@@ -56,3 +56,6 @@ categories:
 开这些课程的老师一般都会出一个叫“Syllabus”的东西（类似课程表），从里面能看到一些推荐阅读的书单。因为这些名校的老师都是各自所在领域的权威，他们推荐的书籍基本也是该领域内公认的重要的内容。
 
 Ps:前3条技巧对定位入门中文书籍比较实用，定位英文书籍出了第四条之外，还可通过Amazon书评、Google Books、或者像NY Times books 、Book Review Index这类渠道查找。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMzgzMTQ3MzldfQ==
+-->
