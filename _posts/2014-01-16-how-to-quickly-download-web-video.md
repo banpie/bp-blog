@@ -2,7 +2,7 @@
 ID: 88
 post_title: 如何快捷下载主流网站视频
 post_name: how-to-quickly-download-web-video
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-16 23:20:04
 layout: post
 link: >
@@ -45,3 +45,6 @@ categories:
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/21.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/41.jpg
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/51.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwNDM0NTcwMTZdfQ==
+-->
