@@ -2,7 +2,7 @@
 ID: 85
 post_title: 如何不倒腾就能加密各种文件
 post_name: the-most-efficient-way-to-encrypt-files
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-13 15:07:02
 layout: post
 link: >
@@ -44,3 +44,6 @@ Winrar、好压应该是两大最常用的压缩软件了吧？如果没有如�
  [2]: http://w.x.baidu.com/alading/anquan_soft_down_all/13643
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/The-Best-Ways-to-Encrypt-Files-01.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/The-Best-Ways-to-Encrypt-Files-02.png
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTgzNjU3MTU4XX0=
+-->
