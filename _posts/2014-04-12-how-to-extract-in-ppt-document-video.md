@@ -2,11 +2,11 @@
 ID: 145
 post_title: 如何提取PPT文档里的视频
 post_name: how-to-extract-in-ppt-document-video
-author: 半撇banpie
+author: 半撇
 post_date: 2014-04-12 17:41:00
 layout: post
 link: >
-  https://www.banpie.info/how-to-extract-in-ppt-document-video/
+  http://www.banpie.info/how-to-extract-in-ppt-document-video/
 published: true
 tags:
   - 演示
@@ -37,9 +37,10 @@ PPT文档被解压后，会自动在电脑生成一个同名的文件夹，PPT�
 
 最后，直接将『media』文件夹里头的视频文件拖动到你的存储目的地就大功告成啦！
 
- [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-80.png
- [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-242.jpg
- [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-243.jpg
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTg1NzMyMTcyNV19
 -->
+
+ [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-80.png
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-242.jpg
+ [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-243.jpg
