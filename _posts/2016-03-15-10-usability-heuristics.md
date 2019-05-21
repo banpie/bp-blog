@@ -3,11 +3,11 @@ ID: 201
 post_title: >
   一个令人尖叫的产品该有哪些动人的细节？
 post_name: 10-usability-heuristics
-author: 半撇
+author: 半撇banpie
 post_date: 2016-03-15 00:00:00
 layout: post
 link: >
-  http://www.banpie.info/10-usability-heuristics/
+  https://www.banpie.info/10-usability-heuristics/
 published: true
 tags: [ ]
 categories:
@@ -83,7 +83,7 @@ categories:
 
 > 图解：Adobe PS 的界面中，左边是普通用户最常用的工具按钮，点击按钮右下角弹出的菜单才是高级用户会使用的工具，通过这个虚弹出菜单，产品让高级的选项不会干扰到普通用户的使用。
 
-![][6]
+![][672]
 
 ### 8\. 美学和最简主义原则
 
@@ -91,7 +91,7 @@ categories:
 
 > 图解：上图是Sony 给Google TV 出的遥控器，作为观看辅助的遥控按键不仅细小还密密麻麻……；下图是Apple TV 的遥控器，3个大按钮搞定，简约帅气！
 
-[<img class="alignnone size-full wp-image-29021" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3493/8_minimalist.jpg" width="1280" height="1280" alt="" />][7]
+[<img class="alignnone size-full wp-image-29021" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3493/8_minimalist.jpg" width="1280" height="1280" alt="" />][78]
 
 ### 9\. **容错原则**
 
@@ -99,7 +99,7 @@ categories:
 
 > 图解：上图的404页面没有给出任何的问题解释；下图网易的404页面不进告知的“网页不存在的原因”，提供了返回首页的链接。
 
-[<img class="alignnone size-full wp-image-29022" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3503/9_404.jpg" width="1280" height="1280" alt="" />][8]
+[<img class="alignnone size-full wp-image-29022" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3503/9_404.jpg" width="1280" height="1280" alt="" />][89]
 
 ### 10\. 帮助和文档
 
@@ -113,11 +113,18 @@ categories:
 eyJoaXN0b3J5IjpbLTExNzQ5MTMyMTddfQ==
 -->
 
- [1]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/6_recognition.jpg
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/6_recognition9/04/unnamed-file-344.jpg
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-345.jpg
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-346.jpg
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-347.jpg
  [5]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-348.jpg
- [6]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/7_flexibility.jpg
- [7]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-349.jpg
- [8]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-350.jpg
+ [63]
+
+ [1]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/6_recognition.jpg
+ [72]: http://www.banpie.info/wp-content/uploads/2018/11/10-Usability-Heuristics/7_flexibility.jpg
+ [78]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-349.jpg
+ [89]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-350.jpg
+ [103]: https://www.nngroup.com/articles/ten-usability-heuristics/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI1MTEwMjI3NF19
+-->
