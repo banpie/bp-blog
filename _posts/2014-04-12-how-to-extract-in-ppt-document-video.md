@@ -2,11 +2,11 @@
 ID: 145
 post_title: 如何提取PPT文档里的视频
 post_name: how-to-extract-in-ppt-document-video
-author: 半撇
+author: 半撇banpie
 post_date: 2014-04-12 17:41:00
 layout: post
 link: >
-  http://www.banpie.info/how-to-extract-in-ppt-document-video/
+  https://www.banpie.info/how-to-extract-in-ppt-document-video/
 published: true
 tags:
   - 演示
@@ -44,3 +44,6 @@ eyJoaXN0b3J5IjpbMTg1NzMyMTcyNV19
  [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-80.png
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-242.jpg
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-243.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk1MDI5ODA4Nl19
+-->
