@@ -3,10 +3,10 @@ ID: 338
 post_title: >
   应该没人告诉你，邮箱可以这么用。
 post_name: email-trick
-author: 半撇banpie
+author: 半撇
 post_date: 2016-11-05 00:00:00
 layout: post
-link: https://www.banpie.info/email-trick/
+link: http://www.banpie.info/email-trick/
 published: true
 tags: [ ]
 categories:
@@ -62,7 +62,8 @@ categories:
 eyJoaXN0b3J5IjpbMTQzNDU2MDEzNF19
 -->
 
- [1]: ./assets/image/emailtrick.gif
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTY3MzAyNTczOF19
 -->
+
+ [1]: ./assets/image/emailtrick.gif
