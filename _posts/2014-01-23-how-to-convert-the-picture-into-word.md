@@ -3,7 +3,7 @@ ID: 95
 post_title: >
   如何利用Zamzar将图片转换为文字
 post_name: how-to-convert-the-picture-into-word
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-23 23:24:33
 layout: post
 link: >
@@ -49,3 +49,6 @@ categories:
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-convert-the-picture-into-word-03.png
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-convert-the-picture-into-word-04.png
  [6]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/55.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTIwNjgyMjU1Ml19
+-->
