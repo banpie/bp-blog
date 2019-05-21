@@ -2,7 +2,7 @@
 ID: 117
 post_title: 文件无法打开怎么办？
 post_name: file-could-not-be-opened-to-do
-author: 半撇
+author: 半撇banpie
 post_date: 2014-02-20 16:51:22
 layout: post
 link: >
@@ -47,3 +47,6 @@ categories:
  [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/how-to-use-freeopener-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/how-to-use-freeopener-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/how-to-use-freeopener-04.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODk2NDU1OTgwXX0=
+-->
