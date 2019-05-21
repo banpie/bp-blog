@@ -2,7 +2,7 @@
 ID: 175
 post_title: 关于关停半撇科技博客
 post_name: about-banpie-blog
-author: 半撇
+author: 半撇banpie
 post_date: 2014-11-14 00:00:00
 layout: post
 link: >
@@ -32,3 +32,6 @@ categories:
  [1]: http://www.zhouchuanji.net/
  [2]: http://www.hantang.com/
  [3]: http://www.rogerebert.com/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTgxMjI1MTI2XX0=
+-->
