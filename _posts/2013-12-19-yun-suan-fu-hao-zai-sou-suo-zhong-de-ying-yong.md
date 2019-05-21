@@ -3,7 +3,7 @@ ID: 70
 post_title: 加减乘除，搜索引擎大用处
 post_name: >
   yun-suan-fu-hao-zai-sou-suo-zhong-de-ying-yong
-author: 半撇
+author: 半撇banpie
 post_date: 2013-12-19 00:21:14
 layout: post
 link: >
@@ -32,3 +32,6 @@ categories:
 ## 4\.双引号（“”）的使用
 
 用双引号括起来的词表示要精确匹配，比如输入“电脑报”，则“电脑商情报”等信息就不会搜到。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjg4NDkyMjc1XX0=
+-->
