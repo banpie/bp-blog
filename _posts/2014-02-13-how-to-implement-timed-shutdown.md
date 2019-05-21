@@ -2,11 +2,11 @@
 ID: 109
 post_title: 如何实现定时关机
 post_name: how-to-implement-timed-shutdown
-author: 半撇
+author: 半撇banpie
 post_date: 2014-02-13 17:32:42
 layout: post
 link: >
-  http://www.banpie.info/how-to-implement-timed-shutdown/
+  https://www.banpie.info/how-to-implement-timed-shutdown/
 published: true
 tags: [ ]
 categories:
@@ -71,3 +71,6 @@ eyJoaXN0b3J5IjpbLTE2MDk1OTc5NjNdfQ==
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/How-to-Automatically-Shut-Down-Your-Computer-at-a-Specified-Time-03.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/How-to-Automatically-Shut-Down-Your-Computer-at-a-Specified-Time-04.jpg
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/How-to-Automatically-Shut-Down-Your-Computer-at-a-Specified-Time-05.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTkyNjc5ODI2OF19
+-->
