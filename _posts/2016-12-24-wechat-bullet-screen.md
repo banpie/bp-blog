@@ -3,7 +3,7 @@ ID: 475
 post_title: >
   如何快速实现公众号文章弹幕效果
 post_name: wechat-bullet-screen
-author: 半撇
+author: 半撇banpie
 post_date: 2016-12-24 00:00:00
 layout: post
 link: >
@@ -47,3 +47,6 @@ categories:
 增强内容呈现形式的方法还有很多，如果你也有好的案例和技巧，欢迎通过评论区告诉我。
 
  [1]: http://www.ipaiban.com/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk2NTA4NTQ1OV19
+-->
