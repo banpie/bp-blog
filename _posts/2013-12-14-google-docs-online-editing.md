@@ -4,7 +4,7 @@ post_title: >
   如何利用Google
   Docs进行协同文档编辑？
 post_name: google-docs-online-editing
-author: 半撇
+author: 半撇banpie
 post_date: 2013-12-14 22:53:00
 layout: post
 link: >
@@ -31,7 +31,7 @@ categories:
 
 登陆[Google Drive][1]官网，点击左上交的“**创建**”，新建一个Google Docs文档。
 
-[<img class="alignnone size-full wp-image-2345" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-6.png" width="620" height="287" alt="" />][2]
+[<img class="alignnone size-full wp-image-23451568" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-63/ceate-google-docs.png" width="620" height="287" alt="" />][2]
 
 ## 2、共享Google Docs文档
 
@@ -41,13 +41,13 @@ categories:
 
 *   你也可以直接点击“**共享并保存**”后，把生成的Google Docs在线文档链接通过QQ等方式发给你的团队伙伴；
 
-[<img class="alignnone size-full wp-image-2347" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-7.png" width="620" height="287" alt="" />][3]
+[<img class="alignnone size-full wp-image-23471569" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-73/share-google-docs1.png" width="620" height="287" alt="" />][3]
 
 ## 3、Google Docs在线协同编辑
 
 团队成员点击Google Docs文档链接进入后，他们就可以和你一起进行实时协同编辑了，你们可以通过或右上角的“讨论”按钮进行实时聊天！
 
-![][4]
+![][42]
 
 ## 4、Q&A：更多关于Google Docs……
 
@@ -71,10 +71,13 @@ categories:
 
 ### Google Docs在中国访问不稳定，怎么解决？
 
-> *   这个问题，可以参见我们的[如何利用Goagent进行科学上网][5]的教程链接。
+> *   这个问题，可以参见我们的[如何利用Goagent进行科学上网][53]的教程链接。
 
  [1]: https://drive.google.com/
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-6.png
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-7.png
  [4]: ~/qq-snapchat.png
- [5]: http://www.banpie.info/how-to-use-goagent-to-science-online/
+ [53]: http://www.banpie.info/how-to-use-goagent-to-science-online/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2MDc5OTIwNDBdfQ==
+-->
