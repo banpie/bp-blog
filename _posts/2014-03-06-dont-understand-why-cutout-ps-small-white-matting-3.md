@@ -3,7 +3,7 @@ ID: 127
 post_title: 不懂PS咋抠图—小白抠图法(3)
 post_name: >
   dont-understand-why-cutout-ps-small-white-matting-3
-author: 半撇
+author: 半撇banpie
 post_date: 2014-03-06 18:08:11
 layout: post
 link: >
@@ -11,7 +11,7 @@ link: >
 published: true
 tags: [ ]
 categories:
-  - 工具
+  - 工具神器
   - 设计
 ---
 本期是小白抠图法的最后一期了，回复**54**和**57**期查看Clipping Magic前2期基础抠图教程。 在抠图中有一个最让人头疼的问题：抠毛发，本期将介绍如何利用Clipping Magic把毛发从图片中抠出来。（适用于对于那些对比明显，背景色单一的图片，背景复杂的图片请选择「Photoshop」）
@@ -46,3 +46,6 @@ categories:
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/03/How-to-clip-photos-3-04.jpg
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/03/How-to-clip-photos-3-05.jpg
  [6]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/03/How-to-clip-photos-3-06.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE0Mzc4ODU1MV19
+-->
