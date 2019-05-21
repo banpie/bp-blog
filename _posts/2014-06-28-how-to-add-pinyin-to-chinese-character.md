@@ -2,11 +2,11 @@
 ID: 158
 post_title: 如何在Word中为汉字加读音
 post_name: how-to-add-pinyin-to-chinese-character
-author: 半撇
+author: 半撇banpie
 post_date: 2014-06-28 17:30:12
 layout: post
 link: >
-  http://www.banpie.info/how-to-add-pinyin-to-chinese-character/
+  https://www.banpie.info/how-to-add-pinyin-to-chinese-character/
 published: true
 tags: [ ]
 categories:
@@ -53,3 +53,6 @@ eyJoaXN0b3J5IjpbMTk2MTY0NjIyMF19
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-307.jpg
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-308.jpg
  [5]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-309.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQyNTAxMzcwXX0=
+-->
