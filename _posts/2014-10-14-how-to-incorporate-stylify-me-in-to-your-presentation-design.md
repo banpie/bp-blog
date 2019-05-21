@@ -5,11 +5,11 @@ post_title: >
   Me：如何将优秀的网页设计融入到幻灯片中
 post_name: >
   how-to-incorporate-stylify-me-in-to-your-presentation-design
-author: 半撇banpie
+author: 半撇
 post_date: 2014-10-14 11:33:03
 layout: post
 link: >
-  https://www.banpie.info/how-to-incorporate-stylify-me-in-to-your-presentation-design/
+  http://www.banpie.info/how-to-incorporate-stylify-me-in-to-your-presentation-design/
 published: true
 tags: [ ]
 categories:
@@ -47,6 +47,10 @@ categories:
 
 本文没有设计在网页设计中超链接的悬停，点击、点击后等设计效果的应用，你可以参见优设的“[网页设计中怎么都不会错的6条配色原则][11]”，此外，如果你想要学习利用图片快速排版的技巧，可以参见优设的[文章链接][12]。
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ4MzMyOTU1N119
+-->
+
  [1]: http://stylifyme.com/
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/how-to-get-web-color-scheme/ "如何快速获取网站的配色方案"
  [3]: http://webcolourdata.com/
@@ -59,6 +63,3 @@ categories:
  [10]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/10/Screenshotofchangingmastertheme.png
  [11]: http://www.uisdc.com/6-rules-webdesign-color
  [12]: http://www.uisdc.com/make-photo-professional
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzMyOTU1N119
--->
