@@ -2,7 +2,7 @@
 ID: 113
 post_title: 如何在线制作照片拼贴画
 post_name: how-to-make-online-photo-collage
-author: 半撇
+author: 半撇banpie
 post_date: 2014-02-18 14:42:38
 layout: post
 link: >
@@ -52,3 +52,6 @@ categories:
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/how-to-make-a-collage-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/how-to-make-a-collage-03.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/how-to-make-a-collage-04.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg3OTUwMTc1NF19
+-->
