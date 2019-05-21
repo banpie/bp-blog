@@ -4,11 +4,11 @@ post_title: >
   阅后即焚：“一次性”的电子邮箱
 post_name: >
   yue-hou-ji-fen-yi-ci-xing-de-dian-zi-you-xiang
-author: 半撇
+author: 半撇banpie
 post_date: 2013-12-18 22:23:10
 layout: post
 link: >
-  http://www.banpie.info/yue-hou-ji-fen-yi-ci-xing-de-dian-zi-you-xiang/
+  https://www.banpie.info/yue-hou-ji-fen-yi-ci-xing-de-dian-zi-you-xiang/
 published: true
 tags: [ ]
 categories:
@@ -40,3 +40,6 @@ eyJoaXN0b3J5IjpbLTIxMTQxNzQxMDZdfQ==
 
  [1]: http://www.banpie.info/wp-content/uploads/2018/11/gmail-url.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/20131218-input.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk0NzY0MTQ5M119
+-->
