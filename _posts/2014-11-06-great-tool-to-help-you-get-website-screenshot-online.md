@@ -4,7 +4,7 @@ post_title: >
   url2png：优秀的在线网页全屏截图工具
 post_name: >
   great-tool-to-help-you-get-website-screenshot-online
-author: 半撇
+author: 半撇banpie
 post_date: 2014-11-06 14:58:44
 layout: post
 link: >
@@ -46,3 +46,6 @@ categories:
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/11/URL2PNG-Screenshots-as-a-Service.png
  [6]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/11/url2png-save-as-png-file-600x471.png
  [7]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/11/url2png-save-as-png-file.png
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk2NjY3MzMwOV19
+-->
