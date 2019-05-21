@@ -2,7 +2,7 @@
 ID: 322
 post_title: 创业早期如何做用户调研？
 post_name: user-research
-author: 半撇
+author: 半撇banpie
 post_date: 2016-06-30 00:00:00
 layout: post
 link: https://www.banpie.info/user-research/
@@ -20,3 +20,6 @@ categories:
 正值南方3周年，我花了45元在万网买了域名，然后花了草图，下载了对应的素材，就用farbox＋七牛用差不多2个小时的时间搭建了一个展示站。
 
 我的合伙人从来没有建过网站，也不懂代码，但是她一直想要把我们本科的校友网络建立起来，然后她真的也花了6个小时的时间，就让那个看起来不那么成熟的网站上线了。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjMzMzczNTQwXX0=
+-->
