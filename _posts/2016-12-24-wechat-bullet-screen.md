@@ -3,11 +3,11 @@ ID: 475
 post_title: >
   如何快速实现公众号文章弹幕效果
 post_name: wechat-bullet-screen
-author: 半撇banpie
+author: 半撇
 post_date: 2016-12-24 00:00:00
 layout: post
 link: >
-  https://www.banpie.info/wechat-bullet-screen/
+  http://www.banpie.info/wechat-bullet-screen/
 published: true
 tags:
   - 弹幕
@@ -50,7 +50,8 @@ categories:
 eyJoaXN0b3J5IjpbMTk2NTA4NTQ1OV19
 -->
 
- [1]: http://www.ipaiban.com/
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQxMDE4NTM2Nl19
 -->
+
+ [1]: http://www.ipaiban.com/
