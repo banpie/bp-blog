@@ -2,7 +2,7 @@
 ID: 208
 post_title: 纪录片如何讲故事
 post_name: documentary-storytelling
-author: 半撇
+author: 半撇banpie
 post_date: 2016-05-08 00:00:00
 layout: post
 link: >
@@ -126,7 +126,7 @@ Levine正在为因事故失去双臂去争取赔偿的当事人辩护，他的�
 *   **Answer**：主角与困难经过重重斗争后，最终胜利／失败
 *   **Jab**：升华主题，表达目的
 
-[<img class="alignnone size-full wp-image-2931" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-58.jpeg" width="1280" height="720" alt="" />][1]
+[<img class="alignnone size-full wp-image-29031" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-583/人人都是纪录片导演.032.jpeg" width="1280" height="720" alt="" />][1]
 
 而具体到《我的钱鬼老母》这部片子中，我是这么安排这个故事结构的：
 
@@ -151,25 +151,25 @@ Levine正在为因事故失去双臂去争取赔偿的当事人辩护，他的�
 
 ### 3\.1 故事理论
 
-1.  罗伯特·麦基｜[《故事：材质、结构、风格和银幕剧作的原理》][2]
-2.  约瑟夫·坎贝尔 ｜[《千面英雄》][3]
-3.  罗伯特·西奥迪尼 ｜[《影响力》][4]
-4.  艾瑞里｜[《怪诞行为学:可预测的非理性》][5]
-5.  南希·杜瓦特｜[《沟通:用故事产生共鸣》][6]
+1.  罗伯特·麦基｜[《故事：材质、结构、风格和银幕剧作的原理》][21]
+2.  约瑟夫·坎贝尔 ｜[《千面英雄》][32]
+3.  罗伯特·西奥迪尼 ｜[《影响力》][43]
+4.  艾瑞里｜[《怪诞行为学:可预测的非理性》][54]
+5.  南希·杜瓦特｜[《沟通:用故事产生共鸣》][65]
 
 ### 3\.2 技术课程
 
-1.  摄像: Lynda.com | [Up and Running with DSLR Filmmaking][7] 
-2.  摄影： [《美国纽约摄影学院摄影教材（上下）》][8]
-3.  采访：Lynda.com | [Foundations of Video: Interviews][9]
-4.  录音：Wrightsville Beach Studios | [SOUND For Film And Television][10]
-5.  灯光：Lynda.com | [Lighting a Video Interview][11]
-6.  剪辑：Lynda.com | Lynda.com | [Documentary Editing with Final Cut Pro X][12]
-7.  调色：Alexis Van Hurkman ｜[《Color Correction Handbook: Professional Techniques for Video and Cinema》][13]
+1.  摄像: Lynda.com | [Up and Running with DSLR Filmmaking][76] 
+2.  摄影： [《美国纽约摄影学院摄影教材（上下）》][87]
+3.  采访：Lynda.com | [Foundations of Video: Interviews][98]
+4.  录音：Wrightsville Beach Studios | [SOUND For Film And Television][109]
+5.  灯光：Lynda.com | [Lighting a Video Interview][110]
+6.  剪辑：Lynda.com | Lynda.com | [Documentary Editing with Final Cut Pro X][121]
+7.  调色：Alexis Van Hurkman ｜[《Color Correction Handbook: Professional Techniques for Video and Cinema》][132]
 
 ### 3\.3 拉片
 
-拉片值得是要经常找一些优秀的纪录片（IDFA／金马／奥斯卡等获奖作品）中来分析结构；对于我学习意义最大的应该是“乡村教师”，因为无论从故事结构、画面或者主题，我都有许多地方可以模仿。我根据《故事》这本书的方法，写了一篇详细的“[乡村教师拉片笔记][14]”。
+拉片值得是要经常找一些优秀的纪录片（IDFA／金马／奥斯卡等获奖作品）中来分析结构；对于我学习意义最大的应该是“乡村教师”，因为无论从故事结构、画面或者主题，我都有许多地方可以模仿。我根据《故事》这本书的方法，写了一篇详细的“[乡村教师拉片笔记][143]”。
 
 ### 3\.4 分享
 
@@ -198,15 +198,18 @@ Levine正在为因事故失去双臂去争取赔偿的当事人辩护，他的�
 
  [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-58.jpeg
  [2]: https://www.amazon.cn/%E6%95%85%E4%BA%8B-%E6%9D%90%E8%B4%A8-%E7%BB%93%E6%9E%84-%E9%A3%8E%E6%A0%BC%E5%92%8C%E9%93%B6%E5%B9%95%E5%89%A7%E4%BD%9C%E7%9A%84%E5%8E%9F%E7%90%86-%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E9%BA%A6%E5%9F%BA/dp/B00NBT68SA/ref=sr_1_1?ie=UTF8&qid=1462438641&sr=8-1&keywords=%E6%95%85%E4%BA%8B
- [3]: https://www.amazon.cn/%E5%8D%83%E9%9D%A2%E8%8B%B1%E9%9B%84-%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94/dp/B01AN8SAY6/ref=sr_1_1?ie=UTF8&qid=1462438675&sr=8-1&keywords=%E5%8D%83%E9%9D%A2%E8%8B%B1%E9%9B%84
- [4]: https://www.amazon.cn/%E5%BD%B1%E5%93%8D%E5%8A%9B-%E7%BD%97%E4%BC%AF%E7%89%B9%E2%80%A2%E8%A5%BF%E5%A5%A5%E8%BF%AA%E5%B0%BC/dp/B005G20NEU/ref=sr_1_2?ie=UTF8&qid=1462438757&sr=8-2&keywords=%E5%BD%B1%E5%93%8D%E5%8A%9B
- [5]: https://www.amazon.cn/%E6%80%AA%E8%AF%9E%E8%A1%8C%E4%B8%BA%E5%AD%A6-%E5%8F%AF%E9%A2%84%E6%B5%8B%E7%9A%84%E9%9D%9E%E7%90%86%E6%80%A7-%E7%BE%8E-%E8%89%BE%E7%91%9E%E9%87%8C/dp/B00NIK2B56/ref=sr_1_1?ie=UTF8&qid=1462438831&sr=8-1&keywords=%E5%8F%AF%E9%A2%84%E6%B5%8B%E9%9D%9E%E7%90%86%E6%80%A7
- [6]: https://www.amazon.cn/%E6%B2%9F%E9%80%9A-%E7%94%A8%E6%95%85%E4%BA%8B%E4%BA%A7%E7%94%9F%E5%85%B1%E9%B8%A3-%E6%9D%9C%E7%93%A6%E7%89%B9/dp/B00C1LLOMO/ref=sr_1_1?ie=UTF8&qid=1462438917&sr=8-1&keywords=%E5%85%B1%E9%B8%A3
- [7]: http://www.lynda.com/Premiere-Pro-tutorials/Up-Running-DSLR-Filmmaking/105371-2.html
- [8]: https://www.amazon.cn/%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E6%91%84%E5%BD%B1%E5%AD%A6%E9%99%A2%E6%91%84%E5%BD%B1%E6%95%99%E6%9D%90-%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E6%91%84%E5%BD%B1%E5%AD%A6%E9%99%A2-%E8%AF%91%E8%80%85-%E4%B8%AD%E5%9B%BD%E6%91%84%E5%BD%B1%E5%87%BA%E7%89%88%E7%A4%BE/dp/B00NM6FCN4/ref=sr_1_3?ie=UTF8&qid=1462439298&sr=8-3&keywords=%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E6%91%84%E5%BD%B1%E5%AD%A6%E9%99%A2%E6%91%84%E5%BD%B1%E6%95%99%E6%9D%90
- [9]: http://www.lynda.com/Video-tutorials/Video-Interview-Techniques/104965-2.html
- [10]: http://www.tudou.com/programs/view/RWkRVR4HauE/?resourceId=0_06_02_99
- [11]: http://www.lynda.com/Video-tutorials/Lighting-Video-Interview/103708-2.html
- [12]: http://www.lynda.com/Final-Cut-Pro-tutorials/Documentary-Editing-Final-Cut-Pro-X-v101x/191333-2.html
- [13]: https://www.amazon.cn/Color-Correction-Handbook-Professional-Techniques-for-Video-and-Cinema-Van-Hurkman-Alexis/dp/0321929667/ref=sr_1_1?ie=UTF8&qid=1462439826&sr=8-1&keywords=Color+Correction+Handbook
- [14]: http://banpie.info/how-to-apply-hollywood-story-structure-to-mini-documentary/
+ [32]: https://www.amazon.cn/%E5%8D%83%E9%9D%A2%E8%8B%B1%E9%9B%84-%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94/dp/B01AN8SAY6/ref=sr_1_1?ie=UTF8&qid=1462438675&sr=8-1&keywords=%E5%8D%83%E9%9D%A2%E8%8B%B1%E9%9B%84
+ [43]: https://www.amazon.cn/%E5%BD%B1%E5%93%8D%E5%8A%9B-%E7%BD%97%E4%BC%AF%E7%89%B9%E2%80%A2%E8%A5%BF%E5%A5%A5%E8%BF%AA%E5%B0%BC/dp/B005G20NEU/ref=sr_1_2?ie=UTF8&qid=1462438757&sr=8-2&keywords=%E5%BD%B1%E5%93%8D%E5%8A%9B
+ [54]: https://www.amazon.cn/%E6%80%AA%E8%AF%9E%E8%A1%8C%E4%B8%BA%E5%AD%A6-%E5%8F%AF%E9%A2%84%E6%B5%8B%E7%9A%84%E9%9D%9E%E7%90%86%E6%80%A7-%E7%BE%8E-%E8%89%BE%E7%91%9E%E9%87%8C/dp/B00NIK2B56/ref=sr_1_1?ie=UTF8&qid=1462438831&sr=8-1&keywords=%E5%8F%AF%E9%A2%84%E6%B5%8B%E9%9D%9E%E7%90%86%E6%80%A7
+ [65]: https://www.amazon.cn/%E6%B2%9F%E9%80%9A-%E7%94%A8%E6%95%85%E4%BA%8B%E4%BA%A7%E7%94%9F%E5%85%B1%E9%B8%A3-%E6%9D%9C%E7%93%A6%E7%89%B9/dp/B00C1LLOMO/ref=sr_1_1?ie=UTF8&qid=1462438917&sr=8-1&keywords=%E5%85%B1%E9%B8%A3
+ [76]: http://www.lynda.com/Premiere-Pro-tutorials/Up-Running-DSLR-Filmmaking/105371-2.html
+ [87]: https://www.amazon.cn/%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E6%91%84%E5%BD%B1%E5%AD%A6%E9%99%A2%E6%91%84%E5%BD%B1%E6%95%99%E6%9D%90-%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E6%91%84%E5%BD%B1%E5%AD%A6%E9%99%A2-%E8%AF%91%E8%80%85-%E4%B8%AD%E5%9B%BD%E6%91%84%E5%BD%B1%E5%87%BA%E7%89%88%E7%A4%BE/dp/B00NM6FCN4/ref=sr_1_3?ie=UTF8&qid=1462439298&sr=8-3&keywords=%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E6%91%84%E5%BD%B1%E5%AD%A6%E9%99%A2%E6%91%84%E5%BD%B1%E6%95%99%E6%9D%90
+ [98]: http://www.lynda.com/Video-tutorials/Video-Interview-Techniques/104965-2.html
+ [109]: http://www.tudou.com/programs/view/RWkRVR4HauE/?resourceId=0_06_02_99
+ [110]: http://www.lynda.com/Video-tutorials/Lighting-Video-Interview/103708-2.html
+ [121]: http://www.lynda.com/Final-Cut-Pro-tutorials/Documentary-Editing-Final-Cut-Pro-X-v101x/191333-2.html
+ [132]: https://www.amazon.cn/Color-Correction-Handbook-Professional-Techniques-for-Video-and-Cinema-Van-Hurkman-Alexis/dp/0321929667/ref=sr_1_1?ie=UTF8&qid=1462439826&sr=8-1&keywords=Color+Correction+Handbook
+ [143]: http://banpie.info/how-to-apply-hollywood-story-structure-to-mini-documentary/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTAxNTg0NDE5XX0=
+-->
