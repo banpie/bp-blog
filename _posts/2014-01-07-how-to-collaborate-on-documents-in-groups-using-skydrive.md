@@ -4,7 +4,7 @@ post_title: >
   如何用Skydrive进行多人协同文档编辑
 post_name: >
   how-to-collaborate-on-documents-in-groups-using-skydrive
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-07 22:06:48
 layout: post
 link: >
@@ -60,3 +60,6 @@ Windows账号是以@outlook.com形式的邮箱地址，如果你还没有，点�
  [4]: http://www.banpie.info/wp-content/uploads/2018/11/20140107-how-to-collaborate-on-documents-in-groups-using-01skydrive.png
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/20140107-how-to-collaborate-on-documents-in-groups-using-skydrive-02.png
  [6]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/20140107-how-to-collaborate-on-documents-in-groups-using-skydrive-03.png
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTgzNTc0NTEzNF19
+-->
