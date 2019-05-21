@@ -4,7 +4,7 @@ post_title: >
   Google
   创业营销微课堂：如何构建品牌识别
 post_name: create-brand-identity
-author: 半撇
+author: 半撇banpie
 post_date: 2016-05-25 23:03:24
 layout: post
 link: >
@@ -82,3 +82,6 @@ categories:
 > 很多人问我为什麽加入，我还是非常认可公司的使命。我相信教育可以改变人生，同样我们也可以改变教育。
 
 所以，作为创业者你必须真正去实践你的品牌标示，而不是只是说一说。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc2NTQyNTRdfQ==
+-->
