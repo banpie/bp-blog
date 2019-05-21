@@ -3,7 +3,7 @@ ID: 461
 post_title: >
   你不知道的最佳新媒体写作工作流
 post_name: new-media-content-production-workflow
-author: 半撇
+author: 半撇banpie
 post_date: 2017-01-06 00:00:00
 layout: post
 link: >
@@ -73,3 +73,6 @@ categories:
 对了，新媒体自习室的Trello项目面板全部开源，你可以点击[阅读原文][1]查看链接。
 
  [1]: https://trello.com/b/Cadm1bLB
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg3MTExMjE0MF19
+-->
