@@ -2,10 +2,10 @@
 ID: 462
 post_title: 如何为视频选择完美的配乐
 post_name: sound-for-video
-author: 半撇
+author: 半撇banpie
 post_date: 2017-01-12 00:00:00
 layout: post
-link: http://www.banpie.info/sound-for-video/
+link: https://www.banpie.info/sound-for-video/
 published: true
 tags:
   - 配乐
@@ -60,3 +60,6 @@ eyJoaXN0b3J5IjpbLTEyMTIzMjc3MThdfQ==
 -->
 
  [1]: https://www.marmosetmusic.com/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY5ODE4NDQ5MF19
+-->
