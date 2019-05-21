@@ -3,11 +3,11 @@ ID: 122
 post_title: >
   如何利用Google实现语音转录文本
 post_name: how-to-use-google-web-speech-api
-author: 半撇
+author: 半撇banpie
 post_date: 2014-02-27 20:56:24
 layout: post
 link: >
-  http://www.banpie.info/how-to-use-google-web-speech-api/
+  https://www.banpie.info/how-to-use-google-web-speech-api/
 published: true
 tags: [ ]
 categories:
@@ -61,3 +61,6 @@ eyJoaXN0b3J5IjpbMTg0NDA4NTU3NV19
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-109.jpg
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-111.jpg
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-112.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3NzkzNDE1MTVdfQ==
+-->
