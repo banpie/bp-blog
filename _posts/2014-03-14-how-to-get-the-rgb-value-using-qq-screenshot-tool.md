@@ -4,11 +4,11 @@ post_title: >
   如何获取图片上某一点的颜色值
 post_name: >
   how-to-get-the-rgb-value-using-qq-screenshot-tool
-author: 半撇
+author: 半撇banpie
 post_date: 2014-03-14 23:31:18
 layout: post
 link: >
-  http://www.banpie.info/how-to-get-the-rgb-value-using-qq-screenshot-tool/
+  https://www.banpie.info/how-to-get-the-rgb-value-using-qq-screenshot-tool/
 published: true
 tags: [ ]
 categories:
@@ -40,3 +40,6 @@ eyJoaXN0b3J5IjpbLTE3MDk4MDgyOTddfQ==
 
  [1]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/03/how-to-get-the-rgb-value-using-qq-screenshot-tool-01.jpg
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-194.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMDg2OTQ2MTddfQ==
+-->
