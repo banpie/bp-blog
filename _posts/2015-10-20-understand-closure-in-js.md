@@ -2,11 +2,11 @@
 ID: 192
 post_title: 如何理解JS中闭包的概念
 post_name: understand-closure-in-js
-author: 半撇banpie
+author: 半撇
 post_date: 2015-10-20 14:17:00
 layout: post
 link: >
-  https://www.banpie.info/understand-closure-in-js/
+  http://www.banpie.info/understand-closure-in-js/
 published: true
 tags:
   - 开发
@@ -84,7 +84,6 @@ Javascript中的闭包是比较难的概念，本文截取部分自JavaScript面
     > inner();
     
 
-简而言之，**如果一个函数在其父函数返回之后，仍然可以留住对父级作用域的链接，相关的闭包就会创建起来**。
-<!--stackedit_data:
+简而言之，**如果一个函数在其父函数返回之后，仍然可以留住对父级作用域的链接，相关的闭包就会创建起来**。 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE5NjkyODAxOTFdfQ==
 -->
