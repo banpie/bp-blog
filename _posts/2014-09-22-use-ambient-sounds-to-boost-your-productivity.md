@@ -4,7 +4,7 @@ post_title: >
   寻找安静的力量：我的最佳白噪声写作伴侣
 post_name: >
   use-ambient-sounds-to-boost-your-productivity
-author: 半撇
+author: 半撇banpie
 post_date: 2014-09-22 11:07:21
 layout: post
 link: >
@@ -46,3 +46,6 @@ categories:
  [6]: http://jazzandrain.com/basic.html
  [7]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Birdsong.fm_thumb.jpg "Birdsong.fm"
  [8]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Birdsong.fm_.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODE0NjU4NjYxXX0=
+-->
