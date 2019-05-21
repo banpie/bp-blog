@@ -3,7 +3,7 @@ ID: 116
 post_title: >
   如何同步不同设备的浏览器标签
 post_name: how-to-synchronize-browser-tabs
-author: 半撇
+author: 半撇banpie
 post_date: 2014-02-20 11:21:39
 layout: post
 link: >
@@ -55,3 +55,6 @@ categories:
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/liu_lan_qi_tong_bu_biao_qian_04.jpg
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/liu_lan_qi_tong_bu_biao_qian_05.jpg
  [6]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/liu_lan_qi_tong_bu_biao_qian_06.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NzYyMDY0MjVdfQ==
+-->
