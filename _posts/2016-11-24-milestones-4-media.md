@@ -2,7 +2,7 @@
 ID: 340
 post_title: 半撇私塾里程集
 post_name: milestones-4-media
-author: 半撇
+author: 半撇banpie
 post_date: 2016-11-24 00:00:00
 layout: post
 link: >
@@ -36,3 +36,6 @@ Hey，铅笔道的小伙伴：
  [4]: http://learn.bpteach.com/group/3
  [5]: https://shimo.im/doc/r1iCZUIkup8UPtxW
  [6]: mailto:banpie@bpteach.com
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQwNjIyNzQ1Nl19
+-->
