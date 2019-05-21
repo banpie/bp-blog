@@ -2,7 +2,7 @@
 ID: 191
 post_title: GH4视频拍摄的最佳设置
 post_name: gh4-setup-for-filmmaking
-author: 半撇
+author: 半撇banpie
 post_date: 2015-09-29 10:20:36
 layout: post
 link: >
@@ -82,3 +82,6 @@ GH4 最新的固件2.4中已经加入了Vlog的配置，这一款强大的无反
 *   `Incandescent`: 钨丝灯
 *   `Custom White Balance (1-4)`: 可以利用18%的灰度卡保存多达4项的自定义白平衡设置
 *   `Manual White Balance`: 手动设置色温值
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTYzOTY5ODYzMl19
+-->
