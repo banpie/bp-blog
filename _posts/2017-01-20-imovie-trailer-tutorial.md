@@ -3,7 +3,7 @@ ID: 463
 post_title: >
   如何利用iPhone制作电影预告片级的短视频
 post_name: imovie-trailer-tutorial
-author: 半撇
+author: 半撇banpie
 post_date: 2017-01-20 00:00:00
 layout: post
 link: >
@@ -23,3 +23,6 @@ categories:
 具体的就看视频吧，时长07分26秒。
 
 软件基本的软件操作非常的简单，做起来也非常的快，但是为了更方便你们可以上手使用iMovie 预告模版进行拍摄，你可以下载对应“怀旧”和“超级英雄”2个主题的拍摄配套文件，微信公众号回复“**拍摄脚本**”即可获取。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU5NjQwMzQzNV19
+-->
