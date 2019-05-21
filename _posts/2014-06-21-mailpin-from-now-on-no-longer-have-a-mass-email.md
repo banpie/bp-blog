@@ -3,11 +3,11 @@ ID: 147
 post_title: 如何高效率地群发邮件
 post_name: >
   mailpin-from-now-on-no-longer-have-a-mass-email
-author: 半撇banpie
+author: 半撇
 post_date: 2014-06-21 18:25:40
 layout: post
 link: >
-  https://www.banpie.info/mailpin-from-now-on-no-longer-have-a-mass-email/
+  http://www.banpie.info/mailpin-from-now-on-no-longer-have-a-mass-email/
 published: true
 tags: [ ]
 categories:
@@ -37,11 +37,11 @@ categories:
 
 关于群发的技巧，半撇还有一篇如何用[微信给好友群发新年祝福][52]的课程，又需要可以查阅了解。
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3MjcwODEwOTNdfQ==
+-->
+
  [1]: http://mailp.in/
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-92.png
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-93.png
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-94.png
- [5]: http://www.banpie.info/how-to-send-group-texts-via-wechat/
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjcwODEwOTNdfQ==
--->
