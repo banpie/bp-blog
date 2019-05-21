@@ -2,7 +2,7 @@
 ID: 199
 post_title: 设计思维是什么
 post_name: what-is-design-thinking
-author: 半撇
+author: 半撇banpie
 post_date: 2016-03-01 00:00:00
 layout: post
 link: >
@@ -63,15 +63,15 @@ Stanford D.School 所倡导设计思维的原则加入了视觉化思考和社�
 
 说到这里，最后西班牙慈善机构是怎么设计这个海报的呢？这一名为“A Message Only For Children”的公益海报中，设计者运用透镜印刷技术，让只有身高低于135公分的孩童（10岁的平均身高）才能看见求救专线号码，而成年人只能从海报上看到一个受惊男孩的头像。
 
-[<img class="alignnone size-full wp-image-2902" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-110.png" width="600" height="322" alt="" />][1]
+[<img class="alignnone size-full wp-image-29002" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1103/1.png" width="600" height="322" alt="" />][1]
 
-[<img class="alignnone size-full wp-image-2903" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-111.png" width="600" height="337" alt="" />][2]
+[<img class="alignnone size-full wp-image-29003" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1113/2.png" width="600" height="337" alt="" />][2]
 
 孩童视角：一个受虐孩子的图片，文字：“如果你受到伤害，请拨打这个电话116 111，我们将帮助你。”
 
-[<img class="alignnone size-full wp-image-2904" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-340.jpg" width="600" height="886" alt="" />][3]
+[<img class="alignnone size-full wp-image-29004" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3403/3.jpg" width="600" height="886" alt="" />][3]
 
-成人视角：一个普通的孩子图片，文字为“有时候，只有受虐的人最清楚” [<img class="alignnone size-full wp-image-2905" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-341.jpg" width="600" height="886" alt="" />][4]
+成人视角：一个普通的孩子图片，文字为“有时候，只有受虐的人最清楚” [<img class="alignnone size-full wp-image-29005" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3413/4.jpg" width="600" height="886" alt="" />][4]
 
 有人说：判断一个国家的发达程度，就看他们如何对待弱势群体。所以，商业或者设计做到最后，大抵也如此吧。
 
@@ -79,13 +79,18 @@ Stanford D.School 所倡导设计思维的原则加入了视觉化思考和社�
 
 如果你需要更深入的学习Design Thinking，以下的材料不妨一试：
 
-*   [Coursera: Design Thinking for Bussiness Innovation][5] 
-*   [Venture Lab: Design Thinking Action Lab][5]
+*   [Coursera: Design Thinking for Bussiness Innovation][51] 
+*   [Venture Lab: Design Thinking Action Lab][51]
 *   [Book: Designing for Growth Tool Kit][6]
 
  [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-110.png
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-111.png
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-340.jpg
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-341.jpg
- [5]: https://novoed.com/designthinking
- [6]: http://www.amazon.com/Designing-Growth-Thinking-Managers-Publishing/dp/0231158386
+ [52]
+
+ [1]: https://novoed.com/designthinking
+ [62]: http://www.amazon.com/Designing-Growth-Thinking-Managers-Publishing/dp/0231158386
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTczNzE3NjE2XX0=
+-->
