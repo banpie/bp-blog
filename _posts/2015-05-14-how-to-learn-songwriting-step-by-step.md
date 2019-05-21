@@ -2,7 +2,7 @@
 ID: 186
 post_title: 作曲自学图谱
 post_name: how-to-learn-songwriting-step-by-step
-author: 半撇
+author: 半撇banpie
 post_date: 2015-05-14 09:40:00
 layout: post
 link: >
@@ -39,3 +39,6 @@ categories:
  [5]: http://book.douban.com/subject/5280377/
  [6]: http://book.douban.com/subject/5296349/
  [7]: https://book.douban.com/subject/5309021/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODY1OTM1NzQ5XX0=
+-->
