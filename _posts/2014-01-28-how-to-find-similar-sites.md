@@ -3,7 +3,7 @@ ID: 101
 post_title: >
   如何找到“类型差不多”的网站
 post_name: how-to-find-similar-sites
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-28 22:00:27
 layout: post
 link: >
@@ -38,3 +38,6 @@ categories:
  [1]: http://www.banpie.info/wp-content/uploads/2018/11/how-to-find-similar-sites-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-find-similar-sites-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-find-similar-sites-03.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM1MzI3NDk4Nl19
+-->
