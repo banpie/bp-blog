@@ -3,7 +3,7 @@ ID: 97
 post_title: 如何为PPT录制旁白
 post_name: >
   how-to-record-narration-for-a-powerpoint-presentation
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-25 19:42:34
 layout: post
 link: >
@@ -48,3 +48,6 @@ categories:
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/Talking-PPT-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/Talking-PPT-03.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/Talking-PPT-04.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU1Njc0ODMyNl19
+-->
