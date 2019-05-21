@@ -2,7 +2,7 @@
 ID: 120
 post_title: 如何将网页文章分享到微信
 post_name: how-to-share-web-content-to-wechat
-author: 半撇
+author: 半撇banpie
 post_date: 2014-02-23 22:22:56
 layout: post
 link: >
@@ -27,25 +27,25 @@ categories:
 
 在Chrome浏览器地址栏输入「http://t.cn/8FEmvJS」，或直接在应用商店中搜索「Smart QrCode Generator」，点击应用界面右上角的「免费」按钮进行安装。插件安装完成后，地址栏右侧会多出一个带「蓝色矩形」标志的按钮。
 
-[<img class="alignnone size-full wp-image-2480" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-87.jpg" width="620" height="383" alt="" />][1]
+[<img class="alignnone size-full wp-image-24801656" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-873/0-102.jpg" width="620" height="383" alt="" />][1]
 
 ## 2、生成目标网址的二维码
 
 在浏览器打开你想要分享的网页后，点击浏览器的地址栏右侧的「蓝色矩形」按钮，即刻生成当前网址二维码，如下图：
 
-[<img class="alignnone size-full wp-image-2482" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-89.jpg" width="620" height="282" alt="" />][2]
+[<img class="alignnone size-full wp-image-24821657" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-893/0-103.jpg" width="620" height="282" alt="" />][2]
 
 ## 3、打开微信的扫一扫功能
 
 打开微信手机客户端中的「扫一扫」功能，扫描屏幕上的二维码，成功后将自动在微信中打开此网页。
 
-[<img class="alignnone size-full wp-image-2484" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-91.jpg" width="620" height="1033" alt="" />][3]
+[<img class="alignnone size-full wp-image-24841658" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-913/0-105.jpg" width="620" height="1033" alt="" />][3]
 
 ## 4、将网页分享到朋友圈
 
 点击右上角的「…」按钮，即可选择「分享到朋友圈」或「发送给朋友」。
 
-[<img class="alignnone size-full wp-image-2486" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-93.jpg" width="620" height="1033" alt="" />][4]
+[<img class="alignnone size-full wp-image-24861659" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-933/0-107.jpg" width="620" height="1033" alt="" />][4]
 
 对了，如果你无法访问谷歌浏览器，点击文章左下角的阅读原文查看如何翻墙上Google。
 
@@ -53,3 +53,6 @@ categories:
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-89.jpg
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-91.jpg
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-93.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTcwNTI3NjEyXX0=
+-->
