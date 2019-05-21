@@ -2,7 +2,7 @@
 ID: 77
 post_title: 网页图片不能保存怎么办？
 post_name: how-to-save-pics-from-webpage
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-01 10:10:38
 layout: post
 link: >
@@ -49,3 +49,6 @@ Ps：只要有审查元素的浏览器都可以使用该方法，不限于Chrome
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/shenchayuansu_3.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/shenchayuansu_5.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/shenchayuansu_4.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwNTczODcyMTRdfQ==
+-->
