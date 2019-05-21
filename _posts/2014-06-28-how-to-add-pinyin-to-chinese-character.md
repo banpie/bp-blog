@@ -2,11 +2,11 @@
 ID: 158
 post_title: 如何在Word中为汉字加读音
 post_name: how-to-add-pinyin-to-chinese-character
-author: 半撇banpie
+author: 半撇
 post_date: 2014-06-28 17:30:12
 layout: post
 link: >
-  https://www.banpie.info/how-to-add-pinyin-to-chinese-character/
+  http://www.banpie.info/how-to-add-pinyin-to-chinese-character/
 published: true
 tags: [ ]
 categories:
@@ -44,11 +44,12 @@ categories:
 
 如果你的软件无法自动识别拼音的音节，很可能是你没有安装微软的拼音输入法（默认都是有的），装一个就ok了。
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk2MTY0NjIyMF19
+-->
+
  [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-104.png
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-306.jpg
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-307.jpg
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-308.jpg
  [5]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-309.jpg
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTY0NjIyMF19
--->
