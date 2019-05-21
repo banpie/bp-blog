@@ -3,11 +3,11 @@ ID: 126
 post_title: 不懂PS咋抠图—小白抠图法(2)
 post_name: >
   dont-understand-why-cutout-ps-small-white-matting-2
-author: 半撇banpie
+author: 半撇
 post_date: 2014-03-06 17:51:33
 layout: post
 link: >
-  https://www.banpie.info/dont-understand-why-cutout-ps-small-white-matting-2/
+  http://www.banpie.info/dont-understand-why-cutout-ps-small-white-matting-2/
 published: true
 tags: [ ]
 categories:
@@ -69,6 +69,10 @@ b. 拐角处加一笔：当Smooth值很高时，边缘线会很圆滑，从而�
 
 通过本期的学习你是不是感觉自己的抠图神功达到了一个更高的境界了呢？请继续关注《小白抠图法》下一篇更精彩。
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxNjE1Njg3NV19
+-->
+
  [1]: http://www.banpie.info/wp-content/uploads/2014/03/How-to-clip-photos-01.jpg
  [2]: http://www.banpie.info/wp-content/uploads/2014/03/How-to-clip-photos-02.jpg
  [3]: http://www.banpie.info/wp-content/uploads/2014/03/How-to-clip-photos-03.jpg
@@ -76,6 +80,3 @@ b. 拐角处加一笔：当Smooth值很高时，边缘线会很圆滑，从而�
  [5]: http://www.banpie.info/wp-content/uploads/2014/03/How-to-clip-photos-05.jpg
  [6]: http://www.banpie.info/wp-content/uploads/2014/03/How-to-clip-photos-06.jpg
  [7]: http://www.banpie.info/wp-content/uploads/2014/03/How-to-clip-photos-07.jpg
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjE1Njg3NV19
--->
