@@ -3,7 +3,7 @@ ID: 476
 post_title: >
   如何快速提升封面图片的设计感
 post_name: wechat-cover-design
-author: 半撇
+author: 半撇banpie
 post_date: 2016-12-29 00:00:00
 layout: post
 link: >
@@ -35,3 +35,6 @@ categories:
 至于强化文字，还可以使用背景色块+反色文字的方法来处，具体见视频吧。
 
 这就是这一期新媒体自习室的内容，如果你有什么想要知道的，你也可以在阅读原文的评论中留言告诉我。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYyMjA3NDA5N119
+-->
