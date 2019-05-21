@@ -3,7 +3,7 @@ ID: 119
 post_title: >
   时间管理（1）：我是如何做出一份科学的任务清单
 post_name: a-decent-list-of-tasks
-author: 半撇
+author: 半撇banpie
 post_date: 2014-02-23 11:05:28
 layout: post
 link: >
@@ -89,3 +89,6 @@ categories:
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/A-decent-list-of-tasks-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/A-decent-list-of-tasks-03.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/A-decent-list-of-tasks-04.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA1OTk2OTg4N119
+-->
