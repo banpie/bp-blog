@@ -4,7 +4,7 @@ post_title: >
   简单又快捷的电子化名片管理方式
 post_name: >
   how-t-organize-business-cards-easily-and-effectively
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-17 21:45:54
 layout: post
 link: >
@@ -59,3 +59,6 @@ categories:
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/13902500751.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/13898414782.jpg
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/13897354131.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIyNjI0MDk0MV19
+-->
