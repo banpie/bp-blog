@@ -4,7 +4,7 @@ post_title: >
   哼唱搜索：找到那些你叫不出名的歌
 post_name: >
   how-to-search-for-music-using-your-voice-by-singing-or-humming
-author: 半撇
+author: 半撇banpie
 post_date: 2014-02-15 14:13:09
 layout: post
 link: >
@@ -55,3 +55,6 @@ PS：音乐雷达的中英文歌曲识别能力都还可以，如果是偏门的
  [1]: http://www.banpie.info/wp-content/uploads/2018/11/Search-for-Music-Using-Your-Voice-by-Singing-or-Humming-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/Search-for-Music-Using-Your-Voice-by-Singing-or-Humming-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/Search-for-Music-Using-Your-Voice-by-Singing-or-Humming-03.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk3Mzk2MTY5XX0=
+-->
