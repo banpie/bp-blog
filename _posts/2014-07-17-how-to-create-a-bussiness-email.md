@@ -2,7 +2,7 @@
 ID: 160
 post_title: 如何锻造一个私人专属邮箱
 post_name: how-to-create-a-bussiness-email
-author: 半撇
+author: 半撇banpie
 post_date: 2014-07-17 14:52:38
 layout: post
 link: >
@@ -81,3 +81,6 @@ categories:
  [7]: http://www.exmail.qq.com/
  [8]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/add-account-in-qq-enterprise-mailbox.jpg
  [9]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/example-of-qq-enterprise-mailbox.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NTA3MzYwNDVdfQ==
+-->
