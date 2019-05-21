@@ -2,7 +2,7 @@
 ID: 183
 post_title: 吉他学习和弦表
 post_name: toolkit-for-guitar-learners
-author: 半撇
+author: 半撇banpie
 post_date: 2015-04-20 17:21:00
 layout: post
 link: >
@@ -172,3 +172,6 @@ categories:
     </tr>
   </tbody>
 </table>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjAxODEyNTM5MF19
+-->
