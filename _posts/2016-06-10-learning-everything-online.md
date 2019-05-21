@@ -2,7 +2,7 @@
 ID: 214
 post_title: TED 学霸指南
 post_name: learning-everything-online
-author: 半撇
+author: 半撇banpie
 post_date: 2016-06-10 00:00:00
 layout: post
 link: >
@@ -49,3 +49,6 @@ John Green 所讲的核心中，令我影响最深刻的还是关于寻找**学�
  [4]: https://www.youtube.com/user/Vihart
  [5]: https://www.reddit.com/r/AskHistorians
  [6]: https://www.tumblr.com/tagged/calculus
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk3NjgyMTQ0XX0=
+-->
