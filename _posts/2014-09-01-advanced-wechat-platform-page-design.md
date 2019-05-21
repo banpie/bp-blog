@@ -3,7 +3,7 @@ ID: 171
 post_title: >
   手把手教你微信排版的进阶之道
 post_name: advanced-wechat-platform-page-design
-author: 半撇
+author: 半撇banpie
 post_date: 2014-09-01 10:50:26
 layout: post
 link: >
@@ -60,3 +60,6 @@ categories:
  [10]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/addleftbordertotheparagraph.png
  [11]: http://www.banpie.info/how-to-search-wechat-posts-on-desktop/
  [12]: http://www.w3school.com.cn/css/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTU1ODQ2OTgwNF19
+-->
