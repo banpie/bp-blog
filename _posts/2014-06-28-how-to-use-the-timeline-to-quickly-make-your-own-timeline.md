@@ -4,7 +4,7 @@ post_title: >
   如何利用Timeline快速生成时间轴
 post_name: >
   how-to-use-the-timeline-to-quickly-make-your-own-timeline
-author: 半撇
+author: 半撇banpie
 post_date: 2014-06-28 17:34:14
 layout: post
 link: >
@@ -26,31 +26,31 @@ P.S：本工具需要访问  Google Spreadsheet 的服务，点击查看翻墙�
 
 在浏览器中输入<www.timeline.knightlab.com>，跳转至 [Timeline JS][1] 的网站后，点击“Make a timeline now”开始创建时间轴。
 
-[<img class="alignnone size-full wp-image-2872" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-322.jpg" width="900" height="592" alt="" />][2]
+[<img class="alignnone size-full wp-image-28721958" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3223/0-74.jpg" width="900" height="592" alt="" />][2]
 
 ## 2、创建你的时间轴表格
 
 点击“Google Spreadsheet Template”，会跳转到谷歌在线表格的页面 -> 点击“使用此模板”按钮，你可以利用这个内置表格模板，通过更改日期、标题、内容等信息开始着手创建。
 
-[<img class="alignnone size-full wp-image-2873" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-106.png" width="1280" height="1217" alt="" />][3]
+[<img class="alignnone size-full wp-image-28731959" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1063/0-24.png" width="1280" height="1217" alt="" />][3]
 
 ## 3、发布Google Spreadsheet
 
 进入谷歌在线表格进行相应文字、标题、日期、图片地址等信息的修改，完成后点击左上角的“文件”菜单下的“发布到网络”按钮，在弹出的窗口中，点击“开始发布”，复制下方获得一个URL链接，以供下一步使用。
 
-[<img class="alignnone size-full wp-image-2874" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-323.jpg" width="900" height="858" alt="" />][4]
+[<img class="alignnone size-full wp-image-28741960" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3233/0-1-2.jpg" width="900" height="858" alt="" />][4]
 
 ## 4、黏贴Google Spreadsheet的链接
 
 将在第三步复制的URL链接黏贴到“Google Spreadsheet URL”的输入栏中，然后点击下方的“Preview”即可查看创建的时间轴。
 
-[<img class="alignnone size-full wp-image-2875" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-107.png" width="1280" height="593" alt="" />][5]
+[<img class="alignnone size-full wp-image-28751961" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1073/0-1-2.png" width="1280" height="593" alt="" />][5]
 
 ## 5、分享你的时间轴
 
 点击“Preview”左边的“Link to Preview”按钮，打开网页后，将该链接发送给你的好友/分享到朋友圈，你的朋友就可以查看了。（如果你的稿子被枪毙了，这是一个好方式）
 
-[<img class="alignnone size-full wp-image-2876" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-324.jpg" width="900" height="887" alt="" />][6]
+[<img class="alignnone size-full wp-image-28761962" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3243/0-2-2.jpg" width="900" height="887" alt="" />][6]
 
  [1]: http://timeline.knightlab.com/
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-322.jpg
@@ -58,3 +58,6 @@ P.S：本工具需要访问  Google Spreadsheet 的服务，点击查看翻墙�
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-323.jpg
  [5]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-107.png
  [6]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-324.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTc0NzI0MzM2M119
+-->
