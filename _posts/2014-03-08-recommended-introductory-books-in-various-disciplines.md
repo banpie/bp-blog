@@ -4,7 +4,7 @@ post_title: >
   果壳网：各学科领域入门书籍推荐
 post_name: >
   recommended-introductory-books-in-various-disciplines
-author: 半撇
+author: 半撇banpie
 post_date: 2014-03-08 19:13:30
 layout: post
 link: >
@@ -605,3 +605,6 @@ categories:
 评语 : 海洋学入门
 
 文章著作权为原作者（果壳网CEO）所有。
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTU2Mzg2NjQyXX0=
+-->
