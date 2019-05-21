@@ -3,7 +3,7 @@ ID: 169
 post_title: >
   如何安全而便捷地管理你的帐号密码
 post_name: using-lastpass-to-manage-your-passwords
-author: 半撇
+author: 半撇banpie
 post_date: 2014-09-08 10:23:30
 layout: post
 link: >
@@ -66,3 +66,6 @@ Android手机点击此[链接][8]下载LastPass应用，访问IOS手机点击此
  [11]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/download-lastpass-app-in-apple-app-store.jpg
  [12]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/using-lastpass-in-chrome-browser-600x287.jpg
  [13]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/using-lastpass-in-mobile-phone-360x600.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ5MjcwMzE3OV19
+-->
