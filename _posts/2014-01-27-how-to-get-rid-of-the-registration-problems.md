@@ -3,11 +3,11 @@ ID: 100
 post_title: 如何摆脱注册烦恼
 post_name: >
   how-to-get-rid-of-the-registration-problems
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-27 18:45:34
 layout: post
 link: >
-  http://www.banpie.info/how-to-get-rid-of-the-registration-problems/
+  https://www.banpie.info/how-to-get-rid-of-the-registration-problems/
 published: true
 tags: [ ]
 categories:
@@ -48,3 +48,6 @@ eyJoaXN0b3J5IjpbLTE5NTQ3NzEzNDddfQ==
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-avoid-register-02.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-avoid-register-03.jpg
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-avoid-register-04.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTkwNzU2MDAxNl19
+-->
