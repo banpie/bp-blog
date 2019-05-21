@@ -3,7 +3,7 @@ ID: 200
 post_title: >
   PPT中的10/20/30黄金准则讲的是什么？
 post_name: the-rule-of-powerpoint
-author: 半撇
+author: 半撇banpie
 post_date: 2016-03-06 00:00:00
 layout: post
 link: >
@@ -74,7 +74,7 @@ Ps.：如下的创客贴演示文件用15分钟构思完成，使用的Keynote�
 *   类文字云和背景图片拼贴的方式强调设计需求的广泛，即：设计无处不再；
 *   色彩上使用创客帖的Logo颜色为：#2fc3d0，黄色为辅助色彩，同时黄色具紧迫感的特征，可以用于强调问题的紧迫；
 
-[<img class="alignnone size-full wp-image-2911" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file.gif" width="720" height="405" alt="" />][1]
+[<img class="alignnone size-full wp-image-29011" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file3/part1.gif" width="720" height="405" alt="" />][1]
 
 在解决方案的部分，我主要利用的工具：
 
@@ -82,7 +82,10 @@ Ps.：如下的创客贴演示文件用15分钟构思完成，使用的Keynote�
 *   再通过1分钟这个数据来强调创客贴这个工具的高效（轻松点击可以完成设计）；
 *   同时为1分钟增加了从左往右的移入动画进行强调；
 
-[<img class="alignnone size-full wp-image-2912" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1.gif" width="720" height="405" alt="" />][2]
+[<img class="alignnone size-full wp-image-29012" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-13/part2.gif" width="720" height="405" alt="" />][2]
 
  [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file.gif
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1.gif
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExOTY0MDcwNTBdfQ==
+-->
