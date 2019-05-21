@@ -2,7 +2,7 @@
 ID: 98
 post_title: 网站内容无法复制，怎么破？
 post_name: how-to-copy-the-content-of-the-website
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-25 10:21:57
 layout: post
 link: >
@@ -40,3 +40,6 @@ categories:
  [1]: http://www.banpie.info/wp-content/uploads/2018/11/how-to-copy-the-content-of-the-website-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/ru_he_tu_po_bu_neng_fu_zhi_wang_zhan_nei_rong_02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/ru_he_tu_po_bu_neng_fu_zhi_wang_zhan_nei_rong_03.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTkzODM0NjQ1Nl19
+-->
