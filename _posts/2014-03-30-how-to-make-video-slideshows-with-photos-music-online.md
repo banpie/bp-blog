@@ -4,11 +4,11 @@ post_title: >
   免剪辑软件！如何利用线上工具制作视频短片
 post_name: >
   how-to-make-video-slideshows-with-photos-music-online
-author: 半撇
+author: 半撇banpie
 post_date: 2014-03-30 18:25:01
 layout: post
 link: >
-  http://www.banpie.info/how-to-make-video-slideshows-with-photos-music-online/
+  https://www.banpie.info/how-to-make-video-slideshows-with-photos-music-online/
 published: true
 tags: [ ]
 categories:
@@ -55,3 +55,6 @@ eyJoaXN0b3J5IjpbLTEyMDcwODc0MzddfQ==
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-222.jpg
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-223.jpg
  [5]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-224.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzNjc3Mzc1NzldfQ==
+-->
