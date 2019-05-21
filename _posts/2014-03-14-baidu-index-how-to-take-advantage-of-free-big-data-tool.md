@@ -4,11 +4,11 @@ post_title: >
   百度指数：如何利用免费的数据挖掘工具
 post_name: >
   baidu-index-how-to-take-advantage-of-free-big-data-tool
-author: 半撇banpie
+author: 半撇
 post_date: 2014-03-14 23:26:52
 layout: post
 link: >
-  https://www.banpie.info/baidu-index-how-to-take-advantage-of-free-big-data-tool/
+  http://www.banpie.info/baidu-index-how-to-take-advantage-of-free-big-data-tool/
 published: true
 tags: [ ]
 categories:
@@ -48,9 +48,10 @@ categories:
 
 [<img class="alignnone size-full wp-image-26271748" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-513/0-23.png" width="620" height="267" alt="" />][3]
 
- [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-49.png
- [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-50.png
- [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-51.png
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTgyNjA1NzE4M119
 -->
+
+ [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-49.png
+ [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-50.png
+ [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-51.png
