@@ -2,7 +2,7 @@
 ID: 106
 post_title: 如何利用Wordle制作文字云
 post_name: how-to-make-tag-cloud-via-wordle
-author: 半撇
+author: 半撇banpie
 post_date: 2014-02-09 15:39:31
 layout: post
 link: >
@@ -50,3 +50,6 @@ categories:
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/how-to-make-tag-cloud-via-wordle-02.png
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/how-to-make-tag-cloud-via-wordle-03.png
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/how-to-make-tag-cloud-via-wordle-04.png
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk1MDAxNzkzNl19
+-->
