@@ -3,11 +3,11 @@ ID: 82
 post_title: 如何利用HelloSign实现电子签名
 post_name: >
   how-to-hellosign-to-implement-electronic-signatures
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-08 18:21:37
 layout: post
 link: >
-  http://www.banpie.info/how-to-hellosign-to-implement-electronic-signatures/
+  https://www.banpie.info/how-to-hellosign-to-implement-electronic-signatures/
 published: true
 tags: [ ]
 categories:
@@ -64,3 +64,6 @@ eyJoaXN0b3J5IjpbLTg4NTM2MjA5Ml19
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/4.jpg
  [6]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/5.jpg
  [7]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/6.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTgzNTEwMDQzXX0=
+-->
