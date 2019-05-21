@@ -2,11 +2,11 @@
 ID: 203
 post_title: 纪录片学习资源推荐
 post_name: documentary-learning-resource
-author: 半撇banpie
+author: 半撇
 post_date: 2016-05-05 00:00:00
 layout: post
 link: >
-  https://www.banpie.info/documentary-learning-resource/
+  http://www.banpie.info/documentary-learning-resource/
 published: true
 tags:
   - 故事
@@ -32,6 +32,10 @@ categories:
 6.  剪辑： | [Documentary Editing with Final Cut Pro X][11]
 7.  调色：[《Color Correction Handbook: Professional Techniques for Video and Cinema》][12]
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NTAxOTE5NjVdfQ==
+-->
+
  [1]: https://www.amazon.cn/%E6%95%85%E4%BA%8B-%E6%9D%90%E8%B4%A8-%E7%BB%93%E6%9E%84-%E9%A3%8E%E6%A0%BC%E5%92%8C%E9%93%B6%E5%B9%95%E5%89%A7%E4%BD%9C%E7%9A%84%E5%8E%9F%E7%90%86-%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E9%BA%A6%E5%9F%BA/dp/B00NBT68SA/ref=sr_1_1?ie=UTF8&qid=1462438641&sr=8-1&keywords=%E6%95%85%E4%BA%8B
  [2]: https://www.amazon.cn/%E5%8D%83%E9%9D%A2%E8%8B%B1%E9%9B%84-%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94/dp/B01AN8SAY6/ref=sr_1_1?ie=UTF8&qid=1462438675&sr=8-1&keywords=%E5%8D%83%E9%9D%A2%E8%8B%B1%E9%9B%84
  [3]: https://www.amazon.cn/%E5%BD%B1%E5%93%8D%E5%8A%9B-%E7%BD%97%E4%BC%AF%E7%89%B9%E2%80%A2%E8%A5%BF%E5%A5%A5%E8%BF%AA%E5%B0%BC/dp/B005G20NEU/ref=sr_1_2?ie=UTF8&qid=1462438757&sr=8-2&keywords=%E5%BD%B1%E5%93%8D%E5%8A%9B
@@ -44,6 +48,3 @@ categories:
  [10]: http://www.lynda.com/Video-tutorials/Lighting-Video-Interview/103708-2.html
  [11]: http://www.lynda.com/Final-Cut-Pro-tutorials/Documentary-Editing-Final-Cut-Pro-X-v101x/191333-2.html
  [12]: https://www.amazon.cn/Color-Correction-Handbook-Professional-Techniques-for-Video-and-Cinema-Van-Hurkman-Alexis/dp/0321929667/ref=sr_1_1?ie=UTF8&qid=1462439826&sr=8-1&keywords=Color+Correction+Handbook
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTAxOTE5NjVdfQ==
--->
