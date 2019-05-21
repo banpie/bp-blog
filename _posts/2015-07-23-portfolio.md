@@ -2,7 +2,7 @@
 ID: 202
 post_title: 作品
 post_name: portfolio
-author: 半撇
+author: 半撇banpie
 post_date: 2015-07-23 11:37:00
 layout: post
 link: https://www.banpie.info/portfolio/
@@ -91,3 +91,6 @@ categories:
  [28]: http://devmidai.github.io/cs-course-page
  [29]: http://devmidai.github.io/FEND-Nanodegree-resume
  [30]: http://devmidai.github.io/FEND-Nanodegree-arcade-game-master
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MDcyOTk4NTBdfQ==
+-->
