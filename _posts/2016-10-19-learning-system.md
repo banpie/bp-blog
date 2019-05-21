@@ -3,7 +3,7 @@ ID: 332
 post_title: >
   普通人如何构建属于自己的学习系统
 post_name: learning-system
-author: 半撇
+author: 半撇banpie
 post_date: 2016-10-19 00:00:00
 layout: post
 link: https://www.banpie.info/learning-system/
@@ -50,18 +50,21 @@ categories:
 
 所以在对应的Trello中，建立了一个单独的名为”GH4摄像自学体系”的`Board`，并为这个具体的问题建立了一个名为”收声”的`Card`。
 
-[<img class="alignnone size-full wp-image-2985" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-138.png" width="1280" height="646" alt="" />][1]
+[<img class="alignnone size-full wp-image-2985090" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1383/trello.png" width="1280" height="646" alt="" />][1]
 
 在这个问题的`Card`中，如果有学习相关的课程，则把对应的**笔记**写在头部的描述里头，而整个问题解决过程涉及到的搜索链接，图文资料，课程视频等等统统在底部的评论区中留下记录。
 
-[<img class="alignnone size-full wp-image-2986" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-366.jpg" width="497" height="1280" alt="" />][2]
+[<img class="alignnone size-full wp-image-2986091" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-3663/card.jpg" width="497" height="1280" alt="" />][2]
 
 学习是一个反复的过程。如果有一段时间我又没有使用GH4，一些类似的问题可能又会重复地出现，这时候只需通过Trello的全局搜索功能，我就能很快的定位到这个问题的`Card`，通过这个详细的问题跟踪记录，我不仅不需要再做重复的搜索工作，而且也可以从笔记中获取对应的知识。
 
 ![](http://www.banpie.info/wp-content/uploads/2018/11/trello search.png) **随着你解决的问题越来越多，学习的课程越来越多，你就会形成在这个细分领域的独有的知识体系**，到时候你就可以用上另外一个学习方法，叫做“教是做好的学”。
 
-[<img class="alignnone size-full wp-image-2987" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-139.png" width="1280" height="263" alt="" />][3]
+[<img class="alignnone size-full wp-image-2987092" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1393/cnm.png" width="1280" height="263" alt="" />][3]
 
  [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-138.png
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-366.jpg
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-139.png
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNzY2NzE2NzBdfQ==
+-->
