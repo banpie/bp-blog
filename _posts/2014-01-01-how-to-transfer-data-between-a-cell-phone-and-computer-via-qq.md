@@ -4,7 +4,7 @@ post_title: >
   免数据线，用QQ实现手机电脑数据互传
 post_name: >
   how-to-transfer-data-between-a-cell-phone-and-computer-via-qq
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-01 00:19:30
 layout: post
 link: >
@@ -47,3 +47,6 @@ PC段QQ收到这个链接之后，复制、粘贴到浏览器地址栏，你就�
  [1]: http://www.banpie.info/wp-content/uploads/2018/11/copy-url-from-wechat.png
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/open-filesharing-windows.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/send-file-through-mobile-qq.png
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTkxODM0NjA3XX0=
+-->
