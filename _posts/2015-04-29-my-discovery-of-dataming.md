@@ -2,16 +2,16 @@
 ID: 185
 post_title: 数据挖掘学习图谱
 post_name: my-discovery-of-dataming
-author: 半撇banpie
+author: 半撇
 post_date: 2015-04-29 19:40:32
 layout: post
 link: >
-  https://www.banpie.info/my-discovery-of-dataming/
+  http://www.banpie.info/my-discovery-of-dataming/
 published: true
 tags:
-  - 笔记
   - 学习图谱
   - 数据科学
+  - 笔记
 categories:
   - 未分类
 ---
@@ -48,6 +48,10 @@ categories:
 
 1\.《数学之美》作者：吴军 2.《 Mathematician's Lament | 数学家的叹息》作者：by Paul Lockhart 3.《 Think Stats: Probability and Statistics for Programmers | 统计思维：程序员数学之概率统计 》 作者：Allen B. Downey 4.《 A History of Mathematics | 数学史 》作者：Carl B. Boyer 5.《 Journeys Through Genius | 天才引导的历程：数学中的伟大定理 》作者：William Dunham 6.《 The Mathematical Experience | 数学经验 》作者 Philip J.Davis、Reuben Hersh 7.《 Proofs from the Book | 数学天书中的证明 》作者：Martin Aigner、Günter M. Ziegler 8.《 Proofs and Refutations | 证明与反驳－数学发现的逻辑 》作者：Imre Lakatos
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzY1MzE1MTY0XX0=
+-->
+
  [1]: https://www.coursera.org/learn/calculus1
  [2]: https://www.coursera.org/course/calcsing
  [3]: http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/
@@ -63,6 +67,3 @@ categories:
  [13]: https://www.coursera.org/learn/machine-learning
  [14]: https://www.coursera.org/course/ntumlone
  [15]: https://www.coursera.org/course/ntumltwo
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1MzE1MTY0XX0=
--->
