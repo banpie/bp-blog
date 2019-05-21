@@ -2,11 +2,11 @@
 ID: 211
 post_title: YC 创业课最全资源整理
 post_name: yc-starup-course-references
-author: 半撇
+author: 半撇banpie
 post_date: 2016-06-03 23:03:27
 layout: post
 link: >
-  http://www.banpie.info/yc-starup-course-references/
+  https://www.banpie.info/yc-starup-course-references/
 published: true
 tags: [ ]
 categories:
@@ -196,3 +196,6 @@ eyJoaXN0b3J5IjpbLTExMTkzMjg4MjldfQ==
  [76]: http://en.wikipedia.org/wiki/Robert_Cialdini#6_key_principles_of_influence_by_Robert_Cialdini
  [77]: https://www.teambition.com/research/insights/article?p=research-insights&s=undefined&_id=545c3e0552c8589678836a7f
  [78]: http://techcrunch.com/2013/01/27/marc-andreessen-on-the-future-of-the-enterprise/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MzE1NjgzMjFdfQ==
+-->
