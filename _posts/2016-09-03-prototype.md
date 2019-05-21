@@ -3,7 +3,7 @@ ID: 520
 post_title: >
   如何在8分钟绘制出有质感的原型图
 post_name: prototype
-author: 半撇
+author: 半撇banpie
 post_date: 2016-09-03 11:11:25
 layout: post
 link: https://www.banpie.info/prototype/
@@ -24,8 +24,11 @@ categories:
 
 以下是用Balsamiq产出的原型图：
 
-[<img class="alignnone size-full wp-image-2976" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-132.png" width="200" height="200" alt="" />][1]
+[<img class="alignnone size-full wp-image-2976081" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1323/d988cddca6e41410.png" width="200" height="200" alt="" />][1]
 
 > 注：`Balsamiq`有网页版和客户端版本，客户端可以免费使用1个月，网页版没有限制。​
 
  [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-132.png
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk0NDUxODIyNV19
+-->
