@@ -4,13 +4,14 @@ post_title: >
   7分钟的国产纪录片是如何运用好莱坞故事结构
 post_name: >
   how-to-apply-hollywood-story-structure-to-mini-documentary
-author: 半撇
+author: 半撇banpie
 post_date: 2015-02-13 17:34:41
 layout: post
 link: >
-  http://www.banpie.info/how-to-apply-hollywood-story-structure-to-mini-documentary/
+  https://www.banpie.info/how-to-apply-hollywood-story-structure-to-mini-documentary/
 published: true
 tags:
+  - 笔记影视
   - 故事
   - 影视笔记
   - 笔记影视
@@ -137,3 +138,6 @@ eyJoaXN0b3J5IjpbMTcyNjA0NDQ0Ml19
  [3]: http://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks
  [4]: http://www.banpie.info/wp-content/uploads/2018/11/story_structure-600x307.jpg
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2015/02/1639902175-600x450.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA5Mzk0NDc4OV19
+-->
