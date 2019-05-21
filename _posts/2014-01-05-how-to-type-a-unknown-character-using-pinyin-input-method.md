@@ -4,11 +4,11 @@ post_title: >
   如何用拼音输入法打出你不认识的字
 post_name: >
   how-to-type-a-unknown-character-using-pinyin-input-method
-author: 半撇
+author: 半撇banpie
 post_date: 2014-01-05 23:09:31
 layout: post
 link: >
-  http://www.banpie.info/how-to-type-a-unknown-character-using-pinyin-input-method/
+  https://www.banpie.info/how-to-type-a-unknown-character-using-pinyin-input-method/
 published: true
 tags: [ ]
 categories:
@@ -49,3 +49,6 @@ eyJoaXN0b3J5IjpbMTA0ODc0MzA4Nl19
  [1]: http://www.banpie.info/wp-content/uploads/2018/11/20140105-how-to-type-a-unknown-character-using-pinyin-input-method-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/20140105-how-to-type-a-unknown-character-using-pinyin-input-method-02.jpg
  [3]: http://www.banpie.info/author/ybw1990/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwMDUzMTkyMTddfQ==
+-->
