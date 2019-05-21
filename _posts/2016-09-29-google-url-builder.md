@@ -3,7 +3,7 @@ ID: 330
 post_title: >
   做新媒体推广，渠道监测一定要找开发吗？
 post_name: google-url-builder
-author: 半撇
+author: 半撇banpie
 post_date: 2016-09-29 00:00:00
 layout: post
 link: >
@@ -48,7 +48,7 @@ categories:
 
 想要实现这样的功能，目前在微信上只有通过认证的服务号才有这个接口实现：
 
-[<img class="alignnone size-full wp-image-2982" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-136.png" width="1000" height="785" alt="test" />][1]
+[<img class="alignnone size-full wp-image-2982087" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-1363/wechat-utm-qrcode.png" width="1000" height="785" alt="test" />][1]
 
 你可以通过下面3个方法去实现：
 
@@ -63,7 +63,10 @@ categories:
 
 (function(){ var option ={"auto_play":"0","file_id":"14651978969371824467","app_id":"1252799986","width":640,"height":360,"https":1}; /*调用播放器进行播放*/ new qcVideo.Player( /*代码中的id_video_container将会作为播放器放置的容器使用,可自行替换*/ "id_video_container_14651978969371824467", option ); })()
 
-广告时间：第三期「新媒体骇客训练营」即将开班，点击[预约占座][2]。
+广告时间：第三期「新媒体骇客训练营」即将开班，点击[预约占座][21]。
 
  [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-136.png
  [2]: http://www.bpteach.com
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODE4NjQ0MzYxXX0=
+-->
