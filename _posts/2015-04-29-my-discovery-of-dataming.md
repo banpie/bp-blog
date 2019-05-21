@@ -2,13 +2,14 @@
 ID: 185
 post_title: 数据挖掘学习图谱
 post_name: my-discovery-of-dataming
-author: 半撇
+author: 半撇banpie
 post_date: 2015-04-29 19:40:32
 layout: post
 link: >
-  http://www.banpie.info/my-discovery-of-dataming/
+  https://www.banpie.info/my-discovery-of-dataming/
 published: true
 tags:
+  - 笔记
   - 学习图谱
   - 数据科学
   - 笔记
@@ -67,3 +68,6 @@ eyJoaXN0b3J5IjpbNzY1MzE1MTY0XX0=
  [13]: https://www.coursera.org/learn/machine-learning
  [14]: https://www.coursera.org/course/ntumlone
  [15]: https://www.coursera.org/course/ntumltwo
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYzMDIyMzk0OF19
+-->
