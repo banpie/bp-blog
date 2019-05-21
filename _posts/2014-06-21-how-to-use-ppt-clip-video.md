@@ -2,7 +2,7 @@
 ID: 153
 post_title: 如何用PPT剪辑视频
 post_name: how-to-use-ppt-clip-video
-author: 半撇
+author: 半撇banpie
 post_date: 2014-06-21 18:38:12
 layout: post
 link: >
@@ -20,19 +20,19 @@ categories:
 
 在 PowerPoint 2013 中，单击顶部功能区的「插入」选项卡 → 单击「视频」按钮 → 在弹出的栏中选择「PC上的视频」，选择本地视频打开后，就可以插入本地的视频文件了。（你还可以直接将视频文件拖动到软件里头，快速完成视频的插入）。
 
-[<img class="alignnone size-full wp-image-2790" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-262.jpg" width="720" height="370" alt="" />][1]
+[<img class="alignnone size-full wp-image-27901876" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-2623/0-24.jpg" width="720" height="370" alt="" />][1]
 
 ## 2、准备剪裁
 
 鼠标左键点击选中视频，这时候顶部的功能区会显示「视频工具」这个选项卡（包括“格式”和“播放”选项卡）→ 单击「播放」选项卡 → 单击「剪裁视频」。
 
-[<img class="alignnone size-full wp-image-2791" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-263.jpg" width="720" height="480" alt="" />][2]
+[<img class="alignnone size-full wp-image-27911877" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-2633/0-25.jpg" width="720" height="480" alt="" />][2]
 
 ## 3、剪裁视频
 
 打开「剪裁视频」对话框后 → 拖动「开始和结束柄」来控制视频的起始点和终止点 → 单击「确定」即可完成视频的剪裁。
 
-[<img class="alignnone size-full wp-image-2792" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-264.jpg" width="900" height="505" alt="" />][3]
+[<img class="alignnone size-full wp-image-27921878" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file3/0-264.jpg" width="900" height="505" alt="" />][3]
 
 ## 4、视频淡化处理：
 
@@ -40,7 +40,7 @@ categories:
 
 如下图，你也可直接输入开始时间和结束时间进行剪裁。
 
-[<img class="alignnone size-full wp-image-2793" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-265.jpg" width="720" height="124" alt="" />][4]
+[<img class="alignnone size-full wp-image-218793" src="http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-2653/0-27.jpg" width="720" height="124" alt="" />][4]
 
 最后，剪裁音频的方法/步骤与视频类似。选中音频，这时候功能区就会显示「音频工具」选项卡（包括“格式”和“播放”选项卡），后面依此类推。
 
@@ -48,3 +48,6 @@ categories:
  [2]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-263.jpg
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-264.jpg
  [4]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-265.jpg
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2MzA3OTYzOTBdfQ==
+-->
