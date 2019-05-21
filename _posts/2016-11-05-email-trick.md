@@ -3,10 +3,10 @@ ID: 338
 post_title: >
   应该没人告诉你，邮箱可以这么用。
 post_name: email-trick
-author: 半撇banpie
+author: 半撇
 post_date: 2016-11-05 00:00:00
 layout: post
-link: https://www.banpie.info/email-trick/
+link: http://www.banpie.info/email-trick/
 published: true
 tags: [ ]
 categories:
@@ -58,7 +58,8 @@ categories:
 
 还有，今天不是全民充电节吗？ 给你发了一封90元的红包，明天24: 00前失效，有需要的话，记得查收。
 
- [1]: ./assets/image/emailtrick.gif
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTQzNDU2MDEzNF19
 -->
+
+ [1]: ./assets/image/emailtrick.gif
