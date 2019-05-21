@@ -4,11 +4,11 @@ post_title: >
   只需3个字母免登录免币下载百度文库文章
 post_name: >
   just-3-letters-log-on-baidu-coin-free-downloads-free-base-articles
-author: 半撇banpie
+author: 半撇
 post_date: 2014-01-24 21:45:59
 layout: post
 link: >
-  https://www.banpie.info/just-3-letters-log-on-baidu-coin-free-downloads-free-base-articles/
+  http://www.banpie.info/just-3-letters-log-on-baidu-coin-free-downloads-free-base-articles/
 published: true
 tags: [ ]
 categories:
@@ -38,10 +38,11 @@ categories:
 
 [![how-to-download-baidu-wenku-articles-03][4]][4]
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ1Mzc5OTEwNV19
+-->
+
  [1]: http://www.banpie.info/how-to-copy-the-content-of-the-website/
  [2]: http://www.banpie.info/wp-content/uploads/2018/11/how-to-download-baidu-wenku-articles-01.png
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-download-baidu-wenku-articles-02.png
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-download-baidu-wenku-articles-03.png
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Mzc5OTEwNV19
--->
