@@ -3,11 +3,11 @@ ID: 103
 post_title: >
   如何用微信给好友群发新年祝福
 post_name: how-to-send-group-texts-via-wechat
-author: 半撇banpie
+author: 半撇
 post_date: 2014-01-31 19:59:40
 layout: post
 link: >
-  https://www.banpie.info/how-to-send-group-texts-via-wechat/
+  http://www.banpie.info/how-to-send-group-texts-via-wechat/
 published: true
 tags: [ ]
 categories:
@@ -45,12 +45,13 @@ categories:
 
 [![how-to-send-group-texts-via-wechat-06][6]][6]
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTgzNDUxMjk1Ml19
+-->
+
  [1]: http://www.banpie.info/wp-content/uploads/2018/11/how-to-send-group-texts-via-wechat-01.jpg
  [2]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-send-group-texts-via-wechat-02.jpg
  [3]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-send-group-texts-via-wechat-03.jpg
  [4]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-send-group-texts-via-wechat-04.jpg
  [5]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-send-group-texts-via-wechat-05.jpg
  [6]: http://7arnhx.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/how-to-send-group-texts-via-wechat-06.jpg
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDUxMjk1Ml19
--->
