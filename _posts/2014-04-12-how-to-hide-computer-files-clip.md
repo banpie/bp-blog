@@ -2,11 +2,11 @@
 ID: 146
 post_title: 如何隐藏电脑中的文件(夹)
 post_name: how-to-hide-computer-files-clip
-author: 半撇
+author: 半撇banpie
 post_date: 2014-04-12 17:38:50
 layout: post
 link: >
-  http://www.banpie.info/how-to-hide-computer-files-clip/
+  https://www.banpie.info/how-to-hide-computer-files-clip/
 published: true
 tags: [ ]
 categories:
@@ -43,3 +43,6 @@ eyJoaXN0b3J5IjpbLTg1MTUzNzc5M119
  [1]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-246.jpg
  [2]: http://mp.weixin.qq.com/mpres/htmledition/ueditor/themes/default/images/spacer.gif
  [3]: http://www.banpie.info/wp-content/uploads/2019/04/unnamed-file-247.jpgmp.weixin.qq.com/mpres/htmledition/ueditor/themes/default/images/spacer.gif
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2Mzg3NDY0NzRdfQ==
+-->
