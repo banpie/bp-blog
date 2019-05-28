@@ -1,7 +1,7 @@
 ---
 ID: 1570
 post_title: >
-  如何在产品中有效的向用户传递价值观？
+  创业者如何有效地通过产品传递价值观？
 post_name: communication-of-values
 author: 半撇
 post_date: 2019-03-31 22:11:52
